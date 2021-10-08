@@ -32,12 +32,15 @@ x <- x %>% mutate(original_language = str_replace(original_language, "ChineseT",
 x <- x %>% mutate(`639-1` = case_when(is.na(`639-1`) ~ "nl", TRUE ~ as.character(`639-1`)))
 
 # add new columns
-x <- y <- x %>% add_column(Text_translated = "NA", organization_translated = "NA")
+x <- x %>% add_column(Text_translated = "NA", organization_translated = "NA")
 
 # translate text - detect language method (requires OAuth)
 for(i in 1:nrow(x)){
   if(x$original_language[i] != "en"){
-    x$Text_translated[i] <- gl_translate(x$Text[i], target="en")
-    x$organization_translated[i] <- gl_translate(x$organization[i], target="en")
+    x$Text_translated[i] <- gl_translate(x$Text[i], target="en")$translatedText
+    x$organization_translated[i] <- gl_translate(x$organization[i], target="en")$translatedText
   }
 }
+
+# issue at row 174!
+x %>% mutate(organization_translated = unlist(paste(organization_translated, collapse=","))) %>% write_csv("Output/translated_up_to_row174.csv")
