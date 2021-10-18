@@ -16,7 +16,7 @@ gl_auth("~/Google Drive/NAZCA/NAZCA Developers/EU Covenant of Mayors Apr 2019/eu
 setwd("~/Documents/GitHub/IAD_blockchain/Web-scraped data")
 
 # read in data
-x <- read.csv("FOREIGN_LANGUAGE_TEXTS.csv", stringsAsFactors = FALSE)
+x <- read.csv("FOREIGN_TRUNCATED_12558CHR.csv", stringsAsFactors = FALSE)
 dict <- read_xlsx("../Dictionaries/language_codes_wiki.xlsx")
 
 # add a column for the language
@@ -36,11 +36,9 @@ x <- x %>% add_column(Text_translated = "NA", organization_translated = "NA")
 
 # translate text - detect language method (requires OAuth)
 for(i in 1:nrow(x)){
-  if(x$original_language[i] != "en"){
     x$Text_translated[i] <- gl_translate(x$Text[i], target="en")$translatedText
     x$organization_translated[i] <- gl_translate(x$organization[i], target="en")$translatedText
-  }
 }
 
-# issue at row 174!
-x %>% mutate(organization_translated = unlist(paste(organization_translated, collapse=","))) %>% write_csv("Output/translated_up_to_row174.csv")
+# write to csv
+x %>% write_csv("Output/FOREIGN_TRUNCATED_12558CHR_translated.csv")
