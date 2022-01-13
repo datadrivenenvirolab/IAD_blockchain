@@ -1,0 +1,44 @@
+,Country,Count,ISO3,Continent,Income_Group
+0,Switzerland,6,CHE,Europe,High income
+1,France,6,FRA,Europe,High income
+2,Finland,4,FIN,Europe,High income
+3,United Kingdom of Great Britain and Northern Ireland,4,GBR,Europe,High income
+4,Austria,3,AUT,Europe,High income
+5,Burkina Faso,2,BFA,Africa,Low income
+6,Indonesia,2,IDN,Asia,Lower middle income
+7,Netherlands,2,NLD,Europe,High income
+8,Tunisia,2,TUN,Africa,Lower middle income
+9,United States of America,2,USA,North America,High income
+10,Saudi Arabia,2,SAU,Asia,High income
+11,Philippines,1,PHL,Asia,Lower middle income
+12,Brazil,1,BRA,South America,Upper middle income
+13,Thailand,1,THA,Asia,Upper middle income
+14,Republic of Korea,1,KOR,Asia,High income
+15,Nepal,1,NPL,Asia,Lower middle income
+16,Kuwait,1,KWT,Asia,High income
+17,Kenya,1,KEN,Africa,Lower middle income
+18,Ethiopia,1,ETH,Africa,Low income
+19,Luxembourg,1,LUX,Europe,High income
+20,Germany,1,DEU,Europe,High income
+21,Belize,1,BLZ,North America,Lower middle income
+22,United Republic of Tanzania,1,TZA,Africa,Lower middle income
+23,Sweden,1,SWE,Europe,High income
+24,Spain,1,ESP,Europe,High income
+25,Costa Rica,1,CRI,North America,Upper middle income
+26,Belgium,1,BEL,Europe,High income
+27,China,1,CHN,Asia,Upper middle income
+28,Peru,1,PER,South America,Upper middle income
+29,Canada,1,CAN,North America,High income
+30,Togo,1,TGO,Africa,Low income
+31,United Arab Emirates,1,ARE,Asia,High income
+32,Egypt,1,EGY,Africa,Lower middle income
+33,Malta,1,MLT,Europe,High income
+34,Guyana,1,GUY,South America,Upper middle income
+35,Cabo Verde,1,CPV,Africa,Lower middle income
+36,Saint Lucia,1,LCA,North America,Upper middle income
+37,Venezuela (Bolivarian Republic of),1,VEN,South America,nan
+38,Fiji,1,FJI,Oceania,Upper middle income
+39,Nigeria,1,NGA,Africa,Lower middle income
+40,Mauritius,1,MUS,Africa,Upper middle income
+41,Hungary,1,HUN,Europe,High income
+42,Niger,1,NER,Africa,Low income
