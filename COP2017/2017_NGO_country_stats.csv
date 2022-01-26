@@ -1,0 +1,73 @@
+,Country,Count,ISO3,Continent,Income_Group
+0,United States of America,204,USA,North America,High income
+1,Germany,87,DEU,Europe,High income
+2,United Kingdom of Great Britain and Northern Ireland,80,GBR,Europe,High income
+3,France,50,FRA,Europe,High income
+4,Belgium,43,BEL,Europe,High income
+5,Japan,36,JPN,Asia,High income
+6,Canada,36,CAN,North America,High income
+7,Switzerland,35,CHE,Europe,High income
+8,China,33,CHN,Asia,Upper middle income
+9,India,29,IND,Asia,Lower middle income
+10,Italy,23,ITA,Europe,High income
+11,Netherlands,23,NLD,Europe,High income
+12,Peru,17,PER,South America,Upper middle income
+13,Australia,15,AUS,Oceania,High income
+14,Denmark,15,DNK,Europe,High income
+15,Sweden,14,SWE,Europe,High income
+16,Nigeria,14,NGA,Africa,Lower middle income
+17,Republic of Korea,12,KOR,Asia,High income
+18,Morocco,11,MAR,Africa,Lower middle income
+19,Brazil,11,BRA,South America,Upper middle income
+20,Spain,11,ESP,Europe,High income
+21,South Africa,9,ZAF,Africa,Upper middle income
+22,Norway,9,NOR,Europe,High income
+23,Philippines,9,PHL,Asia,Lower middle income
+24,Bangladesh,9,BGD,Asia,Lower middle income
+25,Austria,8,AUT,Europe,High income
+26,Kenya,7,KEN,Africa,Lower middle income
+27,Argentina,6,ARG,South America,Upper middle income
+28,Colombia,5,COL,South America,Upper middle income
+29,New Zealand,5,NZL,Oceania,High income
+30,Turkey,5,TUR,Asia,Upper middle income
+31,Malaysia,5,MYS,Asia,Upper middle income
+32,Finland,4,FIN,Europe,High income
+33,Lebanon,4,LBN,Asia,Upper middle income
+34,Bolivia (Plurinational State of),4,BOL,South America,Lower middle income
+35,Ghana,4,GHA,Africa,Lower middle income
+36,Pakistan,4,PAK,Asia,Lower middle income
+37,Thailand,3,THA,Asia,Upper middle income
+38,Nepal,3,NPL,Asia,Lower middle income
+39,Singapore,3,SGP,Asia,High income
+40,Panama,3,PAN,North America,Upper middle income
+41,Ecuador,3,ECU,South America,Upper middle income
+42,Guatemala,3,GTM,North America,Upper middle income
+43,Cameroon,3,CMR,Africa,Lower middle income
+44,Luxembourg,2,LUX,Europe,High income
+45,United Republic of Tanzania,2,TZA,Africa,Lower middle income
+46,Ireland,2,IRL,Europe,High income
+47,Uganda,2,UGA,Africa,Low income
+48,Mexico,2,MEX,North America,Upper middle income
+49,Ukraine,2,UKR,Europe,Lower middle income
+50,Russian Federation,2,RUS,Europe,Upper middle income
+51,Algeria,2,DZA,Africa,Lower middle income
+52,Poland,1,POL,Europe,High income
+53,Egypt,1,EGY,Africa,Lower middle income
+54,Iceland,1,ISL,Europe,High income
+55,Togo,1,TGO,Africa,Low income
+56,Israel,1,ISR,Asia,High income
+57,Kazakhstan,1,KAZ,Asia,Upper middle income
+58,Czechia,1,CZE,Europe,High income
+59,Sri Lanka,1,LKA,Asia,Lower middle income
+60,Costa Rica,1,CRI,North America,Upper middle income
+61,Nicaragua,1,NIC,North America,Lower middle income
+62,Libya,1,LBY,Africa,Upper middle income
+63,Senegal,1,SEN,Africa,Lower middle income
+64,Democratic Republic of the Congo,1,COD,Africa,Low income
+65,Cambodia,1,KHM,Asia,Lower middle income
+66,Armenia,1,ARM,Asia,Upper middle income
+67,Chile,1,CHL,South America,High income
+68,Hungary,1,HUN,Europe,High income
+69,Holy See,1,VAT,Europe,
+70,Iran (Islamic Republic of),1,IRN,Asia,Lower middle income
+71,El Salvador,1,SLV,North America,Lower middle income

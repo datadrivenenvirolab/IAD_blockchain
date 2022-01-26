@@ -1,0 +1,464 @@
+City,Count
+Washington DC,48
+London,44
+Brussels,37
+Paris,31
+New York,27
+Berlin,22
+Tokyo,22
+Beijing,21
+Geneva,20
+Lima,12
+Bonn,11
+New Delhi,11
+Ottawa,10
+Nairobi,8
+Oslo,8
+Dhaka,8
+Barcelona,8
+San Francisco,7
+Rome,7
+Seoul,7
+Copenhagen,7
+Sao Paulo,7
+Stockholm,7
+Kathmandu,7
+Arlington,7
+Cambridge,7
+Hamburg,6
+Boulder,6
+Amsterdam,6
+Montréal,6
+Vienna,6
+Abuja,5
+Istanbul,5
+Oxford,5
+Buenos Aires,5
+Boston,5
+Quezon City,5
+Lagos,5
+Oakland,5
+Vancouver,5
+Montreal,5
+Madrid,5
+Utrecht,4
+Quito,4
+Toronto,4
+Zurich,4
+The Hague,4
+Hong Kong,4
+Milan,4
+Brooklyn,4
+Wageningen,4
+Calgary,4
+Sydney,4
+Singapore,4
+Minneapolis,3
+Austin,3
+Frankfurt am Main,3
+Johannesburg,3
+Los Angeles,3
+Seattle,3
+Berkeley,3
+Tel Aviv,3
+Beirut,3
+Taipei,3
+Melbourne,3
+Cologne,3
+New York City,3
+Freiburg,3
+Moscow,3
+Vernier,3
+Kyoto,3
+Philadelphia,3
+Ahmedabad,3
+Osaka,3
+Marghera-Venice,2
+Rabat,2
+Curitiba,2
+Reston,2
+Tucson,2
+Luxembourg,2
+Geneva 2,2
+Auckland,2
+Marrakech,2
+Saint Paul,2
+Tsukuba,2
+Edinburgh,2
+Kuala Lumpur,2
+Honolulu,2
+Québec,2
+Manaus,2
+Winnipeg,2
+San Diego,2
+Washington D.C,2
+Uppsala,2
+Managua,2
+Rio de Janeiro,2
+Eschborn,2
+Tanger,2
+Islamabad,2
+Maryknoll,2
+Exeter,2
+Lamas,2
+Brighton,2
+Kyiv,2
+Sacramento,2
+Basel,2
+Jerusalem,2
+Reading,2
+Wellington,2
+Plymouth,2
+New Taipei,2
+Greifswald,2
+Aubervilliers,2
+Bilbao,2
+"Washington, D. C.",2
+Aarhus,2
+Guatemala,2
+Zaragoza,2
+Marseille,2
+Cape Town,2
+New Haven,2
+Potsdam,2
+Finland,2
+Ithaca,2
+Worcester,1
+Aachen,1
+Sefrou,1
+Dublin,1
+Odense M,1
+Bremerhaven,1
+Lausanne,1
+Rennes,1
+N'Djamena,1
+Iztapalapa,1
+Cusco,1
+Chiclana,1
+Ikoyi,1
+Córdoba,1
+Gland,1
+Nashville,1
+"Epsom, Surrey",1
+Guangzhou,1
+Palma,1
+Yerevan,1
+Orleans,1
+Lviv,1
+Muenster/Westfalen,1
+Santa Fe,1
+Kurudu,1
+Waterloo,1
+Jyväskylä,1
+Sophie-Antipolis,1
+KALOL-NG,1
+Atlanta,1
+North Miami,1
+Cuiabá,1
+Copenhagen V,1
+Panama City,1
+Eugene,1
+'s-Hertogenbosch,1
+Selangor,1
+Norwich,1
+Lutherville,1
+Princeton,1
+Dutse,1
+Lund,1
+Little Rock,1
+Shanghai,1
+La Jolla,1
+Bar Harbor,1
+Hurup Thy,1
+Stanwell Tops,1
+Petten,1
+Dorset,1
+Tarapoto,1
+New Freedom,1
+Akure,1
+Rio de Janiero,1
+Gaibandha,1
+Cloughjordan Co. Tipperary,1
+Tutzing,1
+Pune,1
+Madrid (28006),1
+Baguio City,1
+Los Altos,1
+Citta del Vaticano,1
+Brasilia,1
+Alliance,1
+Urbana,1
+Sanepa,1
+Camp Hill,1
+San Cristobal De Las Casas,1
+West Lafayette,1
+Santa Domingo,1
+Chicago,1
+Johor,1
+Accra,1
+San Marino,1
+Weston Creek,1
+Goyang,1
+Boulogne-sur Mer,1
+Rivne,1
+Adelaide,1
+Ibadan,1
+Kampala,1
+Helsinki,1
+Rochester,1
+New Dehli,1
+San Dimas,1
+Venice ,1
+Rugby,1
+Genova,1
+Silver Spring,1
+São Paolo,1
+Dakar,1
+Kinshasa,1
+Ikeja,1
+Burlington,1
+Smithers,1
+Grandville,1
+München,1
+Stuttgart,1
+Hanover,1
+Triangle,1
+Somerville,1
+Asheville,1
+Sherbrooke,1
+Palo Alto,1
+Heidelberg,1
+México. D.F.,1
+Ann Arbor,1
+Bromma,1
+Lome,1
+Rajasthan,1
+Charlotte,1
+Prague 9,1
+Trondheim,1
+Nijmegen,1
+Antigonish,1
+Manchester,1
+Niigata,1
+Festac Town,1
+Saint-Herblain,1
+Milton,1
+Elmhurst,1
+Storrs,1
+Lomé,1
+Nanterre,1
+Forres,1
+Bagnolet,1
+Geesthacht,1
+Chapel Hill,1
+Ferney-Voltair,1
+Hackney,1
+Ottawa ON K1S 5B6,1
+Lalitpur /Kathmandu,1
+"Brickfields, Kuala Lumpur",1
+Montpellier Cedex 5,1
+Horbling,1
+Shadow Hills,1
+Zuerich,1
+Munich,1
+Cali,1
+Panama,1
+Tripoli,1
+Hinnesburg,1
+Jena,1
+MADRID,1
+Dar Es Salaam,1
+Mill Valley,1
+Collegeville,1
+Mexico City,1
+Piracicaba,1
+Fort Collins,1
+Jaipur,1
+La Paz,1
+Limoges,1
+Pueblo Libre,1
+Eberswalde,1
+Colorado Springs,1
+Kgs. Lyngby,1
+Izabal,1
+Brest,1
+"Bunkyo-ku, Tokyo",1
+Panamá,1
+Harrisburg,1
+Manuka,1
+Benin City,1
+Ikeya,1
+Belem,1
+Olympia,1
+Madison,1
+New Orleans,1
+Essen,1
+Santa Cruz,1
+Laxenburg,1
+"Pathumthani, Bangkok",1
+"Washington, DC",1
+Penang,1
+New Taipei City,1
+St. Joseph,1
+Petaluma,1
+Coronado,1
+Flagstaff,1
+Hsinchu,1
+Colombo,1
+Krasnoyarsk,1
+Providence RI,1
+Montreuil,1
+Bogota,1
+Klagenfurt,1
+Liège,1
+Louisville,1
+Yenagoa,1
+Santa Marta,1
+Hyeres,1
+Antwerpen,1
+Puteaux,1
+Chengdu,1
+Pasadena,1
+Berkshire,1
+LaBelle,1
+Hangzhou,1
+Chiang Mai,1
+Radebeul,1
+Canmore,1
+Denver,1
+Delhi,1
+Bloomington,1
+Godalming,1
+College Park,1
+Vincennes,1
+Courbevoie,1
+Yaounde,1
+Prague 2,1
+Richmond,1
+Bemidji,1
+St. Gallen,1
+"Golden, CO",1
+Cologny,1
+Syracuse,1
+Grenoble,1
+Kuopio,1
+Leeds,1
+Santiago,1
+Bogotá,1
+Glendale,1
+Portland,1
+Norrkoping,1
+"Ottawa, ON",1
+Ayacucho,1
+Copenhagen N,1
+Montevideo,1
+Swarthmore,1
+Hobart,1
+Taiyuan,1
+Pierrelaye,1
+Regina,1
+Lincoln,1
+Victoria,1
+Velzen,1
+Darmstadt,1
+Ås,1
+Uyo,1
+Port Harcourt,1
+Kanagawa,1
+Douala,1
+Cincinnati,1
+Lecce,1
+Bangkok,1
+Bad Honnef,1
+Houghton,1
+Bra (CN),1
+Bronx,1
+Bethlehem,1
+Brisbane,1
+Inezgan,1
+Carlisle,1
+Nogent-sur-Marne Cedex,1
+Pretoria,1
+Muscatine,1
+Jinan,1
+São Paulo,1
+Etobicoke,1
+Chelsea,1
+Roma,1
+Birmingham,1
+Rondebosch,1
+Almaty,1
+Blacksburg,1
+Kawasaki,1
+Falmouth,1
+San José,1
+Satipo,1
+Hjortshoj,1
+Casablanca,1
+Koka,1
+København S,1
+Berrechid,1
+Acton,1
+Tegucigalpa,1
+"Panama City,",1
+Dar es Salaam,1
+Canberra,1
+Belém,1
+Puerto Maldonado,1
+"Taipei ,Taiwan",1
+中国江苏省镇江市,1
+Dillon,1
+Sheffield,1
+Kenilworth,1
+Tena,1
+Tlalnepantla,1
+Città di Castello,1
+Norsborg,1
+Freiburg i.Br.,1
+Biot,1
+Durham,1
+Mexico,1
+Clayton,1
+"Visakhapatnam, Andhra Pradesh",1
+Caux,1
+Chittagong,1
+Khulna,1
+Ultimo,1
+Pasig City,1
+Santander,1
+Fredriksberg C,1
+Kraków,1
+Ellsworth,1
+Karaj,1
+Chiangmai,1
+Nieuwoudtville,1
+South Royalton,1
+Bruxelles,1
+Goettingen,1
+Sassenberg,1
+Teddington,1
+Taipei City,1
+LES LAGUNES ABIDJAN,1
+La Habana,1
+Kingston,1
+Zürich,1
+Wuppertal,1
+Riyadh,1
+Copenhagen V.,1
+Lyon,1
+Carlton,1
+Lekki,1
+San Salvador,1
+Tema,1
+Muenchen,1
+Regensburg,1
+Forest Row,1
+Halifax,1
+Pittsburgh,1
+Bejing,1
+La Plata,1
+Moreton-in-Marsh,1
+Maryland,1
+Pasay City,1
+Kenitra,1
+Bilthoven,1

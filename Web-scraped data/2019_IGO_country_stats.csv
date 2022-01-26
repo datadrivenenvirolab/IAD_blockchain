@@ -1,0 +1,49 @@
+,Country,Count,ISO3,Continent,Income_Group
+0,France,9,FRA,Europe,High income
+1,Switzerland,4,CHE,Europe,High income
+2,Finland,4,FIN,Europe,High income
+3,United Kingdom of Great Britain and Northern Ireland,3,GBR,Europe,High income
+4,United States of America,3,USA,North America,High income
+5,Tunisia,2,TUN,Africa,Lower middle income
+6,Burkina Faso,2,BFA,Africa,Low income
+7,Kenya,2,KEN,Africa,Lower middle income
+8,Philippines,2,PHL,Asia,Lower middle income
+9,Spain,2,ESP,Europe,High income
+10,Egypt,2,EGY,Africa,Lower middle income
+11,Peru,1,PER,South America,Upper middle income
+12,Niger,1,NER,Africa,Low income
+13,Lebanon,1,LBN,Asia,Upper middle income
+14,Japan,1,JPN,Asia,High income
+15,Malta,1,MLT,Europe,High income
+16,Guyana,1,GUY,South America,Upper middle income
+17,Belgium,1,BEL,Europe,High income
+18,El Salvador,1,SLV,North America,Lower middle income
+19,Morocco,1,MAR,Africa,Lower middle income
+20,Sri Lanka,1,LKA,Asia,Lower middle income
+21,Côte d'Ivoire,1,CIV,Africa,Lower middle income
+22,Kuwait,1,KWT,Asia,High income
+23,Qatar,1,QAT,Asia,High income
+24,Mauritania,1,MRT,Africa,Lower middle income
+25,Luxembourg,1,LUX,Europe,High income
+26,Gabon,1,GAB,Africa,Upper middle income
+27,Honduras,1,HND,North America,Lower middle income
+28,Indonesia,1,IDN,Asia,Lower middle income
+29,Thailand,1,THA,Asia,Upper middle income
+30,Nepal,1,NPL,Asia,Lower middle income
+31,United Republic of Tanzania,1,TZA,Africa,Lower middle income
+32,Fiji,1,FJI,Oceania,Upper middle income
+33,Austria,1,AUT,Europe,High income
+34,India,1,IND,Asia,Lower middle income
+35,Belize,1,BLZ,North America,Lower middle income
+36,United Arab Emirates,1,ARE,Asia,High income
+37,Ethiopia,1,ETH,Africa,Low income
+38,Denmark,1,DNK,Europe,High income
+39,Costa Rica,1,CRI,North America,Upper middle income
+40,Canada,1,CAN,North America,High income
+41,Republic of Korea,1,KOR,Asia,High income
+42,Saudi Arabia,1,SAU,Asia,High income
+43,Bolivia (Plurinational State of),1,BOL,South America,Lower middle income
+44,China,1,CHN,Asia,Upper middle income
+45,Sweden,1,SWE,Europe,High income
+46,Nigeria,1,NGA,Africa,Lower middle income
+47,Venezuela (Bolivarian Republic of),1,VEN,South America,nan

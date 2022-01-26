@@ -1,0 +1,423 @@
+,City,Count
+0,London,45
+1,Brussels,38
+2,Washington,38
+3,Paris,29
+4,Berlin,27
+5,Tokyo,23
+6,New York,22
+7,Geneva,15
+8,Bonn,15
+9,Beijing,14
+10,New Delhi,13
+11,Washington DC,11
+12,San Francisco,10
+13,Seoul,10
+14,Lima,8
+15,Arlington,8
+16,Cambridge,8
+17,Amsterdam,8
+18,Oslo,7
+19,Montreal,7
+20,Dhaka,7
+21,Nairobi,7
+22,Stockholm,7
+23,Rome,7
+24,Boston,6
+25,Quezon City,6
+26,Zurich,6
+27,Vienna,6
+28,Hamburg,6
+29,Barcelona,6
+30,Istanbul,5
+31,Copenhagen,5
+32,Oxford,5
+33,Ottawa,5
+34,Cape Town,4
+35,Lagos,4
+36,Boulder,4
+37,Beirut,4
+38,Utrecht,4
+39,Milan,4
+40,Hong Kong,4
+41,Buenos Aires,4
+42,Cologne,4
+43,Frankfurt am Main,3
+44,The Hague,3
+45,Taipei,3
+46,Singapore,3
+47,Sao Paulo,3
+48,Berkeley,3
+49,Auckland,3
+50,Kathmandu,3
+51,Quito,3
+52,Rabat,3
+53,Kyoto,3
+54,Madrid,3
+55,Toronto,3
+56,Montréal,3
+57,Oakland,3
+58,Islamabad,3
+59,Melbourne,3
+60,Potsdam,3
+61,Minneapolis,3
+62,Wageningen,3
+63,Casablanca,3
+64,Ahmedabad,3
+65,Vancouver,3
+66,Marseille,2
+67,Bogotá,2
+68,Brooklyn,2
+69,Greifswald,2
+70,Reston,2
+71,Satipo,2
+72,Los Angeles,2
+73,Rio de Janeiro,2
+74,Austin,2
+75,"Washington, D. C.",2
+76,Modena,2
+77,Tema,2
+78,Albany,2
+79,Tucson,2
+80,New York City,2
+81,Seattle,2
+82,Johannesburg,2
+83,Sacramento,2
+84,Ithaca,2
+85,Marrakech,2
+86,Pune,2
+87,Edinburgh,2
+88,San Diego,2
+89,Puerto Maldonado,2
+90,Calgary,2
+91,Osaka,2
+92,Reading,2
+93,Freiburg,2
+94,Munich,2
+95,Abuja,2
+96,Manaus,2
+97,Jaipur,2
+98,Sydney,2
+99,New Taipei,2
+100,Basel,2
+101,Luxembourg,2
+102,Tsukuba,2
+103,Plymouth,2
+104,Lamas,2
+105,Uppsala,2
+106,Exeter,2
+107,Yaounde,2
+108,Wellington,2
+109,Vernier,2
+110,La Paz,2
+111,Winnipeg,2
+112,Tübingen,2
+113,Kampala,2
+114,Prague 9,1
+115,Santiago,1
+116,Berrechid,1
+117,Münster,1
+118,Brighton,1
+119,Glendale,1
+120,Ikeja,1
+121,Kolding,1
+122,Bolinas,1
+123,Geneva 2,1
+124,Festac Town,1
+125,Boulogne-Billancourt,1
+126,"St. Paul, Minnesota",1
+127,Bergisch Gladbach,1
+128,Maryknoll,1
+129,Chuncheon-si,1
+130,Montreuil,1
+131,Selangor,1
+132,Panama,1
+133,Citta del Vaticano,1
+134,Kuopio,1
+135,Pretoria,1
+136,South Royalton,1
+137,La Grange Park,1
+138,Blacksburg,1
+139,Cusco,1
+140,Falls Church,1
+141,Sippy Downs,1
+142,Kawasaki,1
+143,Aachen,1
+144,Moreton-in-Marsh,1
+145,Burlington,1
+146,Heverlee-Leuven,1
+147,Venice,1
+148,Ikeya,1
+149,Accra,1
+150,Budapest,1
+151,Firenze,1
+152,Hanover,1
+153,Göteborg,1
+154,Philadelphia,1
+155,Sion,1
+156,Aarhus,1
+157,Córdoba,1
+158,Subang Jaya,1
+159,Bar Harbor,1
+160,Courbevoie,1
+161,Marghera-Venice,1
+162,Kgs. Lyngby,1
+163,Silver Spring,1
+164,Leuven,1
+165,Eschborn,1
+166,Tamilnadu,1
+167,Little Rock,1
+168,St. Joseph,1
+169,Hsinchu,1
+170,Ferney-Voltair,1
+171,Chiangmai,1
+172,Canberra,1
+173,Zürich,1
+174,Zuerich,1
+175,Monrovia,1
+176,Bilbao,1
+177,Xiamen,1
+178,Bilthoven,1
+179,Fredriksberg C,1
+180,Gorakhpur,1
+181,Muenchen,1
+182,Arusha,1
+183,Camp Hill,1
+184,Cali,1
+185,Bemidji,1
+186,Manchester,1
+187,Manila,1
+188,Lyon,1
+189,Denver,1
+190,Helsinki,1
+191,Dakar,1
+192,København S,1
+193,Claremont,1
+194,Regina,1
+195,Geneva 20,1
+196,Maccarese (Fiumicino),1
+197,Ås,1
+198,Berkshire,1
+199,Kuala Lumpur,1
+200,Johor,1
+201,Norrkoping,1
+202,Jerusalem,1
+203,Managua,1
+204,Dillon,1
+205,"Taipei ,Taiwan",1
+206,Piracicaba,1
+207,San José,1
+208,Wuppertal,1
+209,Leeds,1
+210,Nagoya,1
+211,KALOL-NG,1
+212,Heidelberg,1
+213,Dublin,1
+214,Santa Marta,1
+215,Fairfax VA,1
+216,Darmstadt,1
+217,San Salvador,1
+218,Krasnoyarsk,1
+219,Bogota,1
+220,Etobicoke,1
+221,Iztapalapa,1
+222,Overijse,1
+223,Essen,1
+224,Durham,1
+225,Bloomington,1
+226,Pueblo Libre,1
+227,Charlotte,1
+228,Apple Valley,1
+229,Tehran,1
+230,Bromma,1
+231,Lund,1
+232,Antwerpen,1
+233,Ibadan,1
+234,Saint Paul,1
+235,Kinshasa,1
+236,Pasig City,1
+237,Horbling,1
+238,Dar Es Salaam,1
+239,"Washington, DC",1
+240,Carrieres Sur Seine,1
+241,Velzen,1
+242,Baguio City,1
+243,Sefrou,1
+244,Boulogne-sur Mer,1
+245,Klagenfurt,1
+246,Guatemala,1
+247,Freiburg i.Br.,1
+248,Lecce,1
+249,Adelaide,1
+250,Salem,1
+251,Niigata,1
+252,Weston Creek,1
+253,Larkana,1
+254,Coronado,1
+255,Douala,1
+256,Olympia,1
+257,Brisbane,1
+258,Forest Row,1
+259,Copenhagen V.,1
+260,Stanwell Tops,1
+261,Almaty,1
+262,Montpellier Cedex 5,1
+263,Ikoyi,1
+264,Ann Arbor,1
+265,Cincinnati,1
+266,Santa Cruz,1
+267,West Lafayette,1
+268,Bagnolet,1
+269,Laxenburg,1
+270,Svartzjö,1
+271,Grandville,1
+272,Smithers,1
+273,Petén,1
+274,Nanterre,1
+275,Stanford,1
+276,Elmhurst,1
+277,Tripoli,1
+278,Collegeville,1
+279,Muscatine,1
+280,Hinnesburg,1
+281,Teddington,1
+282,Houston,1
+283,Vincennes,1
+284,Kolkata,1
+285,Pisa,1
+286,Falmouth,1
+287,Aubervilliers,1
+288,New Taipei City,1
+289,Roma,1
+290,Mexico,1
+291,Ultimo,1
+292,Khulna,1
+293,Norwich,1
+294,Sheffield,1
+295,Yerevan,1
+296,Los Altos,1
+297,Busan Metro City,1
+298,Clayton,1
+299,New Dehli,1
+300,Honolulu,1
+301,"Panama City,",1
+302,Belem,1
+303,Chiang Mai,1
+304,"Taiwan, Province of China",1
+305,Chengdu,1
+306,Penang,1
+307,University Park,1
+308,Sophie-Antipolis,1
+309,Tena,1
+310,Koka,1
+311,Gaibandha,1
+312,Somerville,1
+313,Muenster/Westfalen,1
+314,Bethlehem,1
+315,"Pathumthani, Bangkok",1
+316,Zaragoza,1
+317,Mannheim,1
+318,New Orleans,1
+319,Bruxelles,1
+320,Bern,1
+321,Phnom Penh,1
+322,Fort Collins,1
+323,Santa Cruz de la Sierra,1
+324,Cairo,1
+325,College Park,1
+326,Québec,1
+327,Biot,1
+328,Leicester,1
+329,Saint-Herblain,1
+330,Hurup Thy,1
+331,Cardiff,1
+332,Izabal,1
+333,Tarapoto,1
+334,Rajasthan,1
+335,Akure,1
+336,Bozeman,1
+337,Cologny,1
+338,San Dimas,1
+339,Triangle,1
+340,Kraków,1
+341,Agege Lagos,1
+342,Victoria,1
+343,Kanagawa,1
+344,Maryland,1
+345,Moscow,1
+346,Lomé,1
+347,Chelsea,1
+348,Stuttgart,1
+349,Hobart,1
+350,Enschede,1
+351,Tanger,1
+352,Aubagne,1
+353,Atlanta,1
+354,Reykjavik,1
+355,Panamá,1
+356,Taiyuan,1
+357,Colombo,1
+358,Visakhapatnam,1
+359,Petten,1
+360,Nijmegen,1
+361,Goettingen,1
+362,Braamfontein,1
+363,Genova,1
+364,"Epsom, Surrey",1
+365,La Plata,1
+366,Shanghai,1
+367,Chapel Hill,1
+368,Nogent-sur-Marne Cedex,1
+369,Maastricht,1
+370,Bergamo,1
+371,Bronx,1
+372,Rugby,1
+373,Waterloo,1
+374,North Miami,1
+375,Washington D.C,1
+376,Orleans,1
+377,Canmore,1
+378,Munic,1
+379,Tromso,1
+380,Pittsburgh,1
+381,Lviv,1
+382,Dutse,1
+383,Città di Castello,1
+384,Gland,1
+385,Rovaniemi,1
+386,Taipei City,1
+387,Finland,1
+388,"Ottawa, ON",1
+389,Flagstaff,1
+390,Copenhagen V,1
+391,Königstein,1
+392,Forres,1
+393,Ghardaia,1
+394,Richmond,1
+395,Carlisle,1
+396,Halifax,1
+397,South Bend,1
+398,Copenhagen N,1
+399,Cork,1
+400,Dorset,1
+401,Hjortshoj,1
+402,Swarthmore,1
+403,"Chuo-ku, Tokyo",1
+404,Asheville,1
+405,"Brickfields, Kuala Lumpur",1
+406,Kiev,1
+407,Cuiabá,1
+408,Burnaby,1
+409,Providence RI,1
+410,Limoges,1
+411,Tutzing,1
+412,New Haven,1
+413,Hannover,1
+414,Dunbar,1
+415,Rondebosch,1
+416,Curitiba,1
+417,Bei Jing,1
+418,Jyväskylä,1
+419,Louisville,1
+420,Bayreuth,1
+421,Jena,1
