@@ -1,0 +1,10 @@
+Instructions:
+
+Saving the Dict and Corpus to disk
+
+dictionary.save(DICT_PATH)
+corpora.MmCorpus.serialize(CORPUS_PATH, corpus)
+Loading the Dict and Corpus from disk
+
+loaded_dict = corpora.Dictionary.load(DICT_PATH)
+loaded_corp = corpora.MmCorpus(CORPUS_PATH)
