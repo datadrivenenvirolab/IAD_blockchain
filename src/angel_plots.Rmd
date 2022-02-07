@@ -1,0 +1,73 @@
+---
+title: "IAD Analysis"
+output: html_notebook
+---
+
+Some plots to consider for IAD Stakeholder Analysis Paper
+
+Set working directory and load libraries
+```{r}
+knitr::opts_knit$set(echo = TRUE, root.dir = "~/Documents/GitHub/IAD_blockchain")
+library(tidyverse)
+library(ggplo2)
+library(UESIplots)
+library(ggrepel)
+library(wesanderson)
+library(ggdark) #devtools::install_github("nsgrantham/ggdark")
+
+```
+
+Load in data
+```{r}
+ghg <- read_csv("data/GCB2021v34_MtCO2_flat.csv")
+unique(ghg$Country)
+
+tl <- read_csv("data/climate_policy_timeline.csv")
+
+# constituencies
+orgs <- read_csv("Consolidated Data/aggregated_constituency_data.csv")
+```
+## Wrangling 
+For a "timeline"-like plot of events against emissions, need to do a bit of wrangling 
+
+## Global CO2 trend vs. Major Climate Policy Events
+plot of global emissions vs. major climate events
+```{r}
+ghg_world <- ghg %>% filter(Country == "Global") %>% left_join(tl %>% filter(!event %in% c("US-China bilateral climate deal", "World Conference on Changing Atmosphere")), by=c("Year"="year")) %>% mutate(position=as.numeric(position))
+
+cairo_pdf("plots/globalco2_timeline.pdf", width=12, height=6)
+ghg_world %>% filter(Year >= 1950) %>%
+ggplot(aes(x=Year, y=Total)) +
+  geom_line(size=2, color="#CA0020") +
+  geom_point(data=ghg_world[!is.na(ghg_world$event),], aes(x=Year, y=position), size=2)+
+  geom_segment(data=ghg_world[!is.na(ghg_world$event),],aes(y=position, yend=Total, xend=Year), color="black", size=0.2)+  geom_text_repel(aes(x=Year, y=position, label=event),nudge_y=100, max.overlaps=20) +
+  scale_x_continuous(breaks=seq(1950, 2020, 10))+
+  #scale_y_continuous(expand = expansion(mult = c(0, 0.5)))+
+  labs(x="", y="Total Emissions (MtCO2e)")+
+  theme_classic() +
+  theme(text=element_text(family="Myriad Pro", size=14))
+dev.off()
+
+```
+### Constituents plot
+Plot of constituents changing over time
+```{r}
+orgs_m <- orgs %>% pivot_longer(`Constituency - Business and Industry`:`Constituency - Youth`, names_to="Constituency", values_to="Value") %>% 
+  mutate(Constituency=str_replace(Constituency, "Business and Industry.*$", "Business and Industry"),
+         Constituency=str_replace(Constituency, "Environmental.*$", "Environmental NGO"),
+         Constituency=str_replace(Constituency, "ENGO", "Environmental NGO"),
+         Constituency=str_replace(Constituency, "Constituency - ", "")) %>%
+  dplyr::select(-`not yet affiliated/no data`)
+
+pal <- wes_palette("Rushmore1", 10, type="continuous")[c(1,3:10)]
+
+cairo_pdf("plots/Constituencies_over_time_dark.pdf")
+ggplot(orgs_m, aes(x=Conference, y=Value, fill=Constituency)) +
+  geom_bar(position="stack", stat="identity") +
+  scale_fill_manual(name="", values=pal)+
+  labs(x="", y="Number of organizations")+
+  dark_theme_gray() +
+  theme(text=element_text(family="Myriad Pro", size=14, color="#ffffff"))
+dev.off()
+```
+
