@@ -1,0 +1,2010 @@
+Mid-century, Long-term Low Greenhouse 
+Gas Emission Development Strategy 
+THAILAND 
+Submitted under the Paris Agreement 
+October 2021  
+ 
+ 
+The COP, by its decision 1/CP 21, paragraph 35, invited Parties to 
+communicate, by 2020, to the secretariat mid-century, long-term low 
+greenhouse gas emission development strategies in accordance with Article 4, 
+paragraph 19, of the Agreement. 
+_____________________________________________ 
+ 
+ 
+ 
+ 
+ 
+In line with the Paris Agreement, Thailand aims to 
+  peak its greenhouse gas emissions in 2030, with 
+the ambition to move towards net-zero 
+ 
+greenhouse gas emissions as early as possible 
+ 
+within the second half of this century, and towards 
+ 
+carbon neutrality by 2065, while looking forward to 
+  enhanced international cooperation and support 
+on finance, technology and capacity-building to 
+ 
+achieve this ambition. 
+ 
+ 
+   
+ii 
+    
+ 
+ 
+Contents 
+Thailand’s Vision  ii 
+Contents  iii 
+List of Tables  iv 
+List of Figures  iv 
+Glossary of Abbreviations  v 
+   
+Preface  1 
+ 
+Executive summary  2 
+Chapter 1: National Circumstances   
+  1.1 Country Profile  4 
+  1.2 National GHG Emissions Profile   13 
+  1.3 Thailand’s Climate Change Policy and Institutional Arrangement  19 
+Chapter 2: Thailand’s Mitigation Actions   
+  2.1 Nationally Appropriate Mitigation Actions (NAMAs)   23 
+  2.2 Nationally Determined Contribution (NDC)  24 
+  2.3 Implementation of Mitigation Measures  24 
+Chapter 3: Long-term Low Greenhouse Gas Emission Development   
+  3.1 Methodology for the Development of Long-term Low Greenhouse Gas  30 
+Emission Pathways 
+  3.2 Long-term Sectoral emissions   36 
+  3.3 Macroeconomic Impact Assessment  40 
+  3.4 Co-benefits of Long-term Low Emissions  42 
+  3.5 Thailand Carbon Neutrality  43 
+  3.6 Support Needs  46 
+  3.7 Implementation Approach  47 
+Bibliography  49 
+   
+ 
+   
+iii 
+    
+ 
+ 
+List of Tables 
+Table 1-1 Thailand’s economic indicators  7 
+ 
+Table 1 2 Energy production by fuel type 2016-2019 11 
+ 
+Table 1-3 Alternative Energy Development Plan (AEDP) 2018 12 
+Table 1-4 Main features of the Energy Efficiency Plan (EEP) 2018     13 
+Table 2-1 Mitigation measures under Thailand’s NDC Roadmap (2021-2030)  25 
+Table 3-1 Sectoral classification in the Thailand’s LEDS CGE Model   34 
+Table 3-2 Change of net present value of total energy system cost   42 
+List of Figures 
+Figure 1-1 Map of the Kingdom of Thailand    4 
+ 
+Figure 1-2 Annual mean maximum temperatures in Thailand 5 
+Figure 1-3 Age structure of Thailand during 2020-2040    6 
+Figure 1- 4 Shares of solid waste generated, recycled, and disposed    9 
+Figure 1-5 Final energy consumption by fuel type 2020.    10 
+Figure 1-6 Share of final energy consumption by economic sectors 2020    10 
+Figure 1-7 The energy conservation target during the year 2010-2037  13 
+Figure 1-8 National GHG emissions/removals by sector    14 
+Figure 1-9 Total GHG emissions by sector (excluding LULUCF) 2000 and 2016  15 
+Figure 1-10 GHG emissions in the Energy sector in 2016    15 
+Figure 1-11 GHG emissions in the IPPU sector in 2016    16 
+Figure 1-12 GHG emissions in the Agriculture sector in 2016    17 
+Figure 1-13 GHG emissions in the LULUCF sector in 2016    17 
+Figure 1-14 GHG emissions in the Waste sector in 2016    18 
+Figure 1-15 Structure of the National Committee on Climate Change Policy    20 
+Figure 1-16 The structure of domestic MRV system for GHG emissions reduction    21 
+Figure 2-1 Thailand’s NAMAs implementation   24 
+Figure 2-2 GHG reduction potential in 2030 according to the NDC sectoral action plans  27 
+Figure 3-1 Preparation and approval process of Thailand’s LEDS    30 
+Figure 3-2 Framework of Thailand’s LEDS Development    31 
+Figure 3-3 Overview of the input of the AIM/EndUse model in developing Thailand’s LEDS  33 
+ 
+Figure 3-4  An overview of the AIM/CGE Model for Thailand’s LEDS  34 
+Figure 3-5 GHG emissions/removals by sector in 2005 – 2050 in the BAU scenario  38 
+Figure 3-6 Thailand’s long-term low greenhouse gas emission scenario.  39 
+Figure 3-7  Thailand carbon neutrality by 2070 scenario    45 
+Figure 3-8: Thailand carbon neutrality by 2065 scenario    45 
+ 
+iv 
+    
+ 
+ 
+Glossary of Abbreviations 
+ 
+AEDP  Alternative Energy Development Plan 
+AIM  Asia-Pacific Integrated Assessment Model  
+AIM/CGE  Asia-Pacific Integrated Model/Computable General Equilibrium 
+BAU  Business-as-usual 
+BEC  Building energy codes  
+BECCS  Bio-energy with carbon capture and storage 
+BEV  Battery electric vehicle 
+BHD  Bio-hydrogenated diesel  
+BUR   Biennial update report 
+CAGR  Compound annual growth rate 
+CCS  Carbon capture and storage 
+CCUS  Carbon capture utilization and storage 
+CECap   CO2 emissions per capita 
+CGE  Computable General Equilibrium 
+CH4   Methane 
+CO  Carbon Monoxide 
+COP  Coefficient of performance 
+COVID-19  Coronavirus disease 2019 
+EEP   Energy Efficiency Plan 
+EERS  Energy efficiency resource standards 
+EES  Energy storage system 
+ESCO  Energy service company 
+EV  Electric vehicle 
+FCEV  Fuel cell electric vehicle 
+GDP  Gross domestic product 
+GHG  Greenhouse gas 
+IPCC  Intergovernmental Panel on Climate Change 
+IPPU  Industrial Processes and Product Use  
+IPS  Independent power supply 
+ktoe  Kilotonnes of oil equivalent  
+LNG  Liquefied natural gas  
+LPG  Liquefied petroleum gas 
+LT-LEDS  Long-term Low Greenhouse Gas Development Strategy  
+LULUCF  Land Use, Land-Use Change and Forestry 
+M&E  Monitoring and evaluation 
+MNRE  Ministry of Natural Resources and Environment 
+MRV  Measurement, Reporting and Verification 
+MSW  Municipal solid waste 
+NAMAs  Nationally Appropriate Mitigation Actions 
+NC  National communication 
+NCCC  National committee on climate change policy 
+NDC  Nationally Determined Contribution 
+NEP  National Energy Plan 
+NESDC  Office of the National Economic and Social Development Council 
+v 
+   NMVOC  Non-methane volatile organic compounds 
+NOX  Nitrogen Oxides 
+ONEP  Office of Natural Resources and Environmental Policy and Planning 
+PM2.5  Fine inhalable particles, with diameters that are generally 2.5 micrometers 
+and smaller 
+RD&D  Research development and deployment 
+REDD+  Reducing Emission from Deforestation and Forest Degradation and role of 
+conservation, sustainable management of forest and enhancement of forest 
+carbon stock 
+SDGs  Sustainable development goals 
+Thailand’s LEDS  Thailand's Long-term Low Greenhouse Gas Development Strategy 
+UNFCCC  United Nations Framework Convention on Climate Change 
+USD  United States Dollar 
+WEEE  Waste electrical and electronic equipment 
+vi Preface 
+Climate  change  is  perilously  affecting  all  countries  and  has  had  an  unprecedented  impact 
+across  the  globe.  Past  GHG  emissions  have  led  to  many  changes  in  the  climate  system, 
+including  increased  heatwave  frequency  and  intensity,  heavy  precipitation,  as  well  as 
+droughts. Current and future emissions rates will likely cause additional global warming that 
+will further instigate such changes with irreversible impacts.  
+Recognizing  the  need  for  multilateral  cooperation  to  keep  the  global  average  temperature 
+within  the  limit  of  the  Paris  Agreement’s  goal  and  guided  by  the  principles  of  common 
+but  differentiated  responsibilities  and  respective  capability,  especially  in  consideration  of 
+different national circumstances, Thailand hereby formulates its Long-term Low Greenhouse Gas 
+Development  Strategy  (LT-LEDS)  to  guide  the  country’s  national  development  agenda 
+and contribute to global efforts to address climate change. Thailand’s LEDS is science-based 
+and  has  been  prepared  with  the  involvement  of  a  wide  range  of  stakeholders  to  ensure 
+a  balanced  position  based  on  economic  growth,  poverty  eradication,  just  transition, 
+food security, social welfare (with particular regard for vulnerable groups), and climate actions 
+needed  to  mitigate  climate  change.  It  will,  therefore,  serve  as  a  basis  for  the  preparation 
+of  future  NDCs  and  thus  support  Thailand’s  transition  towards  low  GHG  emissions 
+and climate-resilient development.   
+In accordance with Article 4, paragraph 19 of the Paris Agreement, and responding to decision 
+1/CP.21,  paragraph  35  of  the  Conference  of  the  Parties,  Thailand  hereby  communicates 
+its  mid-century,  Long-term  Low  Greenhouse  Gas  Development  Strategy  to  the  Secretariat. 
+To  achieve  the  targets  outlined  in  Thailand’s  LEDS,  stringent  GHG  mitigation  measures  are 
+needed in energy, IPPU, waste and agriculture sectors, including a drastic increase of carbon sink 
+and  removals  in  forestry  and  land  uses.  In  this  regard,  international  cooperation  and 
+financial,  technological,  and  capacity-building  support  are  critically  important  to  support 
+Thailand’s efforts to make this necessary transition towards a sustainable future.  
+Although  Thailand’s  LEDS  primarily  focuses  on  GHG  mitigation,  Thailand  recognizes  that 
+adaptation  and  climate  resilience  are  equally  important.  Thailand,  therefore,  looks  forward 
+to  further  elaborating  its  policies  and  priorities  on  climate  change  adaptation  in  future 
+communications.  
+      H.E. General Prayut Chan-o-cha (Ret.) 
+ Prime Minister of the Kingdom of Thailand 
+1 Executive Summary 
+The Paris Agreement sets out a long-term temperature goal and underscores the urgency for 
+Parties to reach global peaking of greenhouse gas emissions as soon as possible and to 
+undertake rapid reductions thereafter, on the basis of equity and in the context of sustainable 
+development and poverty eradication, while recognizing that peaking will take longer for 
+developing  country  Parties.  In  this  connection,  Article  4,  paragraph  19,  of  the  Paris 
+Agreement, suggests all Parties to strive to formulate and communicate long-term low 
+greenhouse gas emission development strategies, mindful of Article 2 considering their 
+common but differentiated responsibilities and respective capabilities, in the light of different 
+national circumstances. 
+The mid-century, long-term low greenhouse gas emission development strategy (LT-LEDS) of 
+Thailand was developed through a participatory process through the establishment of various 
+working groups from all sectors and stakeholders before gaining the final approval by the 
+Cabinet. Thailand’s LEDS set out clear targets and measures to be implemented towards 
+achieving its net zero GHG emission.  First, Thailand aims to reach its peak GHG emissions in 
+2030 at approximately 370 MtCO eq. Second, Thailand’s net greenhouse gas emissions are 
+2
+projected to be approximately 200 MtCO eq in 2050, which is consistent with the global 2-
+2
+degree pathway. Third, post-2050 emissions will follow the IPCC 2-degree pathways, in which 
+Thailand aims to achieve the balance between GHG emissions by sources and removals by 
+sinks as early as possible within the second half of this century. 
+The main GHG mitigation measures identified in Thailand’s LEDS focus on the energy and 
+transport  sectors.  Measures  identified  in  the  energy  sector  include  energy  efficiency 
+improvement, technology switching and the adoption of renewable energy and carbon 
+capture and storage (CCS). In the transport sector, mitigation measures include modal shift, 
+energy efficiency improvement and the promotion of new, efficient, vehicle fleets. 
+In addition, Thailand also aims to meet the carbon neutrality by 2065. As such it is expected 
+that financial and technological support will be provided as early as possible. Thailand must 
+prioritize and speedily develop its new infrastructure, especially the energy and transport 
+system, by increasing the share of renewable electricity generation at least 50% of new power 
+generation capacity by 2050 and the share of new vehicles in the market to be electric vehicles 
+at least 69% by 2035. It also includes energy efficiency improvement, and adopt advanced 
+carbon removal technologies, such as bio-energy with CCS, CCS and CCU. The energy system 
+must be transformed through decarbonization, digitalization, decentralization, deregulation 
+and electrification such as grid modernization, energy storage systems, net metering market, 
+and  EV  infrastructure.  Furthermore,  it  is  foreseen  that,  the  deployment  of  hydrogen 
+renewable electricity and CCS will also play a vital role in meeting the target. 
+2  
+ 
+ 
+It is revealed that the implementation of Thailand’s LEDS will lead to certain socio-economic 
+impacts due to increasing energy system cost from greener energy production. This impact 
+includes GDP and welfare losses after 2040 and large increasing carbon prices in 2050. 
+Thailand needs to prepare a transitional plan for its transformation in the energy and 
+transport  infrastructure  to  increase  the  low-emission  investments  and  businesses.  This 
+domestic preparation, together with the expected lower costs of advanced GHG mitigation 
+technologies, will mitigate such economic impacts and result in a better economy in a long 
+run. Meanwhile, its co-benefit includes a decrease in energy intensity and CO2 per capita 
+which will help in reducing local air pollutants such as NO , CO, NMVOC and PM2.5.  
+X
+A successful transition to a low-carbon society in Thailand requires the contribution of all 
+sectors and stakeholders. Thailand is looking for more low-carbon business models from both 
+domestic and international investors. This opportunity will enable Thailand to build forward 
+better to become a green economy country after the COVID-19 pandemic and facilitate a 
+move towards carbon neutrality and a net zero GHG emission, respectively. Lastly, to achieve 
+Thailand's LEDS targets, international cooperation and support is needed in terms of policy 
+development,  research  and  technology  development,  development  of  appropriate 
+mechanisms and instruments, and capacity building. 
+3 
+    
+ 
+ 
+Chapter 1
+ 
+National Circumstances
+ 
+Climate change is among several major challenges to sustainable development. Economic 
+activities  since  the  industrial  revolution  have  dramatically  accelerated  the  release  of 
+greenhouse gases into the atmosphere and increased the severity of climate change. Thailand 
+is one of the Southeast Asia countries severely affected by climate change, especially the long-
+term impacts such as increasing average temperature and increased severity and frequency 
+of floods, droughts and storms. Such adverse effects jeopardize major economic sectors, 
+including agriculture, tourism, and industry.  
+Economic activity, population growth and urbanization contribute to the greenhouse gas 
+emissions in Thailand. Despite Thailand only contributing less than one percent of the global 
+greenhouse gas emissions, it has set up the goal to become a low carbon society and efforts 
+have been made to shift its energy policy towards green energy over the past decade.  The 
+renewable energy utilization has been greatly expanded to achieve the goal of sustainable 
+green growth. 
+1.1 Country Profile 
+Thailand is located in a tropical area between latitudes N 5°37’ to N 20°27’ and longitudes  
+E 7°22’ to E 105°37’, with a total area of 513,115 square kilometers, or approximately 200,000 
+square miles. The boundaries of Thailand with adjacent areas are: North: Myanmar and Laos; 
+East: Laos, Cambodia and the Gulf of Thailand; South: Malaysia; and West: Myanmar and the 
+Andaman (See Figure 1-1). 
+ 
+Figure 1-1: Map of the Kingdom of Thailand 
+4 
+    
+ 
+ 
+ 
+Thailand has a coastline of approximately 2,700 km; it borders the Andaman Sea, with 865 
+km of coastline. Geographically, Thailand can be divided into six regions. The northern region 
+is characterized as hilly and mountainous. The north-eastern region is naturally a high plain. 
+The central region is a large low-level plain. The eastern regions are mostly plains and valleys 
+with some small hills. The southern region is a peninsula with the Andaman Sea on the 
+western side and the South China Sea on the eastern side. Lastly, the western region is hilly 
+and mountainous. 
+1.1.1 Climate 
+Thailand’s  climate  is  influenced  by  two  main  seasonal  monsoon  winds:  the  southwest 
+monsoon and the northeast monsoon. The southwest monsoon starts in May and brings a 
+stream of warm, moist air from the Indian Ocean towards Thailand, causing abundant rain 
+over the country, especially on the windward side of the mountains. The northeast monsoon 
+starts in October and brings cold and dry air from the anticyclone in the Chinese mainland 
+over major parts of Thailand, particularly focused on the north and northeast regions. 
+Thailand’s climate can be broadly divided into three seasons: 1) rainy, or the southwest 
+monsoon season, from mid-May to mid-October 2) winter, or the northeast monsoon season, 
+from mid-October to mid-February and 3) summer, from mid-February to mid-May. Figure 1-2 
+shows the annual mean maximum temperatures in Thailand, which indicate a trend of 
+increasing temperatures is likely to continue.  
+34.5
+34.0
+33.5
+33.0
+C
+°
+32.5
+32.0
+31.5
+31.0
+024680246802468024680246802468024680
+555556666677777888889999900000111112
+999999999999999999999999900000000000
+111111111111111111111111122222222222
+Max. Temp. Linear (Max. Temp.)
+ 
+Figure 1-2: Annual mean maximum temperatures in Thailand 
+ 
+ 
+5 
+    
+ 
+ 
+1.1.2 Population 
+Thailand’s population is projected to gradually increase until around 2030, from which point 
+it will start to decline. The forecast populations for 2025, 2030 and 2040 are 67.09, 67.14 and 
+65.37 million, respectively. A decline in birth rate with a concurrent increase in life expectancy 
+has shaped Thailand’s population structure into an ‘aging society’. The percentage of people 
+aged 60 and over divided by people aged younger than 15 – will increase steadily. The aging 
+index  will  slightly  exceed  120  before  2025,  at  which  point  Thailand  will  be  officially 
+categorized as an ‘aged society’. Figure 1-3 shows that Thailand’s population is projected to 
+become a ‘super aged society’ by 2035, when the aging index is estimated to exceed 200. By 
+2040, the aging population will be more than double that of the youthful population. This 
+transition is related to the care and support of aging members of society while the labor force 
+is shrinking. 
+ 
+ 
+Figure 1-3: Age structure of Thailand during 2020-2040 
+ 
+1.1.3 Economy      
+Thailand’s  economic  development  follows  the  12th  National  Economic  and  Social 
+Development Plan (2017-2021), extended to 2022, which adhered to the National Strategy 
+(2018-2037), a commitment to the sustainable development goals (SDGs), a philosophy of 
+Sufficiency Economy, and the Thailand 4.0 Policy. Thailand has experienced low, single-digit 
+GDP growth in the past decade, with the industrial and service sectors the main drivers of 
+recent growth. Thailand has the second-largest economy in Southeast Asia, but its GDP per 
+capita ranks fourth. The economy is heavily export-dependent, with exports accounting for 
+more than one-third of GDP. Both exports and imports have faced negative growth over the 
+past few years. Thailand has one of the lowest unemployment rates in the world, at about 
+1%, because a large proportion of the population works in subsistence agriculture or other 
+vulnerable occupations.  
+6 
+    
+ 
+ 
+Thailand’s economy shrunk by 6.1% in 2020 due to the Coronavirus pandemic, down from 
+2.3% growth the previous year, which was the lowest expansion rate in the past 10 years. 
+Export value decreased by 6.6% while private consumption and total investment decreased 
+by 1.0% and 4.8%, respectively (see Table 1-1). However, in the long run when the Coronavirus 
+pandemic is over, it is expected that the economic growth would follow the same trend. 
+ 
+Table 1-1: Thailand’s economic indicators 
+Indicators  2016  2017  2018  2019  2020 
+Growth in Real GDP  3.3  4.0  4.1  2.3  -6.1 
+Investment  2.8  1.8  3.8  2.0  -4.8 
+•  Private  0.5  2.9  3.9  2.7  -8.4 
+•  Public  9.5  -1.2  3.3  0.1  5.7 
+Private Consumption  3.0  3.0  4.6  4.0  -1.0 
+Government Consumption  2.2  0.1  1.8  1.7  0.8 
+Export of Goods  0.1  9.8  7.7  -3.3  -6.6 
+•  Volume  0.5  6.0  4.2  -3.7  -5.9 
+Import of Goods  -5.1  13.2  14.3  -5.6  -13.5 
+•  Volume  -2.5  7.2  8.2  -5.7  -11.8 
+Current Account to GDP (%)  11.7  11.0  7.4  7.0  3.3 
+           
+Inflation (%)  0.2  0.7  1.1  0.7  -0.8 
+Source: NESDC Economic Report and National Income of Thailand 2020, Office of the National 
+Economic and Social Development Council 
+ 
+1.1.4 Natural Resources 
+Thailand has a total land area of approximately 513,115 km2. As of 2018, 46.54% of the 
+nation’s total land area (or 238,791 km2) was categorized as agricultural land. Forest land and 
+non-agricultural land accounted for 31.96% and 21.50% of the total land area, respectively. 
+Nearly half the agricultural land is attributed to paddy land, equal to 109,949 km2 or 21.43% 
+of Thailand’s total land area. 
+According to the estimation by the Royal Forest Department, forest area in 2018 was almost 
+164,000 km2, which is equivalent to 16.40 million hectares. There are a number of laws in 
+place in Thailand related to the management and maintenance of the national forest estate, 
+such as the Royal Forest Department Strategy (2017-2036), Forest Act, B.E.2484 (1941), 
+National Park Act B.E. 2562 (2019), National Reserved Forest Act, B.E.2507 (1964), Wild 
+Animal Conservation and Protection Act B.E. 2562 (2019), Forest Plantation Act B.E. 2535 
+(1992) and its amendment, Chain Saws Act B.E. 2545 (2002), and Community Forest Act B.E. 
+2562 (2019). In addition,  a range of projects and programmes have also been implemented 
+to solve issues surrounding forest loss, including activities related to Reducing Emissions from 
+Deforestation and Forest Degradation (REDD+). 
+ 
+ 
+7 
+    
+ 
+ 
+1.1.5 State of the Environment 
+• 
+Air Quality 
+The five major air pollutants in Thailand are sulphur dioxide (SO ), nitrogen dioxide (NO ), 
+2 2
+carbon monoxide (CO), ozone (O ) and particulate matter (PM). PM10 is generated by building 
+3
+and road construction while SO  mainly comes from industrial activities. Air pollution in 
+2
+Thailand can be attributed to two main sources: 1) meteorological factors during the dry 
+season, and 2) point source pollution. To address this problem, the Royal Thai Government 
+has formulated the 20-Year Master Plan on Air Quality Management (2018-2037), set up 
+standards for atmospheric air quality and emissions from specific sources of origin, and 
+developed a national air quality reporting system for communicating information in order to 
+improve air quality.  
+• Water Quality 
+Thailand’s overall surface water quality was improved in 2018, remaining within ‘fair’ and 
+‘good’ quality ranges. Some water resources decreased in quality, mostly in estuaries in 
+central Thailand, where municipal, industrial and agricultural waste are concentrated. The 
+outcome of water quality testing of the country’s 59 major rivers and 6 standing water sources 
+showed results of ‘good’, ‘fair’ and ‘poor’ water quality indices in the proportion of 46%, 45% 
+and 9%, respectively. Water quality monitoring in 64 provinces revealed 27 provinces (42%) 
+with good quality, 29 provinces (45%) with fair quality and 8 provinces (13%) with poor 
+quality. Thailand has formulated the 20-Year National Water Quality Management Plan (2018-
+2037), which prioritizes controlling wastewater discharge to natural water resources.  
+• 
+Waste 
+The amount of municipal solid waste (MSW) generated in 2020 was 25.37 million tons; this is 
+an 11.63% decrease from 2019, and is mainly a result of expanding urban communities and 
+the shift from agricultural to urban society (See Figure 1-4). The volume of household 
+hazardous waste generated in 2018 was 638,000 tons or a 3.2% increase from 2017. Around 
+65% of this hazardous waste (414,600 tons) was Waste Electrical and Electronic Equipment 
+(WEEE), with the remaining 35% (223,400 tons) consisting of other household hazardous 
+waste, such as batteries, dry cell batteries, chemical containers and spray bottles.  
+8 
+    
+ 
+ 
+35 1.40
+)snot no 2350 1.04 1.04 1.08 1.05 1.15 1.11 1.13 1.14 1.13 1.15 1.18 1.05 11..0200 )yad/nosr
+illim ep/
+g
+( etsaw 20 0.80 k( noit
+ dilo 15 0.60 aren
+s fo 10 0.40 eg e
+ tnu tsaw
+o 5 0.20
+m  fo
+a e  et
+h 0 0.00 a
+T 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 r eh
+T
+Waste utilization (million tons) Proper disposal (million tons)
+Improper disposal (million tons) The rate of waste generation (kg/person/day)
+ 
+ 
+Source: Thailand State of Pollution Report 2020, Pollution Control Department 
+Figure 1 -4: Shares of solid waste generated, recycled, and disposed 
+The amount of industrial waste managed by an appropriate treatment in 2018 was 17.51 
+million tons, which decreased 33% from 2017. From that total amount, 20.82 million tons is 
+non-hazardous industrial waste, of which 7.2 million tons were used as fuel to generate 
+electric power, and 1.2 million tons were hazardous industrial waste. The 20-Year Strategic 
+Plan on Pollution Management (2017-2036) was formulated to provide a framework to 
+achieve sustainable waste management and a low-carbon society by 2036. In addition, the 
+National Master Plan for Waste Management (2016-2021) has been adopted as a guideline 
+for solid and hazardous waste management. 
+1.1.6 Energy Situation  
+• 
+Energy Consumption 
+ 
+In 2020, most of the energy consumption was for commercial use, amounting to 66,821 
+ktoe (86.40% of total). Among the energy sources, petroleum products accounted for the 
+largest proportion of consumption (48.00%), followed by electricity (21.67%), natural gas 
+(6.40%), and coal and coal products (10.32%) (See Figure 1-5). 
+ 
+9 
+    
+ 
+ 
+Renewable energy
+Petroleum 
+4.92%
+products
+48.00%
+Comercial 
+Energy
+86.40%
+Electricity
+21.67%
+Natural gas
+6.40%
+Traditional  Coal&coal 
+renewable energy products
+8.69% 10.32%
+ 
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency 
+Figure 1-5: Final energy consumption by fuel type 2020 
+The transportation sector contributed the largest share of final energy consumption, at 
+around 38.40% of the final energy consumption, followed by manufacturing, residential, 
+commercial, agriculture, construction and mining, respectively (See Figure 1-6). 
+ 
+ 
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency 
+Figure 1-6: Share of final energy consumption by economic sectors 2020 
+ 
+ 
+10 
+    
+ 
+ 
+• 
+Energy Production 
+Energy production in 2020 was 65,821 ktoe, representing an 11.76% decrease from the 
+previous year (Table 1-2). The commercial energy contributed the largest share of energy 
+production at 41,871 ktoe (63.61% of the total), followed by renewable energy at 16,020 ktoe 
+(24.34%), traditional renewable energy at 5,179 ktoe (7.87%), biofuel at 2,343 ktoe (3.56%), 
+and, finally, other energy sources produced 408 ktoe (0.62%)  
+Table 1-2: Energy production by fuel type 2016-2019 
+Quantity  Growth 
+Energy Production  (ktoe)  (%) 
+2018  2019  2020  2019  2020 
+Total Energy Production  72,609  74,592  65,821  2.73%  -11.76% 
+Commercial Energy  45,828  46,188  41,871  0.79%  -9.35% 
+•  Crude Oil  6,453  6,178  5,860  -4.26%  -5.15% 
+•  Lignite  3,756  3,532  3,282  -5.96%  -7.08% 
+•  Natural Gas  31,122  31,871  28,865  2.41%  -9.43% 
+•  Condensate  4,497  4,607  3,864  2.45%  -16.13% 
+Renewable Energy*  17,156  18,670  16,020  8.82%  -14.19% 
+Traditional Renewable  7,012  6,842  5,179  -2.42%  -24.31% 
+Energy** 
+Biofuel  2,113  2,422  2,343  14.62%  -3.26% 
+Other Energy***  500  470  408  -6.00%  -13.19% 
+* solar, wind, hydro geothermal, fuel wood, paddy husk, bagasse, agricultural waste, MSW and biogas  
+** fuel wood, charcoal, paddy husk and agricultural waste 
+*** black liquor and residual gas 
+In 2020, the total amount of energy imports was 77,064 ktoe, with crude oil comprising the 
+largest  share  of  54.88%.  The  amount  of  energy  exported  was  10,812  ktoe,  of  which 
+approximately 97.43% are petroleum products.  
+• 
+Alternative Energy 
+Thailand’s alternative energy consumption continued to increase between 2016 and 2018 
+(See  Table  1-3).  By  2018,  Thailand’s  alternative  energy  consumption  was  12,996  ktoe, 
+representing an increase of 10.78% from the previous year. Alternative energy consumption 
+from electricity, heat, and biofuel (ethanol and biodiesel) accounted for 15.48% of the total 
+final energy consumption. The total electricity consumption from electrical alternative energy 
+sources, including solar, wind, hydroelectricity, biomass, MSW and biogas in 2018 was 2,960 
+ktoe, while consumption for heat sources such as solar, biomass, MSW and biogas was 7,919 
+ktoe. Biofuel consumption was 2,117 ktoe, which constituted 781 ktoe from ethanol and 
+1,336 ktoe from biodiesel. Thailand has formulated the Alternative Energy Development Plan 
+(AEDP) 2018 and an AEDP action plan aiming to promote alternative energy and reduce 
+11 
+    
+ 
+ 
+dependency on energy imports such as oil and natural gas. The overall goal of this plan is to 
+increase the share of renewable energy consumption to 30% by 2037. 
+Table 1-3: Alternative Energy Development Plan (AEDP) 2018  
+Status at end of year  Target 
+Type of Fuel  Unit 
+2016  2017  2018  2037 
+MW  9,437  10,238  11,369  29,411 
+Electricity 
+ktoe  2,122  2,473  2,960  7,298 
+Solar  MW  2,446.10  2,697.20  2,962.45  12,139 
+Solar floating  MW  -  -  -  2,725 
+Wind  MW  507.00  627.80  1,102.82  2,989 
+Small hydro  MW  182.10  182.30  187.72  308 
+Biomass  MW  2,814.70  3,157.30  3,372.93  5,790 
+Biogas  MW  434.90  475.40  505.24  1,565 
+MSW  MW  145.30  191.50  317.82  975 
+Industrial waste  MW  145.30  191.50  317.82  975 
+Large hydro  MW  2,906.40  2,906.40  2,919.66  2,920 
+Heat  ktoe  7,182  7,322  7,919  26,901 
+Solar  ktoe  6.7  9.3  10.1  100 
+Biomass  ktoe  6,507  6,616  7,152  23,000 
+Biogas  ktoe  593  634  634  1,283 
+MSW  ktoe  75  63  123  495 
+Biomethane  ktoe  -  -  -  2,023 
+Million liter/day  7.1  7.7  8.4  16.03 
+Biofuel 
+ktoe  1,747  1,936  2,117  4,084 
+Ethanol  Million liter/day  3.7  3.9  4.2  7.50 
+Biodiesel  Million liter/day  3.4  3.8  4.2  8.00 
+Pyrolysis oil  Million liter/day  -  -  -  0.53 
+Alternative energy consumption (ktoe)  11,051  11,731  12,996  38,284 
+Final energy consumption (ktoe)  79,929  80,752  83,952  126,867 
+Share of RE in final consumption (%)  13.83  14.53  15.48  30 
+ 
+• 
+Energy Efficiency 
+Thailand has formulated the Energy Efficiency Plan (EEP) 2018 and an EE action plan aiming 
+to promote its energy efficiency. The EEP2018 specifies a target of 30% energy intensity 
+reduction by 2037 and aims to conserve 54,371 ktoe by the end of the plan from all demand 
+side sectors (See Figure 1-7). The industrial sector is the major contributor, accounting for 
+more than 40 percent of the energy conservation target. This sector is expected to conserve 
+energy  amounting  to  49,064  ktoe.  The  transport,  commercial/government  buildings, 
+residence, and agriculture sectors are expected to conserve energy 17,682 ktoe, 21,167 ktoe, 
+6,418 ktoe, 3,300 ktoe and 527 ktoe, respectively, by 2037 (Table 1-4).  
+12 
+    
+ 
+ 
+ 
+ 
+Source: Energy Efficiency Plan (EEP) 2018, Department of Alternative Energy Development and Efficiency 
+Figure 1-7: The energy conservation target during the year 2010-2037 
+ 
+Table 1-4: Main features of the Energy Efficiency Plan (EEP) 2018  
+Economic sector  Electricity (ktoe)  Heat (ktoe)  Total (ktoe) 
+Energy Efficiency Plan 2018 target  15,379  33,685  49,064 
+1)  Industry  6,777  14,360  21,137 
+2)  Commercial  5,532  886  6,418 
+3)  Residential  2,923  377  3,300 
+4)  Agriculture  147  380  527 
+5)  Transport  -  17,682  17,682 
+ 
+1.2 National GHG Emissions Profile 
+1.2.1 Overview of Historical Emissions 
+Thailand has continued to track GHG emissions, the six main types of which (carbon dioxide, 
+methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons and sulfur hexafluoride) are 
+required  to  be  reported  according  to  the  UNFCCC.  In  December  2020,  the  national 
+greenhouse gas (GHG) emissions reported in the third BUR of Thailand have been made in 
+accordance with 2006 IPCC Guidelines for National Greenhouse Gas Inventories. The total 
+GHG emissions in 2016 (excluding those from LULUCF) were 354,357.61 GgCO  and net GHG 
+2eq
+emissions were 263,223.46 GgCO  (including those from LULUCF). In 2016, the Energy sector 
+2eq
+was the largest contributor to Thailand’s GHG emission, accounting for 71.65% of total GHG 
+emissions, while emissions from the Agriculture, IPPU and Waste sectors accounted for 
+14.72%, 8.90% and 4.73%, respectively. The LULUCF sector contributed to a net removal of 
+91,134.15 GgCO , showing a trend of increased net removals as total removals exceeded 
+2eq
+13 
+    
+ 
+ 
+total emissions. In the global perspective, Thailand’s GHG emissions represent less than 1% 
+of global emissions and are lower than the world average. Figure 1-8 shows the trend of GHG 
+emissions. 
+ 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-8: National GHG emissions/removals by sector 
+ 
+Total GHG emissions (excluding those from LULUCF) increased from 245,757.14 GgCO eq in 
+2
+2000 to 354,357.61 GgCO eq in 2016, with an average annual increase of 2.31%. The net 
+2
+removal of CO  increased from 61,960.76 GgCO eq in 2000 to 91,134.15 GgCO eq in 2016. 
+2 2 2
+Net  GHG  emissions  therefore  increased  overall  from  183,796.37  GgCO eq  in  2000  to 
+2
+263,223.46 GgCO eq in 2016, with an average annual increase of 2.27%. From 2000-2016, the 
+2
+main source of GHG emissions was the Energy sector, which saw an increase of 53.74% from 
+165,143.84  GgCO eq  in  2000  to  253,895.61  GgCO eq  in  2016.  The  proportion of  GHG 
+2 2
+emissions in the Energy sector accounted for 67.20% of total emission sources in 2000, 
+increasing to 71.65% of total emission sources in 2016. In the same period, the share of 
+emissions from the Agriculture sector decreased from 19.93% in 2000 to 14.72% in 2016, 
+while the share of emissions from the IPPU and Waste sectors remained constant (See Figure 1-9). 
+ 
+ 
+14 
+    
+ 
+ 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-9: Total GHG emissions by sector (excluding LULUCF) 2000 and 2016 
+1.2.2 Greenhouse Gas Emission by Sector 
+• 
+Energy 
+Total direct GHG emissions from the Energy sector in 2016 were estimated to be 253,895.61 
+GgCO eq. The majority of GHG emissions in the Energy sector were generated by fuel 
+2
+combustion, consisting mostly of grid-connected electricity and heat production at around 
+108,238.60 GgCO eq (42.84%). GHG emissions from Transport, Manufacturing Industries and 
+2
+Construction, and other sectors were 68,260.17 GgCO eq (27.21%), 49,538.34 GgCO eq 
+2 2
+(19.53%)  and  16,993.90  GgCO eq  (6.10%),  respectively.  Fugitive  Emissions  from  fuel 
+2
+comprised only 10,864.61 GgCO eq or a little over 4.33% of total GHG emissions from the 
+2
+Energy sector. Details of GHG emissions in the Energy sector by gas type and source in 2016 
+are presented in Figure 1-10. 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-10: GHG emissions in the Energy sector in 2016 
+15 
+    
+ 
+ 
+• 
+Industrial Processes and Product Use (IPPU) 
+The estimation of GHGs for the IPPU sector covered all gases indicated in the 2006 IPCC 
+Guidelines, with the exception of the Fluorinated (F)-gases inventory due to a limitation on 
+available activity data. Total direct GHG emissions from the IPPU  sector in 2016 were 
+estimated to be 31,531.41 GgCO eq. The majority of GHG emissions in this sector were 
+2
+attributed to mineral production, which accounted for approximately 18,968.93 GgCO eq 
+2
+(60.16%). GHG emissions from the chemical industry, metal production and non-energy 
+products were estimated at 11,970.64 GgCO eq (37.96%), 296.65 GgCO eq (0.94%) and 
+2 2
+295.19 GgCO eq (0.94%), respectively. Details of direct and indirect GHG emissions in the 
+2
+IPPU sector by gas type and source in 2016 are presented in Figure 1-11 
+ 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-11: GHG emissions in the IPPU sector in 2016 
+• 
+Agriculture 
+Total GHG emissions from the Agriculture sector in 2016 were 52,158.70 GgCO eq. Livestock 
+2
+contributed  11,195.20  GgCO eq  (21.46%),  comprising  8,477.89  GgCO eq  from  enteric 
+2 2
+fermentation, and 2,201.47 and 515.84 GgCO eq for direct and indirect manure management, 
+2
+respectively. Meanwhile, crop-related GHG emissions accounted for 40,963.49 GgCO eq 
+2
+(78.54%). Rice cultivation was the main GHG contributor in Thailand’s Agriculture sector, at 
+26,639.52 GgCO eq (51.07%). Agricultural soils emitted 11,473.92 GgCO eq (22.00%), with 
+2 2
+direct and indirect emissions contributing 8,425.98 and 3,047.94 GgCO eq, respectively. Field 
+2
+burning of agricultural residues and urea fertilizer contributed similar GHG emissions of 
+1,303.12 and 1,517.01 GgCO eq (2.50% and 2.91%), respectively. Details of GHG emissions 
+2
+are presented in Figure 1-12. 
+16 
+    
+ 
+ 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-12: GHG emissions in the Agriculture sector in 2016 
+• 
+Land Use, Land-Use Change and Forestry (LULUCF) 
+The GHG emissions and sinks from LULUCF sector were estimated using the 2006 IPCC 
+Guidelines  for  three  land  categories:  forest  land,  cropland,  and  other  land.  Total  CO  
+2
+emissions/removals from Carbon (C) stock changes for each land use category was calculated 
+based on the sum of each subcategory, taking into account three carbon pools: 1) above 
+ground biomass, 2) below ground biomass, and 3) dead organic matter (deadwood and litter). 
+The LULUCF sector in Thailand showed a trend of increased net removals as total removals 
+exceeded  total  emissions.  Croplands,  therefore,  dominated  net  removal  estimates  for 
+Thailand’s LULUCF sector. Details of GHG emissions/removals in LULUCF sector in 2016 are 
+presented in Figure 1-13. 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-13: GHG emissions in the LULUCF sector in 2016 
+17 
+    
+ 
+ 
+• 
+Waste 
+Total direct GHG emissions from the Waste sector in 2016 were estimated to be 16,771.89 
+GgCO . GHG emissions in the Waste sector were mainly from wastewater treatment and 
+2eq
+discharge, at an estimated 8,310.24 GgCO  (49.55%), and solid waste disposal, at 8,139.72 
+2eq
+GgCO  (48.53%). The waste incineration accounted for 244.21 GgCO  (1.46%), while the 
+2eq 2eq
+biological treatment of solid waste was estimated at 77.72 GgCO  (0.46%). Details of GHG 
+2eq
+emissions in the Waste sector in 2016, are presented in Figure 1-14. 
+ 
+Source: Thailand Third Biennial Update Report, UNFCCC 2020. 
+Figure 1-14 GHG emissions in the Waste sector in 2016 
+It is clear that the drive to reduce greenhouse gas emissions is not just an environmental 
+concern, but should also integrate agencies involved in economic and social development. 
+The campaign must also attach importance to the energy and transport sectors, especially 
+with regard to electricity generation and fuel combustion in the transport sector. The use of 
+energy from fuel combustion and industrial electricity use, including at the household level, 
+is a major source of greenhouse gas emissions. The energy and transport sectors form the 
+basis for many forms of development, such as improving manufacturing industries and 
+services that produce lower amounts of carbon, adapting economic structures so that they 
+are more environmentally friendly, and creating sustainable low-carbon cities, among others. 
+Therefore, it is imperative to moderate the structure of the energy and transportation 
+industry to ensure low-carbon release and environmental friendliness in the near future. 
+Otherwise, it will take a long time to implement the changes and the long-term impact on the 
+country's  greenhouse  gas  emissions.  Due  to  the  systematic  nature  of  reporting  and 
+information collection, the energy and transportation sectors are sources of large amounts of 
+emissions. The long-term plans should benefit the public in reducing GHG emissions by, for 
+example, creating stability in the energy sector, saving time and increasing convenience in 
+travel, and reducing air pollution to improve public health. 
+18 
+    
+ 
+ 
+1.3 Thailand’s Climate Change Policy and Institutional Arrangement  
+Global cooperation is needed to tackle climate change. The United Nations Framework 
+Convention on Climate Change (UNFCCC) is a fundamental and most important international 
+framework to address climate change. Thailand became a Party to UNFCCC in 1991, and 
+ratified its Kyoto Protocol in 2002 and its Paris agreement in 2016. 
+To effectively address the threat of climate change to Thailand’s economy and society and in 
+response to the implementation of relevant provisions under UNFCCC, Thailand has gradually 
+formulated and developed its climate change strategies, policies, plans and institutional 
+arrangement. The first National Strategic Plan on Climate Change (2008-2013) was developed, 
+in  which  the  cabinet  directed  all  government  departments  and  agencies  to  take  into 
+consideration  such  strategy  in  their  policies  and  planning.  The  most  important  policy 
+framework for climate change in Thailand at the moment is the Climate Change Master Plan 
+2558-2593 B.E. (2015-2050), which aims to set a long-term direction that related agencies 
+and sectors can use to guide the development of plans of action in their respective areas.  
+In addition, issues under the Climate Change Master Plan have been integrated into the National 
+Strategy (2018-2037), which will guide a national policy framework in the next 20 years. 
+1.3.1 Thailand’s Climate Change Master Plan (2015-2050)  
+Thailand’s Climate Change Master Plan (2015-2050) (ONEP, 2015) aims to aid Thailand in 
+achieving its sustainable development and low carbon growth and climate change resilience by 
+2050. It consists of three key strategies: (i) Climate Change Adaptation,  which aims to build 
+climate resilience by integrating policies and measures in all sectors, (ii) Mitigation and Low 
+Carbon Development, which facilitates the development of mechanisms for GHG emissions 
+reduction and leads to sustainable low carbon growth, and (iii) Enabling Environment for 
+Climate  Change  Management  which  desires  to  build  capacity  for  climate  change 
+implementation  by  enhancing  potential  and  awareness  of  stakeholders  and  developing 
+database, knowledge, and technology to support climate change adaptation and mitigation. 
+Thailand’s climate actions are divided into short-term, medium-term and long-term targets 
+up to 2050. For the mitigation actions, short-term targets include: (i) develop medium- and 
+long-term GHG emission reduction targets and prepare roadmaps for the implementation by 
+sector, including the GHG emission reduction target on a voluntary basis (pre-2020 target), 
+Nationally Appropriate Mitigation Actions (NAMAs) roadmaps, and measurement, reporting, 
+and verification mechanisms, (ii) establish domestic incentive mechanisms to encourage low 
+carbon development. The medium-term targets include: (i) reduce GHG emissions from 
+energy and transport sectors by 7-20% against BAU level by 2020, subject to the level of 
+international support, (ii) supply at least 25% of energy consumption from renewable energy 
+sources by 2021 and (iii) increase the ratio of municipalities with more than 10 m2 of green 
+space per capita. The long-term targets include: (i) reduce energy intensity by at least 30% 
+by 2036 compared to a business as usual scenario, (ii) increase use of public transportation 
+19 
+    
+ 
+ 
+services, (iii) reduce GHG emissions from land transport, (iv) increase investment in low 
+carbon and environmental friendly industries, (v) reduce open waste dumping areas, (vi) 
+reduce open biomass burning, (vii) increase organic and GAP-certified farming and (viii) 
+reduce GHG emissions per GDP. 
+At the moment, Thailand is in the process of revising its Climate Change Master Plan to be in 
+line with the current circumstances and to take into account the efforts undertaken in 
+implementing the Sustainable Development Goals and the Paris Agreement. 
+1.3.2 Existing Institutional Arrangement 
+The National Committee on Climate Change Policy (NCCC) was established in 2007 as the main 
+decision-making body for climate change management in Thailand. The NCCC is chaired by 
+the Prime Minister and consists of members representing relevant agencies from both public 
+and private sectors, experts and relevant stakeholders. The key responsibilities of the NCCC 
+include the formulation of national climate policies and the establishment of guidelines and 
+mechanisms for international collaboration on climate change.  
+Five subcommittees are established under the NCCC, namely (1) Subcommittee on Climate 
+Change Policy and Planning Integration, (2) Subcommittee on Climate Change Knowledge and 
+Database, (3) Subcommittee on Climate Change Negotiation and International Cooperation, 
+(4)  Subcommittee  on  Public  Relations  and  Actions  for  Climate  Empowerment  and  (5) 
+Subcommittee  on  Climate  Law.  Figure  1-15  shows  the  institutional  arrangements  of 
+Thailand’s NCCC. 
+ 
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP) 
+Figure 1-15: Structure of the National Committee on Climate Change Policy 
+20 
+    
+ 
+ 
+ 
+To effectively implement, monitor, report and verify greenhouse gas emission reduction, 
+Thailand has developed the domestic Measurement, Reporting and Verification (MRV) system 
+at both national and sectoral levels (See Figure 1-16):  
+ 
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP) 
+Figure 1-16: The structure of domestic MRV system for GHG emissions reduction 
+National level: 
+•  The Working Group on GHG Mitigation Measures is responsible for (i) selection of 
+appropriate  measures  for  monitoring  and  evaluation  (M&E)  of  GHG  emission 
+reduction, identification of emission factors and implementation of MRV processes for 
+activity data and (ii) revision and providing feedback on the GHG emission reduction 
+report. 
+•  The Subcommittee on Climate Change Knowledge and Database is responsible for 
+consideration and approval on the report submitted from sectoral level. 
+•  The  National  Committee  on  Climate  Change  (NCCC)  is  responsible  for  the  final 
+approval on the GHG emission reduction report which will be included in the national 
+reports such as the Biennial Update Report (BUR) and National Communication (NC). 
+21 
+    
+ 
+ 
+Sectoral level:  
+  The relevant implementing agencies responsible for GHG emissions reduction at the 
+sectoral level are in charge of the verification of the following key data and approaches after 
+the finalization by the working groups on GHG mitigation measures, including (i) appropriate 
+measures for M&E of GHG emissions reduction, (ii) methodology for the calculation of GHG 
+emission reduction, (iii) MRV process for activity data and (iv) results and GHG emissions 
+reduction report.  
+   
+22 
+    
+ 
+ 
+Chapter 2 
+Thailand’s Mitigation Actions 
+Being among of the top 10 countries most vulnerable to climate risk, Thailand has placed 
+climate change on its national agenda and taken proactive steps to address this urgent threat.  
+Climate change has been integrated and embedded into development policies, strategies and 
+plans across sectors and at all levels.  Climate change has been incorporated into Thailand’s 
+national economic and social development plans since 2007. Climate change is currently 
+addressed at the highest policy level under the National Strategy (2018-2037) to ensure a 
+long-term continuity of sustainable low-carbon development. Tremendous efforts have been 
+made in mitigating the country’s GHG emissions with available resources and capabilities. In 
+addition,  Thailand  as  a  party  to  the  UNFCCC  has  voluntarily  submitted  its  Nationally 
+Appropriate  Mitigation  Actions  (NAMAs)  in  2014.  In  2016,  Thailand’s  1st  Nationally 
+Determined Contribution (NDC) was communicated to UNFCCC upon its ratification of the 
+Paris Agreement, indicating its mitigation and adaptation contribution to the global efforts to 
+address climate change.  The updated NDC was later communicated in 2020. NAMAs and 
+NDCs are key policy instruments that shape Thailand’s climate actions in pursuing its low GHG 
+emission and climate-resilient development. 
+2.1 Nationally Appropriate Mitigation Actions (NAMAs) 
+In 2014, Thailand submitted its NAMAs to UNFCCC, pledging to reduce its greenhouse gas 
+emissions in energy and transportation sectors by 7-20 percent from the projected business 
+as usual level by 2020. The target of 7% GHG mitigation in 2020 is intended to be achieved 
+using domestic resources, while additional emission reduction up to 20% is subject to 
+sufficient international support under the UNFCCC. 
+Strong and positive progress has been achieved during Thailand’s NAMAs implementation.  In 
+2019, Thailand reduced its greenhouse gas emissions by 64.20 MtCO eq, or 17 % from its 
+2
+projected business as usual level (See Figure 2-1).  This achievement demonstrates robust 
+climate actions currently undertaken which lay a solid foundation for NDC and Thailand’s LEDS 
+implementation in the next phases. 
+23 
+    
+ 
+ 
+)q 
+e
+O2
+C
+tM
+( n
+o
+itc
+u
+d
+e
+r n
+o
+is
+s
+im
+e
+ G
+H
+G
+ la
+to
+T
+ 
+Figure 2-1: Thailand’s NAMAs implementation  
+2.2 Nationally Determined Contribution (NDC) 
+Thailand submitted its Intended Nationally Determined Contribution (INDC) to UNFCCC in 
+2015, which was later to become Thailand’s first NDC. The NDC was formulated in accordance 
+with the Philosophy of Sufficiency Economy and the principle of Sustainable Development, 
+and based on relevant national plans already approved or in the pipeline for approval by the 
+Cabinet. It also builds upon measures, and takes into account lessons learnt and good 
+practices during NAMAs implementation. Thailand’s first NDC indicates an emission reduction 
+of 20% from the projected business-as-usual (BAU) level by 2030. The level of contribution 
+could  increase  up  to  25%,  subject  to  adequate  and  enhanced  access  to  technology 
+development and transfer, financial resources and capacity building  support  through a 
+balanced and ambitious global agreement under UNFCCC. Besides, adaptation priorities and 
+support need are clearly outlined.  
+In 2020, Thailand communicated its updated NDC to the UNFCCC, confirming its mitigation 
+contribution by 2030.  It also provided the most up-to-date information on its progress in the 
+implementation of its pre-2020 action, concrete implementation plans, and key information 
+of adaptation component and support needs. 
+2.3 Implementation of Mitigation Measures 
+The  heart  of  Thailand's  NDC  development  and  implementation  is  being  realistic  and 
+achievable and with a balanced consideration between emission reduction and economic 
+development. Climate change mitigation policies have been integrated and translated from 
+24 
+    
+ 
+ 
+the 12th National Economic and Social Development Plan (2017- 2021, extended to 2022) to 
+sectoral and local levels. 
+Specifically, the NDC Roadmap and sectoral action plans are developed in 4 sectors, namely 
+energy, transportation, industrial processes and product use, and waste management. Strong 
+collaboration among key stakeholders and supporting mechanisms are also key success 
+factors in achieving this target.  
+2.3.1 NDC Roadmap (2021-2030)  
+Following the submission of Thailand’s first NDC, the Cabinet endorsed the NDC Roadmap 
+(2021-2030) in 2017 as a clear guidance to achieve its NDC targets. Developed under a 
+participatory approach and through a national consultative process, this Roadmap identifies 
+a set of mitigation actions in the energy, transportation, IPPU and waste management sectors. 
+NDC Roadmap to strive towards the reduction of 115.6 MtCO , which accounts for a 20.83% 
+2eq
+reduction in 2030 when compared to the BAU level.  Mitigation actions in the NDC Roadmap 
+are identified based on the following policies and plans: 
+• 12th National Economics and Social Development Plan 2017-2021, extended to 2022 
+• Climate Change Master Plan 2015-2050 
+• Power Development Plan 2015-2036 
+• Thailand Smart Grid Development Master Plan 2015-2036 
+• Energy Efficiency Plan 2015-2036 
+• Alternative Energy Development Plan 2015-2036 
+• Environmentally Sustainable Transport System Plan 2013-2030 
+• National Industrial Development Master Plan 2012-2031 
+• Waste Management Roadmap 
+Mitigation measures under NDC Roadmap (2021-2030) can be summarized as shown in Table 2-1. 
+ 
+Table 2-1: Mitigation measures under Thailand’s NDC Roadmap (2021-2030) 
+Sector  Mitigation measure  MtCO  
+2eq
+1. Energy  Energy Generation   
+1.  Increase power generation efficiency  72.0 
+2.  Renewable energy generation 
+Energy Consumption in Households 
+3.  Increase energy efficiency in households 
+4.  Renewable energy in households 
+Energy Consumption in Buildings (Commercial and Public) 
+ 5.     Increase energy efficiency in buildings 
+2. Transportation  1.  Avoid/Reduce traveling   
+2.  Shift/Maintain travel modes  41.0 
+3.  Improve energy efficiency in transport 
+25 
+    
+ 
+ 
+Sector  Mitigation measure  MtCO  
+2eq
+3. IPPU   1.  Clinker substitution    
+2.  Refrigerant replacement/modification  0.6 
+4. Waste  Waste Management    
+Management  1.  Reducing  the  amount  of  waste  (e.g.  reducing  2.0 
+disposal  rates,  increasing  recycling  and  waste 
+utilization, etc.) 
+Wastewater Management  
+2.  Increasing  biogas  production  from  industrial 
+wastewater through re-utilization of methane 
+3.  Industrial wastewater management 
+4.  Municipal wastewater management 
+Total   115.6 
+ 
+2.3.2 NDC Sectoral Action Plans 2021-2030 
+The NDC Sectoral Action Plans 2021-2030 were developed to support the implementation of 
+NDC Roadmap (2021-2030) in four sectors, namely energy, transport, industrial processes and 
+product  use,  and  waste  management.  It  allocates  emission  reduction  targets  for  each 
+identified measure with the aim to facilitate the relevant sectoral agencies in fulfilling their 
+respective emission reduction targets. These sectoral action plans were prepared by relevant 
+sectoral agencies, with a wide range of stakeholder consultation and public participation 
+processes. They include the details of potential activities/projects, objectives, indicators and 
+source of funding/budget.  
+It is estimated that measures under the NDC Sectoral Action Plans have the potential to 
+reduce greenhouse gas emissions by 156.86 MtCO  in 2030 as shown in Figure 2-2. This 
+2eq
+provides a concrete implementation roadmap in achieving Thailand’s first NDC mitigation 
+target. 
+ 
+Figure 2-2: GHG reduction potential in 2030 according to the NDC sectoral action plans 
+26 
+    
+ 
+ 
+The summary of the NDC sectoral action plans are as follows. 
+•  The NDC Action Plan in Energy Sector, prepared by the Energy Policy and Planning 
+Office, Ministry of Energy, identifies potential mitigation measures such as increasing 
+energy efficiency and promoting renewable energy (Energy Policy and Planning Office, 
+2019). 
+•  The NDC Action Plan in Transport Sector, prepared by the Office of Transport and 
+Traffic  Policy  and  Planning,  Ministry  of  Transport, identifies  potential  mitigation 
+measures from relevant plans such as travel demand management (TDM), transit-
+oriented development (TOD), expansion of railway network, and bus fleet upgrades 
+(Office of Transport and Traffic Policy and Planning, 2019). 
+•  The NDC Action Plan in Industrial Processes and Product Use including Industrial 
+Wastewater Sector, prepared by the Department of Industrial Works, Ministry of 
+Industry,  identifies  potential  mitigation  measures  such  as  clinker  substitution, 
+refrigerant  replacement  and  industrial  wastewater  management  (Department  of 
+Industrial Works, 2019). 
+•  The NDC Action Plan in Municipal Waste Management Sector, prepared by the 
+Pollution  Control  Department,  Ministry  of  Natural  Resources  and  Environment, 
+identifies potential mitigation measures such as municipal solid waste management 
+and municipal wastewater management (Pollution Control Department, 2018). 
+ 
+Additionally, supportive mechanisms for effective implementation of the sectoral action plans 
+are  considered  in  the  areas  such  as  research  and  development,  economic  tools  and 
+mechanisms,  laws  and  regulations,  MRV  system,  capacity  building  and  stakeholder 
+engagement.  
+ 
+2.3.3 Existing Economic Mechanisms 
+National climate change implementation plans, strategic plans or other medium-term plans 
+are important to secure political commitments and reaffirm country's commitment to global 
+mitigation  efforts  under  the  Convention.  To  enhance  an  effective  implementation  of 
+mitigation actions, unprecedented change and deep reductions in GHG emissions across the 
+country's  economy  are  needed.  Investment  in  state-of-the-art  technologies  would  be 
+necessary to achieve the stringent emission reduction targets. The development of economic 
+mechanisms is one of many critical factors in supporting greenhouse gas reduction activities 
+for entrepreneurs and civilians. 
+The Office of the Board of Investment (BOI) is a government agency under the Office of the 
+Prime Minister whose primary mission is to promote valuable investment in Thailand. In 2021, 
+the BOI approved a series of incentives to promote investments that reduce environmental 
+impacts, support sustainable development, and contribute to the development of the BCG 
+(Bio, Circular and Green economy) model, which the Thai government has identified as a 
+priority to lead the post-COVID 19 recovery. These measures include the following: 
+27 
+    
+ 
+ 
+(1)  The  grassroots  economy  support  scheme  will  also  include  support  for  local 
+organizations involved in developing sustainable agricultural activities such as low 
+methane  rice  farming.  It  is  expected  that  this  new  addition  will  encourage 
+competent businesses to participate in the sustainable agriculture movement. It 
+also extends the deadline for applications under the grassroots economy support 
+scheme to the end of 2022. 
+(2)  A 3-year tax exemption will be granted for investments in upgrading machinery to 
+reduce greenhouse gas emissions. This is in addition to the existing productivity 
+enhancement scheme. It is expected that this new measure will contribute to the 
+country's commitments to reduce greenhouse gas emissions. 
+(3)  Adjustments to the conditions and benefits for some categories of business to 
+encourage eco-friendly technologies: 
+•  Investments  in  cold  storage  facilities  and  refrigerated  transport  that  use 
+natural refrigerants and reduce environmental impact will be granted 3-year 
+corporate income tax exemptions. 
+•  Petrochemical production facilities that use Carbon Capture Utilization and 
+Storage (CCUS) technologies will be granted 8-year corporate income tax 
+exemptions. 
+(4)  Introduction of a new promotion category for natural gas separation plants which 
+if they are implementing CCUS technologies will be granted 8-year corporate 
+income tax exemptions. 
+Moreover, Thai government envisions the country becoming the largest electric vehicle 
+investment hub in one of the world's fastest-growing economic blocs. The National Electronic 
+Vehicles Policy Committee, set up by the Thai government, recently introduced a master plan 
+that sets out a framework for the development of electric vehicles. The main objective of this 
+master plan is to establish Thailand as "ASEAN's center of excellence" in three areas, namely 
+zero-emission vehicles, next-generation automotive technology, and innovation in the next-
+generation  business  models  by  2035.  Investment  promotion  policies  have  also  been 
+introduced for the production of all types of electric vehicles (EVs) to further boost the EV 
+sector. The investment promotion will extend to the production of BEV platforms, which 
+consist of an energy storage system, a charging module, and a front and rear axle module. 
+The concept of shared platforms is a new trend in the automotive industry, offering greater 
+flexibility, shorter product development times and economies of scale. In addition, the 
+promotion  of  electric  bicycles  (E-bikes)  also  offers  tax  incentives,  i.e.  exemption  from 
+corporate income tax for at least 3 years.   
+28 
+    
+ 
+ 
+Chapter 3 
+Long-term Low Greenhouse GasEmission Development 
+ 
+The Paris Agreement sets out a long-term temperature goal and underscores the urgency for 
+Parties to play their part to enable global GHG emissions to peak and decline as soon as 
+possible. In accordance with Article 4, paragraph 19, of the Paris Agreement, all Parties should 
+strive to formulate and communicate long-term low greenhouse gas emission development 
+strategies, mindful of Article 2, considering their common but differentiated responsibilities 
+and respective capabilities, in the light of different national circumstances. 
+In this regard, the mid-century, long-term low greenhouse gas emission development strategy 
+was  formulated  to  guide  Thailand  towards  a  climate-resilient  and  low  GHG  emissions 
+development  and  serves  as  a  basis  for  enhancing  its  pre-2050  mitigation  actions.  The 
+preparation and approval process of Thailand’s LEDS includes a national consultative process 
+among various sectoral working groups and relevant stakeholders with the objective to identify 
+a set of national long-term GHG mitigation actions in the energy, transport, IPPU, waste, 
+agriculture and LULUCF sectors. A national consultation was organized to hear comments and 
+encourage discussion on the outcome of the study before submitting it for consideration by the 
+national  working  group  on  integration  of  GHG  mitigation  policy  and  planning,  the 
+Subcommittee on Climate Change Policy and Planning Integration, and the NCCC and Cabinet 
+before submitting it to the UNFCCC. (See Figure 3-1) 
+ 
+Figure 3-1: Preparation and approval process of Thailand’s LEDS 
+29 
+    
+ 
+ 
+The Subcommittee on Climate Change Policy and Planning Integration is responsible to provide 
+input and recommendation on the development and integration of climate change policy, 
+strategy and plan, in relation to both mitigation and adaptation; provide suggestions on 
+mechanisms and measures, such as legal regulations, and financial measures; and push 
+forward an integrated budget allocation system on climate change. In the development of 
+Thailand’s  LEDS,  this  subcommittee  considers  and  provides  suggestions  on  the  draft 
+document in which the working group on national GHG reduction policy and plan integration 
+has integrated relevant information among the ministerial agencies and academic institutes 
+related to climate change to formulate mid-century low greenhouse gas emissions. However, 
+the other four subcommittees will be informed of the progress of Thailand’s LEDS formulation 
+through the existing mechanism when it is submitted to the NCCC for consideration. 
+3.1 Methodology for the Development of Long-term Low Greenhouse Gas 
+Emission Pathways  
+3.1.1 Model for Low Greenhouse Gas Emission Pathways 
+Thailand’s mid-century, long-term low greenhouse gas emission development strategy was 
+developed based on the scenario of net-zero greenhouse gas emissions in the second half of 
+this century, in line with science and the Paris Agreement. The BAU scenario was developed 
+using input information of the current country’s circumstances and status provided by related 
+ministerial agencies into the Asia-Pacific Integrated Assessment Model (AIM) (Figure 3-2). 
+ 
+Figure 3-2: Framework of Thailand’s LEDS Development 
+ 
+30 
+    
+ 
+ 
+•  The AIM/EndUse 
+The AIM model has been developed through the collaboration between the National Institute 
+for Environmental Studies (NIES) Japan, Kyoto University, the Mizuho Information & Research 
+Institute, and other researchers in Asia, including Thailand. The AIM model focuses on 
+relevant policies to support low-carbon pathways. 
+The AIM/EndUse model was used to quantify climate change assessment and relevant policies 
+to mitigate GHG emissions. The model is a recursive dynamic model, a partial equilibrium, 
+which can simulate the calculation for numerous years with several case studies, including 
+policy countermeasures for mid-century mitigation actions to examine the effect of energy 
+savings and GHG emission abatement. It is a bottom-up model with detailed technology 
+information. The technological selection is based on a linear optimization framework which 
+minimizes the total system cost with the introduction of various constraints, for example, the 
+availability of biomass in biomass power plants, satisfaction of the end-user demand and CO  
+2
+emission tax applied for energy intensive activities. The total system cost consists of the 
+annualized initial investment costs of technologies, annualized operating and maintenance 
+costs of technologies, energy costs, taxes (both energy tax and carbon tax) and subsidies, etc. 
+In order to calculate the annualized cost, the capital recovery factor is used. 
+Thailand’s  LEDS  were  modeled  in  a  bottom-up  approach  with  detailed-technology 
+information. The  technological selection is  based  on  an  optimization framework which 
+minimized the total system cost subject to various constraints, e.g. the potential of solar, wind 
+and bio-energy used in power generation, and satisfying the end-user demand among the 
+economic sectors. In the model, CH  and N O are converted into CO -equivalent emissions by 
+4 2 2
+applied global warming potential (GWP) provided by the IPCC. Under this modeling approach, 
+it is projected that the Business-as-usual of the economy-wide GHG emissions (excluding 
+LULUCF) in 2050 will be approximately 661 MtCO . 
+2eq
+The AIM/EndUse model consists of both demand side and supply side. The manufacturing 
+industry  is  classified  into  9  sub-sectors  which  is  in  line  with  the  classification  by  the 
+Department of Alternative Energy Development and Efficiency, Ministry of Energy. The 
+analyses in the industrial system can be separated into heating systems (thermal) and 
+electricity systems. The technologies introduced in the manufacturing industries include 
+efficient kilns in the non-metallic industry, LED lamps and efficient lighting, efficient air 
+conditioners, etc. The residential sector can be divided into three types, namely, the greater 
+Bangkok area, municipal areas, and rural areas. The technologies introduced in the residential 
+sector include efficient air conditioners with high COP, LED lamps and efficient lighting, solar 
+water heating systems, etc. The commercial building sector is divided into eight types, which 
+are offices, hotels, hospitals, department stores, schools, hyper-mart, condominium, and 
+other buildings. Technologies introduced in this sector include efficient boilers, LED lamps and 
+efficient lighting, efficient heating systems, etc. Both residential and commercial building 
+sectors, hereafter called the “building sector”, are investigated in terms of energy use and 
+31 
+    
+ 
+ 
+GHG emissions. Transport service can be classified into passenger transport and freight 
+transport. Furthermore, the transport sector has been divided into road, rail, air and water 
+modes. However, the policy assessment and CO  emissions mitigation mainly focuses on road 
+2
+transport. There are nine vehicle types considered in the transport sector: sedans, vans, tri-
+cycles, taxis, motorcycles, buses, pick-ups, trucks, and others. Diesel (locomotive) and electric 
+trains are considered in the rail mode. Technologies introduced in the transport sector include 
+plug-in hybrid and battery electric vehicles, electric trains, etc. Figure 3-3 shows an overview 
+of the input of the AIM/EndUse model in developing Thailand’s LEDS. 
+ 
+Figure 3-3: Overview of the input of the AIM/EndUse model in developing Thailand’s LEDS 
+•  The AIM/CGE  
+To understand the macroeconomic impacts of Thailand’s LEDS, a multi sector, dynamic 
+recursive Asia-Pacific Integrated Model/Computable General Equilibrium (AIM/CGE) model is 
+used.  The CGE model is known for its strength in evaluating economy-related policies, so it 
+has been widely adopted to assess the economic and environmental impacts of various 
+energy and climate policies at the global, national, and sub-national levels. It is noted that in 
+Thailand’s LEDS, the carbon dioxide (CO ) emissions, methane (CH ) and nitrous oxide (N O) 
+2 4 2
+are treated as GHG emissions in the model. 
+The model consists of four main blocks, namely production, government and household 
+income,  expenditure  blocks  and  market  block  that  considers  both  the  domestic  and 
+international transactions (see Figure 3-4).  
+32 
+    
+ 
+ 
+The CGE model used for the development of Thailand’s LEDS uses the input-output table 
+obtained from the Office of the National Economic and Social Development Council (NESDC) 
+to calibrate the model. The model considered in the analysis is disaggregated into detailed 
+production sub-sectors (see Table 3-1).  
+ 
+Figure 3-4: An overview of the AIM/CGE Model for Thailand’s LEDS 
+Table 3-1: Sectoral classification in the Thailand’s LEDS CGE Model 
+Non-energy Sectors 
+Agriculture and forestry  Crops, Livestock, Forestry, Fishery 
+Transport  Railways, Road transport, Water transport, Air 
+transport 
+Other transport services 
+Services  Water supply system, Communication, Trade 
+Other services 
+Industries  Metal and non-metallic, Food, beverage, Textile, 
+Paper 
+Chemical industries, Rubber and plastic products 
+Non-metallic products 
+Basic metal, Fabricated metal products, Machinery 
+Construction 
+Other manufacturing products 
+Energy Sectors 
+1. Coal and lignite, 2. Crude oil, 3. Petroleum products, 4. Gas 
+33 
+    
+ 
+ 
+•  Existing Plans used in Thailand’s LEDS development 
+Existing plans used in the formulation of Thailand's LEDS are: 
+1) National Strategy (2018 – 2037) prepared by the Office of the National Economic and 
+Social Development Board, Prime Minister's Office. It is Thailand’s first national 20-year 
+strategy with the vision that Thailand will become “a developed country with security, 
+prosperity and sustainability in accordance with the sufficiency economy philosophy” and 
+will ensure happiness and well-being for all Thais by 2037. 
+2) Climate Change Master Plan (2015-2050) prepared by the Office of Natural Resources 
+and Environmental Policy and Planning, Ministry of Natural Resources and Environment. 
+The master plan aims to drive Thailand towards sustainable development, low carbon 
+growth and climate change resilience by 2050. Three key missions are: (i) building climate 
+resilience by integrating policies and measures in all sectors, (ii) creating mechanisms to 
+reduce GHG emissions, leading to sustainable low carbon growth, (iii) building readiness 
+by enhancing capacity and awareness of stakeholders and (iv) developing a database, 
+knowledge, and technology to support climate change adaptation and mitigation.  
+3) Thailand’s NDC Roadmap (2021-2030) prepared by the Office of Natural Resources and 
+Environmental Policy and Planning, Ministry of Natural Resources and Environment. This 
+roadmap identifies mitigation measures in energy sector, including renewable electricity 
+and energy efficiency; IPPU sector such as the substitution of raw materials in cement 
+production;  and  waste  sector  such  as  waste  management  and  waste  incineration. 
+Measures under the NDC roadmap 2030 are projected to have the potential to reduce 
+GHG emissions by 113 MtCO2eq by 2030. 
+4) NDC Action Plan in the energy sector, 2021 – 2030, prepared by the Energy Policy and 
+Planning Office, Ministry of Energy. This action plan integrated policy and measures on 
+greenhouse gas emissions reduction from the Energy Efficiency Plan (EEP2018), the 
+Alternative Energy Development Plan (AEDP2018), and the Power Development Plan 
+(PDP2018) and is projected to contribute to the GHG emission reduction of 117.66 Mt-
+CO  by 2030. 
+2eq
+5) NDC Action Plan in the transport sector, 2021 – 2030, prepared by the Office of 
+Transport and Traffic Policy and Planning, Ministry of Transport. This plan identifies 
+measures of green transport, transport efficiency, and inclusive transport and is expected 
+to contribute to the GHG emissions reduction of 35.42 MtCO  in 2030. 
+2eq
+6)  NDC  Action  Plan  in  the  industrial processes and  product use  including  industrial 
+wastewater sector, 2021  – 2030,  prepared by the Department of Industrial Works, 
+Ministry  of  Industry.  This  action  plan  identifies  GHG  emission  reduction  measures, 
+including the modification of industrial production processes by clinker substitution and 
+substitution of refrigerant, and in industrial wastewater management by increasing biogas 
+production from industrial wastewater by recycling methane gas. Measures under this 
+34 
+    
+ 
+ 
+action plan are expected to contribute the GHG emission reduction of 2.25 MtCO  in 
+2eq
+2030. 
+7) NDC Action Plan in municipal waste management sector, 2021 – 2030, prepared by the 
+Pollution Control Department, Ministry of Natural Resources and Environment.  This 
+action plan consists of work plans/activities on municipal solid waste management and 
+municipal wastewater management that have the potential to reduce greenhouse gas 
+emissions.  These measures is expected to contribute the GHG emission reduction of 2 
+MtCO  in 2030. 
+2eq
+8) Energy Efficiency Plan 2018 – 2037 (EEP2018) prepared by Department of Alternative 
+Energy Development and Efficiency, Ministry of Energy. It aims to achieve a target of 30% 
+energy intensity reduction by 2037 compared to the 2010 level. It is projected to conserve 
+a total of 54,371 ktoe by the end of the plan, in which the priority sectors are transport, 
+industry, commercial/government buildings, residence and agriculture with energy saving 
+targets of 17,682 ktoe, 21,137 ktoe, 6,418 ktoe, 3,300 ktoe and 527 ktoe, respectively, by 
+2037. 
+9)  Alternative  Energy  Development  Plan  2018  –  2037  (AEDP2018)  prepared  by  the 
+Department of Alternative Energy Development and Efficiency, Ministry of Energy. It aims 
+to increase the portion of renewable power generation from 17.29% in 2019 to 30% of 
+total power requirement in 2037 which accounts for 29,358 MW. 
+10) Power Development Plan 2018 – 2037 (PDP2018) prepared by the Energy Policy and 
+Planning Office, Ministry of Energy. It aims to improve energy efficiency and enhance 
+energy security in Thailand, focusing on the following aspects: (1) energy security to cope 
+with the increasing demand for electricity according to National Economic and Social 
+Development  Plan  and  considering  fuel  diversification,  (2)  economy  to  maintain 
+reasonable cost of power generation for long-term economic competitiveness, and (3) 
+environment to reduce carbon dioxide emissions of power generation and focus on 
+renewable energy sources. 
+11) Master Plan for Sustainable Transport Development and Climate Change Mitigation 
+and the transport system development prepared by the Office of Transport and Traffic 
+Policy and Planning, Ministry of Transport. This plan aims to improve economic security, 
+increase economic competitiveness, increase capacity, promote quality of life and equity, 
+promote green growth, and enhance good governance. The key areas identified include 
+(i) integrated transport systems, (ii) improved transport services, (iii) regulations and 
+institution, (iv) human resource development and (v) innovation & technology strategies. 
+It is estimated that GHG emission reduction in the transport sector will contribute to 
+approximately 36.3% of Thailand’s NDC Roadmap in 2030. 
+12) National Industrial Development Master Plan 2012 – 2031 prepared by the Office of 
+Industrial Economics, Ministry of Industry. This plan highlights global climate change as 
+35 
+    
+ 
+ 
+one of the four major key factors for national industrial development by promoting an 
+environmental-friendly manner. 
+13) Thailand Industrial development strategy 4.0 (2017 – 2036) prepared by the Office of 
+Industrial  Economics,  Ministry  of  Industry.  The  strategy  aims  to  reform  to  smart 
+industries, reduce carbon emission and industrial waste. 
+14) Thailand’s Forest Reference Emission Level and Forest Reference Level for REDD+ under 
+the UNFCCC prepared by the Technical Working Group on REDD+ of Thailand, Department 
+of National Parks, Wildlife and Plant Conservation, Ministry of Natural Resources and 
+Environment.  
+15) 20-year Forest Strategic Plan (2017-2036) prepared by the Royal Forest Department, 
+Ministry of Natural Resources and Environment. This strategic plan aims at increasing 
+forest area covering up to 40% through local community participation, particularly in 
+upstream basin and mangrove forests. It would enhance greenhouse gas removals through 
+forest-related actions. 
+Details of these plans can be found in the bibliography.  
+3.2 Long-term sectoral emissions 
+3.2.1 The business-as usual 
+The business-as usual (BAU) emissions were developed based on technical analyses and 
+consultation with relevant stakeholders by the working group on Thailand’s LEDS, including 
+energy, industrial processes and product use (IPPU), waste, agriculture, and land use, land-
+use change and forestry (LULUCF) sectors. The energy consumption pattern and the GHG 
+trajectory in the BAU follow the past trend during 2010-2020. Climate policies intervention is 
+excluded from the BAU. Results reveal that Thailand’s GHG emissions of sources will increase 
+from 305 MtCO eq in 2005 to 661 MtCO eq in 2050, increasing at a compound annual growth 
+2 2
+rate (CAGR) of 1.7%. The energy sector will be the largest source of GHG emissions, followed 
+by the agriculture, the IPPU, and the waste sectors, while the LULUCF sector will play a vital 
+role in the removal of emissions in the BAU (see Figure 3-5). The GHG removal from the 
+LULUCF sector will gradually increase from 50 MtCO eq in 2005 to 100 MtCO eq in 2050, at 
+2 2
+the rate of 1.5% annually. It is noted that Thailand’s Third Biennial Update Report (BUR3) 
+indicated an average GHG removal by LULUCF of 73 MtCO eq between 2005 and 2016.  
+2
+ 
+ 
+36 
+    
+ 
+ 
+800
+700
+)
+q
+e 600
+2
+O
+C 500
+t
+M
+( 400
+s
+n
+o 300
+is
+s
+im 200
+e
+ G 100
+H
+G
+0
+-100
+-200
+2005 2010 2015 2020 2025 2030 2035 2040 2045 2050
+ 
+Figure 3-5: GHG emissions/removals by sector in 2005 – 2050 in the BAU scenario 
+ 
+Despite the fact that the removal of greenhouse gases will moderately increase, it will be 
+slowly increasing compared to GHG emissions of sources. In order to achieve the Paris 
+Agreement goal, it is necessary for Thailand to focus its attention on increasing its ambition 
+in GHG emissions reduction.  
+ 
+3.2.2 Long-term Low Greenhouse Gas Emission Development Strategy 
+The GHG removal in the LULUCF sector will be slightly increased to 120 MtCO  by 2037 and 
+2eq
+maintain stable through the end of this century. This projection is based on forest and green 
+area target identified in the National Strategy (2018 – 2037) that aims to increase forest and 
+green areas. Thus, Thailand will achieve the net GHG emissions of 200 MtCO eq in 2050 or a 
+2
+decrease of 64% compared to emissions in the BAU (See Figure 3-6). The GHG emissions from 
+sources will reach the peak level of 370 MtCO eq by 2030. In 2050, the energy sector will play 
+2
+a key role in mitigating GHG emissions.  In addition, the LULUCF sector will contribute the 
+removal of 5.6% of total GHG reduction in 2050. The post-2050 emissions will follow the IPCC 
+2-degree pathways, in which under this scenario, Thailand will achieve the balance between 
+GHG emissions by sources and removals by sinks in 2090. 
+37 
+    
+ 
+ 
+ 
+Figure 3-6: Thailand’s long-term low greenhouse gas emission scenario 
+ 
+Energy system 
+The energy sector plays an important role in the reduction of GHG emissions in Thailand’s 
+LEDS (Figure 3-6). Therefore, stringent GHG mitigation measures are needed to implement in 
+the energy sector. The GHG mitigation measures implemented in the energy sector are 
+generally classified into three main measures: energy efficiency improvement/technology 
+switching, implementation of renewable energy, and carbon capture and storage (CCS). GHG 
+mitigation measures identified for energy system are:  
+•  Power  generation:  The  energy  efficiency  improvement  and  the  deployment  of 
+natural gas with CCS and coal with CCS power plants, will increase to 43% in 2050 
+when compared to the current technology. 
+In 2050, the share of renewable electricity will increase to 33% of total electricity 
+generation. In addition, bio-energy with CCS (BECCS) power plant is needed to 
+achieve the 2-degree target in 2050. 
+•  Transport sector: The energy efficiency improvement will be achieved by behavioral 
+changes,  road  surface  improvement  and  engine  performance  improvement. 
+Currently, the proportion of new efficient vehicle fleets is increasing, including 
+hybrid, plug-in hybrid, and battery electric vehicles. Under Thailand’s LEDS, the 
+transport sector needs to increase the energy efficiency to 68% of total final energy 
+consumption  in  2050.  Though  the  share  of  energy  efficiency  improvement 
+decreases, the energy consumption in the efficient vehicle increases. 
+Liquid biofuels have been promoted as clean alternative fuels in the transport sector. 
+To achieve the targets under Thailand’s LEDS, the share of liquid biofuel use will have 
+to increase from 8% in 2030 to 34% of total final energy consumption in 2050. 
+38 
+    
+ 
+ 
+•  Manufacturing industries: Final energy consumption in manufacturing industries 
+varies depending on the activities. For example, the heating system is used mainly in 
+the food and beverage industries, and the chemical industries. The textile industries 
+demand  large  amounts  of  electricity  in  their  processes.  The  energy  efficiency 
+improvement of electrical devices has to increase to 77%. In the heating systems, the 
+share of renewable energy will have to increase to approximately 46% and 50% of 
+total final energy consumption in 2030 and 2050, respectively. 
+Moreover, the deployment of CCS in industries will play a significant role in the 
+chemical  and  the  non-metallic  sub-industries.  The  estimated  captured  carbon 
+dioxides will be 18 MtCO eq in 2050. 
+2
+•  Residential sector: Electricity accounts for the highest energy consumption in the 
+residential sector. Household air conditioners are one of the key drivers of electricity 
+demand in Thailand. The energy efficiency improvement of energy devices in the 
+residential sector will have to increase to 29% of total final energy consumption in 
+2050.  
+The share of renewable energy use in households will have to increase to 49% of 
+total final energy consumption in 2050. Such a heating demand is driven by the 
+cooking  system.  Though  the  share  of  renewable  energy  used  for  heating  is 
+decreasing, the amount of renewable energy consumption will increase. 
+•  Commercial buildings: The energy efficiency improvement of energy devices in the 
+commercial buildings will have to increase to 33% of total final energy consumption 
+in 2050.  Solar water heating devices have to be promoted to produce hot water in 
+hotels, condominiums, and hospitals. The share of solar water heating will have to 
+increase to 5% of total final energy consumption in 2050. 
+Therefore, the GHG emissions in the energy sector is projected to be approximately 220.0 
+MtCO  in 2050. 
+2eq
+ 
+IPPU 
+Thailand’s LEDS of the IPPU sector is developed based on the mitigation measures identified 
+in the NDC Action Plan in the industrial processes and product use including industrial 
+wastewater sector 2021 – 2030. These mitigation measures consist of the modification of 
+industrial production processes including clinker substitution, substitution of refrigerant and 
+industrial wastewater management, including increasing biogas production from industrial 
+wastewater by recycling methane gas. Then, the emission trajectory during 2031-2050 was 
+modelled and estimated in Thailand’s LEDS process. Results indicate that the GHG emissions 
+in the IPPU sector will be 34.0 MtCO  in 2050. 
+2eq
+ 
+Waste 
+Thailand’s LEDS of the waste sector is developed based on the mitigation measures identified 
+in the NDC Action Plan in Municipal Waste Management 2021 – 2030. The action plan consists 
+39 
+    
+ 
+ 
+of work plans/activities on community solid waste management and community wastewater 
+management that has the potential to reduce greenhouse gas. The GHG emissions reduction 
+measures  include  waste  reduction,  landfill  gas,  waste  to  energy,  semi  aerobic  landfill, 
+composting,  anaerobic  digestion  and  mechanical  biological  treatment.  The  emission 
+trajectory in the waste sector during 2031-2050 was modelled and estimated in Thailand’s 
+LEDS process. Therefore, it shows a potential to reduce greenhouse gas emissions from 
+community solid waste management and community wastewater management in which the 
+GHG emissions from the waste sector is projected to be approximately 16.0 MtCO  in 2050. 
+2eq
+ 
+Agriculture 
+The development of  Thailand’s  LEDS  of  the  agriculture sector takes  into  consideration 
+adaptation measures identified in the existing policies and plans that have mitigation co-
+benefits such as enteric fermentation, and manure management.  In this study, it is perceived 
+that adaptation measures in rice cultivation and agricultural soil will contribute to lower GHG 
+emissions in the agriculture sector post-2050. The emission trajectory in the agriculture sector 
+during 2031-2050 was modelled and estimated in Thailand’s LEDS process. Thus, the GHG 
+emissions from the agriculture sector is projected to be approximately 50.0 MtCO  in 2050. 
+2eq
+ 
+LULUCF 
+The development of the Thailand’s LEDS of the LULUCF sector is based on the National 
+Strategy (2018-2037). The implementation of the strategy will drastically increase carbon 
+sinks as the key measures include increasing and remaining primary forest and regenerated 
+natural forest area, increasing economic forest area, increasing and remaining cropland, and 
+reducing biomass burning. It is expected that the implementation of the strategy will lead to 
+carbon dioxide removals in the LULUCF of approximately 120.0 MtCO  in 2050.  
+2eq
+3.3 Macroeconomic Impact Assessment 
+The development of national policies, including in relation to climate change should carefully 
+consider the direction and pattern of local and global development. A country's development 
+patterns are greatly influenced by public health policy, energy security, transport and urban 
+infrastructure and capital investment, particularly investment in the manufacturing and 
+service sectors, which are key drivers of a country's economy. To achieve the 2-degree 
+pathway  by  2050,  the  intensive  climate  policy  packages  are  needed.  Therefore,  it  is 
+imperative  to  understand  the  economic  impacts  as  a  result  of  the  adoption  and 
+implementation  of  such  packages.  In  the  development  of  Thailand’s  LEDS,  the 
+macroeconomic impacts are mainly considered in terms of total energy system cost, GDP and 
+welfare. In addition, the carbon prices by 2050 were also estimated. 
+ 
+ 
+40 
+    
+ 
+ 
+3.3.1 Total energy system cost 
+Thailand  requires  additional  investment  in  the  infrastructure  in  power  generation, 
+transportation, manufacturing industries, and buildings. In the power sector, the present 
+worth of the power system cost will be increased by 62.0% compared to the BAU level (see 
+Table 3-2). The natural gas power plants with CCS and bio-energy with CCS require the highest 
+investment in 2050, followed by wind and solar powers. The transport system cost will be 
+increased by 16.2% compared to the BAU level. Electric trucks and electric pick-ups will 
+account for the highest share of investment followed by electric buses and trucks. In the 
+manufacturing industries, the energy efficiency improvement in the heating and the motor 
+systems and the deployment of CCS require the highest investment in the non-metallic and 
+the chemical industries in 2050. The manufacturing industries system cost will be increased 
+by  15.3%  compared  to  the  BAU  level.  The  heating  systems,  cooling  systems,  and  the 
+installation of solar water heating systems require the highest investment in the building 
+sector; however, building sector shows almost unchanged investment compared to the BAU 
+level because of the reduction in technology prices and greater use of the energy efficient 
+technology during 2030-2050. 
+Table 3-2: Change of net present value of total energy system cost 
+Change of total energy system cost  
+compared to the BAU 
+Sector 
+(%) 
+ 
+Power generation  62.0 
+Transportation  16.2 
+Manufacturing industries  15.3 
+ 
+3.3.2 Gross Domestic Product (GDP) 
+The GDP is one of the important primary macroeconomic indicators. It measures the status 
+of a country’s economy. The assessment concludes that measures identified in Thailand’s 
+LEDS of the 2-degree pathway will lead to a decline in the GDP compared to the BAU 2050. 
+There will be a slight GDP loss during 2021-2037. The GDP loss in 2030 is estimated to be 
+2.61% while stringent nation-wide GHG mitigation measures after 2037 will result in higher 
+GDP losses of 6.6% in 2040 and 18.01% in 2050, respectively. In order to avoid this GDP loss, 
+Thailand will need to prepare a transitional plan for its transformation in the energy and 
+transport infrastructure to create the opportunities and increase the value of investment in 
+low-emission and environmentally friendly businesses. This domestic preparation, together 
+with the expected lower costs of advanced GHG mitigation technologies, will mitigate such 
+economic impacts and result in a better economy in a long run. 
+41 
+    
+ 
+ 
+3.3.3 Welfare 
+Government and household consumption form the major components in the national GDP. 
+The 2-degree pathway by 2050 will result in a significant increment in the government 
+consumption and a drastic decline in the household consumption. The average welfare loss is 
+estimated at 5.0% during 2020-2030. The steep decline in the household consumption, in the 
+attempt to attain the emission target by 2050, will lead to a sharp increase in the welfare 
+losses. Thailand’s economy will face severe damages at a welfare loss of 21.3% during 2030-
+2050.  Thailand may increase government expenditures to boost economic activities. The 
+implementation  of  emission  reduction  measures  under  Thailand’s  LEDS  will  increase 
+government spending on welfare benefits, education, research and training, manufacturing 
+industries, power generation, transportation, infrastructure investments, etc. 
+3.3.4 Carbon Price 
+Carbon  price  is  estimated  to  be  88  US$/tCO   in  2025  and  109  US$/tCO   in  2030, 
+2eq 2eq
+respectively. However, carbon price will exponentially increase to 368 US$/tCO  in 2050 due 
+2eq
+to the stringent GHG mitigation measures after 2037, which is similar to the study by IIASA 
+that found the average carbon price in Asia will be 390 US$/tCO  by 2050.  
+2eq
+A higher carbon price leads to a larger reduction in the household consumption of goods and 
+services as well as demands for switching to cleaner energy resources and technologies. To 
+lower the carbon prices, Thailand’s economy needs to enhance the deployment of energy 
+efficient technologies. 
+The macroeconomic assessment also shows that in the absence of technological progress, 
+reaching a more ambitious emission reduction goal beyond the 2-degree pathway to attain 
+the 1.5-degree pathway by 2050, or balancing between GHG emissions by sources and 
+removals by sinks in 2050, will yield a prohibitively high economic cost. In addition, there is a 
+need for extensive investments in low carbon technology options and attempts to limit the 
+macroeconomic loss to meet the 1.5-degree pathway by 2050. Considering Thailand's current 
+economic development and industrial structure, an intensive transformation of the entire 
+system is required to move from the fossil fuel-based economy. To balance emissions 
+reduction with economic growth, all sectors need to be transformed, including the basic 
+patterns of people's daily activities. 
+3.4 Co-benefits of Long-term Low Emissions 
+Key mitigation actions are needed to reduce the proportion of fossil fuel use. These measures 
+are necessary for the private sector, especially the industrial sector, even though the impact 
+would be short term. If all sectors do not begin to make this transition, the losses will be even 
+greater. Despite some potential negative socio-economic impacts, the implementation of 
+Thailand’s LEDS is likely to have positive impacts such as an increase in domestic eco-
+investment and green consumption and the creation of green employment. This will bring 
+about a paradigm shift and lead to long-term sustainable development in Thailand. 
+42 
+    
+ 
+ 
+In terms of energy security, an indicator based on the diversity of primary energy, which is an 
+indicator of the diversity of energy sources to support the energy needs in the country, shows 
+that Thailand’s LEDS and the BAU 2050 will have almost the same value of diversity of primary 
+energy. This is because Thailand has limited options of energy resources. The new form of 
+energy, such as hydrogen, would improve the energy security of Thailand. However, the 
+indicator on net gas import dependency in Thailand’s LEDS will be much lower than that in 
+the BAU 2050. 
+The mitigation co-benefit is a key consideration for the development of Thailand’s LEDS. There 
+are two types of co-benefits examined under Thailand’s LEDS, which are energy intensity and 
+CO  emissions per capita (CECap). It is projected that the energy intensity and CO  emissions 
+2 2
+per capita (CECap) in the BAU 2050 will be 0.62 ktoe/USD and 7.37 ton-CO  per capita, 
+2
+respectively, while in Thailand’s LTS 2050 they will be 0.50 ktoe/USD and 2.42 ton-CO  per 
+2
+capita, respectively. This finding clearly reveals a good improvement of these indicators. 
+In conclusion, the results of co-benefit analysis under Thailand’s LEDS indicates a decreasing 
+in energy intensity of 19.4% and a decrease in CECap of 67.2% compared to the BAU 2050. In 
+addition,  the  measures  implemented  under  Thailand’s  LEDS  will  help  reduce  local  air 
+pollutants generated from combustion of fossil fuels, such as NOx, CO, NMVOC and PM2.5.  
+3.5 Thailand Carbon Neutrality 
+With global warming requiring rapid and comprehensive actions to reduce greenhouse gas 
+emissions, many countries have stepped up efforts to shift to clean energy and decarbonized 
+activities. Thailand also has focused its attention on reducing carbon dioxide emission in the 
+energy sector, which is the largest contributor of GHG emission, in order to support the 
+achievement of Thailand’s LEDS goal. Thailand has formulated the National Energy Plan (NEP 
+2022)  framework  as  a  policy  framework  to  guide  the  related  agencies  to  achieve  the 
+transformational change to clean energy systems and will achieve the goal of becoming a 
+carbon neutral country in 2065-2070. In addition to Thailand’s LEDS, Thailand considered two 
+additional scenarios focusing on only carbon dioxide emissions in the energy, IPPU, waste and 
+agriculture sectors as follows: 
+•  Thailand carbon neutrality by 2070 scenario. In this scenario, the share of renewable 
+electricity generation will be at least 50% of new power generation capacity by 2050 
+and new vehicles in the market will be electric vehicle (Battery Electric Vehicle (BEV) 
+and Plug-in Hybrid Electric Vehicle (PHEV)) with the share of 69% by 2035. Under this 
+scenario, carbon dioxide emissions in the IPPU, waste and agriculture sectors will 
+follow the 2-degree pathway. 
+•  Thailand carbon neutrality by 2065 scenario. This scenario employs the same policy 
+and measures in the 2070 scenario and also includes energy efficiency improvement. 
+The  2070  and  2065  carbon  neutrality  scenarios  are  presented  in  Figures  3-7  and  3-8, 
+respectively. The net nationwide carbon dioxide emissions under the 2070 scenario and the 
+43 
+    
+ 
+ 
+2065 scenario will be 62 MtCO  and 41 MtCO  in 2050, respectively. Consequently, Thailand 
+2 2
+will achieve a net zero carbon dioxide emission by 2070 with 50% share of renewable 
+electricity plants in the new power generation capacity and 69% share of new electric vehicles 
+on the market by 2035. Furthermore, Thailand will achieve net zero carbon dioxide emissions 
+as early as 2065 if it applies the same policies and measures as in the 2070 scenario and 
+incorporates energy efficiency improvement. 
+ 
+Figure 3-7: Thailand carbon neutrality by 2070 scenario 
+ 
+Figure 3-8: Thailand carbon neutrality by 2065 scenario 
+ 
+To achieve the carbon neutrality by 2065, Thailand emphasizes the importance of innovation 
+and RD&D, especially in the areas for low carbon electricity generation, CCS, bio-energy with 
+CCS and hydrogen economy. Public transport infrastructure and networks will be priorities to 
+44 
+    
+ 
+ 
+decarbonize  the  transport  sector.  A  complete  transformation  of  the  vehicle  fleet,  the 
+development of public EV fast charging networks, and hydrogen fueling stations are required 
+as early as possible. The new energy policy framework of Thailand’s carbon neutral target set 
+by Ministry of Energy in 2021 includes: 
+1)  Policy direction to increase the share of new renewable electricity generation to be 
+at least 50%, increase the share of electric vehicles to be at least 30% by 2030, 
+increase energy efficiency by reduce energy intensity at least 30% by 2037, and 
+promote energy system transformation through decarbonization, digitalization, 
+decentralization, deregulation, and electrification.  
+ 
+2)  Framework of energy system transformation in the power sector includes (i) low 
+carbon power generation to achieve Thailand’s carbon neutrality by 2065-2070, (ii) 
+carbon capture and storage (CCS), (iii) carbon capture utilization and storage (CCUS), 
+(iv) grid modernization to support disruptive technologies such as smart energy 
+management and energy storage systems, (v) distributed generation through smart 
+micro grids to support peer-to-peer and net-metering markets and (iv) low carbon 
+electrification such as battery electric vehicles and EV infrastructure. 
+3)  Framework of energy system transformation in natural gas includes (i) promoting 
+liquefied natural gas (LNG) in industries and transportation, (ii) improving natural 
+gas system management, (iii) infrastructure development of LNG, and (iv) good 
+governance of natural gas market. 
+4)  Framework of energy system transformation in oil includes (i) improving petroleum 
+distillation process to meet EURO5 and EURO 6 standards, (ii) promoting low carbon 
+fuels such as biofuels used in transportation including removing petroleum subsidy, 
+(iii)  improving  the  infrastructure  and  modern  management  system  and  (iv) 
+promoting battery electric vehicles and revising management system of liquefied 
+petroleum gas (LPG), including shifting from LPG stoves in households to electric 
+stoves. 
+5)  Framework of alternative energy to increase renewable electricity generation to 
+50% by 2050 and integration of energy storage in the long term to lessen impacts of 
+increasing energy prices. The energy system transformation needs to (i) increase 
+domestic renewable energy production, (ii) promote distributed generation, micro-
+grids  and  grassroots  economy,  (iii)  digitalize  renewable  energy  control  center 
+platform for both on-grid and off-grid areas, (iv) provide incentives and policies that 
+support renewable energy investment and markets, and (v) promote renewable 
+energy  technology  investment,  bio-economy,  research  and  development  of 
+hydrogen, and bio-jet. 
+6)  Framework  of  energy  efficiency  improvement  includes  digital  technology  and 
+innovation to help reduce greenhouse gas emissions and reduce investment in new 
+45 
+   power plants. The energy efficiency business will help promoting Energy Service 
+Companies  (ESCO)  and  job  opportunities.  The  supportive  actions  include  (i) 
+increasing energy efficiency target measures such as Building Energy Codes (BEC), 
+Energy Efficiency Resource Standards (EERS) and ESCO business, (ii) promoting 
+Green  Buildings  and  Industries  by  using  smart  energy  management,  and  (iii) 
+promoting digital platform for energy savings, smart energy management, EV data 
+platforms and EV infrastructure, including sufficient number of EV charging stations. 
+Thailand’s carbon neutral target is fundamental for achieving its net zero greenhouse gas 
+emissions target. It is an ambitious move for developing countries that have limited access to 
+modern energy infrastructure. The NEP 2022 is a starting point for energy transition in 
+Thailand as it contains concrete measures to reduce carbon emissions in the near future. 
+3.6 Support Needs 
+Transition to a low-carbon society in Thailand, through the implementation of policies and 
+measures  identified  in  Thailand’s  LEDS  and  the  carbon  neutral  pathway,  requires  a 
+contribution of all sectors and actors. Thailand is looking for more low-carbon business 
+models from both domestic and international investors. This opportunity will enable Thailand 
+to build forward better to become a green economy country after the COVID-19 pandemic. 
+The green economy ecosystem will be accelerated with the goal of reducing greenhouse gas 
+emissions to net-zero. However, to achieve Thailand's LEDS targets, international cooperation 
+and  support  is  needed for  policy  development, research and  technology development, 
+mechanisms and instruments, and capacity building, as follows: 
+Policy implementation 
+• Build capacity in the public and private sectors to integrate mitigation action into
+their respective plans or enterprises.
+• Raise awareness on climate change, Thailand’s LEDS and NDCs among relevant
+stakeholders and the general public.
+Research development and deployment (RD &D) in the following priority areas: 
+Energy and transport sector 
+• Renewable energy technologies (such as solar, wind) and approaches in advanced
+energy storage system (EES) and demand-side management.
+• Carbon capture and storage (CCS) or carbon capture, utilization and storage (CCUS)
+in power plant and industries
+• Bio-energy with CCS
+• Electric Vehicle (xEV), battery and Infrastructures
+• Grid Modernization, smart energy management and Independent Power Supply (IPS)
+• Other technologies related to carbon neutrality (Hydrogen, Bio-hydrogenated diesel
+(BHD)
+46  
+ 
+ 
+Other sectors 
+•  Smart energy management in the industrial sector 
+•  Waste-to-energy technologies in the waste sector 
+•  CH4 reduction technologies in agriculture such as enteric fermentation and manure 
+management and rice cultivation. 
+Mechanisms and instruments 
+•  Financial instruments, incentives, mechanisms and approaches to engage the 
+private sector in the shift to green investment. 
+•  Share knowledge and best practices on legal frameworks and modalities to support 
+Thailand’s LEDS and NDC implementation. 
+3.7 Implementation Approach  
+Thailand's first best practices during NAMAs implementation will be used in the NDC and LT-
+LEDS  implementation.  As  Thailand’s  LEDS  is  a  national  framework  on  climate  change 
+mitigation, it is crucial that it is implemented in a methodical and holistic manner across 
+sectors and levels.  
+The implementation of Thailand’s LEDS will be in line with the timeframe of existing and 
+subsequent NDCs. During 2021-2030, Thailand's LEDS will be implemented through the NDC 
+roadmap and sectoral action plans which provide detailed guidance on measures and realistic 
+actions to achieve the 1st NDC target by 2030, as well as regular monitoring and evaluation of 
+the progress and achievement.  
+The monitoring and evaluation of the mitigation measures relating to the Thailand’s LEDS will 
+be carried out to ensure its effectiveness and efficiency in achieving its objectives and key 
+performance indicators. Because it is a long-term plan spanning many years during which 
+many changes can occur, it is envisaged that it will be subject to a comprehensive review 
+every five years. This is consistent with the approach under the Paris Agreement that assigned 
+Parties to submit their NDCs to the UNFCCC every five year. There is an opportunity to 
+improve the alignment of LT-LEDS with the five-year revision cycles of NDC submission.  The 
+review will provide a chance to reassess current policy pathways and new developments 
+which may affect the range of possible ambition. Thailand will review the information and 
+situation  regarding  the  implementation  of  the  national  strategy  along  with  relevant 
+information available domestically and internationally to revise Thailand’s LEDS accordingly. 
+The revision of Thailand’s LEDS can take into account the following factors:  
+•  Trend and progress in the development of related technologies or the rapid decline 
+in the investment cost of technologies 
+•  The major changes in national strategy or related national policy direction  
+•  The readiness of the line ministries and local administration  
+•  Awareness, understanding and engagement among the various stakeholders 
+•  Evaluation of the problems and obstacles to implementation 
+47 
+    
+ 
+ 
+Consideration will also be given to any gaps or unmet needs that arise within the effort to 
+reduce GHG emissions, which will be used to revise and refine the next phase of the plan. The 
+implementation approach will be established to ensure a clear guideline for this monitoring 
+and evaluation.  
+Addressing climate change requires full engagement of all stakeholders and sectors, including 
+government,  private  sector  and  civil  society  across  all  levels  of  administration  and 
+organization.  They are key to the implementation of climate actions under Thailand’s LEDS. 
+The development of practical tools and mechanisms which promote wider participation and 
+collaboration will support building climate change resilience and contribute to low-carbon 
+ 
+growth.
+ 
+ 
+48 
+    
+ 
+ 
+BIBLIOGRAPHY 
+Chunark, P., Thepkhun, P., Promjiraprawat, K., Winyuchakrit, P., & Limmeechokchai, B. 
+(2015). Low carbon transportation in Thailand: CO2 mitigation strategy in 2050. SpringerPlus, 
+4(1), 618. doi:https://doi.org/10.1186/s40064-015-1388-6 
+Department of Alternative Energy Development and Efficiency Ministry of Energy, Alternative 
+Energy Development Plan (AEDP) 2018. 
+Department of Alternative Energy Development and Efficiency Ministry of Energy, Energy 
+Efficiency Plan (EEP) 2018. 
+Department of Industrial Works Ministry of Industry, Thailand Greenhouse Gas Reduction 
+Action Plan in the Industrial Processes and Product Use Including Industrial Wastewater 2021 
+– 2030. 
+Department of National Parks Ministry of Natural Resources and Environment, Wildlife and 
+Plant Conservation, Thailand’s Forest Reference Emission Level and Forest Reference Level 
+for REDD+ Under the UNFCCC Prepared by the Technical Working Group on REDD+ of 
+Thailand. 
+Department of Provincial Administration Ministry of Interior, Declaration of population 1999 
+– 2020. 
+Energy Policy and Planning office Ministry of Energy, Power Development Plan (PDP) 2018. 
+Energy Policy and Planning office Ministry of Energy, The National Greenhouse Gas Reduction 
+Action Plan in the Energy Sector 2021 – 2030. 
+Kainuma, M., Matsuoka, Y., & Morita, T. (2011). Climate policy assessment: Asia-Pacific 
+integrated modeling. Japan: Springer Science & Business Media. 
+Kainuma, M., Pandey, R., Masui, T., & Nishioka, S. (2017). Methodologies for leapfrogging to 
+low carbon and sustainable development in Asia. Journal of Renewable and Sustainable 
+Energy, 9(2), 021406. doi:10.1063/1.4978469 
+Ministry of Natural Resources and Environment, Thailand’s Forest Reference Emission Level 
+and Forest Reference Level for REDD+ Under the UNFCCC Prepared by the Technical Working 
+Group on REDD+ of Thailand 
+Office of Agricultural Economics, Agricultural Statistics of Thailand 2020 
+Office of Industrial Economics Ministry of Industry, National Industrial Development Master 
+Plan 2012 – 2031. 
+Office  of  Natural  Resources  and  Environmental  Policy  and  Planning  Climate  Change 
+Management and Coordination Division Ministry of Natural Resources and Environment, 
+Thailand Third Biennial Update Report. 
+49 
+    
+ 
+ 
+Office of the National Economic and Social Development Council, NESDC Economic Report: 
+Thai Economic Performance in Q4 and 2020 and Outlook for 2021. 
+Office of the National Economic and Social Development Council, The National Strategy, 2018 
+– 2037. 
+Office  of  the  National  Economic  and  Social  Development  Council  Ministry  of  Natural 
+Resources and Environment, The Twelfth National Economic and Social Development Plan 
+2017 – 2021, extended to 2022 
+Office  of  National  Water  Resources,  The  20-Year  Master  plan  on  Water  Resources 
+Management 2018-2037. 
+Office of Natural Resources and Environmental Policy and Planning, Thailand’s Sixth National 
+Report on the Implementation of the Convention on Biological Diversity. 
+Office of Natural Resources and Environmental Policy and Planning Ministry of Natural 
+Resources and Environment, Climate Change Master Plan 2050. 
+Pollution Control Department, Thailand State of Pollution Report 2018. 
+Royal Forest Department, Forestry Statistics Data 2018. 
+Selvakkumaran, S., & Limmeechokchai, B. (2015). Low carbon society scenario analysis of 
+transport sector of an emerging economy—The AIM/Enduse modelling approach. Energy 
+Policy, 81, 199-214. doi:https://doi.org/10.1016/j.enpol.2014.10.005 
+Selvakkumaran, S., Limmeechokchai, B., Masui, T., Hanaoka, T., & Matsuoka, Y. (2015). A 
+quantitative  analysis  of  Low  Carbon  Society  (LCS)  measures  in  Thai  industrial  sector. 
+Renewable and Sustainable Energy Reviews, 43, 178-195. doi:10.1016/j.rser.2014.11.026 
+Thai Meteorological Department, Thailand’s Climate Change Report 2019. 
+The  Shared  Socioeconomic  Pathways  and  their  energy,  land  use,  and  greenhouse  gas 
+emissions implications: An overview, Global Environmental Change, Volume 42, Pages 153-
+168, 2017, ISSN 0959-3780, DOI:110.1016/j.gloenvcha.2016.05.009 
+World Bank Group, Thailand Economic Monitor 2019. 
+50 
+   THE KINGDOM OF THAILAND 
+MINISTRY OF NATURAL RESOURCES AND ENVIRONMENT - POLICY FORMULATION 
+AND NATIONAL FOCAL POINT 
+OFFICE OF NATURAL RESOURCES AND ENVIRONMENTAL POLICY AND PLANNING 
+CLIMATE CHANGE MANAGEMENT AND COORDINATION DIVISION 
+HONORARY ADVISOR 
+H.E. Mr. Varawut Silpa-archa 
+Minister of Natural Resources and Environment 
+Mr. Jatuporn Buruspat 
+Permanent Secretary, Ministry of Natural Resources and Environment 
+Dr. Raweewan Bhuridej 
+Former Secretary-General, Office of Natural Resources and Environmental Policy  
+and Planning  
+Dr. Phirun Saiyasitpanich 
+Secretary-General, Office of Natural Resources and Environmental Policy and Planning 
+Dr. Natthanich Asvapoositkul 
+Director of Climate Change Management and Coordination Division, Office of Natural 
+Resources and Environmental Policy and Planning 
+DEVELOPMENT TEAM  
+Dr.    Bundit Limmeechokchai   Dr.    Pornphimol Winyuchakrit 
+Dr.    Kollawat Sakhakara   Dr.    Salony Rajbhandari 
+Mrs. Rosalind Amornpitakpun  Dr.    Puttipong Chunark 
+Mr.   Sivach Kaewcharoen   Dr.    Piti Pita 
+Mr.   Teerapong Laopongpith   Dr.    Pemika Misila 
+Ms.   Chanutsakul Supirak   Ms.  Achiraya Chaichaloempreecha 
+Dr.    Anuporn Wanwisade   Ms.  Sukanya Kanbua 
+Ms.   Pathitta Thumcharoen 
+CONTRIBUTORS 
+The Prime Minister's Office     Ministry of Natural Resources and Environment 
+Ministry of Agriculture and Cooperatives  Ministry of Transport 
+Ministry of Energy   Ministry of Digital Economy and Society 
+Ministry of Finance     Ministry of Commerce 
+Ministry of Foreign Affairs  Ministry of Industry 
+Ministry of Higher Education, Science,   Ministry of Interior 
+Research and Innovation 
+Office of the National Economic and   Thailand Greenhouse Gas Management 
+Social Development Council   Organization (Public Organization) 
+Bangkok Metropolitan Administration 
+SUPPORTED BY  
+United Nations Development Programme (UNDP) 

@@ -1,0 +1,3450 @@
+Sweden’s long-term strategy for 
+ 
+redu  cing greenhouse gas 
+ 
+emissions 
+ 
+ 
+ 
+December 2020 
+ 
+ 
+ 
+   
+ 
+   
+ Index 
+Summary............................................................................................. 3 
+1  Introduction .............................................................................. 7 
+2  Sweden’s climate policy framework ......................................... 9 
+2.1  Sweden’s national climate goals ............................................................... 9 
+2.2  Sweden’s Climate Act .............................................................................. 12 
+2.3  A Climate Policy Council ........................................................................ 13 
+3  Sweden’s current conditions and emissions .......................... 15 
+3.1  National situation ..................................................................................... 15 
+3.2  Sweden’s greenhouse gas emissions and removals .............................. 17 
+3.3  Energy ........................................................................................................ 25 
+3.4  Digitalisation ............................................................................................. 30 
+3.5  Climate change adaptation ...................................................................... 30 
+4  Action areas and instruments ................................................ 35 
+4.1  Instruments work together to attain Sweden’s climate goals ............. 35 
+4.2  Cross-sectoral, overarching policy instruments ................................... 36 
+4.3  Transport ................................................................................................... 43 
+4.4  Industry ..................................................................................................... 51 
+4.5  Electricity and district heating ................................................................ 56 
+4.6  Households and services ......................................................................... 60 
+4.7  Non-road mobile machinery .................................................................. 65 
+4.8  Waste.......................................................................................................... 67 
+4.9  Agriculture ................................................................................................ 71 
+4.10  Land use, land use change and forestry, LULUCF ............................. 74 
+5  Consequences of Sweden’s goals and actions ...................... 79 
+5.1  Consequences of failing to meet the climate targets ........................... 79 
+5.2  Consequences of Swedish policy to attain the climate goals ............. 80 
+6  Buy-in and realisation – Sweden’s path to goals and measures
+  83 
+Annex 1 Modelling ............................................................................ 86 
+ 
+Ministry of the Environment  2 (87) 
+ 
+ 
+ Summary 
+Purpose 
+Long term strategies shall contribute to fulfilling Parties commitments under 
+the UNFCCC and the Paris Agreement to reduce anthropogenic greenhouse 
+gas emissions and enhance removals by sinks, and to promote increased 
+carbon sequestration. Reporting concerns national long-term objectives for 
+territorial emissions. This document constitutes Sweden’s reporting and 
+derives from Sweden’s existing targets, and policy instruments and actions 
+decided on in the field of energy and climate. The strategy is largely based on 
+the national climate policy framework and Government Bill1 En samlad 
+politik för klimatet – klimatpolitisk handlingsplan (A coherent policy for the 
+climate – climate policy action plan).  
+The Swedish Climate Policy Framework  
+Under the Paris Agreement, all countries are to contribute towards holding 
+the increase in the global average temperature to well below 2 °C and 
+pursuing efforts to limit the temperature increase to 1.5 °C. This demands 
+wide-ranging action to reduce greenhouse gas emissions and also demands 
+that every sector of society plays a part in the climate transition. In 2017, the 
+Swedish Parliament (Riksdag) adopted a climate policy framework with (1) 
+national climate goals, (2) a Climate Act and (3) a Climate Policy Council.  
+The climate policy framework’s long-term climate goal establishes that, by 
+2045 at the latest, Sweden is to have zero net emissions of greenhouse gases 
+into the atmosphere and should thereafter achieve negative emissions. By 
+2045, greenhouse gas emissions from Swedish territory are to be at least 85 
+per cent lower than emissions in 1990. To achieve net zero emissions, 
+supplementary measures may be counted in line with rules decided at 
+international level. Supplementary measures may be (1) increased net 
+removal of carbon dioxide in forests and land, (2) verified emission 
+reductions from investments in other countries, and (3) negative emission 
+technologies such as capture and storage of biogenic carbon dioxide 
+(BECCS).  
+Milestone targets for Swedish territorial emissions in the sectors covered by the 
+EU’s Effort Sharing Regulation have been adopted for 2020, 2030 and 2040, 
+see Figure 1. Emissions from domestic transport, excluding domestic 
+ 
+1 Prop 2019/20:65 
+Ministry of the Environment  3 (87) 
+ 
+ 
+ aviation which is included in the EU ETS, are to be reduced by at least 70 
+per cent by 2030 compared with 2010. 
+Figure 1. Sweden’s climate targets (with and without the opportunity to use supplementary 
+measures) and historical emissions 
+80
+70
+60
+Emissions  Targets for 
+50
+qe within EU  non-trading  
+O 240 ETS  sectors  National net zero target  
+C Sweden  for Sweden’s total emissions 
+ tM30 by 2045 
+20 ESR 
+Net negative 
+10 emissions 
+after 2045 
+0
+ 
+1990 1995 2000 2005 2010 2015 2020 2025 2030 2035 2040 2045
+ 
+ 
+Sweden’s Climate Act imposes an obligation on current and future 
+governments to pursue a policy based on the national climate goals. The Act 
+contains elements that ensure that the policy is planned and followed up.  
+Sweden’s Climate Policy Council is an independent expert body tasked 
+with evaluating whether the overall policy decided by the Government is 
+compatible with the climate goals.  
+The EU’s climate policy has a major impact on how Swedish policy can be 
+conducted. The EU's current climate target is to cut greenhouse gas 
+emissions by at least 40 per cent in the EU by 2030 compared to 1990. In 
+September 2020 the European Commission presented its 2030 Climate 
+Target Plan which proposed to increase the target to at least 55 per cent. The 
+EU's heads of state and government are expected to endorse such an 
+enhanced target at the end of 2020. 
+The emissions covered are territorial and do not include the emissions that 
+the EU causes outside the EU’s borders. A number of policy instruments at 
+EU level, including emission standards for vehicles and emissions trading are 
+very important to Sweden’s possibility to meet its own national targets. 
+Ministry of the Environment  4 (87) 
+ 
+ 
+ Sweden uses a number of national and EU-wide policy instruments to meet 
+the national climate goals. Emissions pricing forms the basis of governance 
+and is supplemented by targeted initiatives. The policy instruments in 
+Sweden and the EU span all sectors of society. It is estimated that they will 
+help to achieve the targets but that further measures will be needed to fully 
+attain them. Areas of possible actions to attain the long-term climate target 
+have been identified in the respective sectors. Government spending on 
+climate related initiatives has increased substantially in recent years. 
+Table 1. Overview of key policy instruments and measures impacting on the national climate 
+targets (EU instruments are marked with an asterisk) 
+Non-  
+Electricity  Homes  road  LULUCF 
+Agricultu
+Transport   Industry   and district  and  mobile  Waste 
+re  
+heating  premises  machiner
+y 
+               
+Energy  Energy and  Energy and  Energy  Energy  Ban on  CAP*  Forestry 
+and  carbon tax   carbon tax  and  and  combustible  Act 
+carbon tax  carbon tax  carbon tax  and organic 
+Aid for 
+waste in 
+EU ETS*  EU ETS*  manure  Environme
+landfill 
+Emission  Eco- Reduction  gas  ntal Code 
+reduction  design  obligation  rules on 
+Industrikliv The 
+targets for  Directive*  Collection  land 
+et (the  Electricity   
+new  of methane  drainage 
+Industrial  Certificate  Procurem  
+vehicles*  from landfill 
+Leap)  System  Energy  ent 
+Labelling  requireme Protecting 
+ 
+Reduction  Directive*  nts  Waste  forest and 
+Energy and  Promoting 
+obligation  hierarchy in  land in the 
+climate  wind power 
+coaches  Building  the  Environme
+ntal Code 
+Bonus- regulations  Environmen
+Support for  and nature 
+malus  tal Code 
+Energy  solar energy  conservatio
+system 
+surveys for  Training  n 
+companies   programm Landfill tax  agreements 
+Tax  Tax  e for low   
+reduction  reduction for  energy  The 
+for eco- Energistege microproduct buildings  Producer  National 
+friendly  t (energy  ion of  responsibilit Forest 
+cars  efficiency  renewable  y  Programme 
+grants for  energy  Energy   
+industry)  and  Advice and 
+Cdbiaaosrxebdiod ne-  Eefnfiecrigeny cy    cadlimvicaete   Mwplaausnntneic inipga l  t  raining 
+vehicle tax  networks    Energy   
+declaration  
+Klimatkliv s* 
+Klimatklive
+et (local 
+t (lthe 
+investmen
+Climate  Market 
+t grants) 
+Leap)  launch, 
+technology 
+Climate  developme
+Environme
+premium  nt, 
+ntal Code 
+innovation 
+clusters 
+Act on the 
+EU 
+Obligation 
+Regulation 
+to Supply  Informatio
+on 
+Renewable  n centre 
+fluorinated 
+Fuels  for 
+sustainable 
+Ministry of the Environment  5 (87) 
+ 
+ 
+ Urban  greenhouse  constructi
+environme gases  on 
+nt 
+agreement
+   
+s 
+ 
+ 
+Long-term   
+infrastruct  
+ure 
+planning 
+Eco bonus 
+for 
+shipping 
+Tax on air 
+travel 
+EU ETS 
+(aviation)* 
+  
+The costs related to climate change and the cost of failing to act will be very 
+high. Several reports2 have shown that the costs of not taking action widely 
+exceed the costs of doing so.  
+The economic consequences of national policy to attain Sweden’s national 
+climate goals are hard to calculate. Many of the consequences will depend on 
+how Sweden reaches the goals and under which conditions. In recent 
+decades, Sweden has succeeded in combining reduced emissions with strong 
+economic development. 
+A long-term and stable climate policy is needed if Sweden is to lead the way 
+on a global transition. A broad parliamentary majority backs the decision 
+made in 2017 on the climate policy framework. It is also vital that Sweden 
+involves a broad range of groups in producing and implementing the policy 
+and that different actors in society are given every opportunity to play their 
+part in the climate transition. Several large actors in Sweden have already 
+shown that they have the desire, ambition, conditions and opportunity to 
+make their operations climate-friendly while retaining competitiveness. In 
+the initiative for a Fossil Free Sweden instigated by the Swedish 
+Government, a considerable number of sectors and industries have 
+themselves drawn up roadmaps towards very low or zero emissions. The 
+initiative is an important platform for dialogue and cooperation between key 
+actors for a competitive climate transition. 
+ 
+2 See for example UNEP, 2019, “Changing Course”. https://www.unepfi.org/wordpress/wp-
+content/uploads/2019/05/TCFD-Changing-Course-Oct-19.pdf   
+Ministry of the Environment  6 (87) 
+ 
+ 
+ 1  Introduction 
+Sweden is pleased to submit its long-term strategy in accordance with article 
+4.19 of the Paris Agreement, complementing the submission by Croatia and 
+the European Commission dated 6 March 2020. The Swedish long-term 
+strategy builds on our submission to the European Commission in response 
+to Regulation (EU) 2018/1999.  
+Climate developments are deeply concerning. The IPCC’s special report 
+from October 2018 on the impacts of a global warming of 1.5 °C shows very 
+far-reaching consequences of a temperature rise of two degrees. Global 
+warming is proceeding at such a pace that ecosystems are unable to adapt in 
+time. Humans depend on well-functioning ecosystems, making climate 
+change one of the greatest threats of our age. The decisions we make today 
+are vital for the planet and for future generations.  
+Through the Paris Agreement, the countries of the world have committed to 
+limiting global warming to less than 2 °C above pre-industrial levels and 
+pursuing efforts to limit the increase to 1.5 °C. The average global 
+temperature has already increased by approximately 1,1 °C compared with 
+pre-industrial levels and is continuing to rise by around 0,2 degrees per 
+decade. 
+Though the issue of climate change is now prioritized on the global agenda 
+and investments in fossil-free technology are hitting record heights in 
+Sweden and across the globe, we have not yet seen a clear and persistent 
+turnaround in the upward trend in emissions. In Sweden, territorial 
+emissions have been reduced over time, but progress is too slow. Additional 
+measures are needed if Sweden is to be able to live up to the commitments 
+made in the Paris Agreement, to reach its national emission targets and to 
+attain the Government’s ambition of becoming the world’s first fossil-free 
+welfare nation.  
+The climate goals must be met. Several major climate measures, such as the 
+Klimatklivet initiative (the Climate Leap), the reduction obligation, a bonus–
+malus-system for new light vehicles, the urban environment agreements, and 
+the industrial green investment aid programme Industriklivet (the Industrial 
+Leap) are now in place. These reforms pave the way for the transition that 
+Sweden has begun and entail us to take important steps towards a society 
+that is not dependent on fossil fuels.  
+Ministry of the Environment  7 (87) 
+ 
+ 
+ More ambitious policy instruments are needed, and the climate transition 
+needs to be made in such a way that everyone has an opportunity to be part 
+of the solution. All sectors of society at all levels (local, regional, national and 
+international) need to play their part in the transition towards sustainable, 
+fossil-free development. For this to happen, climate policy needs to be 
+integrated into all relevant policy areas and at all levels in society. Sweden has 
+taken some important steps on this route already. The Government decides 
+the rate of emission mitigation and whether they need to increase for the 
+climate targets to be met through existing instruments and new measures.  
+More than 400 actors from the business community, municipalities, regions, 
+research institutions and civil society organisations are working together in 
+the Fossil Free Sweden initiative to achieve this aim. 22 sectors have so far 
+produced and submitted roadmaps for fossil-free competitiveness to the 
+Government. This includes large emitting sectors such as steel, cement, 
+mining and minerals and the automotive sector.  
+The roadmaps contain proposals for how the sectors intend to bring about 
+the transition to fossil-free operation and what the Government can do to 
+facilitate this. 
+Sweden is one of the countries in the world that has the capacity to lead the 
+way and show that a fossil-free society is possible. Besides the Swedish 
+Climate Act and ambitious emission targets, there is a broad consensus 
+behind the climate transition among the Swedish people and in the Swedish 
+business community. Swedish companies lie at the forefront in offering 
+innovative solutions. The Government is determined to meet the national 
+climate goals and to fulfil Sweden’s commitments under the Paris 
+Agreement.  
+Ministry of the Environment  8 (87) 
+ 
+ 
+ 2  Sweden’s climate policy 
+framework 
+Under the Paris Agreement, all countries are to contribute towards holding 
+the increase in the global average temperature to well below 2 °C and pursue 
+efforts to limit it to 1.5 °C. This demands wide-ranging action to reduce 
+greenhouse gas emissions and that every sector of society plays a part in the 
+climate transition. The climate perspective needs to be integrated in all policy 
+areas and at all levels in society.  
+In 2017, the Swedish Parliament (Riksdag) adopted a climate policy 
+framework for Sweden. The framework was supported by a broad 
+parliamentary majority and comprises of three parts: national climate goals, a 
+Climate Act and a Climate Policy Council. The climate policy framework brings 
+stability to climate policy and sets long-term conditions for business and 
+society. The framework is a key component in Sweden’s efforts to comply 
+with the Paris Agreement. 
+2.1   Sweden’s national climate goals 
+There are four main aspects to Sweden’s national climate goals: 
+•  An overarching environmental quality objective linked to reducing 
+the average global temperature increase (with no time frame). 
+•  A long-term emissions target for Sweden for 2045. 
+•  Milestone targets for Swedish emissions covered by the EU’s effort 
+sharing regulation (i.e. outside the EU Emissions Trading System) for 
+2020, 2030 and 2040. 
+•  A milestone target for domestic transport (aviation excluded) for 
+2030. 
+ 
+2.1.1  The Swedish environmental quality objective – Reduced 
+Climate Impact 
+To provide a clear structure for environmental efforts in Sweden, the 
+Parliament already in 1999 adopted 16 environmental quality objectives. One 
+of these, the Reduced Climate Impact, underlies Sweden’s action in 
+combatting climate change and that Sweden will work internationally for 
+global efforts to be directed towards achieving the temperature goal of the 
+Paris Agreement.  
+Ministry of the Environment  9 (87) 
+ 
+ 
+ 2.1.2  A long-term emission target for 2045 
+By 2045 at the latest, Sweden is to have no net emissions of greenhouse 
+gases to the atmosphere, after which negative emissions are to be attained. 
+The target means that by 2045 at the latest, greenhouse gas emissions from 
+Swedish territory are to be at least 85 per cent lower than emissions in 1990. 
+To achieve this aim, the capture and storage of carbon dioxide emanating 
+from fossil fuels may be counted as a measure where no other viable 
+alternatives exist. Emissions from fuels used for international aviation and 
+maritime transport are not included in the target. Emissions and removals 
+from land use, land use change and forestry are not included directly.  
+To achieve net zero emissions, supplementary measures may be counted in 
+line with rules decided at international level. Supplementary measures may be 
+(1) increased net removal of carbon dioxide in forests and land, (2) verified 
+emission reductions from investments in other countries, and (3) capture 
+and storage of biogenic carbon dioxide (BECCS).  
+Emissions are calculated in line with Sweden’s international reporting of 
+greenhouse gases.  
+2.1.3  Milestone targets for 2020, 2030 and 2040 
+The Swedish Parliament has decided on three milestone targets to limit 
+cumulative emissions and ensure a course that is feasible. The milestone 
+targets apply to emissions outside the EU ETS3 in the ESR sector4. The 
+targets are as follows: 
+ 
+•  In 2020, greenhouse gas emissions in Sweden in the ESR sector are 
+to be 40 per cent lower than in 1990. The Government’s ambition is 
+to reach the target with national measures. 
+ 
+•  By 2030 at the latest, greenhouse gas emissions in Sweden in the ESR 
+sector are to be at least 63 per cent lower than emissions in 1990. A 
+maximum of 8 percentage points of the reduction in emissions may 
+be achieved through supplementary measures. 
+ 
+•  By 2040 at the latest, emissions in Sweden in the ESR sector should 
+be at least 75 per cent lower than emissions in 1990. A maximum of 
+2 percentage points of the reduction in emissions may be achieved 
+through supplementary measures.  
+ 
+3 The EU Emissions Trading System 
+4 ESR stands for the Effort Sharing Regulation which regulates national emissions in EU Member States. 
+Between 2013 and 2020 this is termed the ESD, Effort Sharing Decision. 
+Ministry of the Environment  10 (87) 
+ 
+ 
+  
+Figure 2. Sweden’s climate targets (with and without the opportunity to use supplementary 
+measures) and historical emissions 
+80
+70
+60
+Emissions  Targets for 
+50
+qe within EU  non-trading  
+O 240 ETS  sectors  National net zero target  
+C Sweden  for Sweden’s total 
+ tM30 emissions by 2045 
+20 ESR 
+Net negative 
+10 emissions 
+after 2045 
+0
+ 
+1990 1995 2000 2005 2010 2015 2020 2025 2030 2035 2040 2045
+ 
+ 
+ 
+Facts: What is covered by the EU ETS and the ESR sector? 
+The EU Emissions Trading System covers emissions of carbon dioxide, nitrous oxide and 
+perfluorocarbons from combustion installations and energy-intensive sectors (mineral oil refineries, coke 
+ovens, the iron and steel industry, the pulp and paper industry and the mining industry). Carbon dioxide 
+emissions from aviation in the EEA are also part of the EU ETS.  
+ 
+ESR stands for the Effort Sharing Regulation and includes emissions that are not included in the EU ETS 
+(domestic transport (apart from aviation), agriculture, non-road mobile machinery, waste, houses and 
+premises, fluorinated greenhouse gases (F-gases), use of solvents, and emissions from industry and energy 
+supply facilities not covered by the EU ETS). 
+ 
+2.1.4  A milestone target for domestic transport 
+The transport sector currently accounts for almost a third of Sweden’s 
+greenhouse gas emissions. However, there are major opportunities to reduce 
+emissions in the sector. The Parliament has decided on a separate milestone 
+target for domestic transport: 
+•  Emissions from domestic transport (excluding domestic aviation, 
+which is part of the EU ETS) are to be reduced by at least 70 per 
+cent by 2030 compared with 2010. 
+2.1.5  Supplementary measures to meet the targets for 2030, 
+2040 and 2045 
+To achieve the long-term target by 2045 at the latest and the milestone 
+targets, supplementary measures may be counted in line with rules decided at 
+international level. Supplementary measures primarily include net removals 
+Ministry of the Environment  11 (87) 
+ 
+ 
+ in forest and land, verified emission reductions through investment in other 
+countries and bioenergy with carbon capture and storage (bio-CSS). The 
+supplementary measures need to increase after 2045 to attain net negative 
+emissions.  
+2.1.6  Consumption-based emissions 
+Sweden’s long-term emissions targets and milestone targets for 2020, 2030 
+and 2040 follow the UN’s and the EU’s reporting methods and refer to 
+emissions and removals of greenhouse gases within Sweden’s borders, 
+known as territorial emissions and removals. Consumption-based emissions 
+give additional information to territorial emissions by reflecting the total 
+climate impact of the Swedish population, including emissions from goods 
+and services produced in other countries and used in Sweden as well as 
+emissions arising from travel abroad. Calculations from Statistics Sweden 
+(SCB) show that emissions arising as a result of Swedish consumption of 
+goods and services amounted to around 90 million tonnes of carbon dioxide 
+equivalents in 2017. Since 2008, consumption-based emissions have 
+decreased by around 10 per cent, but they have increased again in the latest 
+years.   
+ 
+2.2  Sweden’s Climate Act 
+The Climate Act imposes an obligation on current and future governments 
+to pursue a policy based on the national climate goals, to regularly report to 
+Parliament on developments and to present a Climate Policy action plan 
+every four years. Statutory regulation makes it difficult for a government to 
+act in a way that counteracts with the climate goals or to pursue a policy that 
+is insufficient to attain them. One key starting point for the Climate Act is 
+enabling climate policy and budget policy objectives to interact with each 
+other.  
+Under the Climate Act, the Government is to present a climate report in the 
+Budget Bill each year. The report makes it easier to monitor and evaluate the 
+combined climate effects of all policy areas and must contain a description 
+of emission trends in relation to the targets. The report is also to describe 
+the most important decisions made during the year and the effects of these 
+on the development of reducing greenhouse gas emissions and have to 
+contain an evaluation of whether there is a need for further measures. 
+The Climate Act also states that the Government must produce a climate 
+policy action plan every four years. The purpose of the action plan is to show 
+Ministry of the Environment  12 (87) 
+ 
+ 
+ how the Government’s combined policy in all relevant expenditure areas as a 
+whole is contributing to attaining the milestone targets by 2030 and 2040 
+and the long-term emission target by 2045. If the Government finds that the 
+targets decided cannot be attained with the current policy instruments, the 
+action plan is to contain an account of the reasons for this and the additional 
+measures the Government intends to take. The plan is also to contain a 
+report on how other decisions and measures, both at national and at 
+international level affect Sweden’s ability to attain the climate targets. The 
+Government presented the first climate policy action plan in line with the 
+Climate Act in December 2019 
+ 
+2.3  A Climate Policy Council 
+The Swedish Climate Policy Council began its work in 2018. The Council is a 
+cross-sectoral expert body tasked with assisting the Government with an 
+independent evaluation of whether the combined policy decided by the 
+Government is compatible with the climate targets. The role of the Council 
+is based on the complexity of climate policy and the fundamental importance 
+of all policy areas taking concerted and integrated responsibility. The Council 
+comprises of members with a high level of scientific expertise in the fields of 
+climate, climate policy, economics, political science and behavioural science. 
+In particular, the Climate Policy Council is to: 
+1.  evaluate whether the direction of various relevant policy areas is 
+contributing to or counteracting opportunities to attain the climate 
+goals, 
+2.  shed light on the impacts of decided and proposed policy 
+instruments from a broad societal perspective, 
+3.  identify policy areas where additional measures are needed, 
+4.  analyse how the goals can be attained in a cost-effective manner in 
+the short and in the long term, and 
+5.  evaluate the knowledge basis and the models on which the 
+Government is building its policy. 
+ 
+The Climate Policy Council is to submit a report to the Government by the 
+end of March each year containing an assessment of how climate efforts and 
+trends in emissions are progressing, an assessment of whether the 
+Government’s policy is compatible with the climate goals together with 
+other analyses and assessments conducted by the Council.  
+ 
+Ministry of the Environment  13 (87) 
+ 
+ 
+ In addition, three months after the Government has submitted its climate 
+policy action plan in line with the Climate Act, the Council is to submit a 
+report to the Government evaluating the action plan. 
+ 
+The Climate Policy Council is also to foster greater discussion about climate 
+policy in society. 
+ 
+Ministry of the Environment  14 (87) 
+ 
+ 
+ 3  Sweden’s current conditions 
+and emissions 
+3.1  National situation 
+Sweden’s emissions and removals of greenhouse gases are affected, among 
+other things, by factors such as population size, Sweden’s climate, energy 
+and transport systems, construction, consumption, industrial structure and 
+the economy in general. 
+Sweden’s population is just above 10 million and the majority of people live 
+in towns and cities. Sweden is the fifth largest country in Europe in terms of 
+land area and has a low population density with an average of 25 inhabitants 
+per km2. The majority of the population live in the south of the country, and 
+the population density varies between the counties from 3 inhabitants per 
+km2 in the northernmost county of Norrbotten to 360 inhabitants per km2 in 
+the county of Stockholm.  
+Sweden’s land area covers approximately 408 000 km2. Productive forest 
+land is the dominant land cover type, followed by wetlands, mountains and 
+agricultural land. Settlements account for 3 per cent of the total land area 
+and inland water systems cover 9 per cent of this area. 
+Despite its northern latitudes, much of Sweden has a temperate climate with 
+four distinct seasons and mild temperatures throughout the year. The 
+northern parts of the country, however, have a sub-arctic climate with long, 
+cold, snowy winters. In the period 1961–90 the average temperature in 
+January was 0 °C in southernmost Sweden, while the coldest valleys in the 
+north registered an average temperature of −17 °C. The highest average 
+temperature in July was approximately 17 °C in southern Sweden and just 
+over 10 °C in the northern part of the country.  
+The average temperature in Sweden has increased considerably in past 
+decades. Since 1988, every year apart from 1996 and 2010 has been warmer 
+or much warmer than the average for 1961–1990. The increase in Sweden’s 
+average temperature is now approaching 2 degrees above pre-industrial 
+levels. The equivalent figure for the global average is 1 degree. The much 
+higher increase in Sweden’s average temperature is linked to the higher 
+temperature rise in the Arctic. 
+Ministry of the Environment  15 (87) 
+ 
+ 
+ Sweden is an open economy in which exports account for almost half of the 
+gross national product (GNP). Natural resources, such as forest and iron 
+ore, form the basis of Sweden’s industrial production and have, together 
+with the technology industry, laid the foundations for a predominantly 
+export-oriented economy. The service sector is important, both for the 
+industry and in its own right.  
+The Swedish energy system is partly based on domestic sources of renewable 
+energy, such as hydroelectric power, wind power and biofuel. Moreover, a 
+large proportion of energy is dependent on imports, such as nuclear fuel for 
+electricity production in nuclear reactors, and fossil fuels, such as oil and 
+natural gas, for the transport system. Swedish electricity production is largely 
+based on hydroelectric power and nuclear power, but both the installed 
+capacity and annual electricity production from wind power are increasing 
+steadily, as the use of bioenergy in combined heat and power plants. In 2019, 
+hydroelectric power accounted for 39 per cent of total electricity production, 
+nuclear power for 39 per cent and wind power for 12 per cent, while 
+biofuels and fossil-based production made up the remaining 10 per cent. 
+Solar power has increased exponentially in recent years but accounts for only 
+0,4 per cent of the electricity production.  
+Between 1970 and 2016 the Swedish economy grew by 164 per cent while 
+total energy consumption only increased by 29 per cent and final energy 
+consumption remained unchanged. For example, the value of industrial 
+production almost doubled, but industrial energy consumption dropped by 7 
+per cent. The housing and service sector cut its energy consumption, while 
+the total heated area in households and commercial and institutional 
+premises increased. Overall, the total energy intensity in the economy more 
+than halved in this period. 
+Emissions from domestic transport are dominated by road traffic emissions. 
+Road traffic emitted 15.0 million tonnes of carbon dioxide equivalents in 
+2018, accounting for 91 per cent of emissions in the transport sector. Of 
+that proportion, cars account for 67 per cent of emissions while heavy goods 
+transport makes up 21 per cent. Other emissions come from light goods 
+vehicles (10 per cent), buses (1 per cent) and mopeds (0.5 per cent). The 
+high emissions from road transport are due to the fact that road traffic is the 
+dominant form of transportation and because the vast majority of vehicles 
+mainly run on petrol and diesel. According to official statistics, shipping only 
+accounts for 4.5 per cent of domestic transport emissions. Rail transport 
+accounts for 0.3 per cent of greenhouse gas emissions from domestic 
+Ministry of the Environment  16 (87) 
+ 
+ 
+ transport, and this is declining over time. Domestic aviation stands for 3 per 
+cent of emissions from domestic transport.  
+ 
+3.2  Sweden’s greenhouse gas emissions 
+and removals  
+Sweden has a high gross national product (GNP) per person, a large 
+industry, long transport distances and cold winters. However, while these 
+factors are generally associated with high greenhouse gas emissions, 
+Sweden’s domestic greenhouse gas emissions (also known as territorial 
+emissions) are relatively low. Sweden’s territorial emissions are equivalent to 
+5.1 tonnes per person (2018), which is lower than the EU’s average of 
+approximately 8.8 tonnes per person and the global average of 6.4 tonnes 
+per person (2017).  
+Emissions of greenhouse gases within Sweden’s borders amounted to 51.8 
+million tonnes of carbon dioxide equivalents in 2018, excluding the land use 
+sector. Territorial emissions, excluding the land use sector, have fallen by 27 
+per cent between 1990 and 2018, or 1.8 per cent compared to 2017. The 
+recently published statistics emphasise that the rate of reduction is not 
+sufficient and that there is a need for additional measures to meet the 
+national climate goals. Initiatives are needed both to mitigate emissions 
+covered by the EU ETS and for the activities covered by the EU ESD/ESR. 
+In addition, supplementary measures are needed to attain net zero emissions 
+and negative emissions after 2045. Swedish forests and land removes carbon 
+dioxide and the total removals remain at a high level and in 2018, net 
+removals stood at just under 41 million tonnes of carbon dioxide 
+equivalents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of the Environment  17 (87) 
+ 
+ 
+ Figure 3. National greenhouse gas emissions per sector in 1990–2018, millions of tonnes of 
+carbon dioxide equivalents 
+80 Heating homes and premises
+70 Waste
+60
+Solvents and other product
+.q 50 use
+e Non-road mobile machinery
+O240
+C
+ t Electricity and district heating
+M 30
+Agriculture
+20
+10 Domestic transport
+0 Industry
+1990 1995 2000 2005 2010 2015
+ 
+ 
+3.2.1  Historical development of greenhouse gas emissions 
+per sector 
+Domestic transport 
+In 2018, greenhouse gas emissions from domestic transport accounted for 
+well under 17 million tonnes of carbon dioxide equivalents, 32 per cent of 
+Sweden’s territorial emissions. The transport sector’s emissions increased 
+between 1990 and 2007 but has since then seen a decrease over time. Total 
+emissions from the sector have fallen by 15 per cent between 1990 and 2018. 
+The majority, 92 per cent, of the emissions originates from road traffic, 
+while aviation, shipping and rail transport are responsible for a smaller 
+proportion. In terms of road transport, cars and heavy goods vehicles 
+account for the majority of emissions. The lower emissions level is due to an 
+increase in the proportion of biofuels used and the introduction of more 
+energy-efficient technology.  
+Industry 
+In 2018, industrial greenhouse gas emissions accounted for just under 17 
+million tonnes of carbon dioxide equivalents, or 32 per cent of Sweden’s 
+total emissions. The highest amounts of emissions come from the iron and 
+steel industry (34%), the minerals industry (19%) and refineries (18%). 
+Emissions in the industry sector have fallen by 19 per cent since 1990. The 
+sectors that have cut emissions the most are the pulp and paper industry (-
+59%), by switching from fossil fuels to biofuels and electricity in conjunction 
+with a reduction in production, and the food industry (-66%) through 
+reduced use of fossil fuels, mainly oil products but also coal and coke. 
+Ministry of the Environment  18 (87) 
+ 
+ 
+ Emissions have increased the most in refineries (+33%) due to a rise in 
+production over this period. 
+Agriculture 
+In 2018, total greenhouse gas emissions from the agricultural sector 
+amounted to 6.8 million tonnes of carbon dioxide equivalents, or 13 per cent 
+of Sweden’s total greenhouse gas emissions. Emissions from the agricultural 
+sector fell by 11 per cent between 1990 and 2018. The most distinct drivers 
+behind the trend are a reduction in the number of livestock and a lowered 
+usage of mineral fertiliser. 
+Electricity and district heating 
+In 2018, total greenhouse gas emissions from electricity and district heating 
+production amounted to 4.9 million tonnes of carbon dioxide equivalents, 
+equating to 9 per cent of total territorial greenhouse gas emissions in 
+Sweden. Emissions from electricity and district heating fell by 24 per cent 
+between 1990 and 2018. This reduction is mainly due to biofuel and waste 
+having been substituted for fossil fuels in electricity and district heating 
+production.  
+Non-road mobile machinery 
+Greenhouse gas emissions from non-road mobile machinery amounted to 
+3.1 million tonnes of carbon dioxide equivalents in 2018, equating to 
+approximately 6 per cent of Sweden’s territorial emissions. The sector’s 
+emissions have risen by 6 per cent since 1990. These emissions come from 
+fuel-powered non-road machinery, including tractors diggers, lawnmowers 
+and snowmobiles as well as tools such as chainsaws. These are used in a 
+variety of sectors such as construction and maintenance of roads, 
+households, services, industry, agriculture and forestry. 
+Solvents and other product use 
+In 2018, greenhouse gas emissions from product use had increased by 190 
+per cent since 1990. Emissions amounted to approximately 1.6 million 
+tonnes of carbon dioxide equivalents in 2018, which equates to 
+approximately 3 per cent of Sweden’s territorial emissions. In product use, 
+F-gases5 account for 64 per cent of emissions. Emissions of F-gases soared 
+up until 2008, as at that point these gases were replacing substances that 
+ 
+5 F-gases is an umbrella term for a group of greenhouse gases that contain fluorine (F). These gases are 
+used, e.g. for cooling and freezing and have a much more powerful greenhouse gas effect than carbon 
+dioxide.  
+Ministry of the Environment  19 (87) 
+ 
+ 
+ depleted the ozone layer. In recent years, however, these emissions have 
+been regulated and have started to decrease.  
+Waste 
+In 2018, greenhouse gas emissions from waste treatment amounted to 1.3 
+million tonnes, equivalent to about 2 per cent of Sweden’s total greenhouse 
+gas emissions. Emissions have fallen by about 67 per cent compared with 
+1990. Emissions from the waste sector mainly come from landfills and their 
+emissions of methane, but also from treating wastewater, from biological 
+treatment of solid waste and from non-energy generating waste incineration.  
+Heating homes and premises 
+Emissions in this sector amounted to 0.9 million tonnes of carbon dioxide 
+equivalents in 2018, accounting for almost 2 per cent of Sweden’s total 
+greenhouse gas emissions. Emissions have fallen by 90 per cent since 1990. 
+The reduction is mainly due to heating with oil being replaced by district 
+heating and heat pumps. This sector covers greenhouse gas emissions from 
+own burning of fuels for heating buildings and producing hot water in 
+homes and premises, including premises in agriculture and forestry. 
+Emissions caused by district heating and electricity used in the sector are not 
+covered here but instead included under electricity and district heating 
+production.  
+The construction and civil engineering sector  
+Sweden has a growing population, which brings with it a need for long-term 
+housing construction. Increased housing construction opens up 
+opportunities to make the transition to more flourishing, climate-smart 
+communities. The construction and civil engineering sector accounts for 8 
+per cent of Sweden’s territorial emissions of greenhouse gases. This 
+construction work has a significant impact on emissions in several other 
+sectors (e.g. industry, energy and transport) and in other countries through 
+imports of construction products. Sweden’s National Board of Housing, 
+Building and Planning reports on a number of environmental indicators for 
+the sector with the aim of highlighting and monitoring the environmental 
+and climate impact of construction from a lifecycle perspective. Increasing 
+the number of lifecycle analyses of the climate impact of newly constructed 
+buildings also show that the product and construction production phases 
+account for an increasing proportion of the climate impact of buildings. 
+Forestry and other land use (LULUCF) 
+This sector includes emissions and removals of greenhouse gases from forest 
+land, arable land, and other land in line with reporting under the UN Climate 
+Ministry of the Environment  20 (87) 
+ 
+ 
+ Convention. The sector is not included in Sweden’s national targets but is, 
+however, included in Sweden’s undertakings under the Kyoto Protocol until 
+2020, and from 2021 onwards will be included in Sweden’s commitments to 
+the EU for 2030.  
+In the period 1990–2018 net removals have increased somewhat to just 
+under 42 million tonnes of carbon dioxide equivalents, but uncertainties in 
+the data are higher for this sector compared with other emission sectors. The 
+size of net removal is mainly affected by annual growth in the forest, 
+harvesting volumes and different types of disruption, such as forest fires and 
+storms. The Swedish forest demonstrates net growth, which means that 
+growth is higher than the amount harvested. 
+3.2.2  Measures that have reduced greenhouse gas emissions 
+Measures that have affected emission trends have been carried out over a 
+long period and in some cases started even before 1990. These include: 
+•  expansion of carbon dioxide-free electricity production (hydroelectric 
+power and nuclear power, and, more recently, bio-energy and wind 
+power),  
+•  Expansion of the district heating network and increased use of 
+biofuels and waste fuels in district heating production,  
+•  a shift from oil-fired boilers in domestic heating to electricity 
+including hat-pumps and district heating, 
+•  fuel shift in industry, plus  
+•  reducing landfill of organic waste. 
+ 
+Industry is affected by the economic cycle, which has had a major impact on 
+emissions for particular years and for longer periods in specific sectors.  
+3.2.3  Total greenhouse gas emissions by gas 
+In 2018, emissions (excluding LULUCF) of carbon dioxide (CO ) of fossil 
+2
+origin amounted to 41.8 million tonnes, equating to 81 per cent of total 
+greenhouse gas emissions calculated as carbon dioxide equivalents. The 
+energy sector, including transport, is the largest source of carbon dioxide 
+emissions in Sweden. Methane (CH ) emissions amounted to 4.4 million 
+4
+tonnes of carbon dioxide equivalents in 2018, equating to approximately 8 
+per cent of total greenhouse gas emissions. Methane emissions mainly come 
+from agriculture, landfill and combustion of fossil fuels in the energy sector. 
+Total emissions of nitrous oxide (N O) in 2018 amounted to 4.5 million 
+2
+tonnes of carbon dioxide equivalents, equating to approximately 9 per cent 
+of total emissions. Emissions of nitrous oxide mainly stem from the 
+Ministry of the Environment  21 (87) 
+ 
+ 
+ agricultural sector. Total emissions of fluorinated greenhouse gases (PFCs, 
+HFCs and SF6)6 were 1.1 million tonnes of carbon dioxide equivalents in 
+2018, equating to 2 per cent of total emissions. A significant proportion of 
+emissions are due to the replacement of ozone-depleting substances with 
+fluorinated gases, HFCs. The split between different greenhouse gases has 
+remained virtually the same across the entire timeframe from 1990 to 2018. 
+ 
+Figure 4. Total emissions (excluding LULUCF) in 2018 by greenhouse gas, shown as carbon 
+dioxide equivalents.  
+2%
+9%
+8%
+CO2
+CH4
+N2O
+HFCs, PFCs & SF6
+81%
+ 
+3.2.4  Land use, land use change and forestry (LULUCF) 
+In Sweden there are significant net removals7 in the land use, land use 
+change and forestry (LULUCF), below termed the land use sector. In the 
+period 1990–2018 net removals amounted to an average of approximately 40 
+million tonnes of carbon dioxide equivalents per year, but major variation is 
+seen between the years. Total net removals amounted to just under 42 
+million tonnes of carbon dioxide equivalents in 2018, equivalent to 
+approximately 80 per cent of total emissions in all other sectors. The highest 
+net removals come from forest land, which is the dominant land category, 
+see 
+ 
+Figure 5, and in the carbon pool of living biomass.  
+ 
+In the sector, annual changes in carbon stocks are calculated8 for the 
+categories:  
+•  forest land,  
+ 
+6 No emissions of NF3 have been found in Sweden. 
+7 Removal of carbon dioxide minus emissions of carbon dioxide, nitrogen oxide and methane 
+8 The carbon stored in all carbon pools, living biomass, dead organic material, soil carbon and harvested 
+wood products.  
+Ministry of the Environment  22 (87) 
+ 
+ 
+ •  arable land,   
+•  pasture,  
+•  settlements,  
+•  wetlands (with peat production),  
+•  harvested wood products (HWP), and   
+•  other land (only the area is reported).  
+ 
+Figure 5. Distribution of land (proportion of Sweden’s total land area) between the different land 
+use categories 
+4% 10%
+Forest land
+Cropland
+16% Grassland
+Wetland
+Settlement
+63%
+1% 6% Other land
+ 
+ 
+Source: Swedish University of Agricultural Sciences 
+ 
+The carbon flows for each carbon pool are calculated in each category as 
+follows: 
+•  living biomass, 
+•  dead organic matter,  
+•  soil carbon (mineral soil and peatlands), and 
+•  harvested wood products (HWP). 
+ 
+The change in the carbon stock (changes in removal and release for all 
+carbon pools) is calculated for all categories considered to be managed, in 
+other words, not for the unmanaged categories of other land (non-
+productive land) or wetlands. The net change per category and total net 
+removal is shown below in Figure 6. The total net removal in the land use 
+sector has increased between 1990 and 2018. In 1990, net removals 
+amounted to 34 million tonnes of carbon dioxide equivalents and in 2017 
+net removals amounted to 42 million tonnes of carbon dioxide equivalents. 
+   
+Ministry of the Environment  23 (87) 
+ 
+ 
+  
+Figure 6. Net emissions and net removals in the land use sector.  
+01234567890123456789012345678
+99999999990000000000111111111
+99999999990000000000000000000
+11111111112222222222222222222
+10
+0
+-10
+q
+e
+2
+O -20
+C
+ t
+M
+-30
+-40
+-50
+Settlements Grassland
+Forest land Harvested wood products
+Wetland Cropland
+Total net emissions and removals Other emissions non human induced
+  
+Source: Swedish Environmental Protection Agency 
+ 
+The greatest carbon flows are seen in the category forest land, where large 
+net amounts of carbon dioxide are removed in both living biomass and 
+mineral soil. Significant removal also occurs in the carbon pool of harvested 
+wood products (HWP)9. Net emissions, unlike net removals, in the sector 
+mainly take place in the categories arable land (apart from 2015), settlements 
+and peat production. 
+3.2.5  Scenarios for Sweden’s greenhouse gas emissions and 
+removals with existing management 
+Scenarios indicate that with existing policy instruments, total emissions of 
+greenhouse gases will continue to fall before subsequently stabilising after 
+2030. In 2050, emissions are estimated to be approximately 36 per cent 
+below 1990 levels, see Figure 7. Historic emissions and scenarios by sector 
+are presented in Table 2 Historical emissions and removals of greenhouse gases and scenarios per sector 
+. Governance needs to be strengthened to 
+(millions of tonnes of carbon dioxide equivalents)
+attain the national climate goals. The climate policy framework, requiring 
+ 
+9 Harvested wood products are calculated as a category under the Climate Convention but are accounted for 
+as a carbon pool under the category forest land under the Kyoto Protocol. 
+Ministry of the Environment  24 (87) 
+ 
+ 
+ action plans, reports and audits, seek to ensure that governance develops in 
+such a way that the goals are attained. 
+The LULUCF sector has contributed to an annual net sink in Sweden in the 
+period 1990–2018 and is estimated to continue contributing to a net sink 
+during the scenario period. 
+Figure 7 Historical emissions and removal of greenhouse gases and scenarios with decided policy 
+instruments10 (millions of tonnes of carbon dioxide equivalents). 
+80
+60
+40
+.q
+e 20
+2
+O
+C 0
+ tM
+-20
+-40
+-60
+0 5 0 5 0 5 0 5 0 5 0 5 0
+9 9 0 0 1 1 2 2 3 3 4 4 5
+9 9 0 0 0 0 0 0 0 0 0 0 0
+1 1 2 2 2 2 2 2 2 2 2 2 2
+Energy excluding transport Domestic transport
+Industrial processes and product use Agriculture
+Waste LULUCF
+ 
+Table 2 Historical emissions and removals of greenhouse gases and scenarios per sector 
+(millions of tonnes of carbon dioxide equivalents) 
+  1990  2018  2020  2030  2040  2050  1990– 1990–
+2030  2050 
+Energy excluding transport  33.3  19.9  19.5  18.5  18.2  17.9  -44%  -46% 
+Domestic transport  19.0  16.5  14.8  13.4  13.3  14.2  -30%  -26% 
+Industrial processes and  7.6  7.3  7.7  7.3  7.1  7.2  -4%  -6% 
+product use 
+Agriculture  7.7  6.8  6.7  6.2  6.1  5.9  -19%  -23% 
+Waste  3.7  1.2  1.1  0.7  0.6  0.5  -81%  -87% 
+Total emissions  71.3  51.8  49.7  46.1  45.3  45.6  -35%  -36% 
+LULUCF  34.4  -42.0  -41.4  -40.6  -40.6  -42.2  18%  23% 
+ 
+3.3  Energy 
+3.3.1  Overarching energy policy 
+The overarching objective of Swedish energy policy is to build on the same 
+three fundamental pillars as energy co-operation in the EU, which seeks to 
+unite security of supply, competitiveness and sustainable development. 
+ 
+10 Policy instruments to 30 June 2018 
+Ministry of the Environment  25 (87) 
+ 
+ 
+ Energy policy is thus to create conditions for effective and sustainable 
+energy consumption and a cost-effective energy supply with low negative 
+impact on health, the environment and climate, and ease the transition to an 
+ecologically sustainable society.  
+Besides the target of net zero emissions of greenhouse gases into the 
+atmosphere by 2045, energy policy targets addressing renewable energy and 
+energy efficiency have been set. The target for 2040 is 100 per cent 
+renewable electricity production. This is a target, not an end date that 
+prohibits nuclear power, nor does it mean shutting down nuclear power by 
+means of political decisions. In addition, Sweden’s energy consumption is to 
+be 50 per cent more efficient by 2030 compared with 2005, expressed in 
+terms of energy supplied in relation to gross national product (GNP). 
+3.3.2  Renewable energy 
+The target of net zero emissions by 2045 demands a major reduction in the 
+use of fossil fuels. Sweden already has a high proportion of renewable 
+energy, mainly due to favourable conditions for wind and hydroelectric 
+power and sizeable biomass assets. The proportion of total energy use made 
+up by renewables has increased over time, as can be seen in Figure 8. The 
+largest contribution made by renewable energy comes from biofuels, 
+followed by hydroelectric power.  
+Figure 8 Renewable energy and energy use under the Renewable Energy Directive, 2005–2018, 
+TWh 
+450
+400
+350
+300
+250
+h
+W
+T200
+150
+100
+50
+0
+Biofuels Hydropower
+Wind power Heat pumps
+Solar power Total energy use
+ 
+Source: Swedish Energy Agency and Eurostat 
+Ministry of the Environment  26 (87) 
+ 
+ 
+ Today, renewable energy accounts for the largest proportion of energy 
+production and only a few per cent is of fossil origin, with remaining 
+production originating from nuclear power. Wind power is undergoing 
+extensive expansion which is estimated to continue and will make up a 
+significant proportion of the future electricity system. In terms of district 
+heating production, the transition to renewable energy has come a long way, 
+and here the majority of the input fuels are biofuels. Looking at industrial 
+energy consumption, the main energy carriers are electricity and biofuel, 
+which together account for three-quarters of energy consumption. Extensive 
+work towards a fossil-free society is in progress in the industrial sector, see 
+section 4.4. For housing, the vast majority of energy consumption comprise 
+of electricity and district heating, plus a certain proportion of biofuel in 
+single-family dwellings. Direct use of fossil fuels in homes is currently very 
+low at only approximately 2 per cent. It is in the transport sector that the 
+highest proportion of fossil fuels is found, but this is also the sector in which 
+renewable alternatives are showing the highest growth, see Figure 9. The 
+increase in the transport sector so far is mainly due to a major increase in 
+HVO (Hydrogenated vegetable oil).  
+Figure 9 Proportion of renewable energy in domestic transport, 2009–2018, per cent 
+30% Biogas
+25%
+Ethanol
+20%
+FAME
+15%
+HVO
+10%
+5% Renewable
+electricity
+0%
+Calculations based
+on Remewable
+Energy Directive
+ 
+Source: Swedish Energy Agency 
+ 
+In the transport sector, renewable alternatives are favoured through a 
+reduction obligation scheme, which consists of an obligation for suppliers of 
+Ministry of the Environment  27 (87) 
+ 
+ 
+ gasoline and diesel to gradually reduce the climate impact of the delivered 
+fuels by blending in more biofuels. Policy instruments such as the electricity 
+certificate system, support to research, etc. are other reasons that explain the 
+growing proportion of renewable energy in the transport sector. 
+3.3.3  Energy efficiency improvements 
+Since the 1970s, the trend has moved towards a relative decoupling of 
+energy consumption from economic growth and population. Efficiency 
+improvements, structural changes in the economy, behavioural changes in 
+society and better use of waste energy have countered other factors pushing 
+towards a higher energy consumption.  
+Figure 10. Index-linked energy consumption, GDP (fixed prices as at 2015) and population 
+growth 1980–2018 
+250
+230
+210
+GDP
+190
+0
+0
+1 = 170
+ 0 population
+8 150
+9
+1
+ x 130
+ed total energy
+n
+I 110 supply
+90
+total final energy
+consumption
+70
+50
+ 
+Source: Statistics Sweden and the Swedish Energy Agency 
+ 
+In terms of energy consumption in different sectors, the greatest impact 
+factor for industry is economic development, while structural changes also 
+have an effect. In housing and services, etc. heating and hot water make up a 
+large proportion of the sector’s energy consumption. This means that the 
+energy requirement varies hugely depending on the outdoor temperature. 
+Household finances, fuel prices and demography, i.e. the size and 
+composition of the population, are important impact factors for personal 
+transport, while business developments and trade with other countries are 
+important factors for goods transport. Technological development of 
+Ministry of the Environment  28 (87) 
+ 
+ 
+ vehicles, improving the efficiency of fuel consumption and introducing 
+renewable fuels are other factors affecting the transport sector.  
+Sweden has many policy instruments and measures to encourage 
+improvements in energy efficiency. Sectoral strategies are one such example, 
+where the aim is to facilitate a dialogue between the industry and agencies on 
+appropriate guiding objectives and measures in each sector to cost-
+effectively contribute to the target of 50 per cent more efficient energy 
+consumption in 2030. 
+3.3.4  Energy markets 
+Sweden’s energy markets are largely competitive and increasingly 
+international. The price signal, i.e. the economic driver, is an important 
+incentive for behaviours and investments that bring greater user flexibility 
+and energy efficiency. Pricing is also considerably affected by political 
+governance. Carbon pricing forms the basis of Swedish governance in this 
+area. There are taxes on fuels, and a charge on nitrogen monoxide emissions. 
+Fuel taxation consists of an energy tax, carbon tax and sulphur tax. The taxes 
+vary depending on whether the fuel is used for heating or powering a 
+vehicle. There are also variations depending on whether the energy carriers 
+are used by households, by industry or in the energy conversion sector. 
+There is also an energy tax on the use of electricity. Besides energy and 
+carbon taxes, Sweden has a number of supplementary national and EU-wide 
+instruments and targeted initiatives.  
+In many ways, the electricity market is the most important energy market, as 
+a large proportion of energy consumption takes the form of electricity 
+consumption. The use of electricity is expected to increase as the electricity 
+system expands into new sectors and functions, especially the transport 
+sector and some industrial processes. Technological development and 
+instruments alike mean rising demand for electric vehicles. Electrification of 
+the vehicle fleet may also bring about energy efficiency improvements, 
+provided that electricity production itself is sufficiently efficient. In industry, 
+for example, electrochemical and electrolytic processes are being developed 
+to replace the use of fossil fuels and raw materials.  
+The most important factor in greater demand flexibility is that it is given a 
+value and that this reaches the customer so that they can benefit from using 
+their flexibility. There is also a need for a range of smart services, e.g. 
+through automation, contracts for customers that want to be flexible, 
+offered by actors such as aggregators, energy service companies, electricity 
+Ministry of the Environment  29 (87) 
+ 
+ 
+ companies and electricity trading companies11. In a future electricity system 
+with more renewable, variable power and less thermal power production, 
+price volatility is likely to increase, providing greater incentives for flexibility 
+both on the user and on the production side12. 
+Another trend that can be observed is that there is greater awareness and 
+commitment from actors in society to play their part in the energy transition.  
+ 
+3.4  Digitalisation 
+In 2017, the Government decided on a strategy on how digitalisation policy 
+is to contribute towards socially and environmentally sustainable 
+development. The overarching objective is for Sweden to be the best in the 
+world at using the opportunities offered by digitalisation. To attain this 
+overarching objective, five objectives have been set up: digital competence, 
+digital security, digital innovation, digital management and digital 
+infrastructure.  
+Digitalisation offers great potential to further contribute towards innovative 
+and effective solutions for the benefit of society in all sectors and can play a 
+part in attaining the Swedish climate goals by products being replaced with 
+services, certain use intensifying or is becoming easier to reuse or share. 
+Digital services can increase resource efficiency, through for example smart 
+electricity networks for heating and domestic electricity or for cutting food 
+waste. In the transport sector, digitalisation has the potential to contribute to 
+cost efficiency improvements, foster changes in behaviour and optimise 
+traffic levels, resulting in a reduced environmental and climate footprint.  
+3.5  Climate change adaptation 
+3.5.1  Strategies, plans and measures to adapt to a changing 
+climate 
+Significant progress has been made in adapting to climate change in Sweden 
+in recent years and awareness of the importance of adapting has increased. 
+In March 2018, the Swedish Government adopted the first national climate 
+adaptation strategy (Govt. Bill 2017/18:163). The strategy includes 
+mechanisms for coordination, follow-up, evaluation and auditing climate 
+ 
+11 Swedish Energy Markets Inspectorate (2016), Åtgärder för ökad efterfrågeflexibilitet i det svenska 
+elsystemet, Ei R2016:15 
+12 Swedish Energy Agency (2019), 100 procent förnybar el, Delrapport 2 – Scenarier, vägval och utmaningar, 
+ER 2019:06 
+Ministry of the Environment  30 (87) 
+ 
+ 
+ adaptation efforts. Drawing on the predicted consequences for society, 
+seven particularly urgent areas are identified for continued efforts in 
+adapting to climate change. This work should be conducted based on a 
+number of guiding principles. The Government’s objective for the 
+adaptation of society to a change in climate is to develop a long-term 
+sustainable and robust society that actively addresses climate change by 
+reducing vulnerabilities and leveraging opportunities.  
+As climate adaptation work covers many different areas, it is largely steered 
+by existing regulations, frameworks and objectives, both national and 
+international. Examples include the 2030 Sustainable Development Agenda 
+and the Planning and Building Act (2010:900).  
+3.5.2  Create conditions for adapting to climate change – 
+collaborative structures, involvement of stakeholders 
+and action plans 
+The Ministry of the Environment is responsible for coordinating the 
+Government’s policy work on climate change. Following up and evaluating 
+adaptation to climate change is supported by the National Expert Council 
+for Climate Adaptation (Nationella expertrådet för klimatanpassning) and 
+the Swedish Meteorological and Hydrological Institute (SMHI).  
+As a result of the national climate adaptation strategy, in June 2018, the 
+Swedish National Board of Housing, Building and Planning (Boverket) was 
+tasked with coordinating efforts in the construction industry to adapt to 
+climate change.  
+In 2012, SMHI was tasked with forming a National Knowledge Centre for 
+Climate Change Adaptation to assist municipalities, regions, agencies and 
+other stakeholders with their climate adaptation efforts. In 2019 the centre 
+had a budget of approximately SEK 20 million.  
+Many Swedish agencies have an important role to play in adapting to climate 
+change through their respective sectoral responsibilities. They work 
+preventively by increasing knowledge and improving resilience. 
+Implementation of the national climate adaptation strategy began in June 
+2018 with an ordinance in which the Government tasks 32 national agencies 
+and the 21 county administrative boards with initiating, supporting and 
+following up climate adaptation in their respective area of responsibility, 
+including by producing action plans. Several national agencies had already 
+ahead of this ordinance drawn up action plans for their sector. Some were 
+produced with the support of national funding, e.g. action plans for forestry, 
+Ministry of the Environment  31 (87) 
+ 
+ 
+ people’s health, cultural heritage, sustainable construction and Sami 
+businesses and Sami culture.  
+The county administrative boards (Länsstyrelser) have responsibility for 
+coordinating regional work to adapt to climate change and for supporting 
+local actors. In 2014, the county administrative boards adopted regional 
+action plans. Work on the measures to adapt to climate change identified in 
+these is reported to the Government on an annual basis. The plans cover the 
+whole of Sweden with almost 800 proposed measures. The majority of the 
+measures concern flood protection, protecting drinking water, protecting 
+shorelines, infrastructure (roads and railways), adapting agriculture and 
+forestry, resilience in heatwaves and healthcare.  
+The national agency network for adaptation is comprised of the 21 county 
+administrative boards and 19 national agencies. The network is responsible 
+for coordination and knowledge exchange and its secretariat is provided by 
+the agency SMHI. There are also thematic networks for national 
+collaboration.  
+Some local agencies have also developed action plans for their municipality. 
+Significant progress has been made, and awareness of the importance of 
+adapting to climate change has increased in recent years across the whole of 
+society. To encourage further progress, the Government has implemented 
+changes to the Planning and Building Act, proposed in the national 
+adaptation strategy and adopted by the Parliament in June 2018. These 
+amendments have given the municipalities greater opportunities to 
+incorporate climate change adaptation aspects in the municipal planning 
+process.  
+3.5.3  Knowledge transfer and risk assessment 
+The Rossby Center at SMHI conducts climate research and has produced 
+national and regional climate scenarios up to 2100. A flood portal containing 
+information from flood mapping, geographical data in line with the 
+ordinance on flood risks and a database of natural disasters is under 
+supervision of the Swedish Civil Contingencies Agency. The Swedish 
+Geotechnical Institute (SGI) has worked in partnership with seven other 
+agencies to produce joint maps of geotechnical risks and tools to assess 
+climate risks.  
+The climate change adaptation portal provides information on how society 
+will be affected by a changing climate, climate adaptation tools and examples 
+of climate adaptation measures carried out and information on relevant 
+Ministry of the Environment  32 (87) 
+ 
+ 
+ activities. Many of the sectoral and regional adaptation plans include risk and 
+vulnerability analyses.  
+3.5.4  Implementation 
+The Government finances measures to increase knowledge of the effects of 
+a changing climate and to address these effects, e.g. by putting preventive 
+measures against landslides, rockfalls and flooding in place.  
+The Government also makes decisions on mandates to sectoral agencies 
+relating to different measures. However, adapting to climate change is a 
+multi-sectoral effort, which means that work is usually carried out in 
+collaboration between several actors and sectors at national, regional and 
+local level.  
+Sweden has a well-established and well-functioning framework for disaster 
+risk reduction, including work in civil contingency groups. This work is 
+coordinated by the Swedish Civil Contingencies Agency.  
+Collaboration is encouraged at all levels and between sectors and actors 
+working on land use planning, risk management, natural disasters and 
+climate change adaptation to reduce risks and improve preparedness.  
+Several collaborative forums are now active in Sweden, where sectoral 
+agencies and other stakeholders can share experiences and plan important 
+action. These forums include the agency network for coastal erosion, the 
+Swedish committee for design flood determination, the delegation for 
+landslides and rockfalls, and the national drinking water network.  
+Swedish municipalities are tasked with conducting risk and vulnerability 
+analyses as part of their readiness to tackle extraordinary events and 
+disasters. Such analyses also cover events affected by a changing climate. 
+Municipalities can apply for government funding for measures to prevent 
+natural disasters. SEK 75 million is earmarked for this each year in the 
+period 2017–2020. The grant is administered by the Swedish Civil 
+Contingencies Agency at a rate of up to 60 per cent of costs or a maximum 
+of 60 per cent of the value of the item under threat. Here, natural disasters 
+mainly involve landslides, rockfalls and flooding.  
+3.5.5  Evaluation and audit 
+The national climate change adaptation strategy has a five-year follow-up 
+cycle. The first step is a vulnerability analysis, follow-up and evaluation of 
+implementation of the strategy and proposals for auditing the strategy, 
+Ministry of the Environment  33 (87) 
+ 
+ 
+ followed by an updated strategy for 2023. The Government has established a 
+national expert group for climate adaptation at SMHI in line with proposals 
+in the strategy. The group is responsible for evaluating progress on adapting 
+to climate change and presenting proposals for a revised national adaptation 
+strategy which will be presented in 2023. 
+Ministry of the Environment  34 (87) 
+ 
+ 
+ 4  Action areas and instruments  
+ 
+4.1  Instruments work together to attain 
+Sweden’s climate goals 
+Sweden uses a number of national and EU-wide policy measures to attain 
+the national climate goals. These instruments can be divided into four main 
+categories: 
+•  economic, e.g. energy and carbon taxes, emissions trading and 
+grants such as the Climate leap and subsidies to low emission 
+vehicles. 
+•  administrative (normative), e.g. the reduction obligation, the 
+Planning and Building Act and requirements on carbon dioxide 
+emissions from new vehicles 
+•  informative, e.g. energy and climate advice 
+•  research and market launches, e.g. support for research programmes 
+and the Industry Leap’s industrial green investment grants 
+programme.  
+Since the early 1990s, pricing of emissions has formed the basis of Swedish 
+climate policy governance. The carbon tax with exemptions for biofuels and 
+the EU Emissions Trading System have been cornerstones of this strategy. 
+These broad instruments have been supplemented by targeted sectoral 
+initiatives. In addition, the design of societal planning has been of major 
+significance for the impact of the governance by providing actors with 
+alternatives. The decisions on expanding the district heating network, public 
+transport systems and carbon-free energy production have been particularly 
+important. Sweden has also long invested in conducting climate and energy-
+related research and launching new technologies on the market.  
+The instruments in the EU and Sweden cover all sectors of society, and it is 
+estimated that the emission target for 2030, as set out in the Climate Policy 
+Framework, is within reach but that additional measures and instruments will 
+be needed to go all the way. Additional measures are also needed for 
+emission targets beyond 2030. The following sections (4.2–4.10) set out the 
+action areas in the respective sector together with the existing policy 
+instruments of most significance.  
+Ministry of the Environment  35 (87) 
+ 
+ 
+ 4.1.1  Fundamental starting points for Sweden’s climate 
+instruments 
+One starting point when introducing policy instruments in Sweden is that 
+they must be as cost-effective as possible. Cost-efficiency means that 
+instruments should be general and not promote a particular solution, and 
+that they should give all actors the same incentives to reduce their 
+environmental footprint. Economic instruments, such as a price on carbon, 
+are therefore the most cost-effective in theory. A price on emissions is also 
+compatible with the polluter pays principle, a fundamental international 
+principle.  
+Furthermore, in Sweden’s experience, a combination of instruments can 
+improve the feasibility of attaining the goals, with instruments mutually 
+supporting each other. Sweden has supplemented carbon pricing with other 
+policy instruments for targeted interventions and to tackle related problems 
+on the market, such as a lack of knowledge and insufficient technological 
+development. Instruments that overlap, on the other hand, have been 
+avoided to the greatest possible extent, as this reduces flexibility and can lead 
+to higher administrative costs.  
+In practice, there are factors that prevent or limit the opportunity to 
+introduce certain instruments, e.g. measuring problems, high administrative 
+costs or risk of carbon dioxide leakage, i.e. emissions moving geographically 
+to countries with weaker climate policy or lower carbon pricing. Practical 
+difficulties, unwanted side-effects and conflicts of interest in implementing 
+the theoretically most effective governance may also arise. This means that 
+what in theory might be the second-best instrument may be the one that is 
+the most effective in practice. In addition, it is recognised that policy 
+instruments can produce positive and negative side-effects on other societal 
+goals, e.g. air quality and energy security, which affects their socio-economic 
+effectiveness. Taking a holistic approach to policy and instruments is 
+therefore important for identifying appropriate instruments.  
+ 
+4.2  Cross-sectoral, overarching policy 
+instruments 
+In Sweden, a number of general cross-sectoral policy instruments are 
+applied, at national level and at EU level. A description of Sweden’s most 
+important overarching instruments is provided below. 
+Ministry of the Environment  36 (87) 
+ 
+ 
+ 4.2.1  Energy tax and carbon tax  
+The Swedish energy taxation system is based on a combination of a carbon 
+tax, an energy tax on fuel and an energy tax on electricity.13 The most 
+important taxes that affect greenhouse gas emissions in Sweden are the 
+carbon tax and the energy tax on fuels. This is described in general terms 
+below and in more detail under the respective sector. 
+Carbon tax 
+The carbon tax, based on the fossil content of the fuel, was introduced in 
+Sweden in 1991 and seeks to reduce carbon dioxide emissions. The tax has 
+been increased in several stages since it was first introduced. In total, the tax 
+has increased from SEK 0.25 per kg carbon dioxide (1991) to SEK 1.20 per 
+kg (2020). The tax rates on different fuels are calculated in proportion to the 
+content of fossil carbon in the fuel. Besides specific tax increases decided by 
+the Parliament following proposals in government bills, the tax rates are 
+increased annually on an index-linked basis pursuant to previously decided 
+statutory rules. A carbon tax is not charged on biofuels that are not used as 
+part of the reduction obligation for petrol and diesel (see section 4.3.2 Policy 
+instruments in the transport sector). Due to the risk of carbon leakage, i.e. 
+operations and their emissions moving outside the country’s borders, a 
+reduced tax or tax exemptions apply in certain sectors.  
+Energy tax 
+Sweden has long applied taxes on energy. Energy taxes on petrol and diesel 
+were introduced in 1924 and 1937 respectively. An energy tax was imposed 
+on fuels used for heating in the 1950s. The purpose of the energy tax was 
+initially purely fiscal. In recent years, the aim has also been to steer energy 
+consumption in line with Sweden’s goal of energy efficiency and increase in 
+renewables14. The energy tax on motor fuels such as petrol and diesel also 
+seek to internalise external costs of traffic, such as road wear and noise. The 
+energy tax on fuel varies depending on whether it is used as motor fuel or 
+for heating. The tax rate for heating fuels also varies between households, 
+industries and the energy supply sector. There is also an energy tax on the 
+use of electricity. 
+ 
+ 
+13 Tax on energy is a collective term for duty on fuel and electricity and is regulated by the Act (1994:1776) on 
+Excise Duties on Energy.  
+14 The energy efficiency target and the renewables target for 2020 are part of Govt. Bill 2008/09:162 and 163. 
+Ministry of the Environment  37 (87) 
+ 
+ 
+ 4.2.2  The EU Emissions Trading System  
+The EU Emissions Trading System (EU ETS) is the EU’s most important 
+instrument for reducing greenhouse gas emissions. It was introduced in 2005 
+and since then, it has gradually been expanded to cover more sectors and 
+greenhouse gases. The amount of emissions permitted in the system is 
+limited by a ceiling, which is lowered every year. Approximately half of the 
+emission rights are allocated free of charge and the rest are auctioned off. 
+There is no free allocation for emissions from electricity production. The 
+EU ETS includes emissions of carbon dioxide from combustion installations 
+and energy-intensive industry (mineral oil refineries, coke ovens, the iron and 
+steel industry, the pulp and paper industry and the minerals industry). The 
+system includes approximately 760 Swedish facilities. Since 2012, the system 
+has also included emissions from aviation, flights within the EU. For the 
+period 2013–2020, emissions in the EU ETS are to be reduced by 21 per 
+cent compared with 2005. For the period 2021–2030 the annual linear 
+reduction factor will be raised, which means that emissions from the EU 
+ETS are to fall by 34 per cent up to 2030 compared with 2005. 
+4.2.3  Fossil Free Sweden  
+The Government initiative Fossil Free Sweden, launched in 2016, has a clear 
+mandate to increase the Government’s dialogue with industry, municipalities, 
+other public sector actors and civil society and to create roadmaps to 
+eradicate obstacles and facilitate more rapid reductions in emissions. The 
+initiative is an important platform for dialogue and cooperation between key 
+actors for a competitive climate transition. 
+Today the initiative brings together more than 400 actors and is open to 
+everyone who signs up to the declaration produced. The actors involved in 
+the initiative share the view that the world must become fossil free and that 
+Sweden should lead the way in these efforts. In the declaration, the actors 
+also undertake to demonstrate tangible measures to mitigate emissions.  
+The sector-specific roadmaps are drawn up to highlight commercial 
+opportunities for companies and sectors to become fossil free. As of 
+October 2020, 22 roadmaps have been submitted to the Government15. The 
+roadmaps constitute a good basis for constructive interaction between the 
+Government and other actors in society on the path towards the shared 
+climate goals. 
+ 
+15 http://fossilfritt-sverige.se/in-english/roadmaps-for-fossil-free-competitiveness/ 
+Ministry of the Environment  38 (87) 
+ 
+ 
+ 4.2.4  The Climate Leap (Klimatklivet) 
+To further encourage cuts in greenhouse gas emissions, a government co-
+funding programme was introduced in 2015 for local climate investments, 
+known as the Climate Leap. The investments cover all sectors, apart from 
+those included in the EU ETS16, and all types of organisations can apply for 
+grants. The selection of the investment granted is based on the estimated 
+reduction in greenhouse gas emissions in relation to cost. Examples of 
+investments that have been entitled to funding are charging infrastructure 
+for electric vehicles, biogas production and processing plants, switching 
+from oil to biofuel or district heating, expanding small district heating 
+networks and cycling infrastructure.  
+To further reduce emissions throughout the Swedish society and contribute 
+to a green recovery, the government proposes that Klimatklivet will be 
+extended to 2026. Since 2015, this investment support has financed climate 
+projects around Sweden that have reduced emissions by a total of 29 million 
+tonnes and created more than 4,000 new jobs. The government also 
+proposes that an additional SEK 100 million be added to the programme in 
+2021 and that the Swedish Environmental Protection Agency is provided 
+with the financial framework needed to support larger climate projects. 
+4.2.5  Information and increased knowledge  
+Swedish agencies have many years of experience of using communication as 
+an instrument for the public sector, the business community and citizens. 
+Some examples of this: 
+The Swedish Environmental Protection Agency website is a hub for statistics and 
+facts about emissions that is a popular resource for politicians, the media, 
+companies, organisations and researchers.17 
+The Swedish Meteorological and Hydrological Institute (SMHI) develops and 
+distributes information about changes in weather, water and climate. The 
+National Knowledge Centre for Climate Change Adaptation, established by 
+SMHI, has launched a Swedish climate change portal with facts and guidance 
+on adapting to a warmer climate.18 
+ 
+16 Investments in sectors included in the EU ETS may qualify for grants if these result in greater use of waste 
+heat. 
+17 http://www.swedishepa.se/ 
+18 https://www.smhi.se/en 
+Ministry of the Environment  39 (87) 
+ 
+ 
+ The Swedish Energy Agency is responsible for giving citizens and companies 
+information and advice on more effective energy use and is responsible for 
+an informative website and support for local energy advisory services (see 
+more under Section 4.2.6 “Energy and climate advisory services” below).19  
+The Swedish Forest Agency20 and the Swedish Board of Agriculture21 offers e-
+services and digital information for forest owners, forestry workers and 
+farmers and guidance for mitigation and adaptation measures for forestry 
+and agriculture. 
+The Swedish Transport Administration is tasked by the Government with using 
+information and awareness-raising measures to help to ensure that the 
+milestone target for domestic transport is reached and to create the 
+preconditions to see Sweden reach net zero emissions by 2045 at the latest.22 
+In addition, in January 2020, the Government tasked the Swedish 
+Environmental Protection Agency to investigate and account for Sweden's 
+possibilities and conditions for the implementation of Article 12 of the Paris 
+Agreement. The agency has reported recommendations to the Government 
+on how the work on Article 12 can be strengthened and contribute to the 
+achievement of national climate goals and which authorities, organizations 
+and higher education institutions that play an important role in the 
+implementation of Article 12. 
+4.2.6  Energy and climate advisory services 
+The Swedish Energy Agency allocates government funding to municipalities 
+to provide local advice on energy and climate to citizens and small 
+businesses. The local climate and energy advisors, a post at almost all 
+Swedish municipalities, provide objective and locally adapted information 
+and advice on energy efficiency measures, energy consumption and climate-
+related questions regarding buildings and households. 
+The Swedish Energy Agency also awards funding to 15 regional energy 
+offices that coordinate the energy and climate advisors. The energy offices 
+initiate and participate in several projects on energy efficiency and renewable 
+energy sources, funded by the EU, county administrative boards, regional 
+associations and other organisations. The offices work regionally in 
+ 
+19 http://www.energimyndigheten.se/en/ 
+20 https://www.skogsstyrelsen.se/ 
+21 https://jordbruksverket.se/ 
+22 https://www.trafikverket.se/en/startpage/ 
+Ministry of the Environment  40 (87) 
+ 
+ 
+ partnership with companies, county administrative boards, municipalities 
+and others, e.g. on plans and strategies. 
+Municipalities are entitled to apply for the cost of a part-time (50%) climate 
+and energy coach position (SFS 2016:385). The coaches offer targeted 
+advisory services to small and medium-sized companies with an annual 
+energy consumption below 300 MWh. The coaching seeks to increase energy 
+efficiency and reduce greenhouse gas emissions. Doing this will enable 
+companies to benefit from lower costs and boost competitiveness. 
+4.2.7  The Environmental Code and the Planning and Building 
+Act 
+The Environmental Code23 (Miljöbalken), with its overarching goal to 
+promote sustainable development, brings together Sweden’s comprehensive 
+legislation on the environment. When applying the Code, Sweden’s 
+environmental quality objectives, including Reduced Climate Impact (see 
+section 2.1.1) are to have a guiding role. The Code includes general rules on 
+taking the environment into account that must be observed in all operations 
+and measures. It also incorporates requirements to use the best available 
+technology. Permits must be obtained for large, environmentally hazardous 
+operations. The permit application procedure includes an assessment of 
+direct and indirect environmental impacts and energy management and, for 
+the facilities that are not included in the EU ETS, it also includes greenhouse 
+gas emissions. Emission value requirements for carbon dioxide may not be 
+imposed on operations covered by the EU ETS.  
+The Government is working on reviewing the environmental permit 
+application procedure to make the processes more efficient and less long-
+winded, which is important in enabling industry to make the transition, so 
+aiding progress in line with the roadmaps produced as part of the Fossil Free 
+Sweden initiative. 
+Urban planning is governed by the Planning and Building Act24, but several 
+measures, such as infrastructure projects, also fall under the Environmental 
+Code. The Planning and Building Act requires that environmental and 
+climate aspects are taken into consideration in planning.  
+ 
+23 SFS 1998:808 
+24 SFS 2010:900 
+Ministry of the Environment  41 (87) 
+ 
+ 
+ 4.2.8  Regional climate and energy plans 
+The county administrative boards coordinate regional climate and energy 
+initiatives and support regional actors, e.g. by gathering and distributing 
+information. Regional climate and energy strategies are shaped in partnership 
+with other regional and local actors to foster effective measures and find 
+synergies. Furthermore, the county administrative boards are involved in 
+work on environmental assessments and environmental monitoring, local 
+and regional spatial planning, regional development and growth policy, and 
+infrastructure planning. 
+4.2.9  Grants for market launch, technological development 
+and innovation clusters   
+Technological development is an instrument designed to initiate a 
+transformation of the market and spread new, more efficient technologies 
+and methods, such as new products, systems and processes. Network-based 
+procurement for developing technology is a methodology that spans the 
+entire decision-making process, from pilot study and purchaser group to 
+specification of requirements and dissemination, plus further development 
+of more energy efficient technologies. It is used in areas such as heating and 
+control, ventilation and lighting. The Swedish Energy Agency coordinates 
+innovation clusters for homes (BeBo), commercial and public premises 
+(BeLok), manufacturers of single-family dwellings (BeSmå), public sector 
+bodies that lease premises (HyLok) and food distribution (BeLivs). 
+4.2.10  Research and development 
+Public financing of climate-related research and development seeks to create 
+better underlying conditions for attaining the national climate targets. 
+Swedish climate-related research spans a broad spectrum, from the natural 
+sciences to the humanities, but with an emphasis on research and 
+development in technology and science. The three key areas focused on are 
+energy, transport and industry, on which the Government is involved 
+through high levels of funding.  
+Energy and climate issues are closely linked and the solutions to the 
+challenges of climate change are largely energy related. The overarching aim 
+of research and innovation in the field of energy in Sweden is to strive 
+towards reaching national energy and climate goals. 
+ 
+Ministry of the Environment  42 (87) 
+ 
+ 
+ 4.2.11 Gender Equality and Climate Change 
+Sweden's feminist foreign policies, which means to always adopts a gender 
+equality approach to international relations, also include specific 
+international and regional work. Sweden's domestic policy and foreign policy 
+on gender equality are closely linked, as with the EU cooperation. Sweden 
+promotes gender equality work within the EU, the UN and other 
+international organisations. Work is ongoing nationally to meet the 
+international gender equality commitments and obligations, including those 
+under the Beijing Platform and the UN’s Convention on the Elimination of 
+all Forms of Discrimination against Women (CEDAW).  
+The feminist foreign policy is set out in an action plan, which includes 
+specific targets for gender equality. Sweden has campaigned for many years 
+for gender equality to be integrated into all relevant EU processes with the 
+aims to ensure that all women and men have the same power and 
+opportunities to shape society and their own lives. At the Government’s 
+request, the Swedish Environmental Protection Agency has submitted a 
+proposal for further integration of gender equality in the implementation of 
+the Paris Agreement.25 
+ 
+4.3  Transport 
+4.3.1  Action areas to cut greenhouse gas emissions in the 
+transport sector 
+Domestic transport accounts for a third of Swedish greenhouse gas 
+emissions. Road traffic, mainly cars and heavy goods vehicles, accounts for 
+the majority of emissions. Significantly reducing greenhouse gas emissions 
+from the transport sector requires initiatives predominantly in three areas:  
+- a transport-efficient society,  
+- sustainable renewable fuels and infrastructure for alternative fuels including 
+electrification, and  
+- energy-efficient and climate-smart vehicles and ships.  
+The degree of electrification, energy efficiency improvements, the 
+proportion of sustainable renewable fuels and traffic development are the 
+ 
+25 http://www.naturvardsverket.se/Miljoarbete-i-samhallet/Miljoarbete-i-Sverige/Regeringsuppdrag/Utveckla-
+arbetet-med-jamstalldhetsintegrering/ 
+Ministry of the Environment  43 (87) 
+ 
+ 
+ factors of greatest significance for how greenhouse gas emissions from the 
+transport sector will evolve by 2030 and 2045.  
+Transport efficiency has several advantages. Measures such as route 
+optimisation and coordination of goods transport can cut goods transport 
+costs and increase competitiveness in the business community. There are 
+also significant gains to be made for taxpayers and society by using the 
+transport system more efficiently. Accessibility in cities and towns will 
+increase for more groups in society, if e.g. provision of well-adapted and 
+usable public transport increases and walking and cycling are made easier.  
+For the milestone target for domestic transport by 2030 and the net zero 
+target by 2045 to be met, there will also be a need for extensive 
+electrification of the transport system and a switch to the use of renewable 
+sustainable fuels. Both an extensive electrification and a fast transition to the 
+use of renewable sustainable fuels need to take place in the immediate future 
+for transport by road and eventually also for transport by sea and air, also 
+recognizing that especially ships take a long time to build and have a long life 
+span. Over time, competition of renewable sustainable fuels will increase, 
+but the need for these fuels will also be affected by the way in which 
+electrification and traffic develop over the longer term.  
+In a longer perspective road transport should mainly be electrified. This will 
+make sustainable renewable fuels available for use in aviation and shipping, 
+where electrification is expected to take longer time. 
+Transport-efficient society 
+In a transport-efficient society, the transports that takes place is as efficient as 
+possible from energy, environmental and economic perspectives respectively 
+to achieve accessibility, sustainability and competitiveness. Development 
+towards a more transport-efficient society therefore means that traffic, and 
+thus emissions and other environmental impacts, can be reduced without 
+impairing accessibility.  
+A more transport-efficient society will be achieved through measures 
+including urban planning, access to efficient, punctual and reliable public 
+transport, coordinated goods transport, a shift to less energy-intensive means 
+of transport and vehicles, higher use of vehicle capacity, greater 
+opportunities for longer and heavier trains, greater opportunities for longer 
+and heavier trucks where switching to rail and sea is not a realistic option, 
+route optimisation, greater use of digital solutions, and innovative local and 
+Ministry of the Environment  44 (87) 
+ 
+ 
+ regional transport and mobility solutions. In some cases, journeys can be 
+shortened or replaced entirely. Developing and using technological 
+infrastructure for virtual meetings and remote working are additional 
+examples of how traffic can be reduced without impairing accessibility.  
+A more transport-efficient society demands measures in several sectors and 
+by different actors. The location of homes, services and workplaces is 
+important, as it affects the distances and transportation between them. A 
+large proportion of Sweden’s urban planning, e.g. planning homes, 
+businesses and public transport, takes place at local and regional level. 
+Creating long-term sustainable and robust structures capable of increasing 
+transport efficiency will mean local, regional and national levels will need to 
+coordinate their planning processes to a greater extent.  
+Densely populated areas offer better opportunities for walking, cycling and 
+using public transport instead of travelling by car, while the car will continue 
+to be important in sparsely populated areas. On the other hand, rural areas 
+have an important role to play in the transition as suppliers of climate-smart 
+energy and renewable resources 
+Sustainable Renewable fuels 
+Gradually increasing the use of biofuels and electricity in the transport sector 
+will reduce emissions of greenhouse gases. The extent to which renewable 
+fuels are able to contribute to reduced emissions depends on a number of 
+aspects: opportunities to produce biofuels that meet sustainability 
+requirements at a reasonable cost; how biofuels and electricity distribution 
+systems are developed; access to charging infrastructure for electric vehicles, 
+and fuel quality requirements for blending biofuels in petrol and diesel for 
+use in conventional combustion engines. 
+In the longer term, use of renewable fuels in aviation26 and shipping must 
+replace the fossil alternatives to a greater extent. This will increase 
+competition for renewable fuels in the road sector, while the need for liquid 
+renewable fuels in the road sector is expected to fall in the long term as 
+electrification takes on a greater role. Sweden has good access to biomass 
+and thus the potential to produce biofuels from domestic raw materials. 
+Swedish production of biofuels may provide additional added value in the 
+ 
+26 The report Biojet för flyget (Bio-jets for aviation) (SOU 2019:11) was submitted to the Government in March 
+2019. The inquiry proposes that a reduction obligation be introduced, requiring blending sustainable biofuels 
+in aviation fuel, starting from 2021. According to the proposal, such a reduction obligation is to be introduced 
+for fuel suppliers. The biofuels used to meet this obligation must fulfil the sustainability criteria implemented 
+in Swedish legislation. The Government is currently preparing the inquiry’s proposals on a reduction 
+obligation for aviation fuel.  
+Ministry of the Environment  45 (87) 
+ 
+ 
+ form of fuel security, export of knowledge and technology to other 
+countries, effects on employment and regional development.  
+Energy efficient and fossil-free vehicles 
+Energy-efficient and fossil-free vehicles reduces emissions and the need for 
+fossil fuels. Much of the technology required to lower emissions is already 
+available, and the range of energy-efficient and fossil-free vehicles is 
+increasing at an even faster pace. Today the share of chargeable cars is 30 
+percent of the sales of new cars in Sweden, a duplication compared to the 
+year before. But the conversion of the vehicle fleet will take time, as it will 
+take time to fully phase out the older vehicles.  
+4.3.2  Policy instruments in the transport sector  
+In the transport sector, Sweden applies a number of different instruments 
+adopted at national and EU level. As the range of low-emission vehicles 
+largely depends on a market beyond Sweden’s borders, the EU’s governance 
+of emission restrictions is crucial. To provide further incentives for energy-
+efficient vehicles and renewable sustainable fuels, national policy instruments 
+have been introduced in the form of pricing and subsidies. To make 
+alternative fuels accessible, certain regulations for the sale of cars is applied. 
+Grants are also available to expand the charging infrastructure and for the 
+production of alternative fuels.  
+In summary, Sweden has implemented instruments in three main action 
+areas: (1) a transport-efficient society, (2) sustainable renewable fuels and 
+infrastructure for renewable fuels, and (3) energy-efficient and fossil-free 
+vehicles. 
+Table 3. Summary of the most significant instruments for transport 
+Overarching  Transport-efficient  Sustainable  Energy efficient 
+instruments  society   renewable fuels  and fossil-free 
+vehicles 
+Energy and carbon  Urban environment  The Fuel Change –  Emission reduction 
+tax  agreements  Emission  targets for new 
+Reduction  vehicles (EU) 
+Klimatklivet (the  Infrastructure planning 
+obligation  
+Climate Leap)  Bonus-malus system 
+Environment 
+Exemption from 
+Research and  compensation for rail  Carbon dioxide-
+energy and carbon 
+development funding  transports  based vehicle tax 
+taxes for biofuels 
+Procurement rules  Eco-bonus system for  Tax reduction for 
+Climate premium 
+shipping  eco-friendly cars  
+Electrified road 
+Tax on air travel  Market introduction 
+systems 
+(aviation)  support for electric 
+busses, electric 
+Ministry of the Environment  46 (87) 
+ 
+ 
+ Planning and Building  Act on the  working machines 
+Act  Obligation to  and low emission 
+Supply Renewable  heavy trucks.  
+EU ETS (aviation) 
+Fuels 
+ 
+ 
+Environmental 
+information about 
+fuel 
+ 
+Overarching policy instruments in the transport sector 
+Energy tax and carbon tax in the transport sector 
+Both petrol and diesel are subject to an energy and a carbon tax on fuel used 
+for road vehicles, non-road mobile machinery and private vessels and 
+aircrafts. The energy and carbon taxes on fuel are adjusted in relation to 
+changes in the consumer price index to take inflation into account. Since 
+2017 the tax rates for petrol and diesel have also been adjusted to reflect the 
+expected development of the GDP27.  
+In specific cases, Sweden applies tax exemptions for sustainable biofuels. 
+The reduction depends on the type of biofuel and the blend proportion. All 
+high-blend sustainable biofuels are exempt from energy tax and carbon tax. 
+Low-blend biofuels are instead covered by the reduction obligation system 
+(see below). These biofuels are subject to carbon and energy taxes on the 
+level of their fossil equivalent.  
+The Climate Leap (Klimatklivet) 
+The Climate Leap is a cross-sectoral policy instrument, but it is specifically 
+important for the transport sector. Important measures supported by this 
+instrument are installing charging points for electric vehicles and investing in 
+biogas plants. The investment aid programme eases the transition to a fossil-
+free vehicle fleet (more information on The Climate Leap is provided in 
+section 4.2 on cross-sectoral policy instruments). 
+Transport-efficient society 
+Urban environment agreements 
+Urban environment agreements are a programme for investment in public 
+transport, cycling infrastructure and sustainable goods transport solutions in 
+urban environments. Municipalities can apply for grants to cover part of the 
+infrastructure investment costs. The investment is often combined with 
+ 
+27 This is attained by an increase of 2 percentage points per year, in addition to adjustment in line with 
+changes in the consumer price index. However, the total change (increase) in the rates of carbon and energy 
+tax is only added to the energy tax (in other words the level of carbon tax is only directly affected by index-
+linking in line with changes in the consumer price index). For the years 2021 and 2022 no GDP related 
+adjustment of the taxes for petrol and diesel will be made. 
+Ministry of the Environment  47 (87) 
+ 
+ 
+ other measures seeking greater long-term sustainability in urban 
+environments or transport systems. These measures may cover greater 
+accessibility through public transport, urban planning to encourage more 
+cycling and walking, lower vehicle speeds, and parking regulations and 
+pricing. Financing has been in place for urban environment agreements since 
+2015 and from 2018 onwards has been part of the economic framework for 
+developing the transport system, amounting to SEK 1 billion a year in 2018–
+2029.  
+Long-term infrastructure planning  
+In May 2018, the Government decided on a new national plan for transport 
+infrastructure in the period 2018–2029 across all modes of transport. The 
+Swedish Transport Administration is responsible for long-term planning for 
+all modes of transport and is responsible for implementing the plan. 
+Planning is conducted in dialogue with municipalities and regions, among 
+others.  
+Electric roads  
+Electric roads are infrastructure for dynamic charging, i.e. charging while in 
+motion. Depending on the technologies chosen, electrified roads can be 
+used by trucks, buses and cars. Demonstration projects are in progress on 
+the E16 motorway outside Sandviken (heavy goods vehicles) and at Arlanda 
+airport (heavy goods vehicles and cars). In April 2019, the Swedish 
+Transport Administration decided on two further demonstration projects 
+that are being set up in Lund (public transport) and on Gotland (heavy 
+goods vehicles and public transport). The demonstration project on Gotland 
+uses inductive technology, i.e. there is no need for a permanent connection 
+from the vehicle, while other demonstration projects are conductive, i.e. a 
+physical connection is needed to transfer electricity to the vehicle. At the 
+same time, the Swedish Transport Administration is preparing to build the 
+first permanent electrified road.  
+Electric roads can help to improve the efficiency of goods transport and cut 
+greenhouse gas emissions. The Government therefore intends to produce a 
+long-term plan for building and expanding electrified roads. Important 
+goods routes and links to key ports should be prioritised. The need for 
+additional technologies for electrical power outside the electrified road 
+network, e.g. rapid charging for heavy goods vehicles, should be taken into 
+account in efforts going forward.  
+Ministry of the Environment  48 (87) 
+ 
+ 
+ Eco-bonus system for shipping 
+Since 2018, the Government has allocated funding for an eco-bonus system 
+to stimulate switching goods traffic from road to sea transport. The purpose 
+of the system is to mitigate greenhouse gas emissions from goods transport. 
+The Government is budgeting SEK 50 million a year for the system in the 
+period up to 2022.  
+Tax on air travel 
+On 1 April 2018, Sweden introduced a tax on air travel with the aim to help 
+reduce the climate impact of aviation28. The tax is designed as a tax on 
+commercial flights and is paid for passengers travelling from an airport in 
+Sweden. The airline that carries out the flight is liable to the tax. Different 
+amounts are to be paid depending on the final destination of the passenger.  
+Policy instruments for energy-efficient vehicles and Sustainable 
+renewable fuels 
+Emission reduction obligation for petrol and diesel (Fuel change)  
+An emission reduction obligation on petrol and diesel was introduced on 1 
+July 2018 to encourage the use of biofuels. This means that all fuel suppliers 
+must reduce greenhouse gas emissions from petrol and diesel by a certain 
+percentage each year. This can be done by blending increased proportions of 
+biofuels in petrol or diesel over time, see Table 4. The reduction obligation 
+makes an important contribution to phasing out fossil fuels in the transport 
+system.  
+Table 4. Reduction levels 2018–2020 in line with the Act (2017:1201) on reduction of greenhouse 
+gas emissions by mixing of biofuels in petrol and diesel fuels29. Reduction levels between 2020-
+2030 are announced but not formally decided. 
+Year   2018   2019   2020   2030* 
+Diesel   19.3%   20%   21%   66% 
+Petrol   2.6%   2.6%   4.2%   28% 
+           
+In 2020, the Government announced that the emission reduction levels will 
+be gradually increased by 2030, aiming at levels of 28 per cent for petrol and 
+66 per cent for diesel by 2030, with a control station in 2022.  
+Emission reduction targets for new vehicles 
+Manufacturers that sell vehicles in the EU are covered by an EU 
+Regulation30 that sets average emission reduction targets for new cars and 
+ 
+28 SFS 2017:1200 
+29 Act (2017:1201) on reduction of greenhouse gas emissions by mixing of biofuels in petrol and diesel fuels 
+30 No. 443/2009, 333/2014, 510/2011 and 253/2014 
+Ministry of the Environment  49 (87) 
+ 
+ 
+ vans. From 2021, phased in from 2020, the EU fleet-wide average emission 
+target for new cars will be 95 g CO2/km and 147g CO /km for new vans. 
+2
+These requirements have a major impact on emissions in Sweden, as they 
+considerably affect the composition of the vehicle fleet.  
+Bonus–malus-system for new light vehicles 
+A bonus–malus-system has been applied in Sweden since July 2018. Under 
+this system, vehicles with low carbon dioxide emissions can qualify for a 
+bonus on purchase, while vehicles with high carbon dioxide emissions in 
+their first three years have a higher vehicle tax. From year four onwards, the 
+ordinary vehicle tax is applied based on carbon dioxide emissions (see 
+below). The system covers all new passenger cars and vans. Since 1 January 
+2020, the new cars and vans are taxed on WLTP values (Worldwide 
+Harmonised Light Vehicle Test Procedure). In general, the WLTP has led to 
+higher emission values and thus contributed to make the rules stricter. 
+Carbon dioxide-based vehicle tax  
+To provide incentives to car buyers to choose cars, vans and caravans with 
+low greenhouse gas emissions, Sweden applies a differentiated annual vehicle 
+tax based on the vehicle’s carbon dioxide emissions per kilometre. 
+Accordingly, vehicles with lower carbon dioxide emissions are taxed lower 
+than vehicles with higher emissions. This tax applies to vehicles bought 
+before the bonus–malus-system was implemented in July 2018 (see above) 
+and will continue to apply to vehicles that “exit” the bonus-malus system 
+three years after purchase.  
+Tax reduction on eco-friendly company cars  
+Company cars account for a large part of new vehicles registered in Sweden, 
+and a large proportion of these can be used privately by the employees who 
+drive them. The benefit of using a vehicle provided by one’s employer for 
+private journeys is, as a rule, taxable, and the value of the benefit is 
+calculated according to a particular formula. To encourage the introduction 
+of new eco-friendly cars on the market, the taxable value of eco-friendly cars 
+is set at a lower level, equivalent to the price of the nearest comparable car 
+without environmental technology. For electric cars, plug-in hybrids and cars 
+run on gas (apart from liquefied petroleum gas - LPG), the taxable value of 
+the company car benefit may be further reduced. From 1 January 2021 the 
+further reduction will be abolished. 
+Ministry of the Environment  50 (87) 
+ 
+ 
+ Climate premium 
+Regional public transport authorities, municipalities and companies to which 
+the regional public transport authorities have outsourced the right to enter 
+into agreements on public transport, and traffic companies that are public 
+transport operators can apply for an electric bus premium. The premium 
+applies to electric buses, charging hybrid buses, trolleybuses and fuel cell 
+buses for public transport31. The size of the premium depends on the 
+number of passengers and whether the bus is solely powered by electricity or 
+if it is a hybrid. The premium seeks to support the introduction of electric 
+buses on the market. The budget for the electric bus premium is SEK 80 
+million for 2019. 
+From 2020 onwards, the electric bus premium will be converted into a 
+climate premium. This means that besides electric buses, it will also be 
+possible to apply for funding for electric lorries and other eco-friendly 
+lorries, as well as non-road mobile machinery powered by electricity, which 
+combined with the continuing funding for electric buses seeks to encourage 
+the introduction of these vehicles to the market.  
+Act on the Obligation to Supply Renewable Fuels32 
+To make renewable fuels available, there is legislation in Sweden that 
+requires that filling stations with sales of more than 1,500 m3 of petrol or 
+diesel must offer at least one renewable fuel.  
+4.4  Industry  
+4.4.1  Action areas – industry 
+Emissions from combustions plants and industrial processes accounted for 
+approximately a third of total emissions in Sweden in 2018. A large 
+proportion of the direct emissions from industry come from some specific 
+energy and carbon dioxide-intensive sectors in what can be termed the 
+“basic materials industry”: the iron, steel, minerals, refinery and chemicals 
+industry. A number of other industrial sectors have considerably lower 
+carbon dioxide emissions. Achieving long-term emissions targets close to 
+zero demands several major changes that directly and indirectly affect the 
+basic materials industry.  
+ 
+31 SFS 2016:836 
+32 Act (2005:1248) on the Obligation to Supply Renewable Fuels 
+Ministry of the Environment  51 (87) 
+ 
+ 
+ The refinery and chemicals industries use high amounts of fossil fuels as raw 
+materials for the process, making them relatively difficult to replace. These 
+industries need funding and conditions in place to enable them to develop 
+bio-based substitutes for fossil-based inputs.  
+Solutions to cutting emissions from cement and steel manufacture to zero 
+span the entire chain, from raw material to end use. Lowering emissions to 
+such an extent means reducing emissions from the basic process itself, 
+improving the efficiency of the whole stream from raw material to end use, 
+and increasing recycling of material. In rough terms, there are four major 
+opportunities to reduce emissions: 
+(i)  a transition from fossil raw materials and energy to renewable raw materials 
+and energy carriers,  
+(ii)  improve the efficiency of the process and increase material efficiency, 
+(iii) transition the basic process entirely, e.g. through electrification,  
+(iv) introduce technologies for carbon capture and storage (CCS), capable of 
+reducing both fuel-related and process-related emissions. 
+In the cement industry, a combination of a transition to bioenergy and CCS 
+is currently seen as the most realistic alternative for reducing emissions from 
+the basic process itself in the long term. CCS technology is also an 
+alternative for steel manufacturing if blast furnaces are retained, but there are 
+several other feasible solutions here. Looking towards 2035, for example, 
+direct reduction of iron ore using hydrogen (produced from renewable 
+electricity or bioenergy) is an option. Since 2016, the private initiative 
+HYBRIT (Hydrogen Breakthrough Ironmaking Technology) has begun to 
+commercialize the concept. Moreover, there are other ways of reducing iron 
+ore that have proved to work on a laboratory scale, e.g. electrolysis (known 
+as electrowinning), which may also be a solution in the long term.  
+Improving process efficiency and downstream efficiency of material flows 
+will also be necessary and justified in terms of cost and resource efficiency. 
+Increased recycling of material is an important strategy today but can be 
+expanded even further. The Government has therefor adopted a national 
+strategy for a circular economy that sets out the direction and ambition for a 
+long-term and sustainable transition of Swedish society. 
+Lowering emissions from the mining industry when mining iron ore also 
+requires technological development which can be linked to developments in 
+the iron and steel industry. The oxygen in the ore produced by the mining 
+industry could be reduced by processing the iron ore at the mine 
+Ministry of the Environment  52 (87) 
+ 
+ 
+ immediately after it has been mined, with the help of renewably produced 
+methane or hydrogen, so reducing the need for reducing agents (carbon and 
+coke) downstream in steel manufacture. Emissions in the aluminium 
+industry and smelting works could be reduced with additional technological 
+development. As far as the aluminium industry is concerned, this may 
+involve developing what are termed inert anodes that do not give off carbon 
+dioxide. 
+Reducing emissions in other areas of industry is easier. It is assumed that 
+energy consumption for heating premises and for different types of 
+industrial heating need (industrial emissions from incineration) could be 
+reduced to low levels in all sectors through a combination of energy and 
+material efficiency improvements, higher use of renewable fuels, and energy 
+carriers such as electricity and hydrogen. 
+4.4.2  Policy instruments in industry 
+Sweden’s policy instruments in the industry sector incentivise the use of 
+renewable energy, improving efficiency and a transition in the basic process 
+entirely. There is also certain governance for the introduction of carbon 
+capture and storage (CCS). The policy instruments are directed towards large 
+and smaller actors alike. Much of Sweden’s industry has signed up to the 
+Fossil Free Sweden initiative (see section 4.2.3) and work on the initiative 
+serves as an important driving force in the sector. With regards to F-gases, 
+governance mainly takes the form of regulation in the EU and at national 
+level. 
+Table 5. Summary of the most significant instruments for industry 
+Renewable energy  Efficiency  Transition the basic  Introduction of CCS 
+improvements  process 
+EU ETS  EU ETS  EU ETS  Industriklivet (industrial 
+investment grants) 
+Industriklivet  Energy and carbon  Industriklivet 
+(industrial investment  tax  (industrial investment   
+grants)  grants) 
+Environmental Code 
+Energy and carbon   
+Energy surveys for 
+tax 
+companies   
+Energy and climate 
+Energisteget (energy   
+coaches 
+efficiency grants for 
+Klimatklivet (local  industry)  
+investment grants) 
+Energy efficiency 
+  networks for SMEs 
+  Energy and climate 
+coaches 
+ 
+Ministry of the Environment  53 (87) 
+ 
+ 
+  
+Below is a description of the most important existing instruments in the 
+sector in addition to the EU ETS.  
+Carbon tax and energy tax in industry 
+Industry has certain energy and carbon tax reductions and exemptions, 
+basically as a result of the fact that most of the manufacturing industry is 
+already covered by the EU ETS. The manufacturing industry that falls under 
+the EU ETS pays 30 per cent of the general energy tax and is entirely 
+exempt from carbon tax. The manufacturing industry not included in the 
+EU ETS also pays 30 per cent of the energy tax on fuel used in the 
+manufacturing process. Previously, this part of industry had significant 
+reductions in carbon tax but in recent years, the tax has gradually been 
+raised. The tax reduction was removed entirely in 2018 and the full carbon 
+tax is now levied. Furthermore, the Swedish Government has announced 
+that the energy taxation reduction will be proposed to be abolished as from 
+1 January 2022. 
+Until 31 July 2019, diesel used in vehicles in the manufacturing process in 
+mining industry operations, known as mining diesel, was subject to an energy 
+tax and carbon tax levied at 11 per cent and 60 per cent respectively of the 
+general tax levels. This reduction in energy and carbon taxes was abolished 
+from 1 August 2019. 
+The Industry Leap (Industriklivet)  
+The Industry Leap is a long-term government programme, that supports the 
+development of technology and processes to reduce process-related 
+greenhouse gas emissions in the Swedish industry sector. The grant scheme 
+initiated in 2018 is planned to run until 2040. Financial support can be given 
+to research, preliminary trials, testing, pilot and demonstration projects, 
+detailed planning studies and investments in measures to reduce emissions as 
+well as for measures that seek to attain negative emissions, for example bio-
+energy CCS (BECCS). The target group for this funding is industries with 
+process-related emissions as well as universities and research institutions. In 
+2020, the Government budgeted SEK 600 million for the programme. In its 
+budget bill for 2021 the Government has proposed to extend and broaden 
+the scheme. 
+One highly significant project part-funded by the Industry Leap is HYBRIT 
+(Hydrogen Breakthrough Ironmaking Technology). The companies SSAB, 
+LKAB and Vattenfall launched the project with the aim of producing 
+Ministry of the Environment  54 (87) 
+ 
+ 
+ technical solutions to significantly cut carbon emissions from the steel 
+industry. During 2018, with financial support from the Industry Leap, work 
+started on the construction of a pilot plant for fossil-free steel production in 
+Luleå, Sweden. The goal is to have a solution for fossil-free steel by 2035. If 
+successful, HYBRIT can reduce Sweden’s CO2 emissions by 10% and 
+Finland’s by 7%.  
+Energy survey and Energisteget grants   
+The Energy Audits Act33 requires that large companies conduct an energy 
+audit at least every four years, including information about their total energy 
+consumption and proposals for cost-effective measures to improve energy 
+efficiency. Companies covered by the Act that have conducted an energy 
+audit have an opportunity to apply via the Energisteget programme for 
+grants for in-depth planning of measures and for the additional cost of 
+energy efficiency investments. Small and medium-sized enterprises are not 
+covered by the Act but can apply for financial support for conducting energy 
+audits.34 The audit is to cover the energy audit, proposed measures and an 
+energy plan.  
+Energy and climate coaches for SMEs 
+Municipalities can apply for compensation for the cost of a climate and 
+energy coach employed at 50 per cent of a full-time post35 who provides 
+specific advice to SMEs. See also section 4.2. 
+Energy efficiency networks for SMEs 
+In 2015, the Swedish Energy Agency launched a network project for small 
+and medium-sized enterprises. The energy efficiency networks are regional 
+networks of companies where SMEs gain help and support in their work to 
+cut energy consumption at their company. The networks consist of 8–16 
+companies with energy consumption exceeding one gigawatt hour (GWh). 
+Sweden has 40 networks in place with about 300 participating companies. A 
+network coordinator appointed by the Swedish Energy Agency leads the 
+networks and has an affiliated energy expert providing support and advice. 
+Sharing experiences and learning from each other within and across the 
+networks are also important success factors. The purpose of the network 
+activities is to reduce the energy consumption of participating companies by 
+ 
+33 SFS 2014:266 
+34 SFS 2009:1577 
+35 SFS 2016:385 
+Ministry of the Environment  55 (87) 
+ 
+ 
+ 15 per cent over a four-year period. This enables companies to benefit from 
+lowered costs, higher competitiveness and new growth opportunities.  
+4.4.3  Directives and provisions regulating emissions of 
+fluorinated greenhouse gases 
+ 
+EU Regulation and Swedish Ordinance on fluorinated greenhouse 
+gases  
+The EU Regulation on fluorinated greenhouse gases (F-gases)36 seeks to cut 
+emissions by two-thirds by 2030 compared with 2015. It contains provisions 
+on the use, reuse and destruction of F-gases and sets conditions for placing 
+on the market specific products and equipment that contain, or whose 
+function relies upon, F-gases. Above all, the provisions include a mechanism 
+for quantified emission reductions of substances that contain 
+hydrofluorocarbons (HFCs), with a gradually lowered ceiling for total HFC 
+emissions. 
+The Swedish Ordinance on fluorinated greenhouse gases37 supplements the 
+EU Regulation. The Ordinance sets out specific terms on cooling, air 
+conditioning and heat pump equipment to ensure that leakage of F-gases is 
+avoided.  
+The Industrial Emissions Directive (IED) and Best Available 
+Techniques reference documents (BREF) 
+Under the Industrial Emissions Directive (IED), in 2016 the EU adopted a 
+reference document on best available techniques (BREF) for the non-ferrous 
+metals industries. The BAT (best available techniques) conclusions must be 
+implemented within four years. These can significantly reduce emissions 
+from aluminium production. 
+ 
+4.5  Electricity and district heating 
+4.5.1  Action areas – electricity and district heating 
+Sweden has a low proportion of fossil fuels in its electricity and heating 
+production. The production of district heating has risen by approximately 50 
+per cent since 1990. At the same time, emissions from this sector have 
+remained relatively stable, as expansion has largely been attained through 
+ 
+36 Regulation (EU) no 517/2014 of the European Parliament and of the Council 
+37 SFS 2016:1128 
+Ministry of the Environment  56 (87) 
+ 
+ 
+ higher use of biofuels and wind power, while oil and coal consumption have 
+decreased. 
+In a long-term perspective, however, since emissions in principle need to 
+come down to close to zero, a number of challenges still remain. Two key 
+challenges are how peak loads can be handled and how emissions from 
+incineration of waste of fossil origin can be reduced. Furthermore, non-fossil 
+electricity and biomass will continue to play an important role in substituting 
+fossil fuels.  
+Phasing out fossil fuels in the transport sector and industry brings 
+challenges and opportunities for the energy system 
+Greater electrification of the transport sector and industry can lead to a 
+higher demand for electricity. Relative to total electricity consumption, 
+electrification of the vehicle fleet is not estimated to lead to a major increase 
+in Sweden. Complete electrification of the vehicle fleet could lead to an 
+estimated increase in demand of 13 TWh38. Depending on charging patterns, 
+a higher proportion of electric vehicles can bring both challenges and 
+opportunities for the electricity system. On the one hand, it may bring 
+challenges if there is a very high demand for power at certain times of the 
+day. On the other hand, the fleet of electric vehicles can be a resource for 
+the electricity system, helping to even out load over the course of the day, if 
+charging is steered towards times of day where this is most beneficial to the 
+system as a whole. 
+Future changes in energy carrier and the introduction of new technology in 
+specific parts of the basic materials industry can have consequences for blast 
+furnace gases delivered from the iron and steel industry to local electricity 
+and heating producers. The potential electrification of processes in the steel 
+industry may result in the disappearance of blast furnace gases, and the 
+introduction of more energy-efficient technologies may affect the amount of 
+waste heat available. In terms of increased electricity consumption in basic 
+industry, the potential electrification of parts of the steel industry could 
+mean an increase in electricity consumption of approximately 15–20 TWh, 
+while large-scale expansion of CCS could be equivalent to 2–5 TWh39.  
+The need for action to cut emissions from incineration of waste of 
+fossil origin and for greater resource-efficiency 
+ 
+38 IVA (2016) Framtidens elanvändning – en delrapport (Electricity consumption in the future – an interim 
+report) 
+39 Ibid. 
+Ministry of the Environment  57 (87) 
+ 
+ 
+ From a systems perspective, waste incineration for electricity and heat 
+production is efficient in many respects. Burning waste recovers the energy 
+and cuts methane emissions from landfill. The Swedish plants have effective 
+waste incineration technology, and Sweden has a well-developed district 
+heating network. However, incineration of waste of fossil origin is 
+problematic from a climate viewpoint. To combat a trend towards growing 
+emissions from waste incineration, there is a need for measures to increase 
+material recovery, and for incentives such as product requirements for more 
+renewable raw materials in plastics manufacture. Amounts of waste have 
+increased in Sweden and studies point towards continued growing amounts 
+of waste, making waste prevention measures extremely important. Higher 
+resource efficiency and promoting a circular economy is of the utmost 
+importance for this reason.  
+4.5.2  Policy instruments on electricity and district heating 
+Policy instruments on electricity and district heating seek to replace fossil 
+fuels with renewables and are geared towards electricity and district heating 
+producers, electricity suppliers and other actors. Policy instruments targeting 
+district heating producers seek to use price setting to incentivise substitution 
+of fossil fuels with renewable alternatives. Price setting occurs both via taxes 
+and via the EU ETS.  
+The fuels used for electricity production are not subject to price setting via 
+taxation. On the other hand, the major electricity producers are covered by 
+the EU ETS. The electricity suppliers are also obliged, via an electricity 
+certificate system with a quota obligation, to demand renewable electricity 
+from the producers. To make it easier to establish renewable energy 
+production, measures are also implemented seeking to provide good 
+conditions for expanding renewable electricity production, including 
+identifying suitable areas for such establishment.  
+Policy instruments targeted at other actors seek, through financial support, 
+to incentivise the installation of production of renewable electricity that can 
+also be distributed on the national grid. The support contributes towards 
+encouraging an increase in the total production of renewable electricity and 
+the commercial development of new technology. 
+ 
+ 
+ 
+Ministry of the Environment  58 (87) 
+ 
+ 
+ Table 6. Summary of the most significant policy instruments for electricity and district heating 
+Substituting fossil fuels with  Production of renewable 
+renewables for heat production  electricity 
+EU ETS  EU ETS 
+Energy and carbon tax  The electricity certificate 
+system  
+Promoting wind power  
+Support for solar energy 
+Tax reduction for 
+microproduction of 
+renewable energy 
+ 
+Below is a description of the most important existing policy instruments in 
+the sector in addition to the EU ETS.  
+Carbon tax and energy tax for heating and electricity production 
+An energy and a carbon tax are applied to fuels used in heat production. 
+Most biofuels are exempt from energy and carbon taxes. Fuels used to 
+produce heating in combined heat and power plants (CHP) and other heat 
+plants within the EU ETS are subject to a 91 per cent carbon tax and full 
+energy tax. This is a significant increase for the CHP plants since 1 August 
+2019, as these fuels were previously only subject to an 11 per cent carbon tax 
+and a 30 per cent energy tax. CHP plants that are not included in the EU 
+ETS pay full energy tax and full carbon tax on fuel used to produce heat. 
+This too is an increase, as before 1 August 2019, these fuels were subject to 
+tax cuts and only paid an energy tax of 30 per cent.  
+Fuels used for electricity production are exempt from both the energy and 
+the carbon tax, but the use of electricity is generally subject to energy tax.  
+The Electricity Certificate System  
+An electricity certificate system that seeks to increase the proportion of 
+renewable electricity production was introduced in 2003. Sweden and 
+Norway have had a joint electricity certificate market with shared targets 
+since 2012 and the Riksdag has adopted sub-targets for the system to 2020 
+and 2030. The electricity suppliers have a statutory obligation to buy 
+electricity certificates equivalent to a specific proportion, or quota, of the 
+electricity they supply. The quotas gradually increase year after year. The 
+electricity producers are allocated a certificate for each megawatt hour 
+(MWh) of renewable electricity they produce. The producers sell the 
+certificates on an open market where the price is set by sellers and buyers. 
+Ministry of the Environment  59 (87) 
+ 
+ 
+ The certificates thus produce extra income for producers of renewable 
+electricity. As the sub-targets are expected to be achieved in the near future, 
+ten years before schedule, a deadline for allocating new electricity certificates 
+has been recently introduced and that the electricity certificate system be 
+ended by the end of 2035, ten years earlier than what was stated in the 
+previous agreement.  
+Promoting wind power  
+Since 2004, certain land and water areas have been designated areas of 
+national interest for wind power. There are more than 300 such areas in 
+Sweden, on land and at sea. The total area covered by these national wind 
+power interests is approximately 8,000 km2, equivalent to approximately 1.5 
+per cent of Sweden’s land area including Swedish waters. 
+Since 2018 funding has also been available to municipalities to make it easier 
+to build wind farms40. 
+Support for solar energy  
+A subsidy for installing solar panels was introduced in 2009. The budget for 
+these grants is approximately SEK 4.5 billion for the period 2016–2021. All 
+types of actors can receive financial support for installing solar panels and 
+hybrid solar systems connected to the electricity grid. The investment grants 
+help to transform the energy sector and aid commercial development of the 
+market for solar energy technology. 
+Tax reduction for microproduction of renewable energy 
+A tax reduction for households and companies was introduced in 2015 to 
+stimulate investment in microproduction of renewable electricity. An income 
+tax reduction is granted in relation to the amount of renewable electricity fed 
+into the national grid and amounts to a maximum SEK 18,000 per year per 
+connection point. 
+ 
+4.6  Households and services 
+4.6.1  Action areas – households and services 
+Greenhouse gas emissions from heating households and services41 in 
+Sweden have plummeted since 1990, mainly due to private heating using 
+fossil fuels being replaced with district heating or electricity. Energy and 
+ 
+40 SFS 2017:1338 
+41 Refers to heating excluding district heating. 
+Ministry of the Environment  60 (87) 
+ 
+ 
+ carbon taxes, the oil price, the technology available for fossil fuel 
+substitution and the expansion of district heating infrastructure have had a 
+major impact on this trend. Emissions are equivalent to approximately 2 per 
+cent of Sweden’s total greenhouse gas emissions. 
+Challenge to build large amounts of housing quickly with climate 
+considerations paramount 
+Boverket, Sweden’s National Board of Housing, Building and Planning, has 
+estimated that there is a need to build over 700,000 homes in the ten-year 
+period 2015–2025, which is a very high rate relative to Sweden’s existing 
+housing stock. The rapidly increasing need for housing is leading to higher 
+pressure on municipalities to rapidly produce a large number of affordable 
+homes. There is a certain risk that such an urgent situation will lead to 
+solutions in which not every aspect of sustainability is sufficiently addressed 
+in planning and construction, and it is thereby important to ensure long-term 
+solutions as construction increases. 
+Lower energy consumption can contribute towards resource efficiency 
+Direct emissions of greenhouse gases from this sector is low and is 
+estimated to fall up to 2045. Total energy consumption in homes and 
+premises, on the other hand, accounts for a large proportion of Sweden’s 
+energy use. Policy instruments targeting energy consumption in homes and 
+premises currently mainly tackle emissions in electricity and district heating 
+production. The trend in emissions in the electricity and district heating 
+sector is also downward, which means that energy efficiency measures in the 
+housing sector are making less of an impact in terms of lowering greenhouse 
+gas emissions. That said, cost-effective measures to improve the efficiency of 
+energy consumption help to lower the costs of climate policy through more 
+efficient use of resources. Improved energy efficiency reduces the total need 
+for energy and consequently the negative impacts that energy supply has on 
+other environmental quality objectives and other objectives of society. 
+A large proportion of Sweden’s housing stock is more than 50 years old, and 
+the need to renovate estates including the “million programme” 
+developments of the 1960s and 1970s is an urgent and demanding task. 
+Renovating these buildings offers an opportunity to also improve their 
+energy performance. The major challenge in reducing energy consumption in 
+the housing sector therefore lies in renovating and improving the energy 
+efficiency of existing housing and premises with a lower energy 
+performance, with sufficient attention paid to their value as part of Sweden’s 
+cultural heritage.  
+Ministry of the Environment  61 (87) 
+ 
+ 
+ Besides measures to reduce energy consumption in existing and new 
+buildings, buildings have the potential to become “plus energy” buildings. In 
+energy-efficient buildings, more small-scale electricity and heating producers 
+will be able to produce heating and electricity to partly cover their own needs 
+and sell any surplus to the national grid. 
+Improved energy storage opportunities, such as batteries in electric vehicles 
+and smart grids will improve the underlying conditions for these “plus 
+energy” buildings. Technological developments in renewable energy also 
+offer greater opportunities for buildings to become plus energy buildings, 
+e.g. through increased efficiency of solar panels or thin film solar panels that 
+enable the use of more surfaces for electricity production. 
+Emissions in the housing production phase  
+The operational phase has long been the focus of emissions in the housing 
+sector. However, while emissions from using homes and premises accounts 
+for a small proportion of emissions today, the phase in which the buildings 
+are produced accounts for approximately 21 per cent of Sweden’s total 
+greenhouse gas emissions42. This can include emissions from machinery and 
+goods transport during construction, and emissions in producing materials, 
+e.g. cement and steel. These emissions do not count as emissions in the 
+housing sector and the emissions can arise both inside and outside Sweden’s 
+borders. 
+4.6.2  Policy instruments on households and services 
+Because the sector has largely made the transition to fossil-free, policy 
+instruments expected to be of the most importance in the future are focused 
+on increasing energy efficiency incentives. This is important, not least to 
+make fossil-free energy available to other sectors. Governance uses a 
+combination of policy instruments. Regulation imposes minimum 
+requirements on producers while pricing in the form of taxes targets 
+consumers. Requirements that producers provide product information also 
+mean that consumers receive information on the energy efficiency of energy-
+related products, increasing opportunities for the consumer to make an 
+informed choice. Promotional initiatives, such as training for actors in the 
+construction industry, are also carried out to make the market better at 
+providing energy-efficient buildings both in the construction phase and the 
+usage phase.  
+ 
+42 Boverket (2019) Utsläpp av växthusgaser från bygg- och fastighetssektorn (Greenhouse gas emissions 
+from the construction and property sector)  
+Ministry of the Environment  62 (87) 
+ 
+ 
+ Governance on housing and premises is thus geared towards: production of 
+energy-efficient buildings and products, users’ choice of buildings and 
+energy-related products, users’ energy consumption and improving the 
+energy efficiency of the existing housing stock. 
+Table 7. Summary of the most significant policy instruments for homes and premises 
+Production of  Users’ choice of  Users’ energy  Improving energy efficiency 
+energy-efficient  more energy- consumption  of the existing housing stock 
+buildings and  efficient buildings 
+products  and energy-related 
+products 
+Ecodesign Directive   Ecodesign Directive   Energy and carbon  Climate and energy advice 
+tax 
+Energy Labelling  Energy Labelling  Building regulations 
+Regulation  Regulation   Energy Declaration 
+Training programme for low 
+of Buildings Act  
+Building regulations  Climate and energy  energy buildings 
+advice  Climate and energy 
+Training programme  Grants for market launch, 
+advice 
+for low energy    technological development and 
+buildings    innovation clusters  
+Grants for market   
+launch, technological 
+development and 
+innovation clusters 
+ 
+Below is a description of the most important existing policy instruments in 
+the sector besides carbon and energy taxes, climate and energy advice and 
+support for market launch, technology development and innovation clusters 
+as described in section 4.2. 
+The Energy Labelling Regulation and the Ecodesign Directive 
+Energy labelling is compulsory for the product groups regulated under the 
+Energy Labelling Regulation and applies across all EU Member States. 
+Energy labelling makes the product’s energy consumption visible, making it 
+easier for consumers to make energy-smart choices.  
+The Ecodesign Directive is intended to improve the environmental 
+performance of products throughout their lifecycle. The requirements act as 
+a floor for banning and removing the most energy intense products on the 
+market. In principle, these rules can be applied to all energy-related products 
+(apart from transport) and cover all energy sources. In Sweden, the Directive 
+has been implemented by the Ecodesign Act43.  
+ 
+43 SFS 2008:112 
+Ministry of the Environment  63 (87) 
+ 
+ 
+ The construction and civil engineering industry  
+The Planning and Building Act (PBL)44 sets requirements for buildings. The 
+rules apply to newbuilds and renovation. Boverket’s building regulations 
+(BBR)45 contain provisions applying the Planning and Building Act in the 
+form of rules on housing design, accessibility and usability, fire protection, 
+hygiene, health, the environment, water and waste management, noise 
+protection, safety during use and energy management.  
+The building regulations include energy efficiency requirements, setting out 
+limits for the highest permitted energy consumption in buildings. One 
+requirement covers limit values for the energy consumption of the building 
+(primary energy factor) expressed as kWh per square metre of floor area per 
+year. The requirement covers energy for heating, air conditioning, hot tap 
+water and property energy and is stated for normal use of the building. The 
+requirements for primary energy factors are currently 90 kWh/m2 for single-
+family housing, 85 kWh/m2 for apartment blocks and 80 kWh/m2 for non-
+residential premises.  
+The milestone target in the environmental objectives system for higher 
+resource efficiency in the construction sector means that measures are to be 
+taken so that, by 2020 at the latest, at least 70 per cent by weight of non-
+hazardous construction and demolition waste is prepared for reuse, recycling 
+and other material recovery. 
+The Swedish Transport Administration’s experience of setting requirements 
+to cut the climate impact of major civil engineering projects has shown how 
+public procurement can create incentives for reduction measures, such as 
+climate-smart concrete, and scope for new, innovative solutions.  
+Support for renovation and energy efficiency improvements 
+A grant aimed at encouraging renovation and energy-efficiency 
+improvements to rented homes in areas facing socioeconomic challenges 
+was introduced in 201646. The renovation grant covers 20 per cent of the 
+renovation costs and this proportion of the grant is paid directly to the 
+tenant in the form of a rate rebate for seven years. However, in conjunction 
+with its decision on the national budget for 2019, the Parliament has decided 
+ 
+44 Planning and Building Act (2010:900) 
+45 Boverket’s code of statutes (BFS 2011:6, including amendments up to and including BFS 2018:15) 
+46 Ordinance (2016:837) on grants for renovation and energy-efficiency improvements in certain residential 
+areas. 
+Ministry of the Environment  64 (87) 
+ 
+ 
+ not to allocate any funding for grants for renovation and energy efficiency 
+improvements in certain residential areas in 201947. 
+The income tax reduction known as “rotavdraget” was introduced in 2008. 
+It is a tax reduction, which means that the taxpayer’s final tax is reduced for 
+covered services. The services covered are maintenance, repair, extension 
+and rebuilding of e.g. a house or an apartment. Some of the services covered 
+also contribute towards more efficient energy consumption. One natural 
+effect of the deduction is to create incentives for property owners to carry 
+out more renovation work and energy-efficiency improvements. 
+Training programme for low energy buildings 
+Since 2016, the Swedish Energy Agency, in partnership with other actors, 
+has been responsible for a number of capacity expansion programmes in the 
+field of low energy buildings. The programmes are especially intended for 
+different actors in the construction industry such as architects, engineers, 
+clients, technicians, fitters, site managers and teachers of upper secondary 
+school construction programmes.  
+Energy Declaration of Buildings Act  
+Based on the EU’s Energy Performance of Buildings Directive, Sweden has 
+implemented the Energy Declaration of Buildings Act48. The Act entails an 
+obligation for owners of single-family and multi-family buildings and of 
+commercial premises to declare the energy consumption of the buildings and 
+certain parameters regarding the indoor climate. The aim is to encourage 
+efficient use of energy and a healthy indoor environment by requiring 
+owners to learn more about the measures that are cost-effective to 
+implement for improved energy performance in buildings.  
+ 
+4.7  Non-road mobile machinery 
+4.7.1  Action areas – non-road mobile machinery 
+Non-road mobile machinery accounts for approximately 6 per cent of 
+Sweden’s greenhouse gas emissions. Non-road mobile machinery used in 
+industry, agriculture, forestry and in other sectors of society released 3.1 
+million tonnes of carbon dioxide equivalents in 2018. Emissions from non-
+ 
+47 Owners of single-family dwellings are entitled to a tax reduction for boring and installing geothermal 
+heating, and replacing windows, doors and taps, additional insulation, plus fitting and replacing ventilation. 
+For individual tenant-owners, only such renovation work carried out in the apartment is eligible for a tax 
+rebate (www.skatteverket.se). 
+48 SFS 2006:985 
+Ministry of the Environment  65 (87) 
+ 
+ 
+ road mobile machinery are 6 per cent higher than they were in 1990 and 5 
+per cent lower than in 2017. Non-road mobile machinery in industry 
+accounts for just over a third of emissions from non-road mobile machinery, 
+while such machinery in agriculture and forestry combined accounts for 
+about a third, with other sectors of society making up the remainder. The 
+calculation of emissions from non-road mobile machinery is so far entirely 
+model-based. 
+Non-road mobile machinery covers a large number of types of machinery in 
+different sectors, such as tools, tractors, cranes and diggers, but also smaller 
+machines such as lawnmowers. This heterogeneity means that there is wide 
+variation in capacity to take measures to reduce emissions. Greenhouse gas 
+emissions from non-road mobile machinery amount to approximately 3.5 
+million tonnes per year. Unlike emissions from the transport sector, the 
+trend in emissions from non-road mobile machinery has increased since 
+1990.  
+4.7.2  Policy instruments on non-road mobile machinery 
+Emissions from non-road mobile machinery are mainly governed by price-
+setting in the form of energy and carbon taxes, see section 4.2, and lower 
+energy and carbon dioxide tax on biofuels, see section 4.3.2. The reduction 
+obligation also has a bearing on emissions from non-road mobile machinery, 
+see section 4.3.2. The public sector has additional opportunities to set 
+requirements on machinery emissions in public procurement. 
+Reduction obligation 
+The use of petrol and diesel in non-road mobile machinery is covered by the 
+reduction obligation. A higher blend of bio-based fuels makes it possible to 
+reduce greenhouse gas emissions directly without having to replace each 
+piece of machinery. The Swedish Environmental Protection Agency 
+calculates that the effect of a reduction obligation of 40 per cent by 2030 
+would mean a potential reduction in emissions from non-road mobile 
+machinery of up to 1 million tonnes of carbon dioxide equivalents. Existing 
+tax cuts on high-blend biofuels also encourages increased use of biofuels in 
+machinery.  
+Climate premium 
+An introductory grant will be needed to increase the proportion of electrified 
+non-road mobile machinery in Sweden. In the 2020 Budget Bill, the 
+Government therefore proposed a new premium for electric lorries and 
+other eco-friendly lorries, as well as non-road mobile machinery powered by 
+Ministry of the Environment  66 (87) 
+ 
+ 
+ electricity, which, combined with the continuing funding for electric buses, 
+seeks to encourage the introduction of these vehicles to the market. 
+Procurement requirements 
+Environmental requirements on the environmental performance and energy 
+consumption of non-road mobile machinery are set at varying levels in 
+different public procurements of contracting services. The National Agency 
+for Public Procurement is tasked with providing support to actors engaged 
+in procurement and to suppliers to develop criteria for environmental 
+considerations. The Swedish Transport Administration has worked with the 
+three largest municipalities to develop joint requirements49 on the 
+environmental performance of non-road mobile machinery and on the 
+proportion of renewable fuel use. 
+ 
+4.8  Waste 
+4.8.1  Action areas – waste 
+The volume of waste has constantly increased in Sweden. In addition, waste 
+is imported for treatment and energy recovery. Despite the increasing 
+amount of waste, emissions from the sector have fallen considerably, mainly 
+in the form of methane emissions from landfill. The factors behind this 
+reduction are increased material recovery from landfill and small landfill sites 
+of organic material, combined with higher material recovery and waste 
+incineration with energy recovery. These measures are a consequence of a 
+series of policy instruments at national level and in the EU. Demand for 
+waste as fuel for district heating has also had an impact on the switch from 
+landfill to incineration.  
+Waste incineration for electricity and heating production is effective in many 
+respects from a systems perspective, but incineration of waste of fossil origin 
+is problematic from a climate aspect, see section 4.5.1. 
+To attain the climate goals, resources need to be used effectively and 
+emissions from the entire lifecycle of products be taken into account when 
+action and policy instruments are developed. The linear economy builds on a 
+virgin natural resource being extracted, used and then becoming waste. This 
+resource may be of fossil origin and its use thus means net emissions of 
+greenhouse gases. For resources that are not of fossil origin, large amounts 
+of energy are required – in global terms today, these too are often fossil in 
+ 
+49 Swedish Transport Administration (2018) Environmental requirements for contractors 
+Ministry of the Environment  67 (87) 
+ 
+ 
+ origin – to produce new products from virgin raw materials compared with 
+reusing or recovering the energy from the products already created.  
+In a circular economy, waste is seen to a greater extent as a resource that can 
+be returned to a new phase of production, and fossil inputs are replaced with 
+sustainably produced bio raw materials and waste products.   
+The transition from a linear to a circular economy demands changing the 
+entire value chain, with the development of innovative production methods, 
+recovery technologies and circular business models. New goods also need to 
+be designed and produced from the very start to enable them to be 
+recovered and reintroduced in a circular flow to a greater extent.  
+4.8.2  Policy instruments on waste 
+Policy instruments in the waste sector seek to reduce methane emissions 
+from landfill, increase material recovery and reduce the amount of waste.  
+Table 8. Summary of the most significant instruments for waste 
+Reduce methane  Increase material  Reduce the amount of 
+emissions from  recovery  waste 
+landfill 
+Ban on combustible  Waste hierarchy in the  Waste hierarchy in the 
+and organic waste in  Environmental Code  Environmental Code 
+landfill 
+Producer responsibility  Landfill tax 
+Regulation of 
+collection and  Measures for a circular and  Producer responsibility 
+management of  resource-efficient 
+Municipal waste 
+methane from landfill  economy 
+planning 
+Measures for a circular 
+and resource-efficient 
+economy 
+ 
+A description of the most important existing policy instruments in the sector 
+is provided below. 
+Ban on placing combustible and organic material in landfill and collection 
+of methane  
+In line with the Swedish Landfill Ordinance50, there is a ban on landfilling 
+combustible and organic material. The ordinance also regulates the collection 
+and management of methane gas from landfill.  
+ 
+50 SFS 2001:512 
+Ministry of the Environment  68 (87) 
+ 
+ 
+ Producer responsibility 
+Legislation on producer responsibility contains national targets for recovery, 
+and a total of eight product groups51 are covered under a number of 
+ordinances. Producer responsibility encourages sorting, collection and 
+recycling of waste flows. Producer liability seeks to provide incentives for 
+producers and develop more resource-efficient products that are easier to 
+recycle and no longer contain environmentally hazardous substances.  
+The Government has appointed an inquiry to submit a proposal on 
+producer responsibility for textiles. The purpose of producer responsibility is 
+to achieve environmental benefit through increased collection of textiles for 
+reuse and of textile waste for recycling, primarily for preparation for reuse 
+and material recovery. The purpose is also that responsibility for waste 
+management and recycling of textiles is to be placed on the producers to 
+achieve the polluter pays principle. 
+Waste hierarchy in the Environmental Code 
+The waste hierarchy in the EU Waste Framework Directive (Directive 
+2008/98/EU) sets out an order of priority in legislation and policy in 
+Member States. The waste hierarchy is incorporated in Chapter 2 and 
+Chapter 15 of the Swedish Environmental Code and means that waste 
+prevention measures are to be taken in the first instance. This means policy 
+instruments leading to a reduction in amounts of waste, a reduction in the 
+amount of hazardous substances in the material and products, and a 
+reduction in the negative consequences of the waste that arises. When 
+selecting the waste treatment method, the starting point is that preparing for 
+re-use is to be the first choice option. The second option is recycling and the 
+third is other recovery (including energy recovery). Disposal is the final 
+option.  
+When applying the waste hierarchy, Member States shall take measures to 
+encourage the options that deliver the best overall environmental outcome. 
+This may require specific waste streams departing from the hierarchy where 
+this is justified by life cycle thinking regarding the overall impacts of the 
+generation and management of such waste.  
+ 
+51 Producer responsibility has been developed for packaging, waste paper, end-of-life vehicles, tyres, 
+electrical and electronic equipment, batteries, pharmaceuticals and radioactive products. 
+Ministry of the Environment  69 (87) 
+ 
+ 
+ Landfill tax 
+A tax on landfilled waste was introduced in 2000.52 This tax has gradually 
+been raised and since 2015 has amounted to SEK 500 per tonne of landfilled 
+waste. The tax will be index-linked from 2019 onwards. In 2020 the tax is 
+SEK 540 per tonne of waste. 
+Municipal waste planning 
+In line with the Environmental Code, all municipalities must have a waste 
+plan that covers all types of waste and steps to manage the waste in a 
+manner that is environmentally and resource-efficiently appropriate. The 
+waste plan is to include measures to reduce the amount of waste and its 
+hazardousness. 
+Measures for a circular and resource-efficient economy  
+Development towards a circular economy is vital if Sweden is to be the 
+world’s first fossil-free welfare nation, and contribute to the environmental 
+and climate goals and several of the UN’s Sustainable Development Goals in 
+the 2030 Agenda. 
+There are major environmental and climate benefits to be gained from 
+preventing waste arising and from material recovery. For example, there are 
+major energy benefits to be attained from recovering materials rather than 
+extracting new ones. For aluminium, the energy gain is as high as 90 per 
+cent, which also means environment and climate gains from more energy-
+efficient waste management on top of the resource efficiency that is also 
+attained. Extending product lifespan to replace new production makes the 
+gains even greater. Key areas for the circular economy are to do with how 
+material and products are viewed and dealt with to minimise environmental 
+impact and extend their value. Production and consumption need to change 
+to achieve this. In a circular economy, it is vital that hazardous substances do 
+not enter the ecocycle. Non-toxic material is part of the transition to a 
+circular economy.  
+The Government presented its national strategy for a circular economy 2020 
+and will conduct a broad overview of the regulations on recycling and 
+managing waste and waste products to encourage innovation and enterprise 
+in the circular economy.   
+In April 2018, the Government decided to set up a circular economy 
+delegation. The aim is to boost the transition to a resource-efficient, circular 
+ 
+52 SFS 1999:673 
+Ministry of the Environment  70 (87) 
+ 
+ 
+ and bio-based economy, nationally and regionally. The tasks of the 
+delegation are to provide advice to the Government, identify obstacles and 
+act as a catalyst, and to be a knowledge centre and a coordinating force for 
+transition. 
+If the circular, resource-efficient economy is to achieve its full potential, 
+there is also a need for broader and deeper collaboration in the EU. For 
+example, common, higher standards on recycling of plastics, textiles and 
+batteries in the EU are important for facilitating trade in recyclable materials 
+and to be able to control the quality. 
+ 
+4.9  Agriculture  
+4.9.1  Action areas – agriculture 
+Greenhouse gas emissions from Swedish agriculture have fallen compared 
+with 1990, but still account for 13 per cent of Sweden’s emissions. Swedish 
+agriculture contributes to emissions of greenhouse gases in the form of 
+methane from livestock’s enteric fermentation as well as nitrous oxide and 
+methane from agriculture soil and manure management. Other emissions are 
+reported elsewhere, i.e. emissions from non-road agricultural machinery (see 
+section 4.7.2) building heating (see section 4.6.2), as well as emissions and 
+removals of greenhouse gas emissions from agricultural land (see section 
+4.10.1). 
+In the objectives of the Food Strategy, the Swedish Parliament has decided 
+that Swedish food production is to increase. This means that some 
+agricultural emissions are likely to remain even after 2045.53 These remaining 
+emissions will need to be compensated for with supplementary measures. It 
+is nevertheless essential to work to ensure that these remaining emissions are 
+as small as possible.  
+Agricultural emissions can be reduced by taking action that reduce emissions 
+from production, e.g. through manure management measures and more 
+efficient nitrogen use in arable farming. The most important action areas are 
+described below.  
+Methane and nitrous oxide from storing manure 
+Actions that can reduce emissions from storing manure are, for example, a 
+switch to slurry, acidification of slurry, covering of slurry pits and anaerobic 
+ 
+53 Swedish Board of Agriculture. 2012. Ett klimatvänligt jordbruk 2050. Swedish Board of Agriculture (2018), 
+Hur kan den svenska jordbrukssektorn bidra till att vi når det svenska klimatmålet?, Report 2018:1. 
+Ministry of the Environment  71 (87) 
+ 
+ 
+ digestion of animal manure. The latter is estimated to have the greatest 
+potential for emission reductions.  
+Anaerobic digestion of manure reduces the emissions from storage because 
+the methane produced is managed rather than being emitted, and the storage 
+of the digested residues produces lower emissions than non-anaerobically 
+digested manure. Emissions of nitrous oxide from agricultural land is 
+reducing as access to nitrogen increases in digested manure compared with 
+non-aerobically digested manure, reducing the need for mineral fertiliser. 
+Furthermore, greenhouse gas emissions in other sectors fall if the biogas 
+(methane) replaces fossil fuel. 
+Nitrous oxide from agricultural land 
+Emissions of nitrous oxide from agricultural land can be reduced if fertiliser 
+inputs are adapted to the expected nutrient needs, harvest levels of the crops 
+and the expected nitrogen delivery of the land. Therefore, measures to 
+increase nitrogen effectiveness by optimising fertiliser spreading in terms of 
+the amount and time of spreading are important. With precision fertiliser 
+spreading, nitrogen can be spread out according to how nitrogen need varies 
+over the field instead of providing average inputs.  
+Additional measures that have the potential to reduce emissions are the use 
+of nitrification inhibitors and incorporating fertiliser in the soil when 
+spreading. Anaerobic digestion of manure increases the proportion of plant-
+available nitrogen and produces lower nitrous oxide emissions. Rewetting of 
+peatlands, which is mainly a measure to reduce carbon dioxide emissions, 
+can also reduce nitrous oxide emissions. 
+Methane from livestock digestion 
+Increased resource-efficiency and higher productivity reduce emissions of 
+methane per produced unit. Through better breeding, animal health and 
+more effective feed utilisation, Swedish productivity has risen over the years. 
+The potential for further productivity increases in Sweden is therefore 
+somewhat lower in the years ahead. 
+Composition of livestock feed can affect methane release. Feed additives can 
+also be used to reduce emissions. However, the potential for this is 
+considered to be relatively low. 
+4.9.2  Policy instruments in agriculture 
+Policy instruments in the agricultural sector seek to improve manure 
+management and increase resource efficiency and productivity. Governance 
+Ministry of the Environment  72 (87) 
+ 
+ 
+ takes place in the form of economic support and advice. Several agricultural 
+initiatives are co-financed by the EU and Sweden via the Rural Development 
+Programme, e.g. investment grants for biogas.  
+A description of the most important existing policy instruments in the sector 
+is provided below. 
+The EU’s Common Agricultural Policy, CAP  
+The EU’s Common Agricultural Policy (CAP) seeks to increase productivity 
+in the agriculture sector, secure the food supply, stabilise the markets, and 
+guarantee farmers a reasonable standard of living and consumers reasonable 
+prices. The CAP is divided into two pillars. Pillar I contains direct aid, while 
+pillar II comprises rural development programmes in the Member States. 
+Pillar I contains cross-compliance and greening payments, where greening is 
+linked to measures that could increase the storage of carbon in agricultural 
+land.  
+Rural Development Programme 2014–2020 
+The Rural Development Programme for 2014–2020 covers investment 
+support, start-up grants for young entrepreneurs, skills development, 
+collaboration and innovation, support for organic farming, land-based 
+environment and climate measures and support for animal welfare. Measures 
+that particularly contribute to reducing greenhouse gas emissions are those 
+targeting increased energy efficiency, production and use of renewable 
+energy (including biogas production and establishing multi-annual energy 
+crops), switch from fossil fuels to renewable energy sources, improved 
+fertiliser management, more effective use of nitrogen, climate and energy 
+advice, measures to prevent risks of nitrogen leakage, restoration and 
+establishment of wetlands, promotion of set-aside and capture crops in 
+arable land, preserving natural grazing and other separate projects related to 
+the climate and energy. The programme’s budget amounts to SEK 36 billion 
+throughout the programme period, 56 per cent of which is funded by 
+Sweden and the remaining 44 per cent by the EU. 
+Swedish Rural Network 
+The Swedish Rural Network supplements and is funded through Sweden’s 
+rural development programme. The network gathers actors at local, regional 
+and central level to swap information and experiences. The network is 
+intended to reinforce the implementation of EU-related programmes. The 
+Swedish Board of Agriculture has been tasked by the Government with 
+ensuring that the Swedish Rural Network works. 
+Ministry of the Environment  73 (87) 
+ 
+ 
+ Advice on plant nutrients – “Greppa näringen”  
+The Swedish Board of Agriculture offers an advisory service called “Greppa 
+näringen” together with the Federation of Swedish Farmers and the county 
+administrative boards. The service is funded by the Rural Development 
+Programme and since its launch in 2001 has focused on advice for higher 
+nutrient effectiveness to reduce nutrient leakage. The service also includes 
+advice specifically aimed at cutting emissions of greenhouse gases and energy 
+efficiency, because reducing greenhouse gas emissions has become one of 
+the main aims of the service. 
+Aid for manure gas 54 
+Since 2015 there has been a support system for biogas production through 
+anaerobic digestion of manure. The funding seeks to increase biogas 
+production from manure and thus double the environmental and climate 
+benefits through reduced methane emissions from manure and substitution 
+of fossil energy. Increased breakdown of manure generates several 
+environmental benefits. This reduces both emissions of greenhouse gases 
+and eutrophication of fresh and marine water, and produces biogas that can 
+be used as energy. The biogas generated can be used to generate electricity 
+or heating or be used as fuel for vehicles. The funding amounts to a 
+maximum SEK 0.40 per kWh of biogas produced. Between January 2015 
+and September 2018, a total of SEK 176 million was distributed between 66 
+biogas plants. Funding to investments in new biogas facilities can also be 
+granted through the Rural Development Programme. 
+ 
+4.10  Land use, land use change and forestry, 
+LULUCF 
+4.10.1  Action areas – land use and forestry, LULUCF 
+In land use, land use change and forestry, Sweden has net removals, in other 
+words removals of carbon dioxide mainly through growth in the forest being 
+higher than emissions of carbon dioxide, nitrous oxide and methane. Total 
+net removals in the sector were just under 42 million tonnes of carbon 
+dioxide equivalents in 2018. The highest removals are seen in living biomass 
+on forest land and in 2018, net removals (growth minus harvesting and 
+natural breakdown) were just under 36 million tonnes of carbon dioxide 
+equivalents. Net removal also takes place in harvested wood products and in 
+2018, this amounted to just under 6 million tonnes of carbon dioxide 
+ 
+54 Ordinance (2014:1528) on government funding for biogas production 
+Ministry of the Environment  74 (87) 
+ 
+ 
+ equivalents. The highest net emissions in the sector occur in organogenic 
+land and in 2018 this amounted to just under 9 million tonnes of carbon 
+dioxide equivalents.   
+A larger use of residue-based bioenergy has been crucial in Sweden in order 
+to cut the use of fossil fuels in several industries. In the future, the demand 
+for bioenergy is expecting to continue to be important so that the emission 
+targets can be met. Wood products can also replace fossil-based materials in 
+construction, biofuels replacing fossil fuels and biomaterial can replace 
+fossil-intensive materials in clothing. The Government’s inquiry on negative 
+emissions (M 2018:07) whose mandate includes estimating the technical and 
+realisable potential of increasing carbon sinks and proposing incentives to 
+increase them submitted its report in January 2020. The Government has 
+also appointed an inquiry on forests, looking at revised forms of protection 
+and compensation when protecting forest land, and how international 
+commitments on biodiversity could be made compatible with a growing 
+circular bioeconomy. 
+In May 2018, the Government decided on a strategy for Sweden’s National 
+Forest Programme. The National Forest Programme will be developed to 
+further promote a growing forest industry and sustainable forestry.  
+The Government also intends to produce a Swedish bioeconomy strategy 
+together with the green industries that contribute towards greater access to 
+biomass and employment throughout Sweden and create environmental and 
+climate benefit.  
+Potential obstacles and uncertainties in increasing removals in the 
+sector  
+A changing climate brings about both opportunities and obstacles for 
+increasing carbon sinks. According to some studies, a warmer climate will 
+mean higher forest growth and carbon storage in forest biomass in Sweden. 
+On the other hand, natural disasters such as drought, fires, storms and pests 
+could become more common in a changed climate, which could result in 
+that the previously stored carbon returns into the atmosphere. Therefore, it 
+is important to adapt Swedish forests to a fast-changing climate in order to 
+harness the potentially positive effects of climate change and counteract the 
+potentially negative effects.    
+4.10.2  Policy instruments in land use and forestry, LULUCF 
+Larger carbon removals, and reduced emissions, can contribute to net 
+negative emissions in the long term and, as a supplementary measure, can 
+Ministry of the Environment  75 (87) 
+ 
+ 
+ contribute to attaining the milestone emission targets as set within the 
+climate policy framework. At the same time, bio-based fuels and bio-based 
+materials that can replace materials based upon fossil raw materials are of 
+great value to a society undergoing a climate transition. Sweden is well placed 
+to combine active forestry with high environmental requirements as well as 
+maintaining a significant carbon sink.  
+The Swedish Forestry Act has two overarching objectives: production and 
+protection of the environment. The production objective means that forests 
+and forest land must be used efficiently and responsibly so that they deliver a 
+sustainable profit. The focus is that flexibility is to be given in terms of what 
+the forests produce and how it is used. The environmental objective means 
+that the natural productive capacity of forest land must be preserved. 
+Biodiversity and the genetic diversity in the forests must be safeguarded. 
+Forests must be managed in a way that enables naturally occurring plant and 
+animal species to survive in natural conditions and populations that enable 
+them to thrive. Endangered species and habitats as well as heritage forests 
+and their aesthetic and societal values must be protected. 
+Applicable legislation affects indirectly the development of removals or 
+emissions of carbon dioxide in different ways, mainly through provisions on 
+forest management in the Forestry Act, provisions on land drainage in the 
+Environmental Code and protection of areas and nature conservation 
+agreements. A description of the most important existing policy instruments 
+in the sector is provided below. 
+Under the Forestry Act, forest owners have freedom and responsibility for 
+long-term sustainable forest management. The regulations cover obligation 
+to report planned harvesting, minimum age for harvesting, regeneration 
+requirements, thinning guidelines, provisions for consideration to soil, 
+biodiversity, water and measures to limit forest damage. Examples of 
+provisions on nature conservation and cultural heritage include not 
+disturbing important biotopes, buffer zones and arable land, and leaving 
+gatherings of old trees and dead wood in place. The forestry Act is also 
+applicable for continuous cover forest management. Special rules apply to 
+certain types of forest such as mountain forests and deciduous forests as well 
+as reindeer herding areas. 
+Rewetting of drained wetlands 
+In 2021, a new scheme will be established in order to rewet previously 
+drained wetlands and thereby reduce greenhouse gas emissions while 
+Ministry of the Environment  76 (87) 
+ 
+ 
+ contributing to other significant environmental goals such as preserving 
+biodiversity. 
+Rules on land drainage, Environmental Code, Chapter 11 
+The Environmental Code contains rules on land drainage which implies that 
+oxygenation of organogenic land by drainage is prevented. Land drainage is a 
+measure carried out by removing water or protecting land from flooding. In 
+order for land drainage to be acceptable in the sense of the Environmental 
+Code, the purpose of the measures must be to increase the long-term 
+suitability of the land for a particular purpose, such as cultivation, 
+construction, peatland, road construction or golf courses.  
+Since 1986, a permit is required for land drainage under the Environmental 
+Code. In line with Chapter 11, section 14, the Government may prohibit 
+land drainage in areas where the conservation of wetlands is particularly 
+desirable. The provision further states that the county administrative boards 
+may grant exemptions from such prohibitions. The Government has used its 
+authorisation by pointing out areas where a ban on land drainage applies in 
+Ordinance (1998:1388) on water operations. For land drainage to be able to 
+be permitted in such an area, the county administrative board must find that 
+the conditions for the dispensation are met, and the permit must be applied 
+for and granted.  
+Nature reserves55, Chapter 7 of the Environmental Code 
+In Sweden and in many other countries, nature reserves are one of the most 
+common ways of protecting valuable natural environments. There are 
+currently almost 5,000 nature reserves in Sweden, covering a total area of 
+4,808,590 hectares (2018). Chapter 7 of the Environmental Code contains 
+the regulations for setting up nature reserves. Work to set up nature reserves 
+is headed by the Swedish Environmental Protection Agency.  
+Nature conservation agreements 
+Nature conservation agreements56 are agreements in civil law. The property 
+owner and the State or a municipality agree on a certain amount of financial 
+compensation for the property owner in return for the owner not carrying 
+out forestry, for example. The Swedish Forest Agency and the Swedish 
+Environmental Protection Agency together provide guidance.  
+ 
+ 
+55 http://www.swedishepa.seEnjoying-nature/Protected-areas/Nature-reserve/ 
+56 http://www.naturvardsverket.se/Stod-i-miljoarbetet/Vagledningar/Skyddad-natur/Naturvardsavtal/ 
+Ministry of the Environment  77 (87) 
+ 
+ 
+ Sweden’s National Forest Programme  
+The strategy for Sweden’s National Forest Programme was decided by the 
+Government on 17 May 2018. Further work within the National Forest 
+Programme’s strategy is guided by the programme’s vision: “Forests – our 
+‘green gold’ – will contribute to creating jobs and sustainable growth 
+throughout the country, and to the development of a growing 
+bioeconomy.” An action plan has been drawn up for the strategy containing 
+concrete measures based on the Forest Programme’s vision and 
+objectives. Access to sustainable biomass from Swedish forests has an 
+important role to play in the ongoing transition to a fossil-free society. The 
+action plan contributes to Sweden’s climate efforts by setting goals and 
+measures aimed at increasing national access to bio-based alternatives.  
+Advice and training on forest management 
+The Swedish Forest Agency provides information and guidance to forest 
+owners on adaptation and mitigation measures. The Swedish Forest Agency 
+also provides tools and guidance on how best to manage and administer 
+their forests with the owner’s specific objectives in mind. 
+The EU’s Common Agricultural Policy, CAP  
+One important policy instrument influencing production in the agricultural 
+sector, and emissions and removal of greenhouse gases from the agricultural 
+sector and its land use, is the EU’s Common Agricultural Policy, CAP. The 
+CAP also applies to the LULUCF sector, as emissions and removals of 
+greenhouse gases on arable land and pasture are allocated to this sector. 
+Read more about the CAP in section 4.9.2 on policy instruments in 
+agriculture. 
+Ministry of the Environment  78 (87) 
+ 
+ 
+ 5  Consequences of Sweden’s 
+goals and actions 
+ 
+5.1  Consequences of failing to meet the 
+climate targets 
+An important number of reports have shown that the costs of climate 
+change to society can be substantial. Several reports, including the Stern 
+Review, state that if we do not act preventively, the long-term total costs and 
+risks of climate change will be equivalent to a significant loss of global GDP 
+per year for a long time to come. Moreover, the Stern Review estimates that 
+the costs of not taking action widely exceed the costs of acting. The World 
+Economic Forum judges that failure of climate-change mitigation and 
+adaptation as well as extreme weather events are the two greatest and most 
+likely risks to the global economy57.  
+Temperature is estimated to rise twice as rapidly in Sweden compared to the 
+global average, which could bring, for example58: 
+Positive impacts such as a longer growing season, lower heating costs and higher 
+hydroelectric power potential. 
+Negative impacts such as higher death rates due to heatwaves, greater spread of 
+infectious diseases, shorter snow seasons, higher risks for flooding, landslides, rockfalls 
+and erosion, lower quality drinking water and a higher risk of drought, forest fires and 
+insect infestation.  
+The summer weather of 2018 – with high temperatures over a long period, 
+severe drought, low drinking water levels and insect damage to trees – can be 
+seen as an illustration of Sweden’s vulnerability even now.  
+In general, other regions in the world are expected to be harder hit by the 
+effects of climate change than Sweden. However, with an open economy, 
+Sweden is vulnerable to indirect impacts when other countries suffer storms, 
+fires and floods, etc. The effects may include increased migration, a higher 
+ 
+57 http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf  
+58 https://www.regeringen.se/49bbac/contentassets/94b5ab7c66604cd0b8842fd6510b42c9/sverige-infor-
+klimatforandringarna---hot-och-mojligheter-missiv-kapitel-1-3-sou-200760  
+Ministry of the Environment  79 (87) 
+ 
+ 
+ risk of violent conflict, impaired food supply and a need for more extensive 
+work on combatting poverty59.   
+These effects may also be considerably greater if certain irrevocable 
+thresholds in the climate system are passed. For example, this would involve 
+a serious rise in sea level following the collapse of the West Antarctic ice 
+cover, high methane emissions from melting of the permafrost or major 
+regional temperature changes from the stopping of the Gulf Stream. Effects 
+of such events are very hard to predict.  
+ 
+5.2  Consequences of Swedish policy to 
+attain the climate goals 
+5.2.1  The costs of transition are estimated to be small but 
+uncertain 
+The total costs for Sweden of reaching net zero emissions by 2045 at the 
+latest are estimated by today’s models, both in Swedish and international 
+studies, to be minor: only a few percentage points of GDP, either positively 
+or negatively60. However, there are considerable uncertainties in forecasts 
+reaching over 25 years in the future. There are examples of previous future 
+forecasts, both in the field of economics and in the field of energy, that were 
+no longer relevant only a few years after they were published. This is due to 
+large uncertainties in many modelling assumptions, such as discounting rates, 
+economic growth, behavioural change or technical development.  
+In addition, GDP is an incomplete measurement of prosperity, so the 
+models currently used are limited in their scope. Both the IPCC and The 
+New Climate Economy therefore emphasise the value of a multi criteria 
+decision analysis, i.e. strategies that are favourable for the climate and several 
+other goals of society at the same time.  
+5.2.2  Synergies and conflicts with other environmental and 
+societal goals  
+The total number of potential synergies between cutting emissions and other 
+goals of society generally exceeds the number of conflicts, but the net impact 
+depends on the policy pursued in practice and the rate and size of the 
+ 
+59 https://www.ipcc.ch/site/assets/uploads/2018/02/ar5_wgII_spm_en.pdf  
+60 http://www.sou.gov.se/wp-content/uploads/2016/03/SOU_2016_21_webb.pdf 
+General equilibrium models usually show higher costs than energy system models.  
+Ministry of the Environment  80 (87) 
+ 
+ 
+ change61. Favouring synergies and reducing conflicts between emission 
+reductions and other societal goals reduces the cost of a broader transition 
+towards sustainable development.  
+These side-effects are often difficult to quantify but can be very significant. 
+Energy efficiency improvements and electrification of cars as well as a 
+greater use of public transport, cycling and walking can for example lead to a 
+better urban environment and lower particle emissions, whose health effects 
+are estimated to claim 7,600 lives every year and cost about 1.2 per cent of 
+Sweden’s GNP62. More physical exercise can also reduce the risk for 
+premature death, cardiovascular disease and type 2 diabetes63. Cutting down 
+on red meat and charcuterie products is also considered to reduce the risk of 
+a number of cases of cancer64.  
+Biomass harvests need to be done in a way that is compatible with efforts to 
+attain other environmental and social goals and with attention paid to the 
+consequences for carbon sinks over time. Therefore, the bioeconomy needs 
+to be based on effective use of resources, where the resource of the forests 
+can be used to the full within the sustainability parameters set by other 
+environmental and societal goals while retaining or improving the long-term 
+carbon sink in the forest over time. 
+In the transition, it is also important to take into account distributional and 
+regional effects, as different households have different opportunities to 
+adapt to new instruments. Other sustainability aspects such as increasing 
+gender equality and social cohesion can help to encourage reducing 
+emissions65.  
+5.2.3  Risks and opportunities of the transition for industry 
+If policy instruments are only unilaterally introduced in Sweden, there is a 
+risk of job losses, for example, in carbon-intensive industries and sectors that 
+operate on an international market. In such cases, there would be a risk of 
+carbon leakage, i.e. the policy pursued resulting in emissions occurring in 
+ 
+61 https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf  
+62 
+https://www.ivl.se/download/18.2aa26978160972788071cafe/1529073450199/C317%20Quantification%20of%
+20population%20exposure%202015.pdf 
+63 http://gih.diva-portal.org/smash/get/diva2:849879/FULLTEXT03.pdf  
+64 https://apps.who.int/iris/bitstream/handle/10665/278948/WHO-NMH-NHD-18.12-eng.pdf?ua=1  
+65 https://www.naturvardsverket.se/Documents/publikationer6400/978-91-620-6458-7.pdf 
+Ministry of the Environment  81 (87) 
+ 
+ 
+ other countries instead. Such a development would run counter to the 
+generational goal adopted by the Parliament66.  
+Major technological leaps are needed to enable the most carbon-intensive 
+industry in Sweden to make the transition, and here it is important that risks 
+are shared between the business community and the Government.  
+Transitioning the Swedish economy to net zero emissions by 2045 means 
+that parts of the economy that are strongly dependent on fossil fuels, or 
+otherwise give rise to major greenhouse gas emissions, will be affected more 
+than the sectors that are not as emission-intensive. For example, basic 
+industry, heavy goods transport and the agricultural sector may be 
+particularly vulnerable in the transition, at least in the short term.  
+The long-term rules that form part of the climate policy framework as well 
+as industries’ own roadmaps within the Fossil Free Sweden initiative create 
+predictability and opportunities for the financial sector to make long-term 
+investments in new technology and new services, and refrain from 
+investments in potentially stranded or depreciated fossil assets.  
+A certain degree of flexibility is also important when designing climate 
+policy, such that policies can be adapted to prevailing circumstances and 
+encourage cost-efficiency. This is achieved by not setting milestone targets 
+and emission paths for sectors and sub-sectors at an overly detailed level, 
+and by allowing the use of supplementary measures in meeting the targets.  
+However, the starting point for Sweden’s climate strategy is that the rest of 
+the world, including the EU, acts forcefully to keep the average global 
+temperature rise to far below two degrees and aim for 1.5 degrees, in line 
+with the Paris Agreement. In this transition, more than 400 organisations 
+and 22 sectors are part of the Fossil Free Sweden initiative.67  
+This can be explained by the fact that Sweden has certain comparative 
+advantages in the climate transition seen from an international perspective 
+due to an almost fossil-free electricity and district heating production, 
+biomass, water and wind resources, high climate awareness, a high trust in 
+institutions and a long history of innovation and entrepreneurship. 
+ 
+66 The generational goal reads: “The overall goal of Swedish environmental policy is to hand over to the next 
+generation a society in which the major environmental problems in Sweden have been solved, without 
+increasing environmental and health problems outside Sweden’s borders.” 
+67 http://fossilfritt-sverige.se/in-english/roadmaps-for-fossil-free-competitiveness/  
+Ministry of the Environment  82 (87) 
+ 
+ 
+ 6  Buy-in and realisation – 
+Sweden’s path to goals and 
+measures 
+When the decision on the climate policy framework was reached, it was 
+emphasised that Sweden has a strong tradition of political agreements on 
+issues that are important and fundamental to society. A long-term climate 
+policy that has broad support across party boundaries and in the Parliament 
+is needed if Sweden is to lead the way on a global climate transition.68 It is 
+also central to Sweden’s strategy to involve broad groups when 
+implementing the policy, and that different actors in society are given every 
+opportunity to include climate aspects in the strategic planning of their 
+operations.  
+The Swedish climate goals adopted in 2017 are the result of long-term 
+efforts and part of the overarching objective of Swedish environmental 
+policy. In 1999 the Swedish Parliament decided on a generational goal that 
+sets out the direction of the transformation of society that needs to take 
+place within a generation. The overarching objective of Swedish 
+environmental policy is to hand over to the next generation a society in 
+which the major environmental problems in Sweden have been solved, 
+without increasing environmental and health problems outside Sweden’s 
+borders. This generational goal is linked to 16 environmental quality 
+objectives, including Reduced Climate Impact, which states that in 
+accordance with the UN Framework Convention on Climate Change 
+(UNFCCC), concentrations of greenhouse gases in the atmosphere must be 
+stabilised at a level that will prevent dangerous anthropogenic interference 
+with the climate system. 
+Since 1999, the Swedish climate goals have been updated and developed 
+further. The climate policy decisions of 2002 and 2009 adopted national 
+goals that were more ambitious than Sweden’s commitments under the first 
+and second commitment periods of the Kyoto Protocol and in line with the 
+EU’s effort sharing decision (ESD).  
+In 2010, the Swedish Government appointed a parliamentary committee, the 
+Cross-Party Committee on Environmental Objectives, tasked with proposing how 
+Sweden’s environmental quality objectives and the generational goal could 
+ 
+68 Government Bill 2016/17:146, A climate policy framework for Sweden 
+Ministry of the Environment  83 (87) 
+ 
+ 
+ be attained. In December 2014, the Cross-Party Committee on 
+Environmental Objectives received a specific mandate from the 
+Government, which firstly resulted in the climate policy framework and a 
+long-term target for 2045, and secondly a proposal for a long-term climate 
+and air quality strategy including the milestone targets for 2030 and 2040. 
+The work of the committee was conducted in close cooperation with public 
+and private actors. Thirty experts in different categories were assigned to the 
+Committee: government agencies, business representatives, researchers, 
+environmental organisations and unions. Central issues discussed in this 
+context were the level of ambition and the timing set for the long-term 
+target. At these meetings, representatives of research and environmental 
+organisations asserted the importance of the target being net zero and that 
+this needed to happen within a short timeframe to be in line with the IPCC’s 
+conclusions. Furthermore, the experts had opportunities to react to 
+assumptions of the potential of the measures made in the scenarios that were 
+part of the basis for producing the levels in the milestone targets for 2030 
+and 2040 (see annex 1 “Modelling”).  
+Two reference groups were also attached to the Cross-Party Committee on 
+Environmental Objectives, one with expertise in political science and law 
+and one with expertise in climate economics. Moreover, six external dialogue 
+groups were appointed with leading representatives from academia, the 
+business community and civil society to discuss the development of areas 
+identified as central to climate policy. The dialogue groups together 
+presented what the challenges of the sectors looked like, the opportunities 
+for action and the governance needed. The text constituted part of the 
+underlying data for the climate and air strategy.  
+Once the mandate of the Cross-Party Committee on Environmental 
+Objectives had been fulfilled and its report submitted to the Government, 
+the proposal on a climate policy framework and a long-term target for 2045 
+was circulated to approximately 200 consultation bodies for comment over a 
+three-month period69. A similar consultation procedure was also carried out 
+for the long-term climate and air quality strategy70. The consultation bodies 
+included voluntary organisations (NGOs), industry organisations, think 
+tanks, universities and higher education institutions and government 
+ 
+69 https://www.regeringen.se/remisser/2016/03/remiss-av-delbetankande-fran-miljomalsberedningen-med-
+forslag-om-ett-klimatpolitiskt-ramverk-inklusive-langsiktigt-klimatmal/ 
+70 https://www.regeringen.se/remisser/2016/06/remiss-av-delbetankande-fran-miljomalsberedningen-med-forslag-om-
+en-klimat--och-luftvardsstrategi-for-sverige/  
+Ministry of the Environment  84 (87) 
+ 
+ 
+ agencies. The consultations showed that there was largely broad-based 
+support for the climate policy framework and the climate goals. 
+Seven out of eight political parties with more than 85 per cent of the votes in 
+the Parliament supported the new goals of the climate policy and the 
+framework when these were decided in June 2017. Since then, a Climate 
+Policy Council has been set up and submits its annual reports to the 
+Government. Audits of the Government’s climate efforts have been 
+presented each year. The Government presented its first climate policy 
+action plan in line with the Climate Act in December 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministry of the Environment  85 (87) 
+ 
+ 
+ Annex 1 Modelling 
+Results from scenario analyses were used as part of the underlying material 
+for discussion in producing the milestone targets for 2030 and 2040 for the 
+non-trading sector, and for the long-term target of net zero emissions. The 
+underlying data from the Swedish Environmental Protection Agency in 
+2012, in which five agencies worked together, formed the main basis of the 
+scenarios. In line with this Government mandate, the agencies produced 
+scenarios for different sectors to attain net zero emissions by 2050. The 
+participating agencies were the Swedish Environmental Protection Agency, 
+the Swedish Energy Agency, the Swedish Board of Agriculture, the Swedish 
+Forest Agency and the Swedish Transport Administration. Universities and 
+an energy system modelling consultant were hired to produce parts of the 
+data for the scenarios. In this context, a “bottom-up” method was used in 
+which potential measures in the respective sector were identified. 
+Calculations of how high cuts in emissions the respective measure was 
+capable of contributing and expert assessments on when these measures 
+might be able to be put in place were combined and described in scenarios. 
+ 
+Figure 1. Results of the target scenario work underlying the discussion on target levels for 2030, 2040 and 2045. 
+80
+70
+Transportation
+.q 60
+e Households and services
+2
+O 50
+Agriculture
+C
+ se 40 Waste
+n
+n 30 Non-road mobile machinery
+o
+tM 20 Other sectors
+Industry
+10
+Energy production
+0
+0 5 0 5 0 5 0 5 0 5 0 5
+9 9 0 0 1 1 2 2 3 3 4 4
+9 9 0 0 0 0 0 0 0 0 0 0
+1 1 2 2 2 2 2 2 2 2 2 2  
+ 
+ 
+The scenarios from the mandate in 2012 were developed further and 
+updated in conjunction with the negotiations of the Cross-Party Committee 
+on Environmental Objectives, see Figure 1. The starting point was 
+assessments from research, environmental organisations and government 
+agencies on the need for rapid action, together with different aspects of technical 
+Ministry of the Environment  86 (87) 
+ 
+ 
+ feasibility. Scenarios and proposed target levels were discussed in the Cross-Party 
+Committee on Environmental Objectives.  
+One important basis for the work on scenarios was the knowledge Sweden has on 
+greenhouse gas emissions in the country and the scenarios that were constantly 
+produced to evaluate emissions looking ahead in time with existing governance.  
+To supplement the work on scenarios, the National Institute of Economic Research 
+produced a model calculation to roughly estimate the economic consequences by 
+2030; see section 6, Consequences of Sweden’s goals and actions. Luleå University 
+of Technology also completed a model analysis, TIMES Sweden, to shed light on 
+cross-sectoral energy system consequences. 
+ 
+Ministry of the Environment  87 (87) 
+ 
+ 
+ 

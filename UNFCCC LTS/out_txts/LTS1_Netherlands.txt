@@ -1,0 +1,970 @@
+   
+Long term strategy on climate mitigation 
+ 
+The Netherlands 
+december 2019 
+0 
+ 1.  Introduction 
+ 
+Climate change mitigation is a matter of great urgency. Pursuant to the national Climate Act, the 
+Netherlands needs to reduce its greenhouse gas emissions by 95% by 2050 compared to 1990. 
+This will be a daunting task for the next 30 years. However, the Netherlands is not starting from 
+scratch. In many areas, the transition is already under way and will pick up pace considerably over 
+the coming years. Furthermore, developments in the Netherlands and worldwide have shown that 
+sustainability improvements and economic growth can go hand in hand. This is cause for hope. 
+Nevertheless, the Netherlands will continue to face many challenges during the transition. To 
+ensure that the country will prepare itself, now is a good time to consider the long-term 
+implications of the transition. This long-term strategy has been written with this objective in mind.  
+The preparation of a national long-term strategy follows a European agreement laid down in the 
+Governance Regulation (EU 2018/1999, Article 15). Each Member State is required to use this 
+national strategy to describe how it will contribute towards meeting the goals in the Paris 
+Agreement. The strategy must also state what the Member State will contribute towards the 
+European goals in the long term in order for the EU to achieve climate neutrality as soon as 
+possible and arrive at a highly energy-efficient energy system based largely on renewable energy 
+sources. 
+The Climate Act has turned the focus of the Netherlands' climate policy emphatically on the long 
+term. The act specifies a final target for 2050 and an interim target for 2030. With regard to the 
+sector-specific targets under the national Climate Agreement, the government has not only taken 
+into account cost-efficiency between now and 2030, but also and expressly steps that need to be 
+taken beyond that date to achieve the 2050 target. For this reason, the first Climate Plan under the 
+Climate Act also contains policy initiatives to prepare for the long term. 
+At the two-year and five-year review stages specified in the Climate Act (progress report and 
+Climate Plan review/update, respectively), the government will focus particularly on policies that 
+are geared towards the 2050 perspective by means of exploratory studies. 
+The Climate Act, Climate Agreement and Climate Plan are not only key steps towards 2030, but 
+also form the starting point for trajectories to prepare for the long term and choices that will have 
+to be made in the coming years. As a society we do not have all the answers, nor do we possess all 
+the facts we need. However, there are numerous social ambitions and points of view about the 
+transition in the longer term that, when taken in combination, provide an overall impression of the 
+long-term targets. This long-term strategy elaborates these elements and outlines their 
+implications for the policy agenda. The objective of this long-term strategy is to serve as a basis for 
+further analysis, discussion and policymaking in the years ahead, both at the national and the 
+international (European and global) level. The Netherlands Scientific Council for Government Policy 
+(Wetenschappelijke Raad voor het Regeringsbeleid, WRR) could make a significant contribution 
+towards this as well. The government will therefore consult with the WRR to see how this can be 
+added to WRR's agenda.  
+ 
+Structure  
+In the Netherlands, policy is largely determined by the coalition agreement and the Climate 
+Agreement. The government's climate policy has been elaborated in the Integrated National Energy 
+and Climate Plan (NECP), which is submitted in Brussels at the same time as the long-term 
+strategy. This meets many of the requirements set by the EU for a national long-term strategy. 
+Instead of reiterating those points, the Netherlands has opted to structure its long-term strategy 
+differently: as a strategy that sets the agenda for the coming years, without pretending to know all 
+the answers in advance.  
+Chapter 2 describes which current and proposed policies form the main contributions to the 
+transition in the longer term. Together, these can be considered to be the current national 
+strategy. Chapter 3 describes the key challenges for the further transition that will require answers, 
+solutions and instruments in the coming years. These form the agenda. Finally, Chapter 4 
+summarises the policy implications and follow-up steps. 
+1 
+ Appendix 1 gives an overview of the various sources that were consulted when preparing this 
+document. Appendix 2 lists the elements prescribed in the EU Regulation as being required for a 
+national long-term strategy, with an indication whether the requested information can be found in 
+the NECP or in other public documents.   
+2 
+ 2.  Current policies for the longer term 
+ 
+This chapter describes the national policies that are entirely or partially focused on the longer term. 
+The national transition is founded on a set of frameworks and objectives. The rest of the chapter 
+describes the Netherlands' efforts in terms of innovation, its policy for the further transformation of 
+the energy system and its approach for the longer term with regard to the various sectors.  
+ 
+2.1  Frameworks and objectives 
+The Netherlands is a party to the global framework convention on climate change (the United 
+Nations Framework Convention on Climate Change) and the Paris Agreement. As such, it supports 
+the global targets to limit global warming to well below 2 °C, strive for a maximum of 1.5 °C and 
+achieve a balance between greenhouse gas emissions and the storage of CO  from the atmosphere 
+2
+on earth, in the second half of this century. 
+ 
+Climate Act 
+The Climate Act, which came into effect in 2019, safeguards the long-term focus of the 
+Netherlands' national climate policy. It sets out the objectives of this climate policy. The Climate 
+Act also establishes a quality control cycle, which is based on the European NECP cycle. In 2019, 
+the government finalised the first Climate Plan (national plan, different from NECP). This will be 
+reviewed every five years. Pursuant to the Climate Act, the government must report back to 
+parliament annually about the progress made with its climate policy through the Climate 
+Memorandum. The Council of State has an advisory role in relation to the Climate Plan and the 
+Climate Memorandum.  
+The Climate Act stipulates that the Netherlands must reduce its greenhouse gas emissions by 95% 
+by 2050 compared to 1990. Like most other EU Member States, the Netherlands agrees that the 
+EU should be climate neutral by 2050. The Netherlands is committed to the 95% target regardless 
+of any other agreements at the European level. This is currently one of the most ambitious targets 
+for 2050 laid down by law worldwide.  
+As an interim target, the Climate Act specifies that the Netherlands must strive to cut its emission 
+level by 49% by 2030 compared to 1990. This ambition exceeds the current European reduction 
+target. The Netherlands is striving for a 49% reduction by 2030, as this fits in well with its ambition 
+to achieve a gradual transition in the run-up to 2050. It prevents the need for the introduction of 
+abrupt measures after 2030 to achieve the 2050 target. A gradual transition will contribute to cost-
+efficiency, offer the Dutch business sector a competitive edge in the longer term and give every 
+Dutch citizen an opportunity to do his or her bit. 
+ 
+A single national CO  emissions target 
+2
+By adopting the Climate Act, the Netherlands has chosen emphatically to focus on a single target: 
+the reduction of its greenhouse gas emissions. In addition, the Climate Act includes a target to 
+achieve a 100% CO -neutral electricity supply by 2050. Energy savings and renewable energy are 
+2
+considered to be means at the Netherlands' disposal during the transition, to achieve the reduction 
+target – they are not themselves seen as primary targets. Similarly, the Netherlands has elected to 
+shift its primary focus away from the European 2030 sub-targets for emissions reduction in sectors 
+not covered by the European Emissions Trading System (ETS) and for the CO  emissions source-
+2
+sink ratio with regard to land use. The adopted policies are expected to lead to the Netherlands 
+meeting the agreed national targets respectively the contributions to the European 2030 targets for 
+these areas. 
+As regards the policy proposed for Europe as a whole, the Netherlands is pursuing climate 
+neutrality by 2050 and an increase in the European target of a 40% reduction by 2030 to a 55% 
+reduction by 2030. Exactly what the translation of such a loftier ambition would entail for the 
+Netherlands itself depends on a parallel translation to non-ETS and ETS targets and additional 
+3 
+ European source-based policy. With regard to the development of technology, the planning of 
+investments in the necessary infrastructure and spatial integration planning, the Netherlands is 
+already taking into account the possible need to step up its efforts in case the European 2030 
+target is raised and its own national target changes as a result. This is because of the lengthy lead 
+times involved. 
+ 
+Climate Plan and Climate Agreement 
+In 2019, the government finalised the first Climate Plan. This Climate Plan outlines the key tenets 
+of the climate policy to be implemented over the next 10 years. In addition, the Climate Plan 
+addresses the latest scientific insights into climate change, technological developments, 
+international policy developments and the consequences for the economy. As such, the Climate 
+Plan summarises the national policy, the context in which this policy is developed and the 
+consequences of this policy.  
+To an important extent, the contents of the Climate Plan are based on the Climate Agreement, 
+which was concluded between more than 100 civil society parties (both public and private). This 
+agreement contains a package of measures that have the active support of as many contributing 
+parties as possible and which will achieve the political reduction target of 49% by 2030. 
+The Climate Agreement intentionally assumes indicative sector-specific targets that are not only 
+based on a cost-effective set of measures until 2030, but also take into account the desirability of 
+longer-term measures to aid transition. Many of the specifics in the agreement therefore have a 
+long-term impact, given that they can either be extended after 2030 or contribute to driving the 
+transition that is required in the longer term. Lastly, the parties to the Climate Agreement have 
+formulated joint ambitions for the period until 2050. 
+ 
+2.2  Preparing for the period after 2030: innovation efforts 
+As part of the Climate Agreement, the parties have drawn up an Integrated Knowledge and 
+Innovation Agenda (IKIA), which lists the social as well as technological innovation priorities for all 
+sectors. The IKIA specifies the most important knowledge and innovation challenges for the short 
+term (development, demonstration and rollout) and the long term (research and development). 
+This is key to achieving the 2030 targets and will lay the foundations for achieving the 2050 target. 
+Striving for innovation through applied and fundamental research will lower the costs of the 
+transition in the longer term and help boost the Dutch economy.  
+The IKIA is mission-driven, i.e. the agenda helps to bring societal missions into perspective and 
+realise those missions. The IKIA has been elaborated into multi-year, mission-driven innovation 
+programmes (MMIPs), for which the involvement of both innovation suppliers and the buyers and 
+users of those innovations in the development and innovation process is crucial. This, in turn, 
+affects the actual implementation of the innovations. With regard to the issue of climate and 
+energy, the IKIA determines the use of the public funds of the Netherlands Organisation for 
+Scientific Research (Nederlandse Organisatie voor Wetenschappelijk Onderzoek, NWO) and the 
+applied research institutes (TO2) for the top sectors, as well as the use of the PPP allowance, the 
+SME innovation stimulus and the ministerial innovation budgets for climate and energy.  
+ 
+2.3  Transformation of the energy system 
+The transition to a low-CO  society will have consequences for the structure of the energy system. 
+2
+Moreover, the interaction and correlation between energy and spatial planning policies will grow. A 
+sustainable energy system requires more space than a fossil-based system. This will have 
+immediate consequences for the physical environment as currently experienced by citizens and 
+business owners. The impact of the transition on the physical environment will be considerable: 
+cities and landscapes will change as a result. This will require careful decision-making at both the 
+central and the decentralised levels. As long as the transition to a sustainable energy system 
+remains incomplete, a hybrid system will remain in place in which renewable and fossil-based 
+4 
+ energy sources will continue to coexist, requiring the government to guarantee the affordability, 
+safety and security of supply. 
+ 
+System integration 
+The aim is for a system integration to take place of various sources of energy, resulting in a more 
+efficient use of infrastructure and generation capacity and a greater resilience of the energy system 
+at the decentralised level against outages at the central level. The production of renewable fuels 
+and the capture and reuse of CO  can also contribute to further integration of the energy system. 
+2
+The Netherlands is preparing for these system transformations by drawing up a governmental 
+vision on the Organisation of the Market for the Energy Transition to make choices, mainly 
+regarding the structure, regulation and funding of heating, hydrogen and CO  infrastructure for 
+2
+both public and private parties. This governmental vision will be presented in the second half of 
+2020.  
+The Netherlands has integrated sufficient flexibility in its arrangements to compensate for a drop in 
+supply or demand, such as through the availability of demand-side response, storage and 
+controllable capacity. The growing importance of solar and wind energy will require further 
+strengthening of this flexibility. For this reason, the government is investing in flexibility 
+demonstration projects and has made this challenge a topic of study for knowledge and innovation 
+programmes. Furthermore, the Netherlands will continue its efforts to expand its interconnection 
+capacity with neighbouring countries. 
+ 
+Spatial integration 
+The Netherlands is already preparing for the spatial integration of a transformed energy system in 
+a variety of ways. Regional energy strategies (RES) are being used to chart suitable areas for 
+generating renewable energy onshore. The objective is to formulate a locally supported vision on 
+the development of renewable energy generation and use this as a basis for a predictable pipeline 
+of projects. The elaboration of the RES is supported by the National Strategy on Spatial Planning 
+and Environment. This specifies balancing principles to facilitate spatial detailing and further 
+guidance for the choices to be made as regards the integration of renewable energy. The 
+government's spatial planning policy is laid down in the national main energy infrastructure 
+programme to guarantee timely and affordable investments in the national energy infrastructure, 
+even beyond 2030, for all links in the energy chain and for electricity as well as heating and 
+industry. The network operators' long-term comprehensive infrastructure survey will contribute to 
+this. An agreement on the North Sea is planned to determine additional wind farm zones for the 
+period beyond 2030, with specifics regarding careful integration.  
+ 
+Sustainable energy sources 
+While the government is convinced that sustainable biomass will be required for the transition to a 
+climate-neutral and circular society, it also believes that a genuine contribution can only be made 
+by biomass that is truly sustainable. To this end, it is working on a uniform sustainability 
+framework to guarantee that all biomass used in the Netherlands is sustainable. The government is 
+also at pains to ensure that use will be restricted in due course and that it will be applied as high-
+grade as possible. This means that, in time, sustainable biomass will be used only in sectors where 
+no cost-efficient alternative is available, such as aviation and shipping. To make sure that the 
+supply of sustainable biomass meets the demand, the government is working to increase the 
+availability of domestic biomass, to facilitate cascading for applications that are as high-grade as 
+possible and to monitor supply and demand, so that corrective action can be taken if needed. 
+In the long term, the Netherlands has envisaged a significant role for green hydrogen as a fuel for 
+industry and both heavy and long-distance transport, and for the built environment in areas where 
+other CO -free alternatives are more expensive or more difficult to realise. Hydrogen also offers 
+2
+opportunities for the flexibilisation of the electricity system. As a result, the Netherlands has 
+5 
+ launched an ambitious hydrogen programme focused on scaling up the supply of sustainable 
+hydrogen and developing the necessary infrastructure. 
+Green gas is also regarded as part of the industrial feedstock solution, for processes that are 
+difficult to electrify and as a flexible power supply on occasions when there is a limited availability 
+of solar and wind power. The Netherlands is currently working on a roadmap for creating the right 
+conditions for a sufficient supply of green gas and a reduction in production costs. 
+ 
+2.4  Long-term approach in all sectors 
+The Climate Agreement contains agreements for all sectors. The main focus of these is to achieve 
+the 2030 targets, but they also contain specific stipulations for the period beyond 2030. Even if all 
+sectors speed up the transition to an ambitious extent, as intended, we will still face a significant 
+challenge after 2030 that we should prepare for now. 
+ 
+Built environment 
+With regard to the built environment, the Netherlands is making full use of the time available to 
+realise the transition. It is making a start now, so that it will be able to use the full 30-year period 
+to realise this drastic transition. The focal points of this strategy are a district-oriented approach 
+under the supervision of the municipalities and the development of heating plans. These are 
+intended to lend shape to the transition at the district level. As part of this approach, individual 
+homeowners will be supported with and given access to government subsidies, loans with 
+advantageous terms and comprehensive information. This information includes the insulation 
+standard and the related long-term target values, which are intended to ensure that homeowners 
+do not make decisions now that will necessitate another round of buildings works further down the 
+line. At the same time, innovation programmes will be used to allow the building sector to develop 
+concepts and products that will enable large-scale, rapid and cheaper sustainability improvements. 
+Sustainable heating will be provided by means of heating networks, electrical heat pumps and the 
+occasional use of green gas and hydrogen, provided the future supply of these latter two resources 
+is assured. Regarding non-residential buildings, a coherent set of standardisation measures and 
+supporting instruments with final standards for 2050 will be developed in collaboration with 
+umbrella organisations. 
+ 
+Industry 
+With regard to industry, the focus will be on cost reductions and the development of CO -reducing 
+2
+technologies through a combination of innovation, demonstration and pilot projects. In each of the 
+five regional energy-intensive industry clusters, a multi-year frontrunner programme will be 
+developed that combines efficiency improvements with more sustainable resource use and CO  
+2
+reduction. The rollout will be stimulated by a CO  tax and supported with an SDE++ subsidy. 
+2
+Furthermore, industry will contribute to the transition of other parties, such as by introducing a 
+buffer in the energy system, providing heating for the built environment and producing sustainable 
+fuels. The government will also investigate how (including by way of carbon accounting) the supply 
+chain impact of circular measures, such as recycling and the use of biobased and other raw 
+materials, can be identified and how this can be integrated into policy. 
+ 
+Mobility 
+The mobility measures will contribute to bringing about the fundamental but necessary change to 
+the ways of transporting persons and goods. Efforts will concentrate on reducing car use by making 
+alternative modes of transport more attractive. Another point for attention is to increase the 
+availability of emission-free energy sources. As an example, the charging infrastructure for electric 
+vehicles will be brought up to standard and legislation and subsidies will be deployed to increase 
+the production of hydrogen, sustainable advanced biofuels and renewable synthetic fuels. 
+Furthermore, the purchase and use of emission-free vehicles will be stimulated and the use of 
+6 
+ emission-producing vehicles will be discouraged through zero-emission zones, amended policies for 
+delivery vans and research into a potential transition to a payment according to use model after 
+2025. Through innovation programmes, the government will continue to work on social innovation 
+and behavioural change, digitalisation and improved sustainability for vehicles, battery technology 
+and energy carriers. 
+ 
+Agriculture and land use 
+With regard to agriculture, the focus will mainly be on the further development of solutions that 
+could contribute to the further transition towards nature-inclusive and circular agriculture. As for 
+livestock farming, efforts will concentrate on making stables emission-free, making changes to 
+animal feed and improving the processing of manure. In the greenhouse horticulture sector, work 
+will continue on achieving energy savings, generating sustainable energy and using heating 
+provided by third parties and CO  for fertilisation. Efforts will also be made to change the 
+2
+behavioural patterns of food consumers in order to reduce food wastage and increase the uptake of 
+more sustainable, plant-based foods. Smart solutions are also being sought regarding land use, 
+including pilot projects to raise the water level in peat meadow areas. In addition, various 
+measures will be introduced that will contribute to increased carbon capture over time. This will 
+expand the natural area, restore landscape structures, limit deforestation, lead to the planting of 
+new trees and increase carbon capture in agricultural soils through smart and sustainable use. 
+ 
+   
+7 
+ 3.  Strategic challenges 
+ 
+This chapter outlines three central challenges that the government has designated common 
+threads for the long-term policy agenda:  
+- Working on an attractive prospect for all concerned  
+- Being adaptive without hanging back  
+- Stepping up cross-border cooperation  
+In Chapter 4, these are translated into implications for the policy agenda for the coming years.  
+ 
+3.1  Working on an attractive prospect for all concerned 
+The transition to a low-CO  society involves much more than the completion of a transition path 
+2
+towards 2050. It affects the way people work and live. The climate policy unites many policy areas, 
+not only on paper, but also in practice: it makes them visible and tangible in people's living 
+environment. The integrated nature of the transition not only makes explicit that a successful 
+transition depends on the participation of all parties involved, but also and most of all that all 
+parties should focus on the attractive prospect that the transition offers. This appealing, inviting 
+and explainable prospect explicitly connects the climate challenge to other societal challenges that 
+the Netherlands and Europe are faced with.  
+ 
+An attractive prospect is an integrated prospect 
+While the target of reducing greenhouse gas emissions is clear, it says little about what the 
+Netherlands will look like in 2050. What would such a country be like? Recently, the Board of 
+Government Advisers published its recommendation 'By way of Paris'1, an exploratory study into an 
+answer to the question how the Paris Agreement could make the Netherlands wealthier, cleaner 
+and more united. The recommendation is a successful attempt to visualise the remote future with 
+the help of spatial designers. It also shows how linking societal challenges can lead to integrated 
+solutions and how those solutions manifest themselves in the living environment: on the North Sea 
+and in communities.  
+In order to bring about a transition that all parties can and want to take part in, a focus on the 
+attractive prospect that the transition offers is key. Such a prospect offers opportunities such as 
+cleaner air, less noise pollution from traffic and a competitive edge for Dutch businesses and 
+knowledge institutions in the growth markets of the future, while being open about the sometimes 
+complex challenges that need to be answered, such as the changing landscape, the even greater 
+competition for the scarce available space, strategic choices regarding the 'avoidance' of 
+investments on which there will be no return and the question of how to deal with the cost of 
+'phasing out' climate-unfriendly processes.  
+ 
+Climate policy can never be self-contained 
+An awareness of the integrated, attractive prospect leads to a realisation that climate policy cannot 
+be limited to the reduction of CO  emissions alone. It is also – or even mainly – about the Dutch 
+2
+economy and the quality of the Dutch living environment. As all parties, citizens and businesses 
+alike, will be affected by the transition differently, climate policy must also deal with challenges 
+regarding burden-sharing and feelings of inequality and injustice.  
+The Climate Agreement emphatically targets an integrated approach to the climate challenge. The 
+measures to be taken for the sectors depart from a vision of the future that encompasses more 
+than CO  reduction alone. It is specifically linked to the transitions towards circular agriculture and 
+2
+a circular economy. Spatial integration, support and participation have been important 
+considerations in the discussions about the measures to be taken. The wider social and economic 
+perspective was also considered, in both the narrow and the broad sense. Key points of departure 
+ 
+1 https://www.collegevanrijksadviseurs.nl/adviezen-publicaties/publicatie/2019/10/17/via-parijs 
+8 
+ are fair burden-sharing between citizens and businesses and a net zero effect in terms of housing 
+costs in the built environment. Such an integrated approach will remain necessary as the 
+Netherlands moves into the future.  
+With regard to the prospect that the transition offers to all parties involved, it is also important to 
+note that sectoral education and labour market agendas are being developed to ensure that 
+employees are sufficiently qualified and opportunities for the economy and job growth can be 
+seized. This includes a provision for the mitigation of social risks, such as job losses in sectors that 
+rely on fossil fuels. Changes to the school curriculum should ensure that all students and pupils are 
+equipped with the right knowledge and skills to be able to cope effectively with major societal 
+transitions, such as the energy transition. This will give people the confidence that they will not be 
+left behind by this transition. 
+The government welcomes the adoption of a European Green Deal that is ambitious and takes into 
+account both the attractive prospect and the links between societal challenges. It is equally pleased 
+that the Green Deal is not merely focused on policy in the various climate transition sectors, but 
+explicitly provides for the transformation of economic and financial systems. As far as the 
+Netherlands is concerned, at least 25% of the Multi-Annual Financial Framework (MFF) should be 
+reserved for climate funding and both the MFF and the funding provided by the European 
+Investment Bank should be brought completely into line with the Paris Agreements targets. It also 
+believes that it is important for all instruments to be adjusted in line with the actual target to be 
+achieved in a cost-effective manner and in such a way that carbon leakage is prevented, starting 
+with enshrining the European 2050 target into law.  
+ 
+The importance of an integrated approach also means getting a grip on administrative complexity 
+In the coming years, the Netherlands will need to both elaborate the ambitions in the Climate 
+Agreement and put them into practice. The country's existing administrative complexity poses a 
+considerable challenge in his regard. This presents itself in different ways. Climate policy is not the 
+preserve of a single ministry, but of nearly all ministries combined. Nor does it affect only a single 
+layer of government, but all of them. It is not a task for either the private or the public sector, but 
+for the private and public sectors together.  
+There are currently a large number of societal activities that have the potential to further the 
+transition. It is important in this context to be wary of coordination problems, as otherwise parties 
+may be less considerate of each other's interests or wait for each other unnecessarily, potentially 
+delaying the transition and letting economic opportunities go to waste. The Climate Agreement is 
+one of the ways in which the government hopes to contribute to the required coordination between 
+parties. An inspirational example has been set by the financial sector, which has the potential to 
+become a driving force behind the transition. This sector has decided to sign up to the Climate 
+Agreement with an ambitious climate commitment, which it intends to convert into specific action 
+in the coming period. 
+The success of the transition ultimately depends on the harmonious cooperation of many different 
+actors. The challenge for the government is to get a grip on this complexity, starting with a 
+clarification of the supervision, roles and responsibilities of the national government, local 
+governments, private and public parties and citizens. It will also involve a search for new methods 
+of cooperation, both between the various levels of government and between the government and 
+civil society parties. 
+At the European level, a broad stakeholder approach consisting of agreements on each party's 
+contribution could also contribute to kick-starting a larger movement, such as in regard to the 
+financial sector. This is because all European providers of financial services should bring their entire 
+portfolios in line with the ambitions in the Paris Agreement in due course.  
+ 
+   
+9 
+ 3.2  Being adaptive without hanging back 
+The transition will be characterised by many uncertainties. Ideas may change and new solutions 
+may appear out of the blue. That is why it would be sensible not to set every agreement in stone in 
+advance. It must be possible to adapt policy when required. At the same time, the climate policy is 
+based on strict targets. The transition will require swift action and hence clear frameworks that are 
+to be defined by the government. As the 2030 and 2050 deadlines draw closer, these frameworks 
+and the instruments that form part of them will need to become more binding.  
+ 
+Climate policy must anticipate new developments 
+The attractive prospect described in 3.1 may offer guidance, but can never offer certainty. 
+Unpredictable economic, political or ecological events on a national or international scale will 
+require adaptability and a capacity for innovation. Climate policy must not only involve taking 
+robust steps towards 2030 with well-developed initiatives to put viable and affordable options into 
+practice, but also leave space for the discovery and development of new options. This will allow the 
+parties involved to adapt and learn from any mistakes.  
+The transition in the electricity sector may serve as an illustration. The Netherlands is taking robust 
+steps to increase the availability of solar and wind power. There is now an opportunity to roll out 
+these options in a cost-effective manner, while leaving room in policy initiatives to take other public 
+interests into account, such as with regard to nature and the living environment. In order to enable 
+the large-scale integration of the generation of renewable energy through wind and solar power, 
+the system must become more flexible. Such flexibility could result from interconnectivity, 
+demand-side response, storage and controllable production. Technology neutrality is the point of 
+departure in this regard. To this end, the Climate Agreement specifies adequate monitoring of 
+developments that are currently still uncertain. Monitoring should provide insight into whether 
+these options will actually develop according to plan and whether it is possible to use them flexibly 
+in technical and commercial terms. As a result of the further growth of electrification and the ever-
+decreasing emission allocation, the need for CO -free adjustable production will rise even further. It 
+2
+will be possible to feed the electricity system with CO -free adjustable production in a number of 
+2
+ways: with electricity from CO -free hydrogen or from other renewable sources, such as biomass 
+2
+and green gas, from nuclear power or from fossil sources where CO  is captured. The various 
+2
+technological solutions entail different realisation periods, costs, social support and other traits, 
+making them either more or less realistic for the period leading up to 2030. During this transition 
+period, biomass could be used in a number of different ways.  
+The transition requires the adoption of a broad spectrum of options, with none remaining taboo 
+The government will be required to make choices with consideration for the specific strengths and 
+comparative advantages that the Netherlands enjoys. This does not mean that it should dismiss 
+options out of hand. Such a course of action could not only prove costly if opportunities are 
+missed; analyses conducted by the IPCC and others show that not many options can be excluded 
+completely, lest governments fail to achieve their targets.  
+The coherent use of biomass, nuclear energy and carbon capture and storage (CCS) is a known 
+trilemma. A cost-efficient transition to a 95% reduction by 2050 is barely conceivable without the 
+use of at least two of these options2. For this reason, the government is giving parties space to 
+develop these options further in a way that befits the transition in the longer term. The CCS policy 
+is a good example of this. In potential, the Netherlands offers ample opportunities for CCS. CCS 
+offers an alternative to the use of electricity and biomass on a large scale, which will eventually 
+create problems in terms of space and sustainability. Furthermore, CCS offers the opportunity to 
+use CO  as a raw material for the chemical industry and enables negative emissions through a 
+2
+combination with bioenergy.  
+ 
+ 
+2 Ros, J and D. Daniëls, 2017, Verkenning van klimaatdoelen. Van lange termijn beelden naar korte termijn actie 
+(Exploration of climate goals: from long-term vision to short-term action). The Hague: Netherlands 
+Environmental Assessment Agency 
+10 
+ Adaptivity should not lead to a lack of commitment; speeding up the transition requires a clear 
+policy framework that becomes more binding as the transition progresses 
+It is widely appreciated that the need to mitigate climate change is a serious challenge, as part of 
+which all parties need to adapt. This will require considerable effort. In many ways, society is not 
+equipped to cope with this transition. This presupposes a change of habits, which is not easy to 
+achieve. It may feel like a loss of privileges without a clear idea of what to expect in return. 
+The transition could be facilitated by instruments of a stimulatory nature that reward citizens and 
+business that have the opportunity and the will to take steps now. This will enable the Netherlands 
+to find out in a positive way what works and what does not. It is equally clear that many of the 
+required changes can be integrated into daily routines fairly straightforwardly. From the 
+perspective of citizens, it is easy to achieve climate benefits by adopting changes to production 
+processes and products that require little behavioural change, such as energy-saving appliances or 
+applications like smart meters. In addition, the climate footprint of citizens will also change 
+autonomously as a result of the increasing availability of climate-friendly products and solutions 
+that they find appealing. Whether they relate to food consumption, mobility needs or the use of 
+technology, it is likely that climate-friendly alternatives will increasingly become the norm.  
+In other cases, citizens will be asked to play a more active role and show greater commitment, 
+such as in terms of changing the way they heat their homes. This process is fraught with difficulty 
+and will require the government and the private sector to facilitate this and offer a clear 
+perspective for action. In this context, fair burden-sharing will increase trust and help ensure 
+sufficient financial room for the necessary investments. The government has a clear role to play in 
+this regard as well. 
+As the transition gathers pace, the balance between gentle prompting and compulsion will change. 
+When the above conditions for the participation of citizens are met, there will be greater scope for 
+more compulsive instruments, such as normative measures. This requires commitment. The Paris 
+Agreement targets leave governments no room for vacillation; the bus will not wait to depart until 
+everyone has gotten on board. If that were the case, the pace of transition would be set by those 
+lagging behind, leaving the achievement of the Paris Agreement targets an increasingly remote 
+prospect. 
+To a certain extent, what goes for citizens goes for businesses as well. Stimulatory policy initiatives 
+that rewards business that take the lead will stimulate innovation and yield opportunities for 
+growth, but will ultimately not suffice to spur all businesses to action. Moreover, we will need to 
+accept that not all businesses will be able to join the transition. Sooner or later, the government 
+will therefore need to find an answer to the question of whether to actively counter or compensate 
+for the effect of parties being left behind. 
+ 
+3.3  Stepping up cross-border cooperation  
+An emission reduction target of 95% in the Netherlands and a climate-neutral Europe by 2050 are 
+lofty ambitions in view of the Paris Agreement. Achieving those ambitions will require a 
+considerable step up in terms of cross-border cooperation. There is much to be gained from 
+collaborating with the rest of the world. This cooperation will need to be leveraged to further the 
+transition and ensure that all countries and sectors meet the international targets.  
+ 
+The transition requires an increase in cross-border cooperation and solidarity across the EU  
+Climate change is a global problem that can only be tackled on a global scale. The Netherlands is 
+doing its part, without losing sight of its own interests. While there are already many steps that can 
+be taken nationally, the international dimension of climate policy will become ever more important 
+as 2050 approaches. The EU is in a unique position to take the lead at the international level and 
+set an ambitious long-term goal, as well as adopt the necessary measures to ensure that the 
+targets in the Paris Agreement remain within reach. 
+Already, the efforts of Member States are guided to a significant extent by European instruments. 
+The European Emissions Trading System ETS is an established instrument for businesses 
+11 
+ throughout Europe to achieve emission reductions in areas where they can be most efficient. The 
+Netherlands is an enthusiastic proponent of this instrument due to its cost-efficiency and the level 
+playing field it creates, but there is always room for improvement. A sensible course of action 
+would be to fine-tune the ETS and reduce the number of available allocations at a more rapid pace, 
+in line with the more ambitious European targets for 2030 and 2050. In addition, the ETS could be 
+extended to other sectors, although the effectiveness of this will have to be corroborated by 
+research.  
+In addition, the Netherlands is partnering with others in Europe with regard to a number of specific 
+themes. As an example, we are working with other countries to maximise the potential of the North 
+Sea. When shaping these partnerships, each country will need to keep in mind its own national 
+commitments. Nevertheless, the common European challenge will have to play an increasingly vital 
+role. Other countries may wish to use the North Sea as a wind farm zone or to store CO  if they 
+2
+have fewer opportunities to do so on their own soil. From a Dutch perspective, this may initially 
+seem undesirable, but the wider European challenge necessitates a joint and well-considered 
+decision-making process. A similar example is offered by the further integration of the European 
+electricity system. The efficient fossil fuel production facilities in the Netherlands could provide 
+other countries with an opportunity to transition more quickly to renewable sources, without 
+endangering the common security of supply. Vice versa, other countries have more space to plant 
+additional trees than the Netherlands. To sum up, the Netherlands' bilateral relations in Europe will 
+need to be characterised to a growing degree by the identification of common interests and 
+opportunities. 
+It will need to keep an open mind to cross-border solutions that may not seem like a good fit with 
+its own commitments, but may be key to addressing the common European challenge. Eventually, 
+the role of the market and the desirability of financial agreements between countries will also need 
+to be considered. Existing European instruments allow scope, however limited, for transferring one 
+country's challenges to another. Within the EU, it would be advisable to initiate a timely exploration 
+of further ways to stimulate mutual solidarity, to ensure that the EU as a whole becomes climate-
+neutral. 
+ 
+An ambitious long-term strategy must go hand in hand with international cooperation 
+To keep the targets in the Paris Agreement within reach, it is important that countries outside the 
+EU take ambitious steps as well. Such steps are necessary to retain support in the Netherlands and 
+throughout Europe for an ambitious climate policy. In the Paris Agreement, all countries agreed to 
+specify a national climate commitment. However, in some cases it is not self-evident that these 
+commitments meet the level of ambition in the agreement. Countries may cite geopolitical, 
+economic or other reasons for making less of a transition effort than is desirable from a global 
+perspective. In various countries, the economy depends to a large extent on activities with a 
+detrimental climate effect, such as the extraction of fossil raw materials or activities that lead to 
+deforestation. In most cases, these activities are maintained because of a demand from other 
+countries, including the Netherlands.  
+For this reason, the Netherlands proposes that climate becomes a cornerstone of the EU's foreign, 
+trade and development relations. The government will use climate diplomacy in both bilateral and 
+joint European contacts to spur countries outside of the EU to action. Furthermore, the Netherlands 
+will extend climate funding to developing countries to help them tackle their climate challenges. 
+Signing the Paris Agreement should become an essential precondition for new trade agreements 
+with countries outside the EU. In addition, the Netherlands could contribute to the transition in 
+other countries by entering into international partnerships. This would have the beneficial side 
+effect of offering opportunities for the Dutch earnings model.  
+An example is the formation of alliances regarding green hydrogen. This could go hand in hand 
+with stimulating a climate-friendly earnings model in other countries. Foreign demand for synthetic 
+fuels and green hydrogen could offer an attractive prospect for oil-producing countries that benefit 
+from sunny climes and well-functioning existing fuel infrastructures. Partnerships with regard to 
+sustainably grown plants and trees could form a similarly attractive prospect for countries. Plants 
+and trees are in demand due to the increasing appetite for vegetarian food, as raw materials for 
+12 
+ the circular economy and as a renewable energy source. This could aid countries in achieving more 
+sustainable land use, while being beneficial to the Netherlands due to its limited space for the 
+production of sustainable biomass. It could also yield new earnings capacity for businesses in the 
+logistics and processing sectors.  
+Civil society parties could play a key role in making international production chains more 
+sustainable and more climate-friendly, provided they are facilitated in fulfilling that role. A policy 
+aimed at reducing the climate footprint could provide incentives to businesses to adopt more 
+sustainable production methods and to consumers to buy more sustainable products. This is also in 
+line with the chain approach to the transition to a circular economy. Instruments already exist to 
+chart the climate footprint, such as the European Product Environmental Footprint, and to mitigate 
+the footprint in trade flows, both in terms of private initiatives and public-sector tendering 
+processes. The Netherlands could step up its efforts in the international arena to have these 
+instruments adopted more widely.  
+In addition to instruments with a direct impact on the chain, a carbon border adjustment on 
+Europe's external borders could also aid the transition, as certain less climate-friendly products 
+from outside the EU would become less attractive to European buyers. This would allow certain 
+European business sectors to operate in a more climate-friendly way without fear of competition 
+from products made in countries with lower standards, and incentivise countries outside the EU to 
+take more drastic action against climate change. As such, the Netherlands welcomes the European 
+Commission's initiative to elaborate such an instrument. 
+ 
+International sectors must make a suitable contribution as well 
+In addition to the national climate commitments of individual countries, internationally active 
+sectors must also contribute to achieving the global climate targets in the Paris Agreement to 
+ensure that these remain within reach. While international aviation and shipping are outside of the 
+scope of the national targets, they are of vital importance to the Dutch economy. It follows that the 
+Netherlands depends on cooperation within the EU and with other like-minded countries for its 
+perspective for action. 
+As regards international aviation, the Netherlands and other European countries are working to 
+raise the current ICAO target of a 50% reduction in emissions by 2050 compared to 2005. A new 
+long-term target is needed to bring the sector's CO  emissions more in line with the targets in the 
+2
+Paris Agreement. Part of the national focus on innovation is the development and upscaling of 
+renewable kerosene. As regards international shipping, the Netherlands is working together with a 
+group of ambitious countries to further the implementation of agreements on the phased increase 
+in the strictness of average emission requirements for all vessels and on design requirements for 
+new vessels, so that the international shipping sector will be able to achieve the long-term goal 
+adopted last year by the IMO.  
+ 
+Need for a global move towards negative emissions 
+As the transition progresses, it will become more difficult to reduce emissions further, domestically 
+and in terms of cross-border cooperation as well. In the case of far-reaching emission reductions 
+on a global scale, the scope for countries to offer resources to other countries will be limited, as 
+they will not be able to use those to meet their own targets. In a climate-neutral world, the 
+remaining emissions will need to be compensated by capturing CO  from the atmosphere, i.e. 
+2
+negative emissions. According to the IPCC, this approach will need to be adopted worldwide in 
+order to limit global warming to 1.5 °C.  
+Negative emissions can take various forms. The Dutch policy already focuses on the capture of CO  
+2
+in farmland, but the remaining capacity in the Netherlands' already fertile farmlands is limited. At 
+the same time, the draining of peat meadow areas has resulted in significant remaining emissions. 
+In addition, the Netherlands is focusing on the capture of CO  with vegetation, for example by 
+2
+planting more trees. This could have a positive effect on other factors, such as biodiversity, 
+landscape diversity and climate adaptability. Again, however, the Netherlands has limited space. 
+13 
+ On the other hand, there is a significant potential in the country to retain the CO  captured in 
+2
+vegetation beyond the harvest. This could be achieved, for instance, by the use of wood as a 
+building material, producing and recycling bioplastics and combining bioenergy with CCS.  
+The European target of climate neutrality for its entire territory is expected to require a significant 
+contribution to be made in this area. Moreover, emissions generated by international aviation and 
+shipping are likely to be extremely difficult to bring down to zero. As 2050 draws near, several 
+parties are therefore expected to require increased capture of CO  to remain on course to achieve 
+2
+the targets in the Paris Agreement. This raises the question of what kind of contribution the 
+Netherlands and Europe are able and prepared to make in this respect. 
+ 
+   
+14 
+ 4.  Policy agenda 
+ 
+We find ourselves on the eve of a major transition towards a nearly climate-neutral society, to 
+contribute to achieving the Paris Agreement targets. There are 30 years left to go – time that 
+should be spent wisely. The Netherlands has opted for a gradual transition, to avoid compulsory 
+shocks to the system and take full advantage economically and socially from a status as 
+frontrunner. Its policy approach is not to be more stringent, but to start sooner.  
+While a 30-year transition cannot be planned down to the last detail, it is possible to make 
+thorough preparations. One thing that is certain is that things will not play out as currently 
+expected. That certainty may have a paralysing effect, but it can also put minds at ease. The fact 
+that some of the answers are still unknown leaves room for asking frank questions and confronting 
+dilemmas. The objective of this long-term strategy, therefore, is not to provide cut-and-dried 
+answers, but to shape the discussion about the strategy for the long term. 
+This long-term strategy outlines the strategic challenges that we will face and that will ever more 
+insistently demand answers from politics and society. Rather than waiting until 2030 or even later, 
+we should start tackling those challenges now. As Chapter 2 of this long-term strategy has shown, 
+in the Netherlands much has already been set in motion. However, there is more that can and 
+should be done. Both the Netherlands and Europe must work towards the 2030 targets, explicitly 
+treating them as an intermediate step on the way to 2050 and beyond.  
+The general implications for the Netherlands' national and international policy efforts and the 
+European policy implications are set out below. 
+ 
+National and international  
+•  A transition that is achievable and affordable for all parties cannot be brought about without an 
+attractive prospect. To achieve the 49% target by 2030, society will need to be transformed. 
+However, a 95% reduction will require additional measures. This requires an attractive 
+prospect for the transition that is appealing, inviting and explainable, featuring coherent visions 
+for the future, the certainty of integrated considerations and clear supervision and 
+responsibilities.  
+•  Part of an attractive prospect is a clear vision for the future of our sustainable earnings 
+capacity and a policy to boost the economic sectors that will be key to future growth. The 
+government will issue a letter on this subject shortly. 
+•  The Climate Agreement is a start to an approach that will see climate policy become an 
+increasingly integrated part of all other government policy. In due course, climate policy will 
+have to shift away from being self-contained. Integrated considerations will have to be made in 
+all sectors and policy areas, taking into account the effects on the transition towards climate 
+neutrality.  
+•  Within the framework of the Climate Agreement, the government has developed new forms of 
+collaboration to shape the transition together with others, looking beyond the boundaries of 
+existing structures. The regional energy strategies are a prime example. There will be growing 
+need for a clear concept of the roles, responsibilities and innovative supervisory models in 
+addition to existing structures: between the various tiers of government, between public and 
+private parties and across sectors.  
+•  Throughout the transition, parties will need to keep learning from what works and what does 
+not. The government will have to make choices by excluding options that do not work and by 
+experimenting with new options and solutions. There can be no taboos in this respect, and 
+even topics such as CCS, sustainable biomass and nuclear energy must be approached with an 
+open mind. In various areas, choices will need to be made in good time, to ensure security of 
+investment and because investments have a long-term effect on the structure of society. 
+•  By taking ample time for the transition and using stimulatory instruments, we can make a start 
+with the transition while working to increase support. Ultimately, however, the pace of the 
+15 
+ transition cannot be set by those lagging behind: the bus will not wait to depart until everyone 
+has gotten on board. Eventually, other instruments of a compensatory or normative nature will 
+need to be deployed to bring those lagging behind into the fold in a timely manner.  
+•  Our international economic relationships could prove a powerful tool to support our sustainable 
+earnings capacity, while at the same time helping other countries to make the transition. As 
+the transition will only be meaningful if all parties take part, we must actively seek out new 
+forms of international collaboration.  
+•  The international aviation and shipping sectors must make a suitable contribution to the 
+transition as well, without losing sight of the Dutch earnings model. It is therefore important to 
+work together with like-minded countries to strive for ambitious international targets and 
+suitable measures. 
+•  The international transition requires solidarity at the international level. In the end, even the 
+climate challenge boils down to a matter of burden-sharing. In parallel to the ambitious 
+national and European agenda, it would be advisable to consider the options at our disposal for 
+using international instruments to aid the transition elsewhere.  
+•  In spite of ambitious emission reduction policies, the capture of CO  from the atmosphere on a 
+2
+large scale and at a global level will be required in order to limit global warming to 1.5 °C. We 
+will have to determine what kind of contribution we could and should make in this respect.  
+ 
+European policy implications 
+•  Setting a goal of climate neutrality by 2050 is an important condition for the EU to achieve the 
+1.5 °C target and meet its commitment to the Paris Agreement. In relation to this, a more 
+ambitious 2030 target for the EU as a whole is required to remain on course to achieve the 
+Paris Agreement targets. The Netherlands is focused on the target of a 55% reduction in EU 
+emissions by 2030 compared to 1990. It is clear that raising these targets will need to go hand 
+in hand with policies to offer the regions that will be most affected by the social and economic 
+consequences of the transition perspectives for innovation, new economic activities and job 
+growth. A fair and affordable transition is an essential condition for retaining support. 
+•  At the heart of the plans of the new European Commission for a European Green Deal is the 
+ambition to work towards an integrated climate and sustainability policy across sectors, with an 
+eye on other policy targets and interests and with the involvement of all relevant parties. The 
+Netherlands supports this approach, which is comparable to its own as laid down in the Climate 
+Agreement. Just like in the Netherlands, however, this climate policy will need to be embedded 
+thoroughly in the coming years in both the sectors where the actual greenhouse gas emission 
+reductions are to be achieved and in the transformed economic and financial systems. The 
+purpose of this is to encourage climate-friendly production and consumption practices and 
+discourage those that are less climate-friendly.  
+•  Choosing an EU-wide policy means choosing a level playing field. The greater the effort to 
+develop common instruments for cross-border sectors in the EU, the more effective the 
+transition in the whole of Europe will be. For open economies like the Dutch one, this is a 
+critical process. The promotion of a cost-efficient transition requires a tightening of the ETS, 
+including the stimulation of negative emissions to achieve climate neutrality in the EU. 
+•  Taking the lead as EU also means providing incentives to others to join the transition. A carbon 
+border adjustment could provide such an incentive. As it protects the level playing field for 
+certain industries in the EU and provides an impetus for emission reduction in the chain at the 
+same time, such a measure would be a good fit with the strategy to speed up the transition in 
+Europe and boost it elsewhere. 
+ 
+ 
+ 
+ 
+16 
+ Appendix 1. Sources 
+ 
+Chapter 2 is largely based on the Climate Agreement and the Climate Plan. A variety of sources 
+was used to identify the relevant challenges highlighted in Chapter 3. These include a number of 
+meetings with actors that are relevant to the transition and a consultation between ministries. The 
+following sources also proved particularly useful. 
+ 
+Public opinion 
+Pursuant to the European Governance Regulation, the public should be given effective opportunities 
+at an early stage to have a say in the formulation of the long-term strategy. In addition, the 
+strategy should contain a summary of public opinion. The public was involved in the formulation of 
+the current policy as specified in Chapter 2 in many different ways, including through a broad 
+public consultation as part of the preparation of the Climate Agreement. The strategic challenges 
+outlined in Chapter 3 are based in part on many points of view expressed by the public in a variety 
+of ways, for example in the discussions surrounding the Climate Agreement, in publications issued 
+by stakeholders and through social and other media. 
+In addition, the internet consultation regarding the Climate Plan and the NECP involved asking 
+members of the wider public to suggest topics that they believed were worthy of particular 
+attention in the Netherlands' long-term climate policy (2030–2050). The open character of the 
+question invited an extensive range of opinions. As an example, some believed that nuclear 
+energy, specifically on the basis of thorium, has potential as an energy source due to the limited 
+space required, the low impact on nature and the minimal CO  emissions. Others regarded 
+2
+hydrogen as a suitable future fuel for transport and heating due to the potential to use the existing 
+infrastructure for gas. Some believed that innovation and behavioural change should be prioritised, 
+mentioning a number of themes. Others suggested the environment and nature as important 
+considerations. Many of those consulted regarded afforestation as a positive development and the 
+burning of biomass as unsustainable. The full consultation report can be found at 
+www.internetconsultatie.nl. 
+ 
+Essays 
+In order to gather a multitude of opinions on a variety of perspectives, a number of scientists were 
+asked to submit essays on what they considered to be important considerations for the long term 
+regarding those perspectives. These essays can be found at 
+https://www.rijksoverheid.nl/onderwerpen/klimaatverandering/documenten. They are: 
+•  De burger en het klimaat- en energiebeleid: een doorkijk naar 2050 (Citizens and the climate and 
+energy policy: a look ahead to 2050), C. Carabain and Y. de Kluizenaar, SCP, 2019 
+•  Van waslijst naar wensbeeld (From a wish list to a vision), H. de Coninck, Radboud University, 
+2019 
+•  Alles draait om adequate datagovernance (It's all about adequate data governance), R. van Est 
+and R. Dekker, Rathenau Institute, 2019 
+•  Een duurzaam verdienmodel voor 2050 (A sustainable earnings model for 2050), R. Gerlagh, 
+Tilburg University, 2019 
+•  Kijken in een spiegel van de toekomst (Looking into the mirror of the future), C. van der Linde, 
+CIEP, Clingendael, 2019 
+•  De energietransitie door een complexiteitsbril (The energy transition through a  complexity 
+lens), P. Sloot , R. Kupers and B. van der Zwaan, Institute for Advanced Studies, University of 
+Amsterdam, 2019 
+ 
+Other sources 
+Below is a list of the main studies and policy documents that were been used: 
+17 
+ •  AIV, 2019, Briefadvies Internationaal Klimaatbeleid (Advisory letter on international climate 
+policy) 
+•  Berenschot, 2018, Richting 2050: systeemkeuzes en afhankelijkheden in de energietransitie 
+(Towards 2050: system choices and dependencies in the energy transition) 
+•  Berenschot, 2018, Elektronen en/of Moleculen (Electrons and/or molecules) 
+•  CPB, 2011, Analyse routekaart 2050 (Analysis of the 2050 roadmap)  
+•  CPB/PBL, 2015, Nederland in 2030-2050: twee referentiescenario's – Toekomstverkenning 
+Welvaart en Leefomgeving (WLO) (The Netherlands in 2030–2050: Two reference scenarios – 
+an exploratory study into welfare, prosperity and the human environment) 
+•  CIEP, 2019, Van onzichtbare naar meer zichtbare hand? Waterstof en elektriciteit: naar een 
+nieuwe ruggengraat voor het energiesysteem (From an invisible to a more visible hand? 
+Hydrogen and electricity: towards a new energy system backbone) 
+•  CRa, 2019, Via Parijs – een ontwerpverkenning naar een klimaatneutraal Nederland (By way of 
+Paris: an exploratory design study into a climate-neutral Netherlands)  
+•  De Gemeijnt, 2018, Routekaart CCS (CCS roadmap) 
+•  European Commission, 2018, A Clean Planet for all – A European strategic long-term vision for 
+a prosperous, modern, competitive and climate-neutral economy  
+•  Gasunie/EBN, 2017, Transport en opslag van CO  in Nederland (Transport and storage of CO  
+2 2
+in the Netherlands) 
+•  IEA, 2019, The future of hydrogen 
+•  KVS, 2018, Preadviezen 2018: Klimaatbeleid: kosten, kansen en keuzes (Preliminary advice 
+2018 on climate policy: costs, opportunities and choices) 
+•  Ministry of the Interior and Kingdom Relations, 2019, draft National Strategy on Spatial 
+Planning and Environment 
+•  Ministry of Economic Affairs and Climate Policy, 2019, Samen werken aan een duurzaam en 
+ondernemend Nederland (Working together on a sustainable and enterprising Netherlands) 
+(internal publication) 
+•  Ministry of Infrastructure and Water Management, 2019, Schets Mobiliteit naar 2040 veilig, 
+robuust, duurzaam (Mobility outline towards 2040: safe, robust, sustainable) 
+•  Ministry of Agriculture, Nature and Food Quality, 2018, Landbouw, natuur en voedsel: 
+waardevol en verbonden (Agriculture, nature and food: valuable and connected) 
+•  PBL, 2011, Naar een schone economie in 2050 – routes verkend (Towards a clean economy in 
+2050: an exploration of routes) 
+•  PBL, 2016, Opties voor energie en klimaatbeleid – vormgeving van de energietransitie (Energy 
+and climate policy options: shaping the energy transition) 
+•  PBL, 2017, Kostenanalyse klimaatdoelen (Climate targets cost analysis) 
+•  PBL, 2017, Verkenning van klimaatdoelen; Van lange termijn beelden naar korte termijn actie 
+(Exploration of climate goals: from long-term vision to short-term action) 
+•  PBL, 2018, Nationale kosten klimaat- en energietransitie in 2030 (National costs of the climate 
+and energy transition in 2030) – 2018 update 
+•  PBL, 2018, Negatieve emissies - Technisch potentieel, realistisch potentieel en kosten voor 
+Nederland (Negative emissions: technical potential, realistic potential and costs to the 
+Netherlands) 
+•  PBL, 2019, Effecten ontwerp Klimaatakkoord (Effects of the draft Climate Agreement) 
+•  PBL, 2019, Oefenen met de toekomst, Ruimtelijke Verkenning 2019 (Practising with the future: 
+2019 spatial survey) 
+•  Quintel Intelligence, 2017, De toekomst van de Nederlandse industrie – het verhaal (The future 
+of Dutch industry: a narrative) 
+•  SCP, 2016, Social and cultural report 2016 
+•  Tennet/Gasunie, 2019, Infrastructure Outlook 2050 
+•  TKI New Gas, 2018, Contouren van een Routekaart Waterstof (Outlines of a hydrogen 
+roadmap) 
+•  VEMW, 2017, Decisions on the industrial energy transition  
+•  WRR, 2016, Klimaatbeleid voor de lange termijn: van vrijblijvend naar verankerd (Climate 
+policy for the long term: from non-binding to binding) 
+ 
+18 
+ Appendix 2. Long-term strategy elements in the EU Regulation 
+The EU Regulation on the Governance of the Energy Union and Climate Action (EU 2018/1999) 
+contains an obligation to draw up a national long-term strategy and specifies elements that should 
+be included in such a strategy. Annex IV of the Regulation serves as a format for a table of 
+contents. The government has elected not to adopt this format, but to use its own approach. For 
+ease of reference and for convenience of comparison with the long-term strategies of other 
+Member States, this appendix summarises how the Netherlands has interpreted the elements in 
+the format and a number of other elements mentioned in the Regulation, referring primarily to 
+sources other than this document. 'NECP' refers to the Integrated National Energy and Climate 
+Plan, which was drawn up at the same time as this long-term strategy in conformity with the 
+obligation in Article 3 of the Regulation. There are no national prognoses available beyond 2030, as 
+the exogenous and policy uncertainties are such that a scenario study would be more suitable. In 
+order to give an idea of the period after 2030, the NECP contains the key outcomes of the welfare, 
+prosperity and human environment scenarios (Welvaart- en Leefomgevingsscenario's, WLO) drawn 
+up by the Netherlands Bureau for Economic Policy Analysis (CPB) and the Netherlands 
+Environmental Assessment Agency (PBL) in 2015. For obvious reasons, these outcomes do not take 
+into account more recent developments and policies. 
+ 
+Element in the Regulation  Dutch interpretation 
+(The numbers refer to Annex IV or Article 15) 
+1.1.   Summary  Chapter 2 offers a summary overview of the 
+Netherlands' current long-term policy. 
+Chapter 4 contains a summary of the strategic 
+challenges that require additional policies. 
+1.2.   Legal and policy context  See Chapter 1. 
+1.3.   Public consultation  See Appendix 1. 
+2.1.1.   Projected emission reductions and  See NECP 4.2.1 for the available data.  
+enhancement of removals by 2050 
+2.1.2.   National target for 2030 and beyond, if  2030 targets:  
+available, and indicative milestones for 2040 
+•  -49% greenhouse gas emissions 
+and 2050 
+compared to 1990. 
+•  -36% greenhouse gas emissions by 
+non-ETS sectors compared to 2005 
+(target in the Effort Sharing Regulation 
+[ESR]). 
+•  No worsening of the emissions and 
+sinks balance in land use (target in the 
+LULUCF Regulation). 
+2050 target:  
+•  -95% greenhouse gas emissions 
+compared to 1990.  
+2.1.3.   Adaptation policies and measures  The climate adaptation policy has been laid 
+down in the National Climate Adaptation 
+Strategy (NAS) 2016 and the NAS 
+Implementation Programme. 
+19 
+ 2.2.1.   To the extent feasible, the estimated  See NECP 4.2.2 for the available data. 
+likely share of renewable energy in final energy 
+consumption by 2050 
+2.3.1.   To the extent feasible, the estimated  See NECP 4.3.2 for the available data.  
+likely energy consumption by 2050 
+2.4.1.1.   Energy system: intended or likely  Planned: 2050 target of a 100% CO -free 
+2
+future emissions trajectory or range  electricity supply; for the 2030 target, see 
+NECP 2.1.1. 
+Likely trajectories: see NECP 4.2.1. 
+2.4.1.2.   Energy system: general description of  See NECP 4.1, 4.3. 
+main drivers for energy efficiency, demand-side 
+flexibility and energy consumption and their 
+evolution from 2021 and beyond 
+2.4.2.1.   Industry: expected emission  See NECP 4.2.1, 4.2.2. 
+reductions by sector and energy demands 
+2.4.2.2.   Industry: overview of policies  See Section C3 in the Climate Agreement. 
+2.4.3.1.   Transport: expected emissions and  See NECP 4.2.1, 4.2.2. 
+energy sources by transport type (e.g. cars and 
+vans, heavy duty road transport, shipping, 
+aviation, rail) 
+2.4.3.2.   Transport: decarbonisation options  See Sections 2.8.4 and 3.7.4 in the 2017 PBL 
+report 'Exploration of climate goals'. 
+2.4.4.1.   Agriculture and land use: to the  See NECP 4.2.1. 
+extent feasible, expected emissions by sources 
+and by individual GHGs 
+2.4.4.2.   Agriculture and land use: emission  See Sections 2.8.5 and 3.7.5 in the 2017 PBL 
+reduction options envisaged  report 'Exploration of climate goals'. 
+2.4.4.3.   Links to agricultural and rural  See Section C4 in the Climate Agreement. 
+development policies 
+3.1.   Estimates of investment needed  See NECP 5.3. 
+3.2.   Policies and measures for related  See Section D3 in the Climate Agreement for 
+research, development and innovation  the Integrated Knowledge and Innovation 
+Agenda. 
+5. Impact assessment of the socio-economic  See NECP 5.2 for the available data. 
+aspects 
+5.1.   Details on modelling (including  See NECP, Appendix 2. 
+assumptions) and/or analysis, indicators, etc.  
+20 
+ Article 15.4.d. To the extent feasible, expected  See NECP 5.2 for the available data. 
+socio-economic effect of the decarbonisation 
+measures, including, inter alia, aspects related 
+to macro-economic and social development, 
+health risks as well as benefits and 
+environmental protection 
+Article 15.4.e. Links to other national long-term  See the National interests section in the draft 
+objectives, planning and other policies and  National Strategy on Spatial Planning and 
+measures, and investments  Environment for a description of the policies 
+regarding the physical living environment, 
+including an explanation of/references to 
+existing policy. 
+ 
+ 
+21 
+ 

@@ -1,0 +1,1700 @@
+ 
+ 
+2050 Long-Term Vision for Nigeria (LTV-2050)
+-Towards the Development of Nigeria’s Long-Term Low Emissions Development 
+Strategy (LT-LEDS) 
+By 
+ 
+Department of Climate Change, 
+Federal Ministry of Environment, Nigeria  
+ 
+ 
+ 
+   
+NOVEMBER 2021 
+  
+ 
+TABLE OF CONTENTS 
+PREAMBLE ........................................................................................................................................................................... II 
+EXECUTIVE SUMMARY ..................................................................................................................................................... II 
+1.  INTRODUCTION ........................................................................................................................................................ 1 
+1.1  BACKGROUND ........................................................................................................................................................................ 1 
+1.2  ESTABLISHING NIGERIA’S LONG-TERM VISION .................................................................................................................. 4 
+1.3  PROCESS FOR THE DEVELOPMENT OF THIS VISION ............................................................................................................. 5 
+2.  OVERVIEW OF NIGERIA’S POLICY-RELATED RESPONSE TO CLIMATE CHANGE .................................... 7 
+2.1  NATIONAL CONTEXT ............................................................................................................................................................. 7 
+2.2  ADDRESSING THE CLIMATE CHANGE CHALLENGE: MITIGATION AND ADAPTATION MEASURES .................................... 9 
+2.3  NIGERIA’S NDC .................................................................................................................................................................. 11 
+2.4  ACHIEVING SUSTAINABLE DEVELOPMENT GOALS IN THE FACE OF CLIMATE CHANGE ................................................. 11 
+3.  NIGERIA’S 2050 VISION ....................................................................................................................................... 13 
+3.1   CURRENT SITUATION ......................................................................................................................................................... 13 
+3.2  DEVELOPING THE LTV VISION ........................................................................................................................................... 14 
+3.2.1  Guiding Principles ..................................................................................................................................................... 14 
+3.2.2  Stakeholders’ Consultation ................................................................................................................................... 16 
+3.2.3  Main Elements of the Vision ................................................................................................................................. 17 
+3.3  THE VISION: WHERE WE WANT TO BE IN 2050. .............................................................................................................. 18 
+4.  VISIONS BY SECTOR .............................................................................................................................................. 19 
+4.1  AGRICULTURE, FOREST, AND OTHER LAND USE (AFOLU) ............................................................................................. 19 
+4.2  ENERGY ................................................................................................................................................................................ 20 
+4.3  FRESH WATER AND COASTAL WETLANDS ........................................................................................................................ 22 
+4.4  INDUSTRY ............................................................................................................................................................................. 23 
+4.5  URBAN SETTLEMENTS ......................................................................................................................................................... 24 
+4.6  OIL AND GAS ....................................................................................................................................................................... 26 
+4.7  TRANSPORT ......................................................................................................................................................................... 27 
+4.8  WASTE.................................................................................................................................................................................. 28 
+4.9  CROSS-CUTTING: GENDER INCLUSION ............................................................................................................................. 29 
+5  ROLE OF INNOVATION ......................................................................................................................................... 31 
+5.1  SOCIAL INNOVATION .......................................................................................................................................................... 31 
+5.2  ECONOMIC INNOVATION ................................................................................................................................................... 31 
+5.3  TECHNOLOGICAL INNOVATION.......................................................................................................................................... 31 
+5.4  ENVIRONMENTAL INNOVATION ......................................................................................................................................... 31 
+6.  WAY FORWARD AND ELABORATION OF THE LT-LEDS............................................................................... 33 
+ANNEX 1: CRITICAL QUESTIONS/SUBJECTS FOR LT-LEDS ELABORATION ...................................................... 35 
+ANNEX 2: SUGGESTED PROCESS(ES) FOR INCLUSIVENESS AND ROBUSTNESS FOR THE LT-LEDS 
+ELABORATION FOR NIGERIA. ...................................................................................................................................... 37 
+i 
+ 
+  
+ 
+ 
+Preamble  
+At COP26 in Glasgow, Nigerian President Muhammadu Buhari announced that Nigeria will cut 
+its carbon emissions and reach net-zero by 2060. The President subsequently signed into law a 
+new climate bill that create five-year emission budgets, with a view  to achieving net-zero 
+greenhouse gas emissions between 2050 and 2070.  
+This Long-Term Vision, intended as a first contribution towards the invitation in Article 4.19 of 
+the Paris Agreement to communicate long-term low greenhouse gas emissions development 
+strategies (LT-LEDS), was elaborated in 2020-2021, to collect a broad set of views and prepare 
+for the construction of a full long-term strategy to explore how Nigeria can achieve its new climate 
+ambition. 
+Executive Summary  
+Nigeria, as one of the signatories to the Paris Agreement (PA), recognises that the transition to 
+low-emission development is indispensable for achieving sustainable economic growth through 
+pathways that yield reduced greenhouse gas (GHG) emissions and other social, economic, and 
+environmental benefits.  
+In addition to the Nationally Determined Contributions (NDCs) that outline climate actions until 
+2030, the Paris Agreement, under Article 4.19, calls for all Parties to strive to formulate and 
+communicate LT-LEDS, considering common but differentiated responsibilities and respective 
+capabilities, in the light of different national circumstances.   
+To this end, the Federal Government of Nigeria decided to develop its LT-LEDS as part of her 
+onus to ensure a low-carbon future, with an initial focus on a Long-Term Vision to 2050 for the 
+country. The vision provides a clear sense of direction to all stakeholders for a well-managed 
+transition to a low-carbon economy that grows existing and new sectors, creating new jobs and 
+economic opportunities for the nation. 
+The vision states that: By 2050, Nigeria is a country of low-carbon, climate-resilient, high-
+growth circular economy that reduces its current level of emissions by 50%, moving towards 
+having net-zero emissions across all sectors of its development in a gender-responsive manner. 
+ 
+It is hoped that this vision will promote sustainable development and guarantee a climate-proofed 
+economic  development  through  multi-stakeholder  engagement,  especially  as  Nigeria  is  also 
+engaged in developing  Medium-Term (2021-2025) and Long-Term (Agenda 2050) national 
+development plans. It is also expected to lay a solid foundation for Nigeria to contribute to the 
+global objective of climate neutrality, and to be a climate-resilient society with a knowledge-driven 
+economy that is globally competitive and compliant with Africa’s Agenda 2063, as well as enable 
+the country to play its leadership role in Africa effectively.  
+The Federal Government of Nigeria will now build on this initial long-term vision to develop a 
+full long-term strategy.  
+ 
+ii 
+ 
+  
+ 
+1.  Introduction 
+ 
+1.1  Background 
+Nigeria faces many challenges in her effort to advance its socio-economic and environmental 
+development. A particular challenge is climate change that continues to portend serious threat to 
+the achievement of sustainable development goals (SDGs) in the country. This is because Nigeria 
+is strongly predisposed to severe negative impacts of climate change due to its fragile economy, 
+weak resilience, and low adaptive capacity, as much of the economy is dependent on climate-
+sensitive ecosystems and natural resources. For example, the agriculture sector, which contributes 
+about 24% to the country’s GDP and largely rain-fed, is highly vulnerable to climate change-
+induced frequent and severe extreme events, such as floods and droughts. Other sectors of the 
+economy are also vulnerable.  
+The 2017 Climate Change Vulnerability Index (CCVI) published by the UK-based risk company, 
+Verisk Maplesoft, classifies Nigeria as a region of high risk, and indicated that the country is one 
+of the topmost vulnerable countries in the world. If no adaptation is implemented, DFID (2009)1 
+estimated that between 2-11% of Nigeria’s GDP could potentially be lost by 2020, thereby 
+hampering the national development goal of becoming one of the top 20 economies in the world. 
+Worse still, the same study indicated that climate change could result in a loss in GDP of between 
+6% and 30% by 2050, worth an estimated US$ 100 to 460 billion dollars. Kompas et al (2018) 
+further indicated that, with a 3o C rise in global temperature, Nigeria will, in the long-term (beyond 
+2067), experience up to 16% reduction in its GDP2. Climate projections for the coming decades 
+also reveal a significant increase in temperature over cities across all the ecological zones3. 
+Overcoming the development challenge of climate change requires that extensive adaptation and 
+mitigation measures that are necessary to reduce vulnerability to future climate change are put in 
+place (FGoN, 2017)). Addressing the challenge climate change poses to national development in 
+a sustainable manner requires that Nigeria moves its economy into a more environment-friendly, 
+climate resilient, green, and sustainable path. 
+As a result of its relatively low economic development, Nigeria’s GHG emissions remain relatively 
+low. The total GHG emission in 2018 from various sectors (agriculture, electricity, forestry, 
+industry, oil and gas, transport, waste etc) was 336 million tons of CO2-equivalent (Figure 1)4. 
+With this level of emission, Nigeria compares favourably with South Africa in terms of emitting 
+less than 1% of global emissions, However, as its economy is expected to grow rapidly by at least 
+7% per annum, particularly in the post COVID-19 period, to meet the demands of its large 
+population that is projected to increase to about 402 million by 2050, Nigeria is expected to emit 
+more GHGs in the very near future. This calls for a more ambitious future mitigation efforts in 
+keeping with the country’s international climate commitments and with massively increasing 
+adaptation finance to contribute to the global efforts to achieve a net zero emission by 2050.  
+ 
+1 DFID (2009) DFID (Department for International Development), 2009: Impact of Climate Change on Nigeria’s Economy 
+2Kompas, T., Ha, P.V. and Che, T. N. (2018): The Effects of Climate Change on GDP by Country and the Global Economic Gains 
+from Complying with the Paris Climate Accord. Earth’s Future, 6, 1153–1173. https://doi.org/10.1029/2018EF000922 
+3Akande, A., Costa, A.C., Mateu, J. and Henriques, R (2017): Geospatial Analysis of Extreme Weather Events in Nigeria (1985–
+2015) Using Self-Organizing Maps. Advances in Meteorology https://doi.org/10.1155/2017/8576150 
+4 NDC update- Mitigation scenario: Modelling assumptions and results ED14074| Issue Number1| Date 29/03/2021 
+ 
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Major GHG Emitting Sources in the Economy of Nigeria 
+ 
+Nigeria’s relationship with climate change is further complicated by the fact that the nation’s mono 
+economy is almost entirely dependent on oil mining and export which does not only make it hard 
+to decouple emissions from economic growth trajectory but also leaves Nigeria in a highly unstable 
+and vulnerable fiscal and macroeconomic condition with high fluctuations in global oil price linked 
+to global transition to the green economy and other factors driving energy demand.  
+However, global trends suggest that ambitious transitions towards low emissions development will 
+further skew the energy outlook with devastating impacts on Nigeria’s economy if there are no 
+sustainable  low  carbon  implementation  plans  for  alternative  growth.  Thus,  addressing  the 
+challenge that climate change poses to national development remains one of the most important 
+and fundamental requirements for long term economic planning effectiveness in Nigeria.  Long 
+Term Low-Emissions Development Strategy (LT-LEDS) or Long-Term Strategies (LTS) have 
+emerged as a veritable tool and approach with which countries explore the GHG emissions 
+implications of their development aspirations aa options for that can help to decouple economic 
+growth from emissions to bridge sustainable development and climate goals.  
+The imperative for transition to low-emission development is a global phenomenon and has been 
+recognized internationally (especially by United Nations) as a veritable way to stabilizing GHG 
+concentrations with the attendant consequence of significantly mitigating the impact of climate 
+change.  The Copenhagen Accord (2009) –Paragraph 2, states that: “A low emission development 
+strategy is indispensable for sustainable development”. In a similar vein, the Paris Agreement 
+(2015)  –Article  4,  Paragraph  19  states  that:  “All  Parties  should  strive  to  formulate  and 
+2 
+  
+ 
+communicate long-term low greenhouse gas emission development strategies, mindful of Article 2 
+taking into account their common but differentiated responsibilities and respective capabilities, in 
+the light of different national circumstances.” 
+The Paris Agreement of 2015, to which Nigeria is a Party, was a key turning point in the global 
+drive towards transition to low-emission development. It recognized the long-term vision of a 
+transition to low-emission development strategies (LT-LEDS) as indispensable for achieving 
+sustainable economic growth through pathways that yield reduced GHG emissions and other 
+social, economic, and environmental benefits. The Paris Agreement, and subsequently the IPCC 
+Special Report of 20185 are clear that LTS will play important roles towards the collective goal to 
+hold the increase in global average temperature to well below 2°C and to pursue efforts to limit 
+the temperature increase to 1.5°C above pre-industrial levels, which will require global efforts to 
+peak GHG emissions as soon as possible and followed by multiple action for rapid reduction to 
+achieve a balance between anthropogenic emissions and removals by sinks in the second half of 
+the century. 
+An LTS is an urgent requirement for Nigeria as it offers the country with binary benefits of tool 
+and process for renaissance in its vision of national development approach and articulate a 
+longitudinal vision for a climate-resilience and climate consciousness that are compatible with 
+tangible development. It goes without saying that to stand a chance of meeting her medium to long 
+term climate objectives including the attainment of zero-emissions target of world record by 2050, 
+a clear and efficient set of measures, will need to be adopted and implemented. To this end, 
+Nigeria, with the support from the 2050 Pathways Platform and anchored at the Department of 
+Climate Change (DCC) of the Federal Ministry of Environment (Annex1) adopted this visioning 
+approach to the development of its LT-LEDS. This is seen as critical to generating a long-term 
+pathway that reflects a variety of social and economic development objectives and diverse 
+stakeholders’ interests to pave the way for robust policy choices zones6. 
+The rationale for Nigeria’s decision to undertake a visioning approach, which is the initial and first 
+step in an LT-LEDS development process is based on the recognition of the peculiar local threats 
+posed by climate change to the economic development aspirations of the country.  Nigeria is aware 
+that its heavy dependence on fossil fuel makes the country especially vulnerable in a world that 
+has a target to reduce or even eliminate fossil fuel as a key driver of the global economy.  Several 
+her trading partners, such as China, European Union, India, Japan, and the United States have 
+decided to go ‘net zero’ and a number of these countries are already setting bans on the sale of oil-
+consuming Internal Combustion Engine vehicles. The risk for future oil markets is averred and not 
+theoretical. At the same time, Nigeria is also aware that not responding to a long-term view and 
+acting urgently to increase its resilience to climate impact will compromise its ambition to 
+economic prosperity.  
+Moreover, as a Party to the Paris Agreement, Nigeria’s LT-LEDS is also in response to the Paris 
+Agreement’s Article 4.19, which calls on Parties to elaborate LT-LEDS. Responding to the 
+challenge of climate change through the pursuit of a low carbon development path therefore 
+remains the most viable and feasible option for the sustainable development of Nigeria. The long-
+ 
+5IPCC (2018): Global warming of 1.5°C 
+62050 Pathways: A Handbook, 2017. 
+ 
+ 
+3 
+  
+ 
+term vision provides Nigeria the pathway to discuss the opportunities that might arise in terms of 
+a cleaner, more dynamic, and more sustainable growth model, and the options for the country to 
+implement a less carbon-intensive model of economic development in the face of decreasing global 
+reliance of fossil fuel energy for development practices. Achieving a climate-neutral economy by 
+2050 will require progressively phasing out or profoundly changing the country’s carbon-intensive 
+industries. This will be particularly challenging and will require a well-managed transition through 
+effective visioning. 
+ 
+1.2  Establishing Nigeria’s Long-Term Vision 
+Nigeria signed the Paris Agreement in September 2016 and ratified it in March 2017, and thus 
+committed to reducing its GHG emissions. In its Nationally Determined Contribution (NDC), the 
+country pledged an unconditional 20% reduction on Business as Usual (BAU) emissions by 2030, 
+and a 45% conditional commitment which could be achieved with financial assistance, technology 
+transfer and capacity building. This shows a strong national commitment to be part of the 
+international effort to achieve the long-term temperature goal set by the Paris Agreement of 
+“holding the increase in the global average temperature to well below 2°C above pre-industrial 
+levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels. 
+With the implementation of all the Low Carbon Development (LCD) opportunities, it is expected 
+that in 2035, GHG emissions for the Business as Usual (BaU) scenario will decrease from the BaU 
+level of 967.2 Gg CO2-eq (under the different IPCC Sectors are expected to grow from about 
+609,836.74 Gg CO2-eq in 2016) to an LCD level of 797.2 Gg CO2-eq7. 
+ 
+The Paris Agreement, to which Nigeria is committed, also recommends that all Parties should 
+strive  to  formulate  and  communicate  LT-LEDS  by  2020  as  long-term  vision/strategy  for 
+responding  to  climate  change.  Leveraging  its  NDC,  Nigeria  is  integrating  into  its  national 
+development agenda, a transition to a low-carbon development pathway because of the tremendous 
+benefits it holds for sustainable national development. In the long run, an LT-LEDS is important 
+for Nigeria as it would enable her to:  
+i.  carve out a national vision for climate-resilient society that will help in the integration and 
+coordination of critical action programmes on economic, environmental, health, and other 
+sectors, as well as turning programmes, strategies, and plans into concrete actions.  
+ii.  establish a clear trajectory for achieving a low carbon development, the pillars for such a 
+vision and the policies and measures that will help in the actualization of the vision.  
+iii.  realign its national policy on climate change to meet the overarching goal of the country’s 
+LT-LEDS by 2050. 
+iv.  build on partnerships that for the Economy and Climate, bringing together government, 
+business, and economic leaders to enhance global and national understanding of how 
+climate action can and drive economic, social and development objectives; and 
+v.  set Nigeria on a low-emission, green growth and climate-resilient development pathway 
+that will not only help the country to meet its international climate commitments with 
+appropriate actions but also establish implementable policies and financing priorities for 
+low  emission  economic  growth  and  support  buy-in  and  ownership  across  numerous 
+stakeholders around a shared vision. 
+ 
+7 Third National Communication (TNC) of the Federal Republic of Nigeria 
+ 
+ 
+4 
+  
+ 
+ 
+1.3  Process for the development of this Vision 
+ 
+An all-inclusive approach was adopted for the development of the Nigeria’s vision of the LT-
+LEDS. The visioning approach which represented the preparatory phase for the development of 
+the full Strategy, involved: 
+•  Identification and selection of relevant experts that can evolves ideas in tandem with 2050 
+Low-carbon Vision, comprising experts from MDAs, academia, industry, and civil society 
+organizations on a broad spectrum of options for Nigeria’s long-term vision of reducing 
+GHG emissions by 2050 and developing development enhancing adaptation measures. 
+•  Policy survey and analysis of other national policies and strategies with medium to long-
+term climate targets and aspirations 
+•  Stakeholders’ consultation to elucidate responses on what should constitute Nigeria’s 
+vision and LT-LEDS to ensure ownership of the LTV for Nigeria.; and 
+•  Drafting and production of the Nigeria’s long-term Vision that articulates the national and 
+sectoral Vision to 2050 for the country, as well as of a full workplan/ Terms of Reference 
+for the elaboration of the full LT-LEDS. 
+ 
+This LT-LEDS, of which the LTV development process supported by the 2050 Pathways Platform 
+is a part of, will also build on other ongoing visioning and quantification exercises such as the 
+Nigeria Agenda 2050, as well as the Deep Decarbonisation Pathways Project funded by the French 
+Development Agency (AFD).  
+ 
+The 2050 Pathways Platform is an initiative that was launched in Marrakech at COP22. The 
+objective of the Platform is to support the elaboration of long-term, net zero-greenhouse gas, 
+climate resilient and sustainable development pathways (LT-LEDS). The 2050 Pathways Platform 
+provides a space for collective problem solving through the development of long-term, deep 
+decarbonization  strategies,  including  the  sharing  of  resources  (finance,  capacity  building), 
+knowledge and experiences.  
+ 
+The LT-LEDS include key elements which include: (i) strong government commitment and 
+leadership;  (ii)  emission  reduction  target(s)  before  and  in  2050/mid-century;  (iii)  emission 
+reduction scenarios/pathways (with more ambitious scenarios); )iv) social development objectives; 
+(v) economic growth objectives; (vi) objectives for protecting and improving the management and 
+use  of  natural  resources  and  ecosystems;  (vii)  consideration  of  climate  change  adaptation, 
+institutional, capacity building, governance; and (viii) investment/financing requirements (Figure 
+2).   
+ 
+ 
+ 
+5 
+  
+ 
+ 
+Figure 1. Key Elements of the LT-LEDS   
+6 
+  
+ 
+2.  Overview of Nigeria’s Policy-Related Response to Climate Change 
+ 
+2.1  National Context 
+ 
+Nigeria is located approximately between latitudes 3°15’ to 13°30’ N and longitudes 2°59’ to 
+15°00’ E, sharing boundaries with the Republic of Benin to the west, Niger to the north, Chad to 
+the north-eastern corner and Cameroon to the east, as well as the Atlantic Ocean to the south. It 
+has a land mass of about 923,768 km2 and is the 14th largest country in Africa. Nigeria’s 
+population has grown phenomenally from about 123 million in 2000 to about 189 million in 2016 
+and remains one of the fastest growing population in the world. With an annual growth rate of 
+3.2%, the country’s population is projected to be about 402 million by 2050 with a high probability 
+of making Nigeria the world’s third largest population - behind India and China. The two main 
+features of this growth are the young age structure with more than two-fifths of the population 
+(42.8%) falling below 15 years and the persistently high fertility rate of 5-7 children per woman. 
+ 
+Nigeria’s economy is the largest in Africa, although it remains a lower middle-income country, 
+with an income per capita of about $2,800 in 2015. It has a Gross Domestic Product (GDP) of 
+more than US$500 billion and witnessed a steady growth annual average of 7.2% between 2005 
+and 2014. The relatively stable growth was due to strong and stable macroeconomics, supported 
+by the oil sector growth, as well as the inclusion of the previously neglected sectors such as the 
+entertainment  industry  and  ICT  in  the  GDP  computation.  The  GDP  growth  rate  declined 
+dramatically to 2.8 percent in 2015 and -1.6 percent in 2016, showing underlying weaknesses in 
+the macroeconomic fundamentals. Imports to the country are predominantly non-oil goods and 
+services, including among others, food and beverages, primary and processed industrial goods and 
+capital goods.  
+ 
+Economic diversification and strong growth are yet to translate into a significant decline in poverty 
+levels, as over 62% of Nigerians still live-in extreme poverty. Despite its strong fundamentals, oil-
+rich Nigeria has been seriously challenged by a wide range of binding constraints, including 
+inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an 
+inefficient  property  registration  system,  restrictive  trade  policies,  an  inconsistent  regulatory 
+environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, 
+insecurity, and perceived pervasive corruption. Persistent finance risks, regulatory constraints and 
+security risks have limited new investment in oil and natural gas, and Nigeria's oil production has 
+contracted every year since 2012. The World Bank Group Flagship Report: Doing Business 2017 
+ranked Nigeria 169th out of 190 countries in the world in the ease of doing business, 44 places 
+lower than in 20108.  
+ 
+Agriculture is Nigeria’s single largest economic sector, and one of the most important areas for 
+development for the country. In 2016, it accounted for 24.4% of GDP, but only 4.8% of the 
+country’s total foreign earnings. It employs up to 70% of the labour force9. 
+ 
+ 
+8 Oladipo (2019) – Policy Note on Climate Change Adaptation and Resilience in Nigeria (submitted to the World Bank 
+9FMARD (2016): Agriculture Promotion Policy -Federal Ministry of Agriculture and Rural Development. 
+7 
+  
+ 
+Nigeria is endowed with many renewable and non-renewable energy resources in commercial 
+quantities and some of the best natural forms. The prominent renewable energy resources include 
+sun, wind, hydro, biomass, and tidal wave while crude oil, coal, lignite, tar sands, natural gas, and 
+nuclear elements constitute the major non-renewable energy resources. Despite these huge energy 
+endowments, the very lack of access to affordable and reliable energy services is hindering the 
+industrial production and economic growth of the country. The poverty of energy in Nigeria is 
+such that all manufacturing firms depend on self-generated electricity to power their operations 
+and to maintain power back-up in the event of power failure. Visioning for future sustainable 
+development in a low carbon development scenario requires that energy poverty (being the lack of 
+access to modern energy services) eradication is taken as critical10. Sustainable energy for all is 
+essential for the economic growth of Nigeria. 
+ 
+The human health status is a key  factor of the development of the country, but Nigeria’s 
+performance in this sector remains poor. The life expectancy at birth in 2016 was 54.5 years, an 
+increase of 7.5 years from 2007, but remains below the national target of 70 years by 2015 and the 
+global average of 71 years. The Healthy Life Expectancy of Nigerians was 47.4 years in 2016, 
+which implies 6.8 years of compromised health. Regionally, Nigeria compares poorly - the life 
+expectancy of Ghanaians is 10 years more. According to the 2016 Global Burden of Disease Study, 
+while Nigeria is undergoing an epidemiological transition, communicable diseases still constitute 
+the bulk of disease burden11.  
+ 
+The country faces a wide range of environmental challenges. Some of the specific phenomena 
+include Climate Change, which is negatively affecting every sector of the country’s economy, 
+particularly agriculture and water resources. Other challenges are deforestation and de-vegetation, 
+causing biodiversity loss and land degradation; floods, drought and desertification which are 
+degrading  the  environment  especially  in  the  semi-arid  areas  of  the  country;  environmental 
+pollution encompassing air, water, land, and noise; waste generation; mineral excavation and the 
+accompanying  environmental degradation as well as limited access to  safe water  and poor 
+sanitation. 
+ 
+Nigeria is also confronted with a myriad of socio-economic challenges. One of these is inflation, 
+which has remained in double digits for many years. The other prominent challenges are economic 
+recession with its associated growing youth unemployment, high cost of living and corruption, 
+which is creating a clog in the wheels of the nation’s development. There are also several social 
+and religious conflicts, prominent among which are the Boko Haram insurgency, Niger Delta 
+militancy, kidnapping, farmers/herders’ clashes, agitation for self-determination and ethnicity 
+challenges. All of these have led to colossal loss of lives and properties. They have also generated 
+wider divides, especially along religious and ethnic lines. This situation is unlike what is happening 
+in many other countries such as Canada and the USA where diversity in ethnicity and languages 
+have been exploited to foster strength and unity. 
+ 
+Fighting poverty and insecurity and tackling climate change remain three critical development 
+challenges for Nigeria, as they all impact the utilization of its natural resources. Meeting these 
+ 
+10Nkoroa, E. Ikue-Johnb, N. and Joshua, G.I (2019): Energy consumption and economic growth in Nigeria: A revisit of the 
+energy-growth debate. Bussecon Review of Social Sciences VOL 1 NO 2 ISSN: 2687-2285 
+11FGoN (2018): Second National Strategic Health Development Plan – 2018 - 2022 
+8 
+  
+ 
+challenges needs fresh ideas and a radical new way of thinking and doing things. This includes 
+strategic planning and how we maintain, improve, and use our natural resources (renewable and 
+non-renewable) to generate and sustain long-term pro-poor economic growth, thereby reducing 
+poverty and supporting the achievement of the sustainable development goals (SDGs). It also 
+requires that new strategic approaches be put in place to attract significant investment in the 
+country’s natural capital (including land, forests, landscapes, water, and fisheries), which is a direct 
+source of income and employment for a large share of Nigeria’s people, to make it climate resilient 
+as climate change affects the ability of natural capital to deliver its wide range of products and 
+services. Sustaining and managing natural capital is crucial to the ability of the country to invest 
+in the other types of capital in a sustainable fashion. The situation becomes more critical in many 
+parts of Nigeria where the fragile natural capital is also highly vulnerable to the impact of climate 
+change.  
+ 
+2.2  Addressing the Climate Change Challenge: Mitigation and Adaptation Measures 
+Nigeria recognizes that one of her main development challenges is to tame climate change from 
+creating a catastrophe for its people and environment. To this end, and in line with global best 
+practices, two sets of measures have often been advocated for confronting climate change. These 
+are mitigation measures (such as reductions in emissions of GHG and black soot) to prevent the 
+degree of climate change from becoming unmanageable; and adaptation measures (such as 
+building irrigation systems and adjusting agricultural practices) to reduce the harm from climate 
+change that proves unavoidable. While mitigation seeks to limit climate change by reducing the 
+emissions of GHG and by enhancing ‘sink’ opportunities, adaptation aims to alleviate the 
+adverse impacts through a wide-range of system-specific actions that also improves quality of 
+life.  
+ 
+Nigeria also notes that overcoming the development challenge of climate change requires more 
+extensive adaptation and mitigation measures than currently being applied to reduce vulnerability 
+to future climate change. Future vulnerability will depend not only on the degree of climate change 
+but also on the development “pathway” taken, as well as capacity put in place to cope with the 
+climate change stress. Mitigating GHG emissions and enhancing the adaptive capacity to increase 
+resilience can accelerate the pace of progress towards sustainable development. Adapting to 
+climate change involves reducing exposure and sensitivity and increasing adaptive capacity to 
+build a climate-resilient society. Further to these two broad measures (mitigation and adaptation), 
+Nigeria will also need to promote economic diversification – going beyond lowering the carbon 
+content of activities, but also moving away from oil export dependency. 
+ 
+National mitigation and adaptation measures are guided by the new National Climate Change 
+Policy12,  which  vision  is  low-carbon,  climate-resilient  Nigeria,  and  a  mission  of  ensuring 
+sustainable development and a climate proofed economy through multi-stakeholder engagement. 
+The goal of the policy is to promote a low-carbon, climate-resilient and gender-responsive 
+sustainable socio-economic development, which is expected to (i) reduce Nigeria’s vulnerability 
+to climate change impacts, (ii) improve its social, economic, and ecological resilience. (iii) reduce 
+greenhouse gas emissions, (iv) increased awareness of climate change impacts and adaptation and 
+mitigation measures, (v) enhance and strengthen research, innovation and technology development 
+ 
+12 This revised policy to that of 2012 is being processed by the Federal Ministry of Environment (Department of Climate Change) for 
+approval by the Federal Executive Council 
+9 
+  
+ 
+and transfer and systematic observations, (vi) enhance capacity to implement climate change 
+related interventions at national, state and community levels, and (vii) mainstream climate change 
+and its cross-cutting issues in national development. A major objective of the goal of Nigeria’s 
+Climate Change Policy is the implementation of adaptation and mitigation measures with co-
+benefits and SDG focused outcomes that promote low-carbon development in the country and 
+reduce the vulnerability of Nigerians to the impacts of climate change. 
+ 
+Within the strategic policy response framework of fostering low-carbon, high growth economic 
+development path and building a climate resilient society to enable Nigeria to meet the challenge 
+of climate change, Nigeria has also identified priority courses of action that will be implemented 
+in  its  ten-year  (2021  –  2030)  Climate  Change  Programme 13.  These  activities  take  into 
+consideration the focused areas of the national policy on climate change and the opportunities 
+offered by international agreements and conventions that Nigeria is party to. Programme focus 
+areas  are  targeted  at  (i)  managing  for  resilience  in  ecosystems,  infrastructure  and  human 
+communities through mitigation and adaptation strategies and initiatives; (ii) addressing current 
+risks, vulnerabilities, policies, capacities, and gaps in knowledge; (iii) facilitating internal and 
+external resources for climate financing; and (iv) engaging internal and external partners in seeking 
+solutions. 
+ 
+In contributing to global efforts to reduce GHG emissions and attaining a low-carbon economy, 
+Nigeria will analyse its options for reducing greenhouse gases, assess various mitigation scenarios 
+and explore various mitigation options that may include increasing the availability of carbon sinks 
+(biological absorption of GHGs) and reducing the level of emissions released into the atmosphere 
+from  sectors identified in the Nationally Determined Contribution (NDC) (i.e. agriculture, power, 
+oil and gas, transport, industry, water and waste sectors) which produce the greatest amounts of 
+emissions in the country. The strategies will lay emphasis on (i) reducing GHG emissions, (ii) 
+preventing  new  GHG  emissions  to  be  released  in  the  atmosphere  and  (iii)  preserving  and 
+enhancing sinks and reservoirs of GHGs (e.g., by protecting natural carbon sinks like forests or 
+creating new sinks - carbon sequestration). 
+ 
+Since climate change is now inevitable, putting strategies and measures in place to adapt to these 
+changes also remains significant. The country’s approach is to treat adaptation to climate change 
+as an issue of climate-resilient development, rather than as a bespoke set of activities (flood 
+defenses, drought plans, and so on), combining climate and development challenges into a single 
+strategy. The aim is to protect the health of the ecosystems and the people, human settlements and 
+infrastructure, as well as energy supply among others from climate-related damages and to 
+maximise the benefits from climate-related opportunities. This will prepare Nigeria for a climate-
+resilient future. The challenge for the country then is how to rapidly develop the economy and 
+fulfill its obligation to the global climate change agreement as elaborated in its NDC. 
+   
+ 
+13 The National Climate Change Programme (2021 – 2030) is also being processed by the Federal Ministry of Environment 
+(Department of Climate Change) for approval by the Federal Executive Council 
+10 
+  
+ 
+ 
+2.3  Nigeria’s NDC 
+Nigeria recently updated and submitted the Nationally Determined Contributions (NDCs) to the 
+United Nations Climate Change Framework Convention on Climate Change (UNFCCC) as part 
+of her commitment to the global target of keeping the earth’s warming below 2oC in line with 
+Article 4.2 of the Paris Agreement. 
+In the updated NDC, Nigeria recommits to its unconditional contribution of 20% below business-
+as-usual by 2030 and increases its conditional contribution from 45% to 47% below business-as-
+usual by 2030, provided that sufficient international support is forthcoming. In addition to the 
+existing sectors of the 2015 NDC, Nigeria in scaling up her ambitious targets, included the waste 
+and water resources sectors and articulates other nature-based solutions not included in the 2015 
+NDC. 
+An investment of 177 billion USD is indicated in the NDC for   implementation that covers 2021-
+2030.  This value is economy-wide productive investments that is not expected to be a burden 
+exclusively on the government budget. 
+For more information on the NDC that has been submitted, kindly click on NIGERIA 2021 NDC-
+FINAL as submitted 30 Jul 2021.pdf 
+ 
+2.4  Achieving Sustainable Development Goals in the Face of Climate Change 
+Promoting conservation and sustainable use and management of natural resources to reduce the 
+risks associated with climate extremes as well as resilience building are critical elements for the 
+attainment of many of the sustainable development goals (SDGs) and Agenda 2030.  Extremes 
+weather events, such a floods, storm surges, and heat waves can strain cities, roads, drainage 
+systems, power plants, ports, and other types of infrastructure. Also, climate change further 
+threatens the national ability to build and sustain its human capital, particularly through health and 
+education. The concern is that climate change could threaten or reverse Nigeria’s advances towards 
+the attainment of the SDGs and overall national development. Thus, all effort should be geared 
+towards ensuring the resilience of the ecosystem through mitigation and adaptation measures. 
+ 
+The NDC sectoral plans identifies strategies to promote economic and social development in a 
+way that sustainably grows Nigeria’s economy at 5% per year while making the country more 
+resilient to climate impacts. If implemented, the NDC will improve standards of living, promote 
+clean energy access and food and water security for all, whilst reducing emissions under the 20-
+45% below business as usual by 2030. 
+ 
+Implementation of the NDC will serve as a catalyst for a comprehensive national climate action 
+and offers Nigeria several opportunities to advance the attainment of sustainable development 
+goals in the country. They include: (i) inducing long-term changes in key economic drivers and 
+sectors, such as power, oil and gas, industry, transport and agriculture and forests; (ii) improving 
+national scope to drive climate change actions at the local level; (iii) keeping up political 
+momentum at the national level and strengthening climate change legislation; (iv) embedding  a 
+longer-term  vision  for low-emission  climate  resilient  development  for  social  and  economic 
+11 
+  
+ 
+development as well as poverty eradication; (v) mobilizing finance for climate change from diverse 
+sources and creating an enabling environment for private sector investment in climate mitigation 
+and adaptation; (vi) providing innovative measures and mechanisms for the integration of climate 
+change into development planning and strategies at all levels of governance in the country; (vii) 
+presenting a common force  to strengthen national adaptation efforts; (viii) warehousing climate 
+policy coordination in a cross-cutting body that is better able to influence policy in major sectors 
+of the economy; and (ix) engaging with government departments, companies and stakeholders in 
+sectors that need to transition into a low-emission resilient development pathway and help 
+mainstreaming climate action into sectoral policies and investments, among others. This approach 
+supports national efforts on the attainment of SDGs, and all that Nigeria now needs is a further 
+development  of  the  political  framework  and  existing  institutions  to  strategically  plan  and 
+implement the necessary climate change and adaptation measures within a well-formulated long-
+term vision of development. 
+ 
+   
+12 
+  
+ 
+ 
+3.  Nigeria’s 2050 Vision 
+ 
+3.1   Current Situation 
+ 
+Nigeria is a nation of vision. The Vision 20:2020 was the major national development strategy 
+directing the development process in Nigeria in the last decade and during the development of the 
+NDC. This Federal Government’s economic growth plan recognises climate change as a threat to 
+sustainable growth in the coming decades. It perceives climate change as a potential driver of 
+“damaging and irrecoverable effects on infrastructure, food production and water supplies, in 
+addition to precipitating natural resource conflict”. This Vision is currently being updated to reflect 
+the country’s vision of development for 2030. There is also an ongoing initiative to develop an 
+Agenda  2050 14  aimed  at  making  Nigeria  a  socio-economically  advanced  nation  with  a 
+technologically enabled, digitally connected, diversified and inclusive sustainable economy. This 
+2050 Development Agenda for the country is seen to advocate for the adoption of global best 
+practices to development in Nigeria. It is anticipated to obviously include a visionary approach to 
+address the challenge of future  climate change scenarios within the national framework of 
+contributing to the global agreement of limiting global warming-induced temperature increase of 
+1.5OC above pre-industrial level. The 2020 Economic Sustainability Plan envisioned a resilient 
+and sustainable development in post-COVID-19 Nigeria, which also includes climate resilience. 
+ 
+In  addition,  many  of  the  national  policies  contain  elements  of  visioning  for  low  carbon 
+development.  The vision of its current Policy on Climate Change is a low-carbon, climate-resilient 
+Nigeria, while that of its NDC is climate-smart development with emphasis on (i) climate-smart 
+approach to ensure GHG efficiency and minimize GHG emissions in its agriculture sector; (ii) 
+promoting  climate-resilient  industrial  development  and  adoption  of  green  technology  in  its 
+industrial sector; (iii) transitioning from fossil fuels and reducing gas flaring and fugitive methane 
+emissions through incentivizing the productive use of the gas in its oil and gas sector; (iv) 
+sustainable energy for all (SE4All) by 2030 in its power sector; and (v) fast, safe, efficient, 
+affordable, integrated and inter-modal transport system for goods and people to drastically reduce 
+GHG emissions in the transport sector. Also, improved energy access for all towards a low-carbon 
+economic development is the focus of the country’s Energy Policy, with a focus on clean 
+renewable energy development in its Rural Electrification Strategy. In a similar vein, reduction of 
+the nation’s dependence on fossil fuel and securing long-term energy security is the main visionary 
+goal of Nigeria’s Gas Policy.  
+ 
+The  Long-Term  Vision  for  Nigeria  (LTV-2050) which  is  the preparatory  step  towards the 
+Development of its Long-Term Low Emissions Development Strategy (LT-LEDS) leverages these 
+existing or past visions. 
+   
+   
+ 
+14 Under preparation led by the Federal Ministry of Finance, Budget, and National Planning 
+13 
+  
+ 
+ 
+3.2  Developing the LTV Vision 
+ 
+The process for the development of the LTV Vision for Nigeria involves the adoption of a number 
+of guiding principles and stakeholders’ consultations to identify the main elements of the vision. 
+ 
+3.2.1  Guiding Principles  
+ 
+This vision will be guided by the following principles that have been highlighted in the National 
+Climate Change Policy: 
+▪  Country-driven  and  country-specific  climate  change  interventions  and  responses. 
+Nigeria will think globally but act locally. As a party to the Paris Agreement, Nigeria, 
+through a country-driven effort, will contribute to the global efforts to hold the increase in 
+the global average temperature to well below 2°C above pre-industrial levels and pursue 
+efforts to limit the temperature increase to 1.5°C above pre-industrial levels. While doing 
+so, Nigeria will partner with other countries in taking robust climate action through 
+knowledge  and  technology  transfer.  Such  national  efforts  will  lead  to  reduce  GHG 
+emissions and provide an opportunity for sustainable growth and development. 
+ 
+▪  Build  sustainable  and  resilient  economy  and  social  development  with  adequate 
+adaptation  response.  For  development  planning  processes,  facilitate  resilience  and 
+adaptation to climate change integration in a coherent manner within all relevant sectors 
+and at different levels and with the Sustainable Development Goals (SDGs). Low carbon 
+development compels a rethink of actions to embed new climate economic approaches and 
+alignments with high growth sectors. 
+ 
+▪  Effective citizenship participation. This will be key to creating a sustainable environment 
+for industrial development and fostering future growth.  The government will provide 
+enabling environment for MDAs at all levels, private sector, civil society organizations, 
+communities, and donor agencies to optimize the use of energy and transit towards a 
+carbon-neutral society.  
+ 
+▪  Shared  vision  social  inclusion,  and  responsibility  among  stakeholders.  The 
+transformation of Nigeria towards a low carbon, climate resilient society will take place 
+within a broad consensus among various stakeholders, including policymakers, private 
+sector, civil society, academia, and local communities. The 2050 vision for Nigeria will be 
+based on public support and engagement, and social inclusion.  
+ 
+▪  Identification of low-carbon transition enabling activities. In Europe, Gas, and nuclear 
+energy, are examples of transitional activities in full respect of “do no significant harm” 
+as  they  are  seen  as  allowing  economic  activities  to  be  labelled  as  environmentally 
+sustainable15. In Nigeria, “Natural gas is accepted more or less as a transition fuel, the 
+ 
+15https://www.europarl.europa.eu/news/en/press-room 
+14 
+  
+ 
+bridge to renewable energy.”16. Thus, whether Nigeria economy could leverage activities 
+in gas sector as transition to a low-carbon economy with “no significant harm remains a 
+conjecture.” 
+ 
+▪  Promotion of environmental quality and ecological equilibrium. Environmental quality 
+and ecological equilibrium will be promoted by moving away from linear economy (fossil-
+fuel based production, distribution, and consumption patterns) to circular economy that 
+will ultimately enable people to achieve universal goals for environment and health. 
+Nature-based solutions will be continuously pursued to accelerate the transition to a low 
+carbon society whilst ensuring growth and the economic and social wellbeing of the people. 
+ 
+▪  Transparency,  accountability,  and  equity.  Nigeria  will  ensure  transparency, 
+accountability, and equity as it moves towards achieving its mid-century vision. The 
+Government will inform the people of the detailed costs to be incurred from this transition 
+as well as the benefits of climate action in a transparent manner, as well as ensuring that 
+the costs of implementation are borne in a fair and equitable manner by all members of the 
+Nigerian society. 
+ 
+▪  Monitoring, evaluation and reporting of all climate change interventions and lessons. 
+Government will put in place a robust national monitoring, reporting and verification 
+(MRV) system to monitor, evaluate and report on each stage of the transition. It will also 
+regularly share information with the people on gains and losses of the transition and seek 
+their consent on the way forward based on lessons learnt. 
+ 
+▪  International  partnership  and  cooperation.  Climate  change  is  a  transnational 
+phenomenon. There are cross cutting challenges at multi-scale with multistage dimensions. 
+Funding  adaptations  places  severe  burden  on  scarce  resources  creating  avenues  for 
+maladaptation and adaptation deficit. Meeting urgent climate action of changing world 
+requires bilateral and multilateral cooperation. There is the imperative to ratchet green 
+climate fund to improve international support if Nigeria will surmount near term climate 
+risk as well as promoting a cultural shift needed for the institutionalization of net zero 
+emission economy.  Nigeria will need to leverage opportunities for capacity building, 
+efficient  energy and  innovations  in  technologies  and  digital  transformations  through 
+bilateral and multilateral partnerships and cooperation. 
+ 
+▪  Policy Coordination: The bane of effective climate governance and the green transition is 
+poor policy coordination and inconsistencies. Lack of coordination between ministries and 
+MDAs in climate change mitigation and adaptation creates gaps and results in gross 
+inefficiency. The result of which is that mitigation and ‘greening’ efforts are scattered in 
+different sectoral policies with different institutional mandates foisting policy ownership 
+crises. Policy coordination will ensure multisectoral coordination; improve the delivery of 
+service while also providing the direction for the journey to a carbon just civilization.  
+Policy coordination will reduce the coordination gap between different MDAs in the 
+ 
+16 (VP  statement  on  behalf  of    President  Buhari  at  Africa  Regional  Heads  of  Government  Commonwealth 
+Roundtable.https://insidebusinessafricang.com/2021/04/16/osinbajo-seeks-fair-transition-towards-global-net-zero-
+emissions-target/) 
+15 
+  
+ 
+adaptation space, reduce overlapping mandates by insisting responsible MDAs are tasked 
+with  adaptation  and  mitigation  and  enhance  effectiveness  and  accountability  which 
+increased local buy-in and legitimacy. 
+ 
+▪  Good Governance: Good governance underpins all the elements of an LTS: A stable 
+environment for the maintenance of the harmonious relationship between humankind and 
+nature hinges on good governance. Governance is the bedrock of economic, political, and 
+environmental sustainability. The nature and form of governance structure determine the 
+level of success achieved in LCD. Good governance is related to  equitable climate 
+governance as promoting equity minimizes climate risks, fosters harmony, and builds 
+enduring climate structure conversant with the needs of a changing world yet, is mindful 
+of intra and inter-temporal equity. 
+ 
+3.2.2  Stakeholders’ Consultation 
+ 
+In the process of developing the vision, representatives of Ministries, Departments and Agencies 
+(MDAs) that are either directly or indirectly connected with the planning and implementation of 
+NDC activities for Nigeria were consulted for their visionary views on national development in 
+the  face  of  expected  impacts  of  climate  change  in  the  country.  This  was  done  through  a 
+questionnaire and structured dialogue. The list of stakeholders consulted is given in Annex 2 with 
+a summary of the views of various MDAs that were consulted. They all indicated, in qualitative 
+terms, the country’s concern for climate change and the desire to move Nigeria’s development in 
+the path that will significantly reduce the country’s dependency on fossil fuel, particularly oil, 
+while focusing on increasing its reliance on gas and renewables, such as solar and wind, for 
+sustainable climate-resilient and climate-compatible development. In this way, it may be said that 
+Nigeria will pursue the path of low-carbon development in its immediate and future development 
+plans to enable it to meet its obligations towards international commitment to the Paris Agreement 
+and to align with anticipated global best practices for sustainable development. Modeling scenarios 
+will be developed to depict the trajectory that Nigeria will follow in the course of LT-LEDS 
+development  
+ 
+Private  sector  needs  government  enablement  to  create  new  investable  opportunities  that 
+encapsulates  visibility,  transparency,  viability,  and  bankability.  The  new  climate  economic 
+systems are the overarching economic enablers that leverage use of digitalization and to improve 
+efficiency across multiple economic systems such as the circular economy, bioeconomy green, 
+blue and food economies amongst others. The extent to which emerging economies like Nigeria 
+can spur cities to catalyse sustainable, inclusive, and resilient growth is crucial not only for their 
+future, but for the entire world as well. Future sustainable cities would embed industrial parks, 
+agro-allied sectors, new housing, manufacturing and trade and commerce to spin out millions of 
+new opportunities and jobs for decades to come. Under this scenario, energy and economic growth 
+modelling for key economic sectors contributing to low emissions growth with provision to replace 
+fossil fuel economy by 2050 would be needed. 
+   
+16 
+  
+ 
+ 
+ 
+3.2.3  Main Elements of the Vision 
+ 
+From  the  various  consultations  conducted  among  various  stakeholders,  key  elements  were 
+identified in the vision development as depicted in Figure 3. These are also anticipated to 
+eventually guide the development of the LT-LEDS for Nigeria. 
+ 
+The question is where does Nigeria want to be in2050? 
+ 
+ 
+Resilience and 
+Significant increase in  Significant improvement 
+adaptation planning  Adoption of climate-
+the use of clean and  in energy efficiency and 
+mechanisms and  smart agricultural and 
+renewable energy to  enthroning a culture of 
+measures for all sectors  land use technologies 
+drive Nigeria’s economic  conservation in natural 
+and alignment with  and practices.
+growth. resource use.
+economic growth
+Deployment of more 
+Pursuit of green 
+energy efficient,  Focus on less fossil-fuel 
+economy through  Enhancement of carbon 
+emerging low carbon  exports-oriented 
+circular economy and  sinks with nature-based 
+technologies to  economy in a low-
+blue economy principles  solutions
+decarbonize the  carbon world. 
+and activities. 
+economy.
+Considering the use of 
+Transformation of key 
+natural gas as a potential  Policy coordination and  Enabling legal, policy, 
+sectors and society 
+enabler in the transition  complementarity of low- political and institutional 
+through awareness and 
+to a climate-neutral  carbon initiatives environment
+capacity building
+economy
+Leveraging international 
+support and 
+collaboration
+ 
+ 
+Figure 3: Key Elements by the Stakeholders that Guided the Vision Development  
+ 
+ 
+   
+17 
+  
+ 
+ 
+3.3  The Vision: Where we want to be in 2050. 
+ 
+Nigeria will continue to be part of the global efforts and collective engagements required to 
+frontally address the challenges of climate change, while aiming at becoming a high middle-
+income economy.  Thus, the LT Vision will be that by 2050, Nigeria is a country of low-carbon, 
+climate-resilient, high-growth circular economy that reduces its current level of emission by 
+50%, moving towards having net-zero emissions across all sectors of its development in a 
+gender-responsive manner. 
+ 
+It is hoped that this vision will promote sustainable development and guarantee a climate proofed 
+economic development through multi-stakeholder engagement across multiple sectors that include 
+the bioeconomy, blue, green and food economies, especially at this time that Nigeria is also 
+engaged  in  developing  medium-term  (2021-2025)  and  long-term  (Agenda  2050)  national 
+development plans. It is also expected to lay a solid foundation for Nigeria to contribute to the 
+global goal of climate neutrality, and to be a climate-resilient society with a knowledge-driven 
+economy that is globally competitive and compliant with Africa’s Agenda 2063, as well as enable 
+the country to play its leadership role in Africa effectively. In the long-term, Nigeria’s Long-Term 
+strategy must align with key principles of these complexly interrelated strategies and visions to 
+enshrine economic growth while also building a climate resilient economy. 
+ 
+ 
+   
+The Vision 
+   By 2050, Nigeria is a country of low-carbon, climate-resilient, high-growth 
+circular economy that reduces its current level of emission by 50%, moving 
+towards having net-zero emissions across all sectors of its development in a 
+gender-responsive manner. 
+18 
+  
+ 
+ 
+4.  Visions by Sector 
+ 
+The proposed long-term Vision for Nigeria’s LT-LEDS remains largely broad and encompassing 
+many sectoral  “visions”  that  would  need  to  be  properly  integrated  for  sustainable  national 
+development. The key sectoral “visions” are highlighted in this section of the report. 
+ 
+4.1  Agriculture, Forest, and other Land Use (AFOLU) 
+Agriculture, Forestry, and other Land Uses (AFOLU) is a major sector that has the most significant 
+contribution to climate change in Nigeria and which also impacts on climate change significantly. 
+As agriculture contributes about 24% to the country’s GDP, reducing GHG emissions from this 
+sector and adapting the sector to climate change remain critically important for any long-tern vision 
+for low carbon development in Nigeria. Destructive land use practices such as deforestation, 
+uncontrolled use of fertilizers and poor livestock management contribute significantly to the 
+release of GHGs, particularly carbon-dioxide (CO ), nitrous oxide (N O) and methane (CH ). 
+2 2 4
+According to Nigeria’s Third National Communication submitted to the UNFCCC 2020, total 
+GHG emissions from AFOLU stands at 366,734 Gg CO -eq, representing about 60% of the total 
+2
+net GHG emissions for the country. On the other hand, appropriate land use practices such as 
+agroforestry  will  increase  the  carbon  sink  potentials  of  the  sector.  Thus,  this  sector  holds 
+significant climate change mitigation potential for Nigeria through reductions of GHG as well as 
+enhancement of agricultural sequestration and application of climate smart technologies.  
+ 
+The Vision 20:2020 seeks to improve agricultural productivity by enhancing yield per hectare, 
+reducing post-harvest losses, and increasing processing and integration with an industrial value 
+chain to feed the nation’s growing population. Reducing GHG emissions from AFOLU offers a 
+great opportunity for Nigeria to contribute to land cover changes at global, national, and local 
+levels that have characterized human-environment relationship. AFOLU also has both local and 
+global benefits to climate change mitigation and whilst supporting millions of smallholder farmers 
+adapt to climate change impact.  
+ 
+The major challenge for the country is to reduce its rate of deforestation, which is one of the highest 
+in the world. With rapid growth in population and its associated demands on forest and non-forest 
+products, the impact of extraction continues to escalate the challenges of deforestation as well as 
+de-vegetation, to the extent that only less than 10% of forest cover remains.  Utilizing the country’s 
+agricultural resources for food security is also an area of national importance with implications for 
+GHG emissions. 
+ 
+To move the AFOLU sector to a LT-LEDS, Nigeria will develop and/or deploy low-carbon 
+agricultural adaptation technologies and practices, water management in irrigated rice farms, low-
+methane  fodders  for  livestock,  low-input  farming;  development  of  soil  carbon  storage 
+methodologies and management; and replacement of fossil fuel with clean energy sources.  The 
+Government will pursue Research and Development on these low-carbon farming practices and 
+expand education and support for farmers for wider application. The Government will also need 
+to scale up certification and labelling of low –carbon agricultural produce, meats or dairy products 
+that are produced using farming practices that minimize inputs, such as chemical fertilizers and 
+19 
+  
+ 
+pesticides. In the urban areas, significant effort will be targeted at (i) optimizing the use of city long 
+spaces by diversifying uses, for example agripolis urban farming systems, while promoting urban forms 
+that are resilient to the effects of climate change, and (ii) stopping degradation of agricultural, natural and 
+forest areas and limiting the drying of wetlands.  
+ 
+Government will sensitize consumers to do their part by generating less food waste and changing 
+their dietary habits to reduce their carbon footprints in their daily life. There will be public 
+awareness-raising programmes to change people’s consumption patterns and lead them towards a 
+low-carbon lifestyle. Best practices and lessons learnt from farming and fishing communities 
+elsewhere that use solar, wind and other eco-friendly energy sources will be emulated. Such 
+lessons will serve as a model for future lifestyle, balanced national development, and eco-friendly 
+energy transition. They will be exhibited as best practices of combining energy transition with 
+local development. They will also help Nigeria to be prepared for potential social changes, e.g., 
+changing industrial site locations and population migration. 
+ 
+   Increasing resilience to climate change and effectively reducing GHG emissions in the 
+AFOLU sector will be feasible within a vision that states that by 2050, Nigeria is a country 
+in which sustainable land use and Climate Smart Agriculture (including livestock and 
+fisheries) practices are adopted by all large-scale farmers and more than 75% of 
+smallholder farmers, while forestry management practices are in line with the global 
+mechanism of reducing emissions from deforestation and forest degradation (REDD+).  
+ 
+ 
+4.2  Energy 
+ 
+The Third National Communication reported that the total GHG emissions from the energy sector 
+stands at 206,452 Gg CO -eq or about 34% of the total net GHG emissions of Nigeria. As the 
+2
+second major contributor of GHG in Nigeria and given the potential transformational effects for 
+the development of other sectors, the energy sector is critical in the country’s effort to reduce GHG 
+emissions and pursue long-term low-carbon development.  
+ 
+Visioning for a low carbon development in Nigeria’s energy sector remains a serious challenge, 
+as the country’s economic growth is still largely dependent on oil and gas. Nigeria has the second 
+largest proven oil reserves in Africa after those of Libya. It has oil reserves of about 35 billion 
+barrels  and  gas  reserves  of  about  5.8  trillion  m3,  ranking  10th  and  9th  in  the  world, 
+respectively. There is also about 21 million tonnes of proven recoverable bituminous coal 
+reserves, including anthracite. 
+ 
+Nigeria in the foreseeable future will continue to depend on oil  and  gas for its economic 
+development. It is noted however, the recent past shows that the country faces declining production 
+and, in the future, lower global demand and lower prices. The impact of these and low carbon 
+scenarios on expected oil and gas revenues would be developed to put things in perspective. 
+ 
+The economic importance of oil and gas makes Nigeria, like other oil and gas producing countries 
+of the world economically vulnerable to global efforts to reduce GHG emissions. As global action 
+to reduce GHG emissions will necessarily require reduced consumption of fossil fuels, this will 
+20 
+  
+ 
+affect the country’s main economic base—the extraction and export of oil and gas17. However, 
+while  addressing  climate  change  and  reducing  GHG  emissions  presents  challenges  for  the 
+country’s development, it is also an opportunity that could intensify the national effort to diversify 
+its economy and lead to the development of low-carbon technologies such as carbon capture and 
+storage (CCS), energy efficiency technologies and alternative energy. Moreover, the Vision 2020 
+singled out the expansion of electric power production from gas and hydropower as a key driver 
+of growth. Associated and non-associated gas will increasingly replace the predominantly diesel-
+generating sets ubiquitous in companies and homes. As gas prices rise and regulation improves, 
+more of the currently flared natural gas will find its way into power production, thereby reducing 
+GHG emissions from gas flaring18. With support from international development partners Nigeria 
+shall seek to use of gas, as opposed to just flaring, with substitutes diesel generators for large 
+installations and renewables would be an alternative. And even in smaller installations. 
+ 
+In addition, Nigeria has renewable and non-renewable energy resources in commercial 
+quantities. The main renewable energy resources include sun, wind, hydro, biomass, and 
+tidal wave. The Third National Communication concluded that solar energy is the most 
+promising renewable energy resource due to Nigeria’s location within the heart of the tropical 
+region where sunshine and solar radiation are very abundant and well distributed. The report 
+estimated that the available annual solar energy in Nigeria is about 27 times her total fossil 
+fuel  resources  and  about  115,000timestheelectricalpowergenerated  in  Africa’s  most 
+populous country and largest economy.  
+ 
+A wide variety of mitigation options can be applied in the energy sector. Renewable energies can 
+make a major contribution to reducing emission levels. Renewable energy and energy efficiency 
+are globally promoted as measures to reduce greenhouse gas (GHG) emission and response to 
+climate  change.  The  country’s  Renewable  Energy  Master  Plan  projects  to  2025  of  26.7% 
+renewable energy contribution to the Nigeria’s energy use. This was expected to reduce CO  and 
+2
+GHG emissions at 38% by 2025. In the same vein the country’s NDC energy sectoral plan 
+indicated that increasing the current pace of energy efficiency improvement in all sectors of the 
+nation’s economy to 2.5 percent per year, could achievee a 40 percent reduction in the amount of 
+energy consumption by 2030, measured in terms of energy intensities, and thereby contribute 
+significantly to GHG emission reduction in the long run. 
+ 
+The following are needed to move Nigeria in the direction of long-term decarbonisation pathway: 
+(i) promote decarbonization goal through carbon market; (ii) embedding innovative technology to 
+catalyze green growth; (iii) scale-up the use of natural gas rather than PMS and liquid fuels; (iv) 
+scale-up in renewable energy technologies; (v) adopt fiscal incentives to promote renewable 
+energy utilization including subsidies, tax holiday, investments, grants and import exemption to 
+incentivize prospective investors. In the urban areas, focus will be on energy efficiency in both new 
+and  existing  buildings;  design  buildings  to  utilise more  natural  lighting  and  consume  less energy. 
+Furthermore, there is need for subsidy reform, carbon tax, eco-labelling, carbon market to send 
+long-term policy signals.  
+ 
+17 Qatar and the Gulf Cooperation Council – see Meltzer, J., Hultman, N. and Langley, C (2014): Low-Carbon Energy 
+Transitions in Qatar and the Gulf Cooperation Council Region. 
+18  Eleri, E. O., Onuvae, P. and Ugwu, O. (2013): Low-carbon energy development in Nigeria: Challenges and opportunities. 
+IIED 
+ 
+21 
+  
+ 
+ 
+The objective of the country’s vision for low-carbon energy is to initiate changes in the energy 
+production patterns to significantly increase the renewable energy proportion of the country’s 
+energy mix, as well as promote and enforce improvements in energy distribution systems (e.g., 
+improved power grids) to avoid inefficient use of energy resources, through the adoption of 
+appropriate and new technologies for climate change mitigation. From current realities in Nigeria’s 
+energy sector, the 2050 vision for the sector should be anchored to decarbonize the energy sector 
+by halving emissions in the sector relative to current levels and increasing the contribution of 
+renewables to the country’s energy mix by 50% with a view of achieving net zero carbon 
+emission by the end of the century 
+ 
+4.3  Fresh Water and Coastal Wetlands 
+ 
+Nigeria has significant total water resources estimated at 215 billion m3 of surface water and 87 
+billion m3 groundwater resources, although with large-scale spatial inequalities in different regions 
+of the country. Nigeria’s coastal and marine environment stretches for about 853 km along the 
+coastline and inland for about 15km in Lagos in the west to about 150km in the Niger Delta and 
+about 25km east of the Niger Delta. However, Nigeria has significant challenges in ensuring proper 
+and sustainable management of its water resources for domestic, agricultural, and industrial 
+purposes. 
+ 
+It is estimated that the annual total water demand in Nigeria is about 5.93 billion m3. This is 
+expected to increase to 16.58 billion m3/year in 2030.According to an analysis in Nigeria’s Water 
+Master Plan (2014)19, the projected global warming-induced change in air temperature over 
+Nigeria could bring about 20% reduction of annual runoff in the country. Groundwater recharge 
+could also be reduced by up to 20% due to influence of the climate change. Additional 5 to 20m 
+lowering of groundwater for the whole country is predicted by2030. This would warrant the need 
+to drill boreholes at 20m deeper than current depth and make the depth of pump table to attain 20m 
+deeper than it is currently. Over-pumping may further aggravate the impact of climate change on 
+the lowering of groundwater level and possible ground subsidence effects in the country. This is 
+an interesting example of interactions between water, energy, and climate nexus. Due to more 
+intense climatic changes and higher air temperature, drought will set in, thus leading to higher 
+demand for water. But the lower the groundwater table, the more energy and costs will be needed 
+to build and operate deeper infrastructure systems. Depending on the source of the energy, this 
+might result in higher emissions or other pressures. 
+ 
+Climate change and climatic variability will further threaten the water supply potential of the 
+country as water supplies will be affected, not only for agriculture, but also for industry, energy 
+production and even fisheries, in addition to health impacts and threats to biodiversity. In addition, 
+it is also important to note that other activities being planned by Nigeria to reduce emissions or 
+build resilience may be limited by water or influence available and usable water resources. 
+Industry, energy, and agriculture in the same basin or dependent on the same water resource may 
+compete for the resource20. This compels the need to manage water and climate change in a more 
+ 
+19FMWR (2014): Revised Nigerian Water Resources Master Plan. Joint Japan International Cooperation Agency, Japan (JICA) 
+20FMWR (2014): Revised Nigerian Water Resources Master Plan. Joint Japan International Cooperation Agency, Japan 
+22 
+  
+ 
+holistic and coordinated manner imperative. It also informs that the water sector must be part of 
+the global effort of limiting global temperature increase to well below 2OC by 2030 as captured in 
+the Paris Agreement, and for the NDC is the national implementation policy.  
+ 
+The provision of drinking water and the treatment of wastewater require tremendous amounts of 
+energy, the production of which is responsible for high amounts of CO -emissions. For example, 
+2
+a crude estimate indicates that the supply of 5.93 billion m3 that was estimated as water demand 
+(which may also include pumped irrigation water) in 2013 by the WRMP would have resulted in 
+the emission of about 4MtCO . Thus, it can be affirmed with some degree of certainty that if water 
+2
+supply in the country is fully sourced through renewable energy powered sources, then it would 
+be  possible  to  achieve  good  targets  for  emissions  reduction  for  the  sector  in  the  NDC 
+implementation. Emissions from domestic wastewater in 2016 was estimated to be 1.95MtCO2-
+eq. Thus, the inclusion of the water sector in the NDC is evidence of increasing recognition of its 
+high potential to reduce energy demand and thus contribute to the overall goal of climate change 
+mitigation.  
+ 
+The processes of water extraction, reticulation and treatment offer various mitigation options to 
+reduce carbon emissions. The main challenge is to keep the impacts of climate change from 
+becoming a disaster to the water sector and water resources more generally. For example, the 
+indirect impacts of biogeochemical cycle in dams and drops in hydrostatic pressure during water 
+level drawdowns can influence ebullition, which ultimately, will decrease CH  that is further 
+4
+oxidized to CO  by methane oxidizing microbes. The saga of burning river tributaries in Nigeria’s 
+2
+Niger Delta region due to incidental oil spills is a grim reminder of water share of emissions 
+impacts. Also, the ill managed industrial waste disposal triggered carbon pollution in rivers of 
+USA (Cuyahoga-Cleveland 1969, Chicago 1970, Buffalo 1970, and Rouge 1971). These incidents 
+clearly  point  to  emissions  warning  symbols  to  humanity  on  impacts  of  inadvertent  water 
+management neglect. Similarly, the role of catchment activities in fueling microbial methane 
+(Kiene, 1991) and organic matter decomposition (Thorton, 1991) was also reported. In Nigeria, 
+the greatest impacts stem from industrial clusters, where steam boilers are used at supercritical 
+temperatures for either heating, or processing of consumer goods. The wharfs, seaports and 
+marinas also contribute significantly to local GHG emissions because of shippers’ obduracy to 
+IMO green flag directives. 
+ 
+The country’s vision for the water sector is to Nigeria minimizes the impact of climate change 
+on the sector, improves energy efficiency and increases sector’s resilience for sustainable 
+water development, through strategic mitigation and adaptation options. 
+ 
+ 
+4.4  Industry   
+Nigeria’s industrial sector in 2019 contributed about 27% of the nation’s GDP21, despite the 
+challenges of inadequate power and infrastructure, quality issues and limited access to finance, as 
+well as high cost of energy. Insufficient power generation capacity is driving companies to use 
+ 
+21Nigeria: Distribution of gross domestic product (GDP) across economic sectors from 2009 to 2019 downloaded from 
+https://www.statista.com/statistics/382311/nigeria-gdp-distribution-across-economic-
+sectors/#:~:text=Distribution%20of%20gross%20domestic%20product%20(GDP)%20across%20economic%20sectors%20Niger
+ia%202019&text=In%202019%2C%20agriculture%20contributed%20around,percent%20from%20the%20services%20sector. 
+23 
+  
+ 
+natural gas and diesel to self-generate power. Thus, while their growth and success help to reduce 
+the level of unemployment in the country, their rapidly increasing rate of GHG emissions remains 
+a source of concern22.  
+ 
+The country’s comprehensive industrial policy is set out in the Nigeria Industrial Revolution Plan 
+(2014),  and  it  indicates  that  Nigeria  intends  to  fast-track  the  renaissance  of  the  country’s 
+manufacturing industries as a key source of growth, jobs, and food security. With the current use 
+of natural gas and diesel to generate power, increasing the industrial output of the country may 
+lead to increasing rate of GHG emissions. The NDC sectoral analysis for industry indicates thatthe 
+sector’s GHG emissions could increase from 4.2 Mt CO2e in 2010 to 14.8 Mt CO2e in 2030 if no 
+measures to improve energy efficiency are implemented23. Thus, government recognizes that as 
+the sector grows there must be a coordinated shift to low emission production systems. The use of 
+green technology to ensure sustainable efficiency of the development of factory facilities to the 
+fabrication and installation of production equipment will reduce the demand for fossil fuels and 
+enhance overall efficiency.  
+ 
+Specific industrial energy efficiency plans that will be implemented with the overall objective of 
+reducing GHG emissions in the industrial sector include the National Renewable Energy and 
+Energy  Efficiency  Policy  (NREEEP)  (2015),  the  National  Energy  Efficiency  Action  Plan 
+(NEEAP) (2016), and the Sustainable Energy for All (SE4ALL) Action Agenda (2016). In 
+particular, the NEEAP sets out several measures that work towards achieving the SE4ALL 
+proposed targets for industrial energy efficiency. In the NDC analysis, these targets were to 
+improve on 2015 energy consumption levels by 20% by 2020 and by 50% by 2030 through energy 
+efficiency24. 
+ 
+Nigeria’s current focus is the use of natural gas to generate power and increase the industrial output 
+of the country, while minimizing increasee in GHG emissions to comply with its global obligation 
+of low-carbon development. To effectively achieve this goal, the country will need to be well 
+positioned to pursue an alternative and sustainable path to industrialisation that takes advantage of 
+new innovations, technologies, and business models.  
+ 
+The national vision for the industry sector is that by 2050 Nigeria will have a low carbon industrial 
+sector with enhanced energy efficiency that seizes the opportunities that comes with global transition 
+towards climate resilience and circular economy. 
+This vision will accelerate the country’s industrial development, utilizing energy mix with an 
+emphasis  on  renewable  energy  and  promoting  energy  efficiency  networks  for  industrial 
+enterprises.     
+ 
+4.5  Urban Settlements 
+ 
+A large share of global GHG emissions is attributable to cities. The International Energy Agency 
+(IEA) estimates that urban areas currently account for more than 71% of energy-related global 
+ 
+22Eleri, E. O., Onuvae, P. and Ugwu, O. (2013): Low-carbon energy development in Nigeria: Challenges and opportunities. IIED 
+23 FGoN (2017): NDC implementation action plan for the industry sector 
+24 ibid 
+24 
+  
+ 
+GHG and this is expected to rise to 76% by 2030, making energy-related emissions the largest 
+single source of GHG25.In 2019, 51.16% of Nigeria's total population lived in urban areas and 
+cities. The eight largest cities in Nigeria will become even bigger by2030. The population growth 
+of Nigeria’s biggest city Lagos will almost double within the next decade to about 20 million 
+people. Three other cities will also almost double their population and in the context of the global 
+trends, Nigerian cities, where most production activities are taking place, will in the future become 
+a major source of GHG emissions from a production-based perspective if emissions are allocated 
+to the places where they are generated. Nigerian cities will, therefore, play a major role in the 
+country’s  climate  change  mitigation  efforts. Their  main  challenge  will  be  how  to  combine 
+sustainable growth, development, and an enhanced quality of life whilst lowering CO - emissions. 
+2
+ 
+Effective management of Nigerian urban centre offers the potential to capitalize on the multi-layer 
+benefits of mitigation, adaptation, and improved access to services. Cities with excellent services 
+are resilient cities: advanced drainage systems can alleviate flooding during intense storms; robust 
+healthcare services are equipped to respond to emergencies; warning systems and transportation 
+infrastructure allow citizens to evacuate in response to risk. The key requirement is synergy 
+between sectors: electricity; water and wastewater; heating; cooling and transport with investments 
+in energy efficient heating and cooling of buildings and electrified transport. Main strategic 
+approaches may include: 
+▪  Promotion of compact urban areas (by curbing urban sprawl) in such a way that reduces 
+the need for building on undeveloped land that can instead serve as carbon sinks. 
+▪  Strengthen development control functions to avoid haphazard planning and development 
+and ensure adoption and implementation of national planning laws by states and local 
+government councils. 
+ 
+The national vision for country’s urban sector is for Nigerian cities reduce their carbon 
+footprint by 50% by 2050 and move towards becoming carbon-neutral and climate-resilient at 
+the end of the century.  
+It is worthy to note that Lagos is part of the Climate Ambition Alliance, pledged to Net Zero by 
+2050.  
+ 
+   
+ 
+25International Energy Agency (IEA) (2008), World Energy Outlook 2008, IEA, Paris 
+25 
+  
+ 
+ 
+4.6  Oil and Gas 
+ 
+Globally,  the  oil  and  gas  sector  are  a  major  source  of  GHG  emissions.  According  to  the 
+International Energy Agency’s (IEA) World Energy Outlook 2018, indirect GHG emissions from 
+oil and gas operations, including carbon dioxide and methane emissions, make up about 5.2 billion 
+tonnes of carbon-dioxide equivalent, equivalent of about 15% of the world’s energy sector’s total 
+GHG emissions. The oil and gas sector in Nigeria contributes up to 14% of the country’s GDP, 
+and accounts for 95% of the foreign exchange earnings. It also contributes to 65% of the annual 
+federal budget. The country’s NDC indicates that the main GHG emissions in the sector are from 
+gas flaring, fugitive methane emissions, on-site fuel use (upstream and midstream) and on-site fuel 
+use from refineries as well as artisanal crude refining that is ubiquitous in the Niger Delta area and 
+contributes to significant environmental degradation due to the use of artisanal equipment in the 
+refining process26. The combined contribution of flaring and venting to the environment is about 
+80% of emissions in the sector. The target is to reduce flaring down to less than 10% by the year 
+2020 and end it completely by 2030. The strategic approach is to deploy the vast gas resources of 
+the country as the major fuel for power generation and to position Nigeria as the African regional 
+hub for gas-based industries. 
+ 
+Eliminating flaring by 2030 could save around 64 million tonnes of CO  per year and have large 
+2
+development co-benefits. This target is achievable if the right legislation and strategies are 
+implemented. The Nigerian Gas Flare Commercialization Programme (NGFCP) (2016), Nigerian 
+Gas Policy (2017), Flare Gas (Prevention of Waste and Pollution) Regulation (2018) and the 
+Petroleum  Industry  Roadmap  as  well  as  the  Nigeria  Gas  Masterplan  contain  well  defined 
+propositions to achieve the target27.  
+ 
+Critical policy measures that can be advanced for a carbon neutral oil and gas sector in Nigeria, as 
+indicated in the National Climate Change Policy, will include: 
+▪  Pursue green jobs and just transition strategy to attain low-carbon transition for oil and gas 
+sector plus a strategy that anticipate and accommodate stranded assets in the country. 
+▪  Supporting low-cost, technically feasible solutions to reduce methane emissions in oil and 
+gas operations, including recovery and use of escaping gas. 
+▪  Incentivizing the deployment of natural gas as Nigeria’s major transition fuel for power 
+generation, industrialization, and domestic use, particularly cooking, towards ending gas 
+flaring and anticipating e what comes after gas in two – three decades. 
+▪  Facilitating  sustainable  regulatory  frameworks  and  incentives,  as  well  as  financial 
+mechanisms to end gas flaring by 2030. 
+▪  Investment and use of smart technologies in oil refining; and 
+▪  Reducing fugitive emissions in the sector  
+ 
+The national vision in the sector will be to reduce carbon emission from Nigeria’s oil and gas 
+value chains by 50% of its current level by 2050 and transit to net zero emission by the end of the 
+century. 
+ 
+ 
+26https://www.stakeholderdemocracy.org/wp-content/uploads/2015/04/CommunitiesNotCriminals.pdf 
+27 FME (2020): Climate Change Policy of Nigeria 
+26 
+  
+ 
+ 
+4.7  Transport 
+ 
+The transport sector is the backbone of any productive system; enabling the mobility of people and 
+goods means connecting people and nations and fostering economic and cultural exchanges and 
+social development.   It is a major emitter of GHGs in Nigeria, and accounts for nearly one-tenth 
+of total Nigerian emissions (Eleri et al., 2013)28. However, by 2016 it accounted for 31.9% of total 
+emissions  in  Nigeria.29Cervigni  et  al  (2013)  indicated  that  between  2010  and  2035  fuel 
+consumption in the sector is projected to increase by 680%, driven by a five-fold increase in total 
+vehicle kilometers driven and induced by greater level of growth observed in the commercial 
+vehicle fleet increasing importance of non-oil products in Nigeria’s manufacturing industries, as 
+well as the expansion of the service sector due to rising incomes, and the removal of the gasoline 
+subsidy that makes the use of heavy diesel-fueled vehicles more attractive. GHG emissions are 
+forecast to increase significantly over the same period, driven by increasing population, economic 
+activity, and wealth. The complexity of the transport sector requires deploying a diverse mix of 
+decarbonization solutions to meet the challenges within each of its four main segments: roadways, 
+railways, aviation, and navigation. 
+ 
+Government’s  response  to  minimizing  GHG  emissions  in  the  sector,  as  elaborated  in  the 
+transport’s sectoral plan for the NDC is a fast, safe, efficient, affordable, integrated, and inter-
+modal transport system for goods and people. It is targeted at reducing GHG emissions by about 
+4MtCO e by year by 2030, whereas the projected rise in emissions is projected at over 25times of 
+2
+that value. This obviously is not an adequate target for country that intends to be carbon neutral by 
+2050.The  national  transport  policy  also  seeks  to  expand  rail  infrastructure,  improve  road 
+construction and maintenance as well expand urban collective transportation, among other pursuits 
+These  are  all  important  elements  in  a  green  transportation  strategy  that  will  require  the 
+institutionalization of appropriate behavioural and social modifications among Nigerians as well 
+as the development of technological capacities in the area of clean technologies such as zero 
+emission vehicles (ZEVs). It will also require the adoption of integrated land use and transportation 
+systems that will connect housing, jobs, schools, and communities through a variety of integrated 
+low-carbon mobility solutions. In the urban areas, emphasis will be on (i) expansive adoption of 
+mass transit system such as the Rail and Bus Rapid Transport (BRT) to reduce number of 
+commuter vehicles on the road and curb emission; and (ii) encouraging the acquisition and use of 
+zero-emission vehicles such as electric cars.  
+ 
+The long-term vision in the transport sector that can move the country toward carbon neutrality is 
+a national transportation system by 2050 with all having access to a range of affordable 
+transportation choices in which not more than 50% of all journeys are by cars, at least 40% of 
+all journeys are by public transport (including trains and BRT) and at least 10% of all journeys 
+are by active travel (e. g. cycling, walking) to generate little to no GHG, keep the air clean, 
+reduce vehicle distance traveled while increasing access and grow the economy. 
+Increased transportation efficiency and ubiquitous, safe, and affordable access to low-carbon 
+transportation options are key to the success of the vision.  
+ 
+ 
+28Eleri, E. O., Onuvae, P. and Ugwu, O. (2013): Low-carbon energy development in Nigeria: Challenges and opportunities. IIED 
+29https://www.worldometers.info/co2-emissions/nigeria-co2-emissions/ 
+27 
+  
+ 
+4.8  Waste 
+ 
+Waste  generation  has  consistently  increased  in  Nigeria  due  to  increase  in  population, 
+intensification  in  socioeconomic  development,  industrialization,  changing  lifestyles  and 
+consumption patterns. The quantity and rate of solid wastes generation in Nigeria have outgrown 
+the capacity of existing facilities and structure put in place to manage them, therefore this has been 
+of great concern across many Nigerian cities. Domestic solid waste generation rate per annum in 
+Nigeria is currently estimated at 63 million tonnes (0.45 kg/capital/annum) and is increasing30. 
+ 
+The Third National Communication indicates that waste sector in Nigeria accounts for about 4% 
+of the total net national emission of 609,783Gg CO -eq. This is expected to increase over the years 
+2
+due to increasing resource use by the rapidly increasing population of the country that is set to 
+reach over 400 million by 2050. 
+ 
+The poor management of waste in Nigeria has led to indiscriminate disposal or discharge of waste 
+into unintended ecosystem, thus causing blockages of drainages channels and diffused flooding; 
+degradation of aesthetic values of cities across the nation; uncontrolled burning of wastes and 
+emission of poisonous gases into the atmosphere; leachate contamination of water and soil 
+resources;  pollution  from  discharged  toxic  wastes  amongst  others.  These  constitute  both 
+environmental and health hazards and contribute to GHG emissions from the sector and across the 
+waste  management  chain  including  collection,  transportation,  treatment,  and  landfill.  These 
+uncontrolled emissions in turn contribute to the negative impacts of global warming issues across 
+the globe. The largest source is usually landfill methane (CH4), followed by wastewater CH4 and 
+nitrous oxide (N2O); in addition, minor emissions of carbon dioxide (CO2) result from the 
+incineration of waste containing fossil carbon (C) (plastics; synthetic textiles). 
+ 
+The key approaches to waste handling for GHG removals and overall climate mitigation include 
+recycling, waste reduction, waste to wealth and energy recovery from wastes. The main policy 
+direction is to significantly lower emissions from the sector with appropriate waste management 
+and wastewater treatment solutions. Emphasis will be on post-consumer urban solid waste, as well 
+as emissions from municipal wastewater and industrial wastewaters. Other areas of focus may 
+include pre-consumer GHG emissions from waste within the industrial and energy sectors, 
+agricultural wastes and manures and forestry residues. A wide range of mature, environmentally 
+effective  technologies  will  be  deployed  to  mitigate  emissions  and  provide  public  health, 
+environmental protection, and sustainable development co-benefits, such as an improvement in air 
+quality, a reduction in contamination-related illnesses, economic growth, and a boost to energy 
+resources. 
+ 
+The objective is to sustainably reduce GHG emissions in the sector through the implementation of 
+an integrated solid waste management strategy, including targeting waste prevention, recycling, 
+composting, energy recovery, treatment, and disposal, which can have a significant impact on 
+reducing GHG emissions. A strategic approach will be to reduce the amount of waste generated at 
+source and create a virtuous cycle where resources are renewed, reused, or recycled repeatedly 
+within a circular economy framework. This could be achieved by maximizing resource efficiency 
+ 
+30 FME (2018): National Policy on the Environment 
+28 
+  
+ 
+and minimizing resource inputs throughout the entire product life cycle – from extraction of natural 
+resources to production, distribution, and consumption of products, to recycling and disposal of 
+waste. 
+ 
+The national vision is the reduction of GHG emissions from the sector by at least 50% by 2050, 
+while transiting to a carbon-neutral waste management at the end of the century through 
+expansive adoption of up-to-date technologies for solid, liquid, and gaseous waste (MSW) 
+processing and other emerging technologies. 
+ 
+4.9  Cross-cutting: Gender inclusion 
+ 
+There is a global recognition that women play an important role in climate change adaptation and 
+mitigation  because  of  their  roles  in  core  climate  change  sectors:  farming  and  livestock 
+management, energy, disaster risk reduction, transport, forestry, water management and health. An 
+analysis by the UNDP (2016) indicates that women participate in mitigation-related activities 
+through their selection and use of fuel for cooking and household tasks as well as transport-related 
+needs and practices, they are important energy users, suppliers and consumers, and household 
+energy managers and savers; thereby potentially capable of contributing to GHG mitigation that 
+in the long-term move the world towards carbon-neutrality. Because of the different roles and 
+responsibilities of women and men, which vary by socioeconomic level as well as by region, there 
+are  gender  differences  in  the  impacts  of  climate  change,  responses  to  climate  change, 
+vulnerabilities to climate change, and the capacities to adapt. Moreover, women’s local and 
+environmental knowledge and survival strategies are major ingredients for recovery and resilience 
+(UNDP, 2016)31. 
+ 
+Envisioning a gender-based just, long-term low emission strategy for Nigeria will require a whole 
+of society approach that intentionally seeks to close pervasive gender inequality gaps skewed 
+against women as well as leveraging on opportunities that low carbon development might open for 
+a sustainable future. The national approach will be to adopt the general UNFCCC principles of32: 
+▪  Ensuring  the  equal  participation  of  men  and  women  in  decision-making  and 
+implementation around adaptation and mitigation.  
+▪  Ensuring that women can act as agents of change at different levels of the adaptation and 
+mitigation process.  
+▪  Promoting mitigation approaches that are aware of gender implications and outcomes and 
+working towards gender equality and positive impacts on the lives of women through 
+improving  livelihoods  and  health  and  allowing  time  for  the  pursuit  of  additional 
+opportunities. 
+▪  Adoption of clean, sound, socially appropriate and gender responsive technologies; among 
+others. 
+ 
+A gender  aware  technology  assessment  for low carbon development  will  ensure  gender is 
+mainstreamed and harmful and/ risky technologies are locked out. Overall, the focus shall be to 
+mainstream gender considerations into all actions and leverage on existing forward-looking 
+ 
+31 UNDP (2016): Gender Equality in National Climate Action: Planning for Gender-Responsive Nationally Determined 
+Contributions 
+32 UNFCC website, “Gender and Climate Change”, unfccc.int/gender_and_climate_change/items/7516.php 
+29 
+  
+ 
+practices to foster equitable institutions and systems for a paradigm shifting transition to net 
+zero carbon and climate resilient future that will benefit all equally.  
+ 
+The vision should successfully mainstream the gender equality and social inclusion initiatives 
+(GESI) and capture inclusivity for women, aged people, youth and persons living with disabilities 
+by actions to embed affirmative action policies.  
+ 
+ 
+30 
+  
+ 
+5  Role of Innovation 
+ 
+Achieving  a  low  emission  development  future  for  Nigeria  in  the  context  of  the  projected 
+population increase and economic growth requires that a strong emphasis be placed on the role of 
+innovation. There will be needed to embed technological, policy, governance, economic and 
+environmental innovation, among others. 
+ 
+5.1  Social Innovation 
+Social change necessitates social innovation to reorient societal values. In transitioning to a carbon 
+neutral future there is the imperative for social innovation to produce green cities who consume 
+and relate with nature equitably. A genuine transition to a green economy demands fundamental 
+changes to both macro-economic and micro-economic conditions—and, therefore, institutions. 
+Business as usual with respect to economic policy is not a viable alternative to meet the challenges 
+of the future demands of mankind's desire to fundamentally redesign things and create new 
+institutions without re-thinking social innovations that suit new demands.  
+ 
+5.2  Economic Innovation 
+The tension and lack of progress witnessed in the implementation of climate action so far in Nigeria 
+is largely due to different goals and aspirations pulling the nation in different directions. Nigeria 
+has expressed a long-term aspiration to be a low carbon and climate-friendly economy, but 
+prevailing  economic  circumstances  have  often  imposed  constraints  over  the  abilities  of 
+government to take a low carbon route to development mainly due to the significant investments 
+required for infrastructure and other costs. Nigeria’s long-term Vision encapsulated in the Vision 
+20:2020 blueprint (to be revised) and the ERGP was to make the country a high middle-income 
+economy, but with little consideration for low carbon development approach. Conversely, in the 
+Paris Agreement the nation also acceded to carry out aggressive and binding cuts in her GHG 
+without having the budgets to make it happen. To plant the country firmly on an LTS path, there 
+is a need to redefine the economic innovation approaches to diversify the economy and address 
+the unacceptable trade-offs between economic growth and environmental sustainability.  
+ 
+5.3  Technological Innovation 
+Innovation in technology is essential for achieving Nigeria’s LTV. Technological innovations 
+utilize advance technologies to mitigate climate change. Globally, much of the progress made in 
+decoupling  emissions  from  development  in  the  energy  sector  has  come  from  technology 
+innovation including in generation, storage, energy efficiency and Carbon Capture and Storage 
+(CSS) and renewable energy. Fastest advancement have been made where there is technological 
+convergence, a process where merging, blending, integration, and transformation of independent 
+technologies leads to a completely new converged technology. This broad and complex concept 
+encompasses a wide range of technologies, including the internet of things (IoT) and smart home 
+devices. Examples include TV, internet, phones, home –smart, climate Smart Agriculture, energy-
+smart and water-smart technologies. It is vital that Nigeria invests in promoting these technologies, 
+along with the diffusion of indigenous technology innovations as a thrust for its LT-LEDS. 
+ 
+5.4  Environmental Innovation 
+31 
+  
+ 
+ 
+Nigeria’s  LTV  deserves  environmental  innovation  that  is  focused  on  organizational 
+implementation  and  change.  Environmental  innovation  encompasses  many  different  aspects 
+including economic, social, and technological change in way of doing things designed to promote 
+environmental  integrity.  The  focus  is  on  the  environment,  with  implication  for  products, 
+manufacturing  processes  and  marketing  with  degrees  of  novelty.  It  includes  emphasis  on 
+conversation but also distribution of wealth within the nation to reduce disparities between rich 
+and poor and achieve social and economic justice. It calls for precaution and the use of science to 
+enhance social and environmental outcomes, through the identification of environmental risks and 
+externalities  as  well  as  incorporating  such  externalities  in  national  economic  accounting 
+frameworks. It entails using strategic, coordinated, and integrated planning to deliver sustainable 
+development, the green economy and poverty alleviation but also that citizens should have access 
+to information concerning the environment, as well as the opportunity to participate in decision-
+making processes. 
+   
+32 
+  
+ 
+ 
+6.  Way Forward and Elaboration of the LT-LEDS 
+ 
+Nigeria’s LTV has been validated and launched at the highest level of governance in Nigeria. It 
+can thus be submitted to the UNFCCC under Art 4.19, as Nigeria's first contribution towards the 
+elaboration of its LT-LEDS. The LTV lays a solid foundation for the elaboration of Nigeria’s 
+robust LT-LEDS and identifies the critical dimensions that policy-makers, private sector and 
+society at large will need clarity on, to get on track for a low-carbon, climate-resilient transition.   
+ 
+It is anticipated that the LT-LEDS for Nigeria will be developed and pursued in a robust and 
+consistent manner that will take the nation to 2050 on a low-carbon trajectory for the next 30 years.  
+ 
+Tentative building blocks for the elaboration of Nigeria’s LT-LEDS are presented in Figure 4. The 
+questions posed by stakeholders that will guide the LT-LEDS process are presented in Annex I. 
+Annex II provides the suggested process(es) for inclusiveness and robustness by stakeholders to 
+be considered during the elaboration of Nigeria’s LT-LEDS. 
+ 
+ 
+33 
+  
+   
+(S
+t P
+Committee)eering/ Techniccoordination inter-agency roject mgt. and structuresGovernance 
+a  
+F l 
+i
+g
+u
+r
+e
+ 4: Proposed pathw and workshopsspecific analysis and sector-Economy-wide  quantitativeModellin
+ay for Elab transitionimpacts of tMacro-econo  workg/ 
+o hem
+r  ic
+a  
+t
+i
+3 n
+4  g Nigeria’s Full-b  and state levelgroups, federal All stakeholder  consultationsengagement and Stakeholder  LT-LEDS Nigeria’s 
+l
+o
+w
+n
+ Long-Term S needsinstitutional technological, Policy, financial,  Cr
+tr thos
+at ems-c
+e u
+g estt
+y gC  in
+  eo g
+nm  
+d
+em
+r, learningunication,  re M
+v &
+is E
+io  a
+n n
+s d
+ 
+  
+ 
+ 
+ 
+ 
+Annex 1: Critical Questions/Subjects for LT-LEDS Elaboration  
+FOCAL AREAS  KEY QUESTIONS 
+Political Will  i.  Is there a high-powered commitment from the President in support of 
+LT-LEDS? 
+ii.  Is there any legislative instrument that supports the process? 
+Inventory  of  i.  What national development programmes/strategies exist?  
+existing  national  ii.  What national climate change programmes or strategies exist?  
+policies  and  iii.  How  linked  are  the  two  (i.e  National  development  strategies  and 
+strategies  national climate change strategies)?  
+iv.  Out of the two, have we identified and prioritized our national strategies 
+to address the challenges of climate change?   
+v.  Which priority sectors will be considered in the transition to LT-LEDS? 
+vi.  Do we have required data, modeling or scenario-building frameworks 
+that could be used to support the development of LT-LEDS?  
+vii.  Are  the  prioritized  strategies  Specific,  Measurable,  Achievable, 
+Realistic and Time-bound (S.M.A.R.T)??  
+Alignment  of  i.  What are the links between Nigeria’s NDC and LT-LEDS? 
+Nigeria’s  NDC  ii.  Are  there  short-term  actions  in  NDC  that  can  inform  long  term 
+with LT-LEDS  opportunities in the LT-LEDS? 
+iii.  Are there clearly defined institutional and legal frameworks to ensure 
+synergy in the implementation of NDC and LT-LEDS?  
+Institutional  i.  Which Ministry will serve as National Focal Institution to drive the LT-
+framework  LEDS process?  
+ii.  Will the LT-LEDS process be driven by a Presidential taskforce?  Has 
+the taskforce been set up? Will the taskforce be independent and free 
+from political interruptions? Will it change with change in government? 
+What are the roles and responsibilities of the Taskforce? 
+iii.  Which relevant MDAs will participate in the LT-LEDS process?  
+iv.  Is there a team of national technical experts to set up the process and 
+develop the strategy or is there needed to find capacity elsewhere?  
+v.  In which areas/sectors do we require capacity building? 
+Stakeholders  i.  Which stakeholders need to be engaged in the LT-LEDS process?   
+Participation  ii.  How will representatives of the MDAs at the Federal, State and Local 
+Government, civil society, the private sector be selected?  
+iii.  Which key issues will be discussed with them?  
+iv.  At what stage (s) of the LT-LEDS process will they be engaged?  
+v.  How regular will the consultation be? 
+vi.   How  will  the  stakeholder  engagement  process  feed  into  the 
+institutional setup for the LT-LEDS?  
+vii.  Is there a grievance redress mechanism in place?  
+Funding  i.  Have the Ministries of Finance of Budget and Planning been consulted 
+mechanism   on the LT-LEDS process? 
+ii.  Does Nigeria have a long-term vision for climate finance?  
+35 
+  
+ 
+Annex 1: Critical Questions/Subjects for LT-LEDS Elaboration  
+iii.  Does Nigeria have a plan for increasing climate investment?  
+iv.  How can the private sector be involved in the LT-LEDS process? 
+Monitoring,  i.   Is  there  a  system  to  monitor,  verify  and  report  the  LT-LEDS  in 
+verification,  and  Nigeria?   
+Reporting  ii.  Which MDAs will conduct the MRV?  
+iii.  Are there key performance indicators and templates/ frameworks to 
+monitor progress and assess results?  
+iv.  How frequently will successes be measured? 
+v.  Is there a mechanism to monitor national and/or international flows of 
+climate finance for implementation of LT-LEDS?  
+vi.  How will successes be communicated? 
+Additional Critical Questions Raised by Stakeholders for Strategy Development 
+1.  What profound changes are required in development and deployment of negative-emission 
+technologies? 
+2.  Will emerging positive economic growth be sustainable or sufficient to keep us within the 
+planetary boundaries? 
+3.  What type of economic growth can result from ambitious long-term climate policies and improved 
+productivity?  
+4.  What costs to the environment will result from the pursuit of economic growth? What significant 
+economic damage would result? 
+5.  What pattern or manner of decoupling of the economy will result in low emission to support in 
+reach the world’s 1.5 °C target? 
+6.  Do we have negative-emission technologies (NETs) that would safely and permanently remove 
+carbon already accumulated in the atmosphere in Nigeria? 
+7.  How will a shift to more circular business models reduce CO2 emissions and help cut the use of 
+materials and natural resources while maintaining economic growth? 
+8.  An end of international funding for gas as a fossil fuel would create dire challenges for gas-
+producing countries, especially in Africa, as recently said by the Vice President, Prof. Yemi 
+Osinbajo on the path of ensuring continued access to affordable, reliable energy for its populace, 
+and transitioning to the use of cleaner energy in line with the net-zero emissions global 
+target33.What are the challenges and how could these be overcome?  
+9.  What critical blind spots exist in attaining green water objectives by 2050? 
+10. What promise does long-term (2050) green water transition vision hold for climate actors?  
+11. What paradigm shifts are needed to deliver a low carbon industry, for example in water 
+infrastructure, scale of operations and technology options? 
+12. What associated behavioral change from consumers and companies will be needed and how could 
+enabling reform strengthen program success? 
+13. Are the mechanisms to deliver a low carbon industry in Nigeria already in place; for example, the 
+use of shadow price of carbon and carbon reduction commitment from 2021?  
+ 
+ 
+33https://insidebusinessafricang.com/2021/04/16/osinbajo-seeks-fair-transition-towards-global-net-zero-emissions-target/) 
+36 
+  
+ 
+ 
+ 
+Annex 2: Suggested Process(es) for Inclusiveness and Robustness for the LT-
+LEDS Elaboration for Nigeria. 
+ 
+Although the Paris Agreement invited countries to formulate and communicate a LT-LEDS by 
+2020, the scope and elements to be included in the LT-LEDS are not clearly defined. For 
+Nigeria to envision a low-emission development and national socio-economic development 
+pathway in an integrated and strategic manner, a robust and an inclusive LT-LEDS is required. 
+Key areas for consideration include but not limited to the following: 
+ 
+a. Policy alignment  
+Nigeria’s LT-LEDS process must be aligned with other national programmes and strategies 
+such as ERGP, Mid-term National Development Plan and Agenda 2050, NDC, Climate Change 
+and other related ones. Linking these policies and strategies will help Nigeria identify long-
+term opportunities from the short-term actions in the NDC, Climate change policy and other 
+related national strategies.   
+ 
+b. Identification Entry points for the implementation of LT-LEDS 
+An in depth understanding of national circumstances and national development priorities and 
+existing climate strategies can constitute important entry points for developing LT-LEDS. For 
+instance, Nigeria’s NDC and Climate Change policy have already identified priority climate 
+mitigation  and  adaptation  opportunities.  There  are  existing  institutional  and  regulatory 
+frameworks in place that can be leveraged and improved upon through lessons learned for the 
+development of the LT-LEDS.  
+ 
+c. Strong Interagency coordination  
+The LT-LEDS process will require strong interagency collaboration and coordination across 
+Federal, State and Local governments as well as the private sector to establish a unified effort 
+and to maximize available resources in a collaborative manner. 
+ 
+d. Stakeholder’s engagement  
+To create the support needed for the LT-LEDS in the short-, medium- and long-run, strong 
+stakeholders’  engagement  is  required.  Involving  the  public  through  regular  stakeholder 
+consultations processes will contribute to improving the quality of the LT-LEDS.  
+e. Robust finance and investment   
+The LT-LEDS process will only succeed if there are clear roadmaps for sustainable funding 
+and investment.  
+ 
+f. Robust MRV 
+There will be need to have clear mechanisms and templates for monitoring, reporting, and 
+verifying the LT-LEDS process.  
+ 
+ 
+ 
+37 
+ 

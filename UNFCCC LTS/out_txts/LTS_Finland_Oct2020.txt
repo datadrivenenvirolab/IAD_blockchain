@@ -1,0 +1,2296 @@
+ 
+ 
+Ministry of Economic Affairs and Employment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Finland’s long-term low greenhouse gas 
+emission development strategy 
+ 
+ 
+October 2020 
+ 
+ 
+ 
+ 
+Unofficial translation 
+ 
+ 
+ 
+   1 
+   
+ 
+ 
+Contents 
+1 OVERVIEW AND PROCESS FOR ESTABLISHING THE PLAN ............................................... 2 
+1.1 Executive summary .................................................................................................................... 2 
+1.2 Legal and policy context ............................................................................................................ 3 
+1.3 Public consultation ..................................................................................................................... 4 
+2 TOTAL GHG EMISSION REDUCTIONS AND ENHANCEMENTS OF REMOVALS BY 
+SINKS .................................................................................................................................................. 6 
+2.1 National targets .......................................................................................................................... 6 
+2.2 Scenarios underlying the national long-term strategy................................................................ 7 
+2.3 Estimated trends in emissions and removals by 2050................................................................ 9 
+2.4 Adaptation policies and measures ............................................................................................ 10 
+3 RENEWABLE ENERGY ............................................................................................................... 13 
+4 ENERGY EFFICIENCY ................................................................................................................ 15 
+5 SECTOR-SPECIFIC RELATED CONTENT ................................................................................ 17 
+5.1 Energy system .......................................................................................................................... 17 
+5.2 Industry .................................................................................................................................... 19 
+5.3 Transport .................................................................................................................................. 21 
+5.4 Land use, land-use change and forestry (LULUCF) and agriculture ....................................... 23 
+5.5 Waste sector ............................................................................................................................. 30 
+6 FINANCING ................................................................................................................................... 32 
+6.1 Estimates of investment needed ............................................................................................... 32 
+6.2 Policies and measures for related research, development and innovation ............................... 33 
+7 IMPACT ASSESSMENT OF THE SOCIO-ECONOMIC ASPECTS .......................................... 34 
+7.1 Environmental impact assessments .......................................................................................... 34 
+7.2 National economic impact assessments ................................................................................... 34 
+ANNEXES ......................................................................................................................................... 39 
+ 
+   
+ 2 
+   
+ 
+ 
+1   OVERVIEW AND PROCESS FOR ESTABLISHING THE PLAN 
+1.1 Executive summary 
+Finland’s long-term strategy (LTS) is based on the agreement of the twenty-first session of the Parties 
+to the United Nations Framework Convention on Climate Change in Paris, 30 November to 11 
+December 2015, also known as the ‘Paris Agreement’. 
+According to the Article 4, paragraph 19, of the Paris Agreement, “All Parties should strive to 
+formulate and communicate long-term low greenhouse gas emission development strategies, mindful 
+of Article 2 taking into account their common but differentiated responsibilities and respective 
+capabilities, in the light of different national circumstances.” 
+This long-term strategy is to its content identical to the long-term strategy that Finland submitted to 
+the European Commission in March 2020. The long-term strategy submitted to the Commission is 
+based  on  Regulation  (EU)  2018/1999  of  the  European  Parliament  and  of  the  Council  on  the 
+Governance of the Energy Union and Climate Action, also known as the ‘Governance Regulation’, 
+and its Article 15,  which requires each Member State to prepare and submit to the Commission its 
+comprehensive long-term strategy by 1 January 2020. 
+Finland’s long-term strategy lays out scenarios and impact assessments concerning the national 
+carbon neutrality target set for 2035 and developments in greenhouse gas (GHG) emissions and 
+removals by 2050. The strategy explores the following three scenarios. Alongside the reference 
+scenario depicting the development achievable with current policy measures, known as the ‘With 
+Existing Measures’ (WEM) scenario, the strategy presents two alternative low-emission scenarios, 
+known as the ‘Continuous Growth’ and ‘Savings’ scenarios. The Continuous Growth and Savings 
+scenarios describe alternative pathways to achieve the emission reduction target set by Finland and 
+the European Union by 2050. In order to achieve Finland’s national emission reduction targets, the 
+emission reduction potential and needs are also assessed by sector in the medium (by 2035) and long 
+(by 2050) term. The long-term strategy does not consider the transition to a low-emission society 
+from the perspective of regional or social justice; instead, its underlying calculations are based on the 
+premise that emission reduction costs will be minimised across the country. 
+The long-term strategy does not identify the sectors to which emission reductions should be allocated; 
+nor do the impact assessments derived from the scenarios include any quantitative analysis of the 
+concrete measures or political decisions that would be required to achieve the carbon neutrality target 
+or the 2050 targets considered here. The allocation of emission reductions and policy measures, 
+including those for the land use sector, will be decided in 2020–2021 as part of the process of drafting 
+the Climate and Energy Strategy, the Medium-term Climate Change Policy Plan, the roadmap for 
+fossil-free transport and the climate programme for the land use sector. 
+The 2050 target for GHG emission reductions under the Continuous Growth scenario is 87.5% 
+compared to 1990 levels (excl. the land use sector), while the corresponding target under the Savings 
+scenario stands at 90%. Furthermore, both low-emission scenarios achieve the 2035 carbon neutrality 
+target, which is in line with the Government Programme. Instead of setting any specific quantitative 
+carbon-negative target beyond 2035, its level was allowed to be determined by the size of the net 
+carbon sink of the land use sector. 
+With existing measures (WEM), carbon neutrality will not be achieved until 2050 – and even then 
+only with land use net sinks at about 30 Mt CO -eq. Conversely, the Continuous Growth and Savings 
+2
+ 3 
+   
+ 
+ 
+scenarios will achieve carbon neutrality in 2035, but this requires substantial reductions in greenhouse 
+gas emissions over the 2030–2035 period while also keeping the size of forest carbon sinks at a 
+reasonable level. 
+Achieving the carbon neutrality target by 2035 requires swift measures and political decisions geared 
+towards reducing greenhouse gas emissions across all sectors while also strengthening land use net 
+sinks when compared with current levels. The low-emission scenario calculations suggest that 
+significant reductions by 2035, not only in energy production, but also in transport and industry, are 
+a prerequisite for reaching the carbon neutrality target. 
+The differences between the low-emission scenarios in terms of emission reduction trajectories can 
+be attributed to their underlying technology assumptions, on the one hand, and to assumptions on the 
+structures of industry, society and the economy as a whole, on the other. Perhaps the most essential 
+of the technology assumptions is related to the opportunities to make use of carbon capture and 
+storage (CCS). Based on the scenario parameters, this will become reality under the Savings scenario 
+after 2030, whereas the Continuous Growth scenario will fail to do so throughout  the period 
+considered. The absence of CCS from the means available under the Continuous Growth scenario 
+will lead to extremely stringent emission reduction measures across all sectors, including agriculture 
+and industrial processes, which are identified in technical-economic assessments as the sectors where 
+it will be most difficult to make substantial reductions in emissions. The input assumptions of forest 
+industry development in Finland, in turn, are closely linked to the development of land use net sinks 
+and, consequently, to the level of GHG emission reductions required to reach carbon neutrality. The 
+Savings scenario assumed that the forest industry would develop and expand, which would also lead 
+to a growing demand for domestic wood raw material. Under the Savings scenario, the circular and 
+sharing economies and significantly increasing energy efficiency are key elements in reaching the 
+emission reduction target. This scenario also invested relatively more in sustainable biorefinery 
+production, while demand for biorefinery products was also slightly higher to account for the growing 
+demand in heavy-duty road transport. Uncertainties relating to forest carbon sinks have a fundamental 
+impact on achieving the carbon neutrality target. 
+1.2 Legal and policy context 
+The Programme of Prime Minister Sanna Marin’s Government of 10 December 2019 states as 
+follows: “The Government will work to ensure that Finland is carbon neutral by 2035 and carbon 
+negative  soon  after  that.  We  will  do  this  by  accelerating  emissions  reduction  measures  and 
+strengthening carbon sinks.” The Government will decide on the additional actions needed to bring 
+the emission reduction path in line with the goal of achieving carbon neutrality by 2035. The 
+Government has established a ministerial working group on climate and energy issues to prepare 
+climate policy as a whole. The ministerial working group is chaired by Krista Mikkonen, Minister of 
+the Environment and Climate Change. 
+Besides the timetable for the carbon neutrality target and the related emission reduction path, another 
+key issue for Finland is the development of land use net sinks by 2050. These were addressed in the 
+autumn of 2019 by launching the PITKO follow-up study to assess the long-term trend in total 
+emissions1 and the MALUSEPO project on the scenarios for greenhouse gas emissions and removals 
+in the agricultural and LULUCF sectors by 2050. The projects aimed to update some of the earlier 
+                                                 
+1 Finland’s opportunities to transition to a low-carbon society were explored in the PITKO project carried out in 2018–
+2019 to study the long-term trend in total emissions. The project’s key objective was to assess the suitable emission 
+reduction target for Finland by 2050 and the primary options to proceed in different sectors in order to achieve the 
+target. 
+ 4 
+   
+ 
+ 
+scenario  calculations  so  as  to  achieve  the  carbon  neutrality  target  set  out  in  the  Government 
+Programme. Commissioned by the Ministry of Economic Affairs and Employment, the PITKO 
+follow-up study was carried out in cooperation between VTT Technical Research Centre of Finland 
+Ltd, the Finnish Environment Institute SYKE and Merit Economics. The MALUSEPO project, in 
+turn, was commissioned by the Ministry of Agriculture and Forestry and carried out by the Natural 
+Resources Institute Finland (Luke). 
+Finland’s long-term strategy is based on the agreement of the twenty-first session of the Parties to the 
+United Nations Framework Convention on Climate Change in Paris, 30 November to 11 December 
+2015, also known as the ‘Paris Agreement’. This long-term strategy submitted to the UNFCCC 
+Secretariat draws on the results of quantitative and qualitative analyses included in the PITKO follow-
+up study report. However, this long-term strategy is not legally binding on Finland and its climate 
+policy-making process. 
+Finland’s long-term strategy was discussed on several occasions by the Government’s Ministerial 
+Working Group on Climate and Energy Policy, which adopted it on 1 April 2020. The strategy has 
+not been considered by Parliament. 
+1.3 Public consultation 
+The preliminary results of the PITKO follow-up study assessing the long-term trend in total emissions 
+and emission reduction paths and the MALUSEPO reports evaluating the scenarios for greenhouse 
+gas emissions and removals in the agricultural and land use, land-use change and forestry sectors 
+were presented at a seminar organised by the Ministry of Economic Affairs and Employment on 
+15 November 2019. These follow-up studies updated the calculations of the PITKO and MALULU 
+reports published in February 2019 to correspond to the 2035 target for a climate-neutral Finland set 
+out in the Government Programme. 
+The seminar was attended by a wide variety of stakeholders and the audience were also able to ask 
+questions and participate in discussions. A recording of the Finnish-language seminar is available at: 
+https://www.mediaserver.fi/video/tem/10021/awqz4Q. The study project continued after the seminar 
+and was completed on 23 January 2020. 
+Finland organised a public consultation on its long-term strategy towards carbon neutrality via the 
+central government’s otakantaa.fi service in March 2020. The otakantaa.fi service is part of a broader 
+package of democracy services provided by the Ministry of Justice for democratic participation and 
+influence to promote mutual dialogue between and participation by citizens, NGOs and public 
+authorities. The public consultation was open to all citizens and stakeholders for a period of two 
+weeks. 
+The consultation requested responses to the following four questions: 
+ 
+1) The 2050 greenhouse gas emission reduction target (excl. the land use sector) is set at 87.5% 
+under the Continuous Growth scenario and at 90% under the Savings scenario compared to 1990 
+levels. Both of the low-emission scenarios also achieve the 2035 carbon neutrality target. Is the 
+2050 target to reduce greenhouse gas emissions ambitious enough and what should Finland’s 
+greenhouse gas emission reduction target be for 2050? 
+ 
+2) In  your  opinion,  have  the  long-term  strategy  scenarios  successfully  identified  realistic 
+emission reductions, or has something been overlooked? 
+ 5 
+   
+ 
+ 
+ 
+3) The land use sector will remain a net sink under all of the scenarios; in other words, the sector’s 
+greenhouse gas removals will exceed emissions, increasing its carbon stocks. What measures do 
+you consider the most important in the long term to strengthen carbon sinks and stocks and to 
+reduce emissions in the land use sector (land use, land-use change and forestry) in Finland? 
+ 
+4) Do you have any other comments concerning the long-term strategy? 
+ 
+A total of 23 parties filled in the survey. A summary of responses received is included in Appendix 
+1. Respondents made observations on the scenario calculations and suggested measures to reduce 
+emissions, among other things. These aspects could not be taken into account in the context of drafting 
+this strategy, but the issues raised will be addressed as part of drafting Finland’s Climate and Energy 
+Strategy and the Medium-term Climate Change Policy Plan, scheduled to start in the spring of 2020. 
+   
+ 6 
+   
+ 
+ 
+2   TOTAL GHG EMISSION REDUCTIONS AND ENHANCEMENTS OF RE-
+MOVALS BY SINKS 
+2.1 National targets 
+The EU Effort Sharing Regulation (EU) 2018/842 includes emission reduction obligations for all EU 
+Member States for a period from 2021 to 2030. Under the Regulation, Finland is required to reduce 
+its greenhouse gas emissions in sectors outside the EU emissions trading system (EU ETS) by a 
+minimum of 39% from 2005 levels by 2030. This is also Finland’s national target. Final annual 
+emission allocations will be confirmed when the 2018 emission data has been verified in 2020. This 
+is due to the fact that the 2016–2018 emissions will have a bearing on the calculation of the emission 
+allocations for the 2021–2030 period. The obligation applies to non-ETS sectors, such as transport, 
+agriculture, waste management and heating of buildings. 
+The Government’s 2035 carbon neutrality target is based on the Finnish Climate Change Panel’s 
+estimate of what the 1.5 °C obligation set out in the Paris Agreement entails for Finland.2 
+Carbon neutrality must be pursued with due consideration for the language of Article 2.1(b) of the 
+Paris Agreement, which provides that the ability to adapt to the adverse impacts of climate change 
+and foster climate resilience and low greenhouse gas emissions development should be increased in 
+a manner that does not threaten food production. 
+According to its Government Programme, the Government will amend the Climate Change Act 
+(609/2015) by updating its 2050 emission reduction target and adding targets for 2030 and 2040 in 
+line with the path to carbon neutrality. The land use sector and a target for strengthening carbon sinks 
+will also be included in the Climate Change Act. The current goal laid down in the Climate Change 
+Act for 2050 is to reduce greenhouse gas emissions by at least 80% compared to 1990 levels. The Act 
+provides that if an international treaty binding on Finland or European Union legislation includes a 
+target that differs from that mentioned above, it must be used as the basis for Finland’s target. 
+Directing finance flows towards climate-resilient development 
+Under the Paris Agreement, all Parties must direct both national and international investment and 
+finance flows towards low-carbon and climate-resilient development. Finland has joined forces with 
+Chile to establish the Coalition of Finance Ministers for Climate Action, which has already been 
+joined by over 50 countries. Their cooperation is based on the so-called Helsinki Principles. Its aim 
+is to integrate climate change as part of planning economic policy and financing solutions and to 
+identify the most effective instruments available to Finance Ministers to mitigate and adapt to climate 
+change. 
+                                                 
+2 An Approach to Nationally Determined Contributions Consistent with the Paris Climate Agreement and Climate 
+Science: Application to Finland and the EU. Finnish Climate Change Panel Report 7/2019. Available at: 
+https://www.ilmastopaneeli.fi/wp-content/uploads/2019/10/Finlands-globally-responsible-contribution_final.pdf. 
+ 
+ 7 
+   
+ 
+ 
+2.2 Scenarios underlying the national long-term strategy 
+Estimates of Finland’s long-term total emission trend3 (PITKO project) and emission trends in 
+agriculture and the land use sector4 (MALULU project) were published in February 2019. Both 
+research projects were carried out as part of implementing the 2018 Government plan for analysis, 
+assessment and research. Both of these projects were continued in follow-up studies launched in the 
+autumn of 2019, with a view to updating parts of the qualitative and quantitative analyses to bring the 
+premises for calculations and the GHG emission reduction target in line with Prime Minister Sanna 
+Marin’s Government Programme. The follow-up studies produced a report entitled ‘Carbon neutral 
+Finland 2035 – Scenarios and impact assessments’5, which was published on 23 January 2020. The 
+research report’s scenarios form the basis for those included in this Finland’s long-term strategy 
+(LTS) under the EU Governance Regulation. 
+The premises for modelling the national LTS scenarios were achievement of the Government’s 
+objective of carbon neutrality by 2035 across the country and minimisation of emission reduction 
+costs. In the context of the Government Programme, ‘carbon neutrality’ refers to a balance between 
+Finland’s regional GHG emissions and removals by sinks. According to the Government Programme, 
+“Emissions reduction measures will be carried out in a way that is fair from a social and regional 
+perspective and that involves all sectors of society.” The allocation of emission reductions and 
+measures required for different sectors will be outlined in keeping with the Government Programme 
+as part of drafting the Climate and Energy Strategy, the Medium-term Climate Change Policy Plan 
+and the climate programme for the land use sector. The process of drafting these medium-term plans 
+will start in the spring of 2020 with the intention of submitting them to Parliament as government 
+reports by the autumn of 2021 at the latest. Consequently, the scenarios laid out in the national LTS 
+are only indicative of future developments. 
+The national LTS lays out three scenarios. The scenarios were prepared through to 2050 in such a 
+way that they achieve the 2035 carbon neutrality target. 
+The With Existing Measures (WEM) scenario is a reference scenario based on developments in line 
+with existing policy measures. The WEM scenario conforms to the premises of the 2016 National 
+Energy and Climate Strategy and the 2017 Medium-term Climate Change Policy Plan by 2030 while 
+extrapolating developments for the 2030–2050 period along the same trendline through to 2050. The 
+basic premise of the WEM scenario is that Finland will achieve the national energy and climate policy 
+objectives for 2020, which will also remain unchanged beyond that year. The WEM scenario 
+therefore projects that emissions in the effort sharing sector will be reduced by 16% on 2005 levels, 
+which is equivalent to emissions at 28.4 Mt CO -eq in 2020. The WEM scenario expects that the rest 
+2
+of the EU Member States will not only achieve the 2020 energy and climate targets but also the 
+climate target set for 2030, which means that the EU-level GHG emission target stands at -40% 
+compared to 1990 levels. 
+The  WEM  scenario’s  key  baseline  data  includes  an  assumption  of  emission  allowance  price 
+developments through to 2050 in accordance with the Commission guidance on input assumptions 
+                                                 
+3 Pitkän aikavälin kokonaispäästökehitys [Long-term development of total emissions] (VTT 2019). Available in Finnish 
+(English abstract) at: http://julkaisut.valtioneuvosto.fi/handle/10024/161409. 
+4 Maatalous- ja LULUCF-sektorien päästö- ja nielukehitys vuoteen 2050 [Development of emissions and sinks in the 
+agricultural and LULUCF sectors until 2050] (Luke). Available in Finnish (English abstract) at: 
+http://julkaisut.valtioneuvosto.fi/handle/10024/161408. 
+5 Hiilineutraali Suomi 2035 – Skenaariot ja vaikutusarviot [Carbon neutral Finland 2035 – Scenarios and impact 
+assessments] (VTT). Available in Finnish (English abstract) at: https://www.vtt.fi/inf/pdf/technology/2020/T366.pdf. 
+ 8 
+   
+ 
+ 
+for the reference scenario. The emission allowance price is assumed to amount to EUR 15/t CO  in 
+2
+2020 and to EUR 30/t CO  in 2030. After 2030, the allowance price is expected to rise more steeply, 
+2
+reaching  EUR 50/t CO   in  2040  and  EUR 90/t CO   in  2050.  The  emission  allowance  price 
+2 2
+developments are based on the so-called PRIMES Reference Scenario from 2016. 
+Two alternative low-emission scenarios were developed for this strategy. The Continuous Growth 
+and Savings scenarios describe alternative pathways to achieve the emission reduction target set by 
+Finland  and  the  European  Union  by  2050.  The  scenarios  were  contextualised  with  ‘scenario 
+narratives’. Under the Continuous Growth scenario, emission reduction targets will be achieved by 
+accelerated deployment of new technologies, including robust electrification, digitalisation and 
+industrial renewal. Carbon capture and storage (CCS) technologies will not be in use in this scenario. 
+The scenario projects that Finland will achieve export-driven economic success. Under the Savings 
+scenario, the circular and sharing economies and significantly increasing energy efficiency are key 
+elements in reaching the emission reduction target. CCS technologies will be in use. Agriculture and 
+forestry will promote the circular economy, as will the replacement of mineral oil-based products 
+with new bioproducts. 
+Under the Continuous Growth scenario, the GHG emission reduction target is 87.5% compared to 
+1990 levels, while the corresponding target under the Savings scenario stands at 90%. Furthermore, 
+both low-emission scenarios achieve the 2035 carbon neutrality target, which is in line with the 
+Government Programme. The low-emission scenarios were assigned a number of energy and climate 
+policy targets for 2030, including: 
+  a 39% GHG emission reduction target for the effort sharing sector compared to 2005 emission 
+levels; 
+  phasing out the use of coal for energy by 2029; 
+  cutting back the use of peat at least by half by 2030; 
+  share of biofuels in road transport energy consumption at 13.5% of the energy content part in 
+2020 and at 30% in 2030 (linear growth); a 10% bioliquid blending obligation for light fuel 
+oil used in building-specific heating and for diesel oil used in mobile machinery, with linear 
+growth between 2020 and 2030; 
+  the number of electric vehicles at least 250,000 (full electric vehicles, hydrogen-powered 
+vehicles, plug-in hybrids) and, correspondingly, that of gas-powered vehicles at least 50,000 
+by 2030; 
+  a 38% minimum share of renewable energy in final energy consumption in 2020 and, 
+correspondingly, a 50% minimum target for renewable energy in 2030; 
+  a 55% self-sufficiency target for energy supply in 2030 and halving the use of imported oil 
+for energy purposes. 
+More detailed assumptions for the scenarios are presented in Chapter 4 of a Finnish-language research 
+report entitled ‘Carbon neutral Finland 2035 – Scenarios and impact assessments’. 
+ 9 
+   
+ 
+ 
+2.3 Estimated trends in emissions and removals by 2050 
+Figure 1 presents the trends in Finland’s GHG emissions by main source under the basic scenario 
+(WEM) and under the two low-emission scenarios (excluding LULUCF). The WEM scenario only 
+includes existing policy measures by 2020, whereas the low-emission scenarios cover planned 
+additional domestic measures, the EU energy and climate policy goals for 2030, and an assumed EU 
+target of reducing GHG emissions by at least 85% by 2050. In other words, the overall EU target was 
+also assumed to increase to a slightly more ambitious level from the previous 80%. 
+Based on the results, total emissions in 2020 amount to a little under 55 Mt CO -eq under the WEM 
+2
+scenario, standing 23% below 1990 reference year levels. The emission trajectories of the low-
+emission scenarios start to clearly diverge from the WEM scenario as early as during the 2020s, such 
+that the reduction in total emissions in 2030 compared to 1990 levels will be about 50% under the 
+Continuous Growth scenario and about 47% under the Savings scenario. Since the baseline trajectory 
+(WEM) uses the European Commission’s reference scenario assumptions on emission allowance 
+price developments, emissions will also decrease under the WEM scenario at a relatively steady rate 
+after 2030, reaching the level of about 27 Mt CO -eq by 2050, which is already equivalent to quite a 
+2
+substantial reduction at 63%. 
+The 87.5% minimum emission reduction target for 2050 assumed in the Continuous Growth scenario 
+will be achieved through domestic measures without carbon capture and storage (CCS), according to 
+the scenario’s input assumptions. Conversely, the Savings scenario projects that the targets of both 
+carbon neutrality by 2035 and a 90% emission reduction in 2050 will be achieved with support from 
+substantial negative emissions largely produced by bio-CCS. In 2050, the emission reduction from 
+CCS will amount to a total of about 14 Mt CO -eq. In other words, the reduction achieved in gross 
+2
+emissions (without negative carbon offsets) under the Savings scenario will stand at about 82% in 
+2050. 
+ 
+Figure 1. GHG emission trends by scenario. 
+ 10 
+   
+ 
+ 
+Appendix  2  provides the  GHG emissions  balances  for  2030  and  2050  compiled  from  system 
+modelling results, using the emission inventory classification, excluding LULUCF. 
+Figure 13 in Section 5.4 shows net sink trends in the LULUCF sector under different scenarios. While 
+all of the three scenarios – WEM, Continuous Growth and Savings – produced diverging trajectories 
+for the LULUCF sector, the sector will remain a net sink under all of the scenarios; in other words, 
+the sector’s GHG removals will exceed emissions. When compared with the WEM scenario, the net 
+sink reached by 2050 is 15 Mt CO -eq larger under the Continuous Growth scenario and 10 Mt CO -
+2 2
+eq smaller under the Savings scenario. The scenario trends take shape up until 2030, after which point 
+their differences become more pronounced. With regard to agriculture, the Continuous Growth and 
+Savings scenarios assume a considerable reduction in national consumption of livestock products (-
+30% to -50% by 2050). As a result, the arable area under active cultivation will shrink due to declining 
+demand for forage area. Indeed, the Continuous Growth and Savings scenarios specifically sought 
+emission reductions by focusing measures on agricultural lands. In this context, ‘measures’ mostly 
+refer to the types of soil (mineral soil, peatland) that the scenarios project to remain under cultivation 
+and the amounts of agricultural land that could be allocated for other uses in their calculations. While 
+cropland emissions can be cut down by limiting the agricultural land area, these sites will move under 
+other categories and will therefore still be included in LULUCF totals. Changes in agriculture in the 
+above-mentioned scenarios will also lead to major changes in agricultural income and working hours 
+in agricultural production. 
+These scenarios considered afforestation the primary alternative for agricultural land being freed up. 
+Although afforestation areas were significant, they show little impact on increasing carbon sinks due 
+to the relatively short time span involved and to the fact that the afforestation area is small relative to 
+the existing forest land area. 
+The scenarios demonstrate the impact of changes in forest sinks on the sector’s balance. Increasing 
+the amount of harvested timber will decrease the sinks (Savings) and, vice versa, reducing the amount 
+of harvested timber (biomass) will increase the sinks (Continuous Growth). Harvested wood products 
+will not fully compensate for decreasing sinks, even if production focused on durable products 
+(Savings). 
+Net sink trends in the LULUCF sector by 2050 under different scenarios are discussed in more detail 
+in Section 5.4. 
+2.4 Adaptation policies and measures 
+Guidance for adaptation to climate change is based on Finland’s National Climate Change Adaptation 
+Plan 2022, which was adopted as a Government Resolution on 20 November 2014. The government 
+adopts a national adaptation plan as part of the planning system under the Climate Change Act at least 
+once in every ten years. According to the Act, the adaptation plan includes a risk and vulnerability 
+review, as well as action plans on adaptations specific to each administrative branch, if necessary. 
+The aim of the National Climate Change Adaptation Plan 2022 is to ensure that Finnish society has 
+the capacity to adapt to changes in climate and manage the risks associated with climate change. The 
+plan sets the following three objectives for 2022: 
+a)  Adaptation has been integrated into the planning and activities of both the various sectors and 
+their actors. 
+ 11 
+   
+ 
+ 
+b)  The actors have access to the necessary climate change assessment and management methods. 
+c)  Research and development work, communication and education and training have enhanced 
+the adaptive capacity of society, developed innovative solutions and improved citizens’ 
+awareness on climate change adaptation. 
+The Adaptation Plan describes the key actions to be launched in order to achieve the objectives, as 
+shown in Figure 2. 
+ 
+ 
+Figure 2. Key actions to achieve the objectives of the Adaptation Plan. 
+In addition to the actions described in the National Adaptation Plan, practical adaptation actions are 
+also included in action plans specific to different administrative branches. Such specific adaptation 
+action  plans  have  been  drawn  up  within  the  administrative  branches  of  the  Ministry  of  the 
+Environment and the Ministry of Agriculture and Forestry and another plan is being drafted within 
+the administrative branch of the Ministry of Social Affairs and Health. The Ministry of Transport and 
+Communications and the Ministry of Defence have included adaptation actions in more extensive 
+climate programmes within their respective branches. 
+According to the 2019 interim review of the National Adaptation Plan, awareness of climate change 
+and adaptation needs has increased among public bodies. The impacts and risks of climate change are 
+also currently discussed more widely as part of data production. However, there are still some gaps 
+in climate risk management and marked differences between sectors. The adverse effects of climate 
+change could be limited more efficiently with increased focus on and investment in planning and 
+implementing  adaptation  actions.  Key  development  needs  include  increasing  awareness  about 
+weather and climate risks and adaptation opportunities, clarifying the roles and responsibilities 
+ 12 
+   
+ 
+ 
+relating to adaptation while ensuring coordination, and developing the monitoring of adaptation 
+policy implementation. Furthermore, it is essential to develop sectoral guidance as well as tools and 
+guidance to help regional and local parties, in particular, to independently build up their adaptive 
+capacities. The recommendations put forward in the interim review were used to revise the Adaptation 
+Plan’s actions for the 2020–2022 period. 
+   
+ 13 
+   
+ 
+ 
+3   RENEWABLE ENERGY 
+The share of renewable energy in final consumption modelled under different scenarios is shown in 
+Figure 3. Final consumption of renewable energy, calculated according to EU rules, is projected to 
+increase steadily in the WEM scenario, whereas the modelled low-emission scenarios see it rising to 
+about 55% in 2030 and to almost 80% in 2050. In other words, the share growth projected in the low-
+emission scenarios surpasses the target set out in the National Energy and Climate Strategy, which 
+requires renewable energy to exceed 50% of final energy consumption over the 2020s. Beyond 2030, 
+the share of renewable energy will increase exceptionally fast through to 2035 as a result of the carbon 
+neutrality target, but will then stabilise by 2050, settling close to a realistically achievable maximum 
+level (accounting for nuclear power and energy from waste). The share of biofuels in transport 
+modelled under the WEM scenario will account for about 16% of final consumption in 2030, while 
+the figure will stand as high as at about 35% under the Continuous Growth scenario and at about 30% 
+under the Savings scenario. In 2050, the share of biofuels will stand at 41% under the Continuous 
+Growth scenario and at 53% under the Savings scenario. 
+The renewable energy source with the highest quantitative growth is wood bioenergy and the 
+strongest increase in its use focuses on forest chips and black liquor and other concentrated liquors. 
+In addition, bioenergy will be increasingly produced from agricultural by-products, largely as biogas, 
+but also from energy crops, especially under the Savings scenario. The low-emission scenarios project 
+wind power generation to continue to increase vigorously up until 2035, at which point solar energy 
+will catch up with it as an energy source that will further expand the renewables share. Besides these, 
+a significant proportion of the increase in renewable energy will come from ambient heating and 
+cooling energy generated by heat pumps. Overall, the sharp increase in renewables use will also be 
+almost directly reflected in energy self-sufficiency, which will be a few percentage points higher than 
+the renewables share. 
+ 
+Figure 3. Modelled shares of renewable energy in final consumption by scenario. 
+The modelled share of renewables in primary energy consumption will grow by 50%–64% by 2030 
+compared to 2010 levels, as shown in Figure 4. The corresponding increase by 2050 will be 100%–
+110%. While the increase is naturally highest under the low-emission scenarios, their absolute 
+differences from the WEM scenario are not very significant due to improved energy efficiency. Wind 
+ 14 
+   
+ 
+ 
+and solar energy will gain a significant role in the supply of renewables under both of the low-
+emission scenarios. In 2017, their share was only 3.6%. Even the WEM scenario projects their share 
+to more than quadruple, reaching 14%. With regard to wind power, however, it is worth noting that 
+its competitiveness development has been exceptionally fast in recent years and it is very difficult to 
+estimate the pace of development over the next few decades, which means that the results also involve 
+some uncertainty. 
+In Figure 4, ‘solid wood fuels’ refers to any wood primary energy, excluding black liquor and other 
+concentrated liquors and recycled wood. By 2030, the combined energy use of wood fuels (black 
+liquor and other concentrated liquors and solid wood fuels) will grow substantially under the Savings 
+scenario, in particular, which is partially attributable to forest industry production volumes pushing 
+up the number of by-products (incl. black liquor, bark, sawdust), on the one hand, and to the 
+increasing use of forest chips, on the other. While the energy use of wood fuels in 2016 amounted to 
+a total of about 360 PJ (100 TWh), it will reach the level of 430–450 PJ (120–126 TWh) in 2030 
+under different scenarios. Beyond 2030, wood fuel use will remain at more or less the same level, 
+amounting to 440–450 PJ (123–126 TWh) in 2050, regardless of the differences between the scenario 
+narratives. Under the Savings scenario, wood fuel use is limited by increasing pulp production in the 
+forest industry, as its use of commercial timber will curb the availability of energy wood while driving 
+up its price. At the same time, however, demand for advanced bioliquids will create pressure to 
+increase the use of wood for energy. Under the Savings scenario, the energy use of black liquor will 
+be limited by the use of lignin and hemicellulose for new bioeconomy products instead of energy. 
+Furthermore, the use of agricultural by-products is highlighted in the results of the low-emission 
+scenarios both in terms of biogas production and the use of straw for energy. All of the scenarios 
+expect the use of municipal waste for energy to remain at the current level of about 20 PJ (about 
+6 TWh) by 2030 and start declining slightly thereafter as a result of enhanced recycling. 
+ 
+Figure 4. Modelled consumption of renewable primary energy by scenario. 
+ 15 
+   
+ 
+ 
+4   ENERGY EFFICIENCY 
+The  low-emission  scenarios  entail  quite  significant  changes  in  the  structure  of  electricity 
+consumption. While electrification is an essential change in all sectors, its impact on growing 
+consumption  will  be  largely  offset  by  increasing  efficiency  of  electricity  use.  However,  new 
+electricity consumption will also be generated as a result of expanding digitalisation, energy storage 
+and carbon-neutral electric fuel processing. 
+In the industrial sector, growth in energy industry consumption is the single largest factor impacting 
+on changes in electricity consumption. This growth in consumption will mainly come from energy 
+storage and conversion losses, carbon-neutral e-fuel production and expanding use of heat pumps for 
+municipal district heating and cooling. In process industries, changes involving significant growth in 
+electricity consumption include the gradual introduction of direct reduction in manufacturing ore-
+based steel, use of hybrid electric furnaces in the mineral industry and, under the Continuous Growth 
+scenario, electrolytic hydrogen production in the petrochemical industry. 
+As a result of both improved energy efficiency and the limited capacity of competitive generation of 
+carbon-neutral district heat, consumption will fall below half the current levels under the low-carbon 
+scenarios, driving down the potential for combined municipal heat and power generation. All other 
+types of final energy consumption in the heating of buildings will also decline as specific heat 
+consumption rates drop both in new buildings and due to extensive energy repairs – by as much as 
+about 60% on 2010 levels under the best-case assumptions. Under all of the scenarios, key impacts 
+in the industrial sector include electrification in process heat generation and replacement of fossil 
+fuels with biofuels. 
+In 2010, final energy consumption in Finland amounted to a total of about 300 TWh, of which 
+electricity, heat and direct fuel use accounted for 28%, about 13% and 59%, respectively. Based on 
+the modelling results, the total amount of final consumption under the WEM scenario will remain 
+close to 2015 levels through to 2030 (Figure 5). The results suggest that significant emission 
+reductions require considerable electrification in all energy-consuming sectors, as fossil fuels cannot 
+be replaced sustainably with bioenergy on a sufficiently large scale. 
+Figure 6 shows the trend in total primary energy consumption produced by the TIMES-VTT model. 
+The WEM scenario projects total primary energy consumption to peak at around 1,570 PJ (436 TWh) 
+from 2030 to 2035 and start declining afterwards. 
+Fossil fuel consumption will shrink significantly as early as by 2030 under all of the scenarios, as the 
+rising prices of emission allowances and advancements in renewable energy technologies, already 
+assumed in the WEM scenario, will undermine the competitiveness of fossil fuels. When compared 
+with the WEM scenario, the low-emission scenarios show a sharper drop in the total consumption of 
+mineral oil and hard coal, in particular, as early as by 2030, but natural gas will still retain a relatively 
+strong foothold due to existing infrastructure and production capacity. As condensing power plants, 
+the one or two new nuclear power plants expected to come online between 2020 and 2030 will have 
+a substantial impact on the structure and magnitude of the primary energy balance, as will the 
+prolonged lifetimes of the existing Loviisa and Olkiluoto plants assumed in the modelling exercise. 
+ 
+ 16 
+   
+ 
+ 
+ 
+Figure 5. Modelled final energy consumption by sector under different scenarios. 
+ 
+Figure 6. Modelled trends in total primary energy supply by scenario. 
+ 17 
+   
+ 
+ 
+5   SECTOR-SPECIFIC RELATED CONTENT 
+5.1 Energy system 
+The development of energy production plays a key role in the emissions trajectory under both low-
+emission scenarios. In this context, ‘emissions from energy production’ refers to emissions from 
+combustion of fuels as part of producing electricity, district heat and industrial process steam. 
+Figure 7 shows the trends in carbon dioxide emissions from energy production by source (coal, oil, 
+natural gas, peat, and the fossil part of waste fuel used for energy production). In 2015, CO  emissions 
+2
+from energy production amounted to just over 17 million tonnes, but the modelling results suggest 
+that even the WEM scenario will already lead to emissions decreasing to about 10 million tonnes by 
+2030, after which they will fall below 5 million tonnes by 2050. Although the price of emission 
+allowances is expected to rise, peat will retain its competitiveness in energy production through to 
+2030 due to its currently more lenient tax treatment. 
+The low-carbon scenarios suggest that, as a result of the carbon neutrality target, energy production 
+emissions will decline significantly more steeply after 2030, to the extent that emissions will fall 
+below 2 million tonnes in 2040 under both scenarios. Emissions from energy production will settle at 
+1.6 million tonnes under the Continuous Growth scenario and at 1.4 million tonnes under the Savings 
+scenario. The Savings scenario assumes changes in energy taxes, which will especially affect the use 
+of peat. As waste fuel will account for 40% to 50% of the remaining emissions, those from actual 
+fossil fuels and peat will amount to less than a million tonnes in total and will be distributed fairly 
+evenly between peat, natural gas and oil. By 2050, non-waste fuel emissions will already be more or 
+less insignificant. 
+ 
+Figure 7. Development of CO2 emissions from energy production under different scenarios. 
+ 18 
+   
+ 
+ 
+Figure 8 shows the development of total electricity supply by source according to model calculations. 
+The results indicate that, by 2030, total electricity consumption will rise to 93 TWh under the WEM 
+scenario and only slightly less under the low-emission scenarios, to 91–92 TWh. By 2030, electricity 
+consumption and production will be close to balance due to two new nuclear power plants and rapidly 
+growing wind power generation. The Savings scenario projects the need to import at just under 2 TWh 
+in 2030, whereas the other scenarios suggest a turn to modest net exports. The impacts of the carbon 
+neutrality target on the electricity balance will become more visible beyond 2030, when electrification 
+will intensify in all sectors while electricity will also become more widely used for processing so-
+called electric fuels (Power-to-X technology). The results indicate that total electricity consumption 
+will amount to 105–127 TWh by 2050, showing a growth in the range of 11%–39% on 2030. 
+Electricity consumption will reach the highest level under the Continuous Growth scenario, where 
+economic growth will remain healthy and electricity will substitute most widely for fuels, as carbon 
+capture and storage will not be available. The Savings scenario, in turn, assumes that CCS will be 
+available, resulting in more moderate changes in the energy system in other respects. Based on the 
+results, by 2050, the need to import electricity will only amount to 3–8 TWh under different scenarios, 
+suggesting that security of supply will remain at a relatively healthy level in this respect when 
+compared with the current situation, for example. 
+ 
+ 
+Figure 8. Electricity supply by source under different scenarios. 
+The costs of solar power have plummeted over the last ten years and this favourable trend was 
+expected to continue, especially under the low-emission scenarios. Based on the results of the model 
+calculations, the assumptions lead to a breakthrough in solar power beyond 2030 even in Finland’s 
+conditions, to the extent that its production will amount to 25–27 TWh in 2050 under both low-
+emission scenarios. Wind power generation will draw near the level of 7 TWh in 2020, while both 
+low-emission scenarios project it to more than double to just over 14 TWh by 2030 and move on to 
+ 19 
+   
+ 
+ 
+exceed 20 TWh by 2035. For 2050, VTT wind power experts have estimated its realistic technical-
+economic potential at 28 TWh, of which offshore wind would account for about 40%. These estimates 
+have also accounted for limitations on wind power investments, such as those set by the Finnish 
+Defence Forces, which means that higher potential might also be possible in the future if barriers to 
+investment can be dismantled. The model calculations indicate that wind power generation will reach 
+27–33 TWh by 2050 under the low-emission scenarios. 
+Due to variations in wind and solar power generation, the electricity system requires substantial 
+flexible capacity as their role becomes more prominent. The model results increase flexibilities 
+through investments in storage capacity, electricity connection lines and intelligent grids that steer 
+demand flexibilities. According to the model results, variable generation will be widely used in areas 
+such as Power-to-X applications producing hydrogen or hydrocarbon, which are considerably easier 
+to store than electricity. 
+5.2 Industry 
+The low-emission scenarios assume that the key means to reduce emissions in the industrial sector 
+include electrification in process heat generation and replacement of fossil fuels and peat with 
+biofuels. Another key assumption is that the process of manufacturing ore-based carbon steel will 
+switch to direct reduction after 2030 by replacing coke as a reducing agent with either hydrogen or 
+an electrolytic process. Emissions from cement manufacturing can be reduced by hybrid furnaces, 
+which allow about half the fuel to be replaced with electricity. Under the Savings scenario, which 
+assumes that CCS will be available, it can be applied in cement manufacturing, fuel refining processes 
+and, to a limited extent, in pulp production. Under the Continuous Growth scenario, in turn, the 
+absence of CCS from the available means will make it more difficult to achieve the emission targets 
+in process industries. The calculations therefore included an assumption that blast furnace slag, 
+commonly used as an additive in cement manufacturing, could be replaced with recycled materials – 
+naturally to a limited extent – thus reducing the pressure to increase fossil cement clinker production. 
+Based on the results, GHG emissions in the industrial sector will remain at the level of about 14 Mt 
+under both the WEM and Savings scenarios from 2020 to 2030, whereas the Continuous Growth 
+scenario projects a substantial decline as early as by 2030 (Figure 9). Between 2030 and 2040, both 
+low-emission scenarios expect emissions to fall below five million tonnes, where the largest drop, 6–
+8 Mt, will come from fuel combustion emissions. Due to hydrogen technology and CCS applications 
+(Savings scenario), a reduction of about 70% on 2010 levels will also be achieved in process 
+emissions by 2050, while combustion emissions can almost be pushed down to zero under the 
+Continuous Growth scenario, mostly by means of electrification and carbon-neutral renewable and 
+synthetic fuels. The distribution of final energy consumption in industry is illustrated below (Figure 
+10). 
+ 20 
+   
+ 
+ 
+ 
+Figure 9. GHG emission trends in industry by scenario. 
+ 
+Figure 10. Final energy consumption in industry by scenario (‘Other’ covers hydrogen, 
+synthetic fuels, etc.). 
+ 21 
+   
+ 
+ 
+5.3 Transport 
+In this context, the transport sector is only analysed in terms of domestic transport, although the 
+calculation model also covers international air and maritime transport. GHG emissions in domestic 
+transport turned into a downward trend in 2010, but the decline bottomed out in 2016. The reasons 
+for the 2016–2017 upswing in emissions include an upturn in fuel consumption in road transport, on 
+the one hand, and a clear drop in the share of biofuels, on the other. The variation in the bio-share can 
+be attributed to the national blending obligation to increase the share of biofuels, which Finland has 
+been implementing in a slightly frontloaded manner. At the same time, however, the VTT LIISA 
+2018 calculation model indicates that road transport performance has remained stable or even slightly 
+declined, leaving the real reason for the change in consumption partly unclear. 
+Based on the results, emissions will increase slightly under the WEM scenario up until 2020 but will 
+then take a downward turn (Figure 11). The low-emission scenarios’ trajectories for emissions will 
+start to diverge as early as in 2020 as a result of assumed additional measures and will then take a 
+steep plunge through to 2035, followed by a slower decline. By 2035, when carbon neutrality will be 
+achieved, the modelled GHG emissions in transport will only amount to about 2.5 Mt under the 
+Continuous Growth scenario and to about 3 Mt under the Savings scenario. The Continuous Growth 
+scenario assumes that even transport emissions will need to be limited to a level very close to zero in 
+2050, whereas the Savings scenario considers a reduction to the level of 1.8 Mt sufficient due to CCS 
+applications (in other sectors). Under both scenarios, transport emission reductions will mostly be 
+achieved by technological means, as the modelling assumed changes in mobility patterns to remain 
+fairly modest. 
+ 
+Figure 11. GHG emission trends in domestic transport by scenario. 
+One of the key objectives of increasing the use of renewable energy put forward in the National 
+Energy and Climate Strategy and the Medium-term Climate Change Policy Plan is to raise the share 
+of renewable energy sources in transport. In road transport, the obligation to distribute biofuels is set 
+ 22 
+   
+ 
+ 
+at 30% in 20306, which will be achieved under both the Savings and Continuous Growth scenarios. 
+It would indeed be technically possible to replace fossil petrol and diesel in transport fuels almost 
+fully with biofuels or by switching to electric, gas-powered or fuel cell electric vehicles. The scenarios 
+considered here assume that the share of ethanol can only rise to 10% of traditional motor petrol, but 
+it will nevertheless be complemented with the market entry of second-generation biopetrol, which 
+can practically replace fossil petrol in full, just as fossil diesel oil can be substituted with renewable 
+diesel. In air transport, it is likewise assumed that biokerosine will enter the market at production 
+costs comparable to renewable diesel. 
+While it is also possible to expand the use of biogas in vehicles to a substantial extent, its role will 
+remain considerably less significant as a whole when compared with other biofuels. Manufacturing 
+of synthetic biogas from solid biomass, for example, is not financially profitable under these scenarios 
+due to the price and limited availability of sustainable raw material. Its technical-economic production 
+potential will therefore not become very significant and, at the same time, it also has other applications 
+besides transport that are conducive to reducing emissions. The declining livestock numbers assumed 
+in the modelling for agriculture will likewise diminish the potential of biogas derived from manure. 
+Based on the results, the share of biofuels under the WEM scenario will account for about 16% of 
+final consumption in transport in 2030, while the share will stand as high as at 35% under the 
+Continuous Growth scenario and at about 30% under the Savings scenario. In other words, regardless 
+of the much faster growth in the market share of electric vehicles, the Continuous Growth scenario 
+projects a slightly higher increase in bio-share than the Savings scenario, which is due to their 
+differences in terms of the market situation and foreign trade. The Savings scenario, where vehicle 
+technology is expected to remain dominated by combustion engines, also projects a clearly slower 
+reduction in transport emissions as a result. While the share of biofuels will stand at 41% under the 
+Continuous Growth scenario and at 53% under the Savings scenario in 2050, both scenarios also 
+envision that synthetic fuels (hydrogen, methanol) will assume an increasingly prominent role, 
+especially in heavy-duty transport. Figure 12 shows the modelled distributions of transport fuels 
+under different scenarios. 
+                                                 
+6 Laki biopolttoaineiden käytön edistämisestä liikenteessä annetun lain muuttamisesta [Act amending the Act on 
+Promoting the Use of Biofuels in Transport] 419/2019. Available in Finnish at: 
+https://www.finlex.fi/fi/laki/alkup/2019/20190419. 
+ 23 
+   
+ 
+ 
+ 
+Figure 12. Modelled distribution of transport fuels by scenario. 
+5.4 Land use, land-use change and forestry (LULUCF) and agriculture 
+The key factors with impacts on emissions and removals in the land use, land-use change and forestry 
+(LULUCF) sector include changes in land use, forest growth and harvesting, agriculture and peatland 
+management. 
+The scenarios for the LULUCF sector were made up of scenarios separately calculated for harvested 
+wood products and for each land use category. The calculations produced development scenarios for 
+the surface areas of land use categories and land-use change categories; forest development scenarios; 
+and production scenarios for harvested wood products to calculate changes in the carbon stocks of 
+harvested wood products. Emissions and removals in the LULUCF sector were calculated in six land 
+use categories covering Finland’s land area and inland waters. 
+Under all of the three scenarios, the LULUCF sector produced a net sink; in other words, its 
+greenhouse gas removals exceeded emissions. In Finland, measures focused on forests play a more 
+significant role in the LULUCF sector’s balance than other forms of land use. The scenario trends 
+took shape up until 2030, after which point their differences became more pronounced. 
+The WEM scenario places the LULUCF sector’s net sink in 2050 at 26 Mt CO -eq. Under the 
+2
+Continuous Growth scenario, the LULUCF sector’s net sink will first remain at the current level and 
+then take a swift upswing in 2030, standing as high as at 40 Mt CO -eq in 2050. The favourable 
+2
+development in terms of the sink will especially result from lower levels of roundwood removals 
+ 24 
+   
+ 
+ 
+when compared with the WEM scenario. The Savings scenario produced the smallest sink for the 
+LULUCF sector, putting its net sink below 20 Mt CO -eq in 2050. The LULUCF sector’s small sink 
+2
+under the Savings scenario was especially attributable to the assumption of change in forest industry 
+production structures and the resulting annual roundwood removals in excess of 90 million cubic 
+metres after 2035. Figure 13 shows the LULUCF sector’s net sink trends under different scenarios. 
+The following sections provide further details of the assumptions made under the scenarios in terms 
+of land-use change, forest growth and harvesting, as well as agricultural developments. 
+ 
+ 
+ 
+Figure 13. Net sink trends in the LULUCF sector in different scenarios. 
+ 
+Land-use change under different scenarios 
+The scenarios for land-use change are based on trends calculated from previous changes in land use 
+and the averages of annual land-use change areas. The land-use change areas were estimated using 
+the methodology presented by Haakana et al. (2015)7, taking account of each scenario’s underlying 
+assumptions on aspects such as wind farm construction or field afforestation. 
+The WEM scenario did not assume any significant changes in measures carried out in the land use 
+sector.  With  regard  to  agriculture,  the  Continuous  Growth  and  Savings  scenarios  assume  a 
+considerable reduction in national consumption of livestock products (-30% to -50% by 2050). As a 
+result, the arable area under active cultivation will shrink due to declining demand for forage area. 
+The Continuous Growth scenario, in particular, assumed the arable area to shrink considerably, while 
+also expecting that peat field areas, in particular, would be taken out of agricultural production. The 
+Savings scenario pointed to similar but milder assumptions. The scenarios considered afforestation 
+the primary alternative for agricultural land being freed up. Both scenarios also projected sharp 
+reductions in peat production areas. There are relatively small variations in settlement areas between 
+different scenarios. The total forest land area changes under the scenarios according to the amounts 
+                                                 
+7 Haakana, M., Ollila, P., Regina, K., Riihimäki, H. & Tuomainen, T. 2015. Menetelmä maankäytön kehityksen 
+ennustamiseen: Pinta-alojen kehitys ja kasvihuonekaasupäästöt vuoteen 2040 [Methodology for forecasting land use 
+developments: Developments in surface areas and greenhouse gas emissions by 2040]. Luonnonvara- ja biotalouden 
+tutkimus [Natural Resources and Bioeconomy Studies] 51/2015. 
+ 25 
+   
+ 
+ 
+of areas being afforested and those converted for other uses. Although the scenarios included 
+significant afforestation areas, they show little impact on increasing the carbon sink due to the 
+relatively short time span involved and the limited size of the afforestation area in proportion to 
+Finland’s existing forest land. Table 1 below shows the assumptions made on developments in surface 
+areas in different land use categories. 
+Table 11. Developments in surface areas under different scenarios. 
+WEM 
+1,000 ha  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  21,943  21,888  21,861  21,817  21,771  21,727  21,687  21,653  21,624 
+Cropland  2,474  2,486  2,489  2,491  2,491  2,489  2,488  2,488  2,488 
+Grassland  238  241  243  244  245  245  246  247  249 
+Wetlands  2,989  2,987  2,973  2,956  2,943  2,934  2,927  2,917  2,906 
+Settlements  1,432  1,476  1,517  1,574  1,631  1,683  1,731  1,774  1,813 
+Other land  1,312  1,311  1,310  1,309  1,308  1,307  1,306  1,305  1,305 
+Inland waters  3,455  3,455  3,456  3,457  3,458  3,459  3,460  3,461  3,462 
+Total  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843 
+ 
+                 
+Continuous Growth 
+1,000 ha  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  21,943  21,888  21,880  21,937  21,994  22,051  22,112  22,186  22,264 
+Cropland  2,474  2,486  2,486  2,353  2,219  2,085  1,952  1,814  1,676 
+Grassland  238  241  243  277  310  343  377  401  425 
+Wetlands  2,990  2,986  2,952  2,937  2,923  2,912  2,902  2,891  2,881 
+Settlements  1,432  1,476  1,517  1,574  1,632  1,686  1,736  1,786  1,832 
+Other land  1,312  1,311  1,310  1,309  1,308  1,307  1,306  1,305  1,304 
+Inland waters  3,455  3,455  3,456  3,457  3,458  3,459  3,460  3,461  3,462 
+Total  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843 
+ 
+                 
+Savings 
+1,000 ha  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  21,943  21,888  21,864  21,885  21,904  21,930  21,958  21,985  22,017 
+Cropland  2,474  2,486  2,486  2,408  2,331  2,251  2,171  2,092  2,013 
+Grassland  238  241  243  263  282  302  322  342  362 
+Wetlands  2,990  2,986  2,967  2,949  2,932  2,915  2,899  2,890  2,881 
+Settlements  1,432  1,476  1,517  1,573  1,628  1,681  1,727  1,769  1,805 
+Other land  1,312  1,311  1,310  1,309  1,308  1,307  1,306  1,305  1,305 
+Inland waters  3,455  3,455  3,456  3,457  3,458  3,459  3,460  3,461  3,462 
+Total  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843  33,843 
+ 
+ 
+Trends in forest growth, forest harvesting and forest land carbon sink levels under the scenarios 
+The WEM scenario assumes that annual forest growth in forest and scrubland will amount to about 
+116 million m3 at 2050 levels. When compared with the WEM scenario, the annual levels of forest 
+growth would be slightly lower under the Savings scenario, standing at 113 million m3, and slightly 
+higher under the Continuous Growth scenario, standing at 117 million m3. The most recently 
+measured annual growing stock increment amounts to 108 million cubic metres. 
+ 26 
+   
+ 
+ 
+The scenarios examine forest harvesting in terms of roundwood removals. As a concept, ‘roundwood’ 
+covers both commercial timber for use by the forest industry and wood used for energy purposes. The 
+WEM scenario assumes that the annual roundwood removal will amount to 72 million cubic metres 
+up until 2024 and would then rise to about 80 million cubic metres. Between 2025 and 2054, annual 
+roundwood removals are expected to remain stable at 80–81 million cubic metres. The WEM 
+scenario’s assumptions on both the forest industry production volumes and roundwood removal 
+trends are in line with the currently valid National Forest Strategy and National Energy and Climate 
+Strategy. The other two scenarios considered here made assumptions on changes in forest industry 
+production structures that also had a bearing on roundwood removals. 
+The WEM scenario’s key input assumptions for forest industry production by 2050 are that board 
+production will decline slightly in Finland, whereas net exports of pulp and sawn timber will increase 
+slightly. These assumptions were based on the basic estimate prepared by Pöyry PLC in 2016. 
+All three scenarios assumed that the current downward trend in paper products would continue. 
+Conversely, the assumption on board products was that global demand and, consequently, domestic 
+production would grow over the next few decades, but the growth trend would decelerate starting 
+from 2030. 
+The Continuous Growth scenario made the assumption that forest industry production volumes would 
+begin to decline most distinctly starting from 2030. The highest production volumes were projected 
+in the Savings scenario, which assumes that both the chemical and mechanical forest industry will 
+gradually switch to manufacturing new, higher value-added products. In pulp production, this means 
+a shift to new fibre products and manufacturing biochemical products from materials such as lignin 
+and hemicellulose fractions of residual lyes, currently used primarily for energy purposes. As for the 
+mechanical forest industry, in turn, it involves manufacturing wood products that are considerably 
+more advanced than classic sawn timber, which can be seen in a downward turn in classic sawn timber 
+production volumes after 2030 and in a corresponding surge in the volumes of processed sawn timber. 
+Based on these assumptions on forest industry production, the Continuous Growth and Savings 
+scenarios also differ from the WEM scenario in terms of roundwood removals. The Continuous 
+Growth scenario projects annual roundwood removals to stand at 81.8 million m3 for the 2025–2034 
+period, followed by a slight decline just below 80 million m3 starting from 2035. The Savings 
+scenario assumes clearly higher total roundwood removals for the 2035–2054 period than the other 
+scenarios, amounting to about 92 million cubic metres annually. Instead of any material change in 
+the proportion of imported wood, the scenarios assumed that the forest industry’s demand for raw 
+material would focus on domestic harvesting operations. 
+The differences between the scenarios in terms of roundwood removals will only become visible over 
+the last two decades (2035–2054). The total growing stock volume on forest and scrubland will 
+continue to develop steadily from 2015 to 2055. The Continuous Growth and WEM scenarios arrived 
+at a total volume of over 3.2 billion m3 for 2055, whereas the Savings scenario put the figure at just 
+under 2.9 billion m3. As the most recently measured volume of growing stock is 2.5 billion cubic 
+metres, all of the scenarios project a growth in the total volume compared to current levels. 
+Calculated on the basis of annual roundwood removals, the net carbon sink of forest land will vary 
+between 25 and 28 Mt CO -equivalents over the 2030–2040 period under the WEM scenario and will 
+2
+reach the level of 34.4 Mt CO -equivalents by 2050. When compared with the WEM scenario, the 
+2
+2050 forest carbon sink will be slightly higher under the Continuous Growth scenario because it 
+assumes a lower level of roundwood removals. Conversely, the forest net sink projected in the 
+ 27 
+   
+ 
+ 
+Savings scenario will fall considerably below that of the WEM and Continuous Growth scenarios due 
+to the fact that the Savings scenario expects roundwood removals to reach a clearly higher level than 
+the other two scenarios. The scenarios place the turning point around 2030. 
+The scenarios analysed the impact of harvested wood products using the greenhouse gas inventory 
+method. Increasing the amount of harvested timber will decrease forest carbon sinks (Savings) and, 
+vice versa, reducing the amount of harvested timber under a scenario will increase sinks (Continuous 
+Growth). Harvested wood products will not fully compensate for decreasing sinks, even if production 
+focused on durable products (Savings). 
+It should be borne in mind that the scenario forecasts for forest developments were based on the forest 
+industry’s projected wood consumption and the estimates for roundwood removals, as well as on 
+calculations performed using the MELA software on the basis of these assumptions. The level of 
+harvesting chosen under the scenarios has a bearing on the increment of growing stock and its total 
+volume developments and, consequently, on the amount of carbon sequestered in trees. The model 
+assumptions and the parameters applied have a significant effect on the end results, especially in the 
+long run, due to the dynamic nature of forest growth. Calculation methods are also developing 
+constantly and new research may change the results significantly. 
+Scenarios for the agricultural sector 
+The WEM scenario for the agricultural sector forecasts that domestic demand for all food products 
+will increase by about 5% by 2030, assuming that per-capita food consumption will remain at 2018 
+levels over the 2019–2050 period. An exception is poultry consumption, where the robust growth that 
+has continued since the turn of the millennium is expected to stagnate. 
+The rapid increase in energy prices forecast for the 2020s will especially raise agricultural fuel prices 
+(by 23% from 2018 to 2028) and, to a lesser extent, fertiliser prices (by 13% over the same period). 
+The WEM scenario assumes that product prices will remain unchanged after 2028. The real prices of 
+agricultural products, i.e. product price developments relative to input prices, will remain more or 
+less the same, especially in plant products. Real prices will rise slightly in some dairy products, such 
+as milk powder and cheese, but the dairy sector as a whole will also see very moderate price 
+developments. 
+The WEM scenario assumes that agricultural policy will be the same as during the 2014–2020 period. 
+No potential reductions in EU aid have been taken into account beyond 2020. Any minor decrease in 
+area-based subsidies would have a very limited impact on agricultural production volumes. 
+Productivity will continue to grow in the agricultural sector, particularly in dairy farming, which will 
+see a large-scale shift from units with a single milking robot to those with two or more robots over 
+the 2020s and 2030s. This shift is already underway and will increase the efficiency of labour used 
+in production. Productivity will also continue to grow in other areas of livestock production, mostly 
+in terms of labour productivity, but to a lesser extent in crop production, where yields are expected 
+to remain unchanged. However, the increase in fertiliser prices by several percentage points in the 
+early 2020s will reduce yields by one to three per cent for different plants. 
+The WEM scenario projects the poor productivity of agriculture to continue from the 2014–2018 
+baseline. Due to structural developments, agricultural production will remain more or less unchanged, 
+with the exception of a slight decline in beef and cereal production. In dairy production, structural 
+and other productivity developments will maintain output at previous levels through to 2050, whereas 
+ 28 
+   
+ 
+ 
+beef production, which fell short of domestic demand by over 20% in 2018, is highly likely to drop 
+to at least 30% below domestic consumption by 2050. The profitability of suckler beef production is 
+not good enough to enable any large-scale expansion. 
+The WEM scenario expects the arable area under active cultivation to shrink by about 200,000 
+hectares during the 2020s, which is due to the low baseline of profitability in cereal cultivation, energy 
+and fertiliser price increases during the 2020s and the resulting concentration of production on 
+croplands with higher than average yields. As a whole, despite agricultural aid, the relative proportion 
+of fields with lower than average yields being taken out of cultivation will be highest in the eastern 
+and northern parts of Finland, but this will also take place in other parts of the country. 
+The WEM scenario projects the total sum of emissions in the agricultural sector to stand at 6.45 Mt 
+CO -eq in 2050, or one per cent below 2015 levels, mostly due to the decreasing number of animals. 
+2
+The Savings and Continuous Growth scenarios for agriculture assumed that the consumption of meat 
+and dairy products would decline by 30% to 50% by 2050. Consumption of livestock products would 
+be replaced with plant protein and fish products. A further assumption was that EU price levels would 
+not rise while agricultural aid would see some decline. The Continuous Growth and Savings scenarios 
+expect the arable area under active cultivation to shrink considerably due to declining demand for 
+forage area, which will lead to substantial reductions in GHG emissions. However, this requires the 
+incentives for the necessary change in land use to be acceptable, substantial and long-term from the 
+perspective of land owners and farmers. The scenarios also assume that large livestock farms will 
+channel increasing amounts of manure into biogas production. 
+The Savings scenario projects 2050 emissions to stand at 4.36 Mt CO -eq, or 33% below 2015 levels, 
+2
+whereas the figure for the Continuous Growth scenario is 3.84 Mt CO -eq, or 41% below 2015 levels. 
+2
+Under the Continuous Growth and Savings scenarios, emission reductions come from: (1) decreasing 
+numbers of animals; (2) taking peat fields out of production; (3) declining use of synthetic fertilisers; 
+and (4) declining demand for arable land and steering demand towards reducing GHG emissions, 
+especially on peat fields (LULUCF). 
+Impacts of agricultural changes on land use 
+The WEM scenario expects that more than 200,000 ha of arable land will be freed up from agricultural 
+production by 2050. Of this, over 100,000 ha would already be released during the 2020s, provided 
+that the increase in the prices of production inputs will manifest and will not be offset by a higher 
+increase in agricultural product prices. Low profitability and cost pressures will lead to streamlining: 
+low-yield arable land will be taken out of production but will remain as agricultural land with current 
+agricultural policy due to decoupled area payments for eligible agricultural land irrespective of 
+whether it is used for production or not. 
+The Continuous Growth and Savings scenarios project the croplands to shrink by 470,000 to 815,000 
+hectares by 2050. As a result of the assumptions made under the Savings and Continuous Growth 
+scenarios, agricultural changes will especially have an impact on peatland emissions classified under 
+the LULUCF sector’s ‘cropland’ emissions, which would decline by 4–5 Mt CO -eq over a period 
+2
+from 2015 to 2050. 
+ 29 
+   
+ 
+ 
+Points to consider in the change 
+The climate action relating to agricultural land-use change may have a negative impact on agricultural 
+biodiversity. Unproductive fields and open agricultural landscapes play an essential role in terms of 
+agricultural biodiversity and threatened species. There is little open land in Finland. Fields only 
+account for about 7% of the country’s total area. 
+Measures such as afforestation and rewetting of open areas will reduce the important area for 
+agricultural biodiversity. Overgrowth is and will continue to be the main threat for almost all 
+threatened habitats dependent on agriculture. In addition to traditional rural biotopes, the types of 
+current and former fields of most importance for biodiversity are slightly nutrient-poor, extensively 
+used old perennial grass areas. 
+Major changes in agriculture and arable land will have broad impacts on society and these impacts 
+will be very unevenly distributed between different population groups and regions. Major changes in 
+agricultural production and arable land use will involve significant localised impacts on the regional 
+economy and employment, especially in areas where agriculture is based on peatland use. 
+One of the main pillars of food security is the continuity of food supply, which refers to security of 
+food availability at all times. Indeed, domestic agriculture is, first and foremost, linked to food 
+security precisely from the perspective of security of supply. Maintaining food security at levels that 
+correspond  to  domestic  demand  and  its  change  requires  constant  investments  in  agricultural 
+restructuring, productivity, skills, and the competitiveness of the entire domestic food chain. This 
+means, among other things, that if the arable area in use shrinks and is steered towards achieving 
+climate and various environmental objectives, it will be all the more important to ensure the soil 
+condition of the remaining arable land used for production. 
+It is highly likely that weather extremes and market price fluctuations are intensifying rather than 
+declining. At the same time as global food demand is growing, particularly in terms of protein-rich 
+products, challenges of global and European food security are increasing. This must also be borne in 
+mind when planning measures to reduce greenhouse gas emissions. 
+Links to agricultural and rural development policies 
+The  choice  of  instruments  for  steering  the  agricultural  sector  is  influenced  by  climate  policy 
+objectives and the cost-efficiency and effectiveness of the measures to be chosen, as well as many 
+other factors. The instruments need to be compatible with EU provisions. Agriculture is regulated at 
+the EU level more broadly than any other sector. No measures may conflict with the EU Common 
+Agricultural Policy (CAP) and any national support measures should comply with the EU state aid 
+rules. Instruments should be chosen with due consideration for their impact on the objectives of other 
+policy sectors and the consistency of objectives. While the impacts of agriculture on water bodies and 
+nutrient cycles are key environmental impacts, its effects must also be assessed in terms such as 
+biodiversity. 
+Maintaining the profitability and competitiveness of food production must be taken into account to 
+ensure self-sufficiency. The applicability, reasonableness and equitability of the measures across the 
+country form part of their legitimacy. Steering instruments must also be chosen with due account of 
+the need to streamline administrative procedures. 
+The EU Common Agricultural Policy (CAP) contributes to the arable area under cultivation, the 
+choice of crops to be grown and the number of animals. Climate change mitigation and adaptation 
+ 30 
+   
+ 
+ 
+are increasingly shaping the EU Common Agricultural Policy. The need for more efficient and 
+effective climate and environmental actions has intensified as the EU Common Agricultural Policy 
+is being reformed. 
+The Rural Development Programme for Mainland Finland 2014–2020 includes an agri-environment 
+payment, which is a key instrument to promote sustainable development in agriculture. The measures 
+of the Rural Development Programme to reduce GHG emissions include: balanced use of nutrients; 
+plant cover on fields in winter; catch crops; incorporation of slurry into fields; recycling of nutrients 
+and organic matter; and environmental grasslands. The investment support of the Rural Development 
+Programme can be granted for setting up controlled subsurface drainage as well as renewable energy 
+and manure storage and handling solutions. 
+There is a currently ongoing CAP27 reform. Its climate and environmental objectives include 
+contributing to climate change mitigation and adaptation, as well as sustainable energy production 
+and use. The reform also aims to foster sustainable development and efficient management of natural 
+resources  such  as  water,  soil  and  air.  Further  objectives  include  contributing  to  biodiversity 
+protection, enhancing ecosystem services and preserving habitats and landscapes. As for financing, 
+the CAP27 reform target is to channel 40% of CAP measures into climate action and it includes an 
+obligation to allocate 30% of rural development funds to environmental and climate measures. 
+5.5 Waste sector 
+Greenhouse gas emissions from waste management have historically played a significant role, in 
+particular due to methane emissions from landfilling, but the level of emissions has been decreasing 
+sharply since the turn of the millennium as a result of advancements in waste sorting and recycling. 
+Waste management emissions are generated as part of landfilling, composting, anaerobic digestion 
+and wastewater treatment. Although the energy use of waste is part of waste management, its 
+emissions are not included in the sector’s statistics. 
+Inventories indicate that the total emissions from waste management decreased by 50% over a period 
+from 2000 to 2017, at the same time as the amount of landfilled municipal waste dropped from 
+1.58 million tonnes to 0.03 million tonnes. Correspondingly, the material and energy recovery of 
+waste has increased significantly. As the amount of landfilled waste has shrunk by 98%, methane 
+emissions from solid waste will decline in the future as a result of waste decomposition. The WEM 
+scenario’s results also suggest that landfill gas recovery will be somewhat enhanced in old fills, where 
+gas may still escape into the air even in quite large quantities. In addition, waste management 
+emissions may also be reduced to some extent by improving biological waste and wastewater 
+treatment processes, but additional measures have quite limited impacts on the overall greenhouse 
+gas balance. 
+The system model included a few additional technical measures to reduce emissions from wastewater 
+treatment, roughly described in generic terms, and the low-emission scenarios also assumed methane 
+emissions from biological treatment of solid waste to decline by 15%. As a combined effect of these, 
+the level of emissions from waste treatment over the 2035–2050 period was about 0.1 Mt CO -eq 
+2
+lower under the low-emission scenarios than under the WEM scenario. 
+ 
+ 31 
+   
+ 
+ 
+ 
+Figure 14. GHG emissions from waste management by scenario. 
+ 
+   
+ 32 
+   
+ 
+ 
+6   FINANCING 
+6.1 Estimates of investment needed 
+The investments required to achieve the climate neutrality objective particularly concern industry. 
+The investment survey 1/2020 published by the Confederation of Finnish Industries (EK) suggests 
+that industries expect to invest a total of about EUR 10.2 billion in 2020. The investments are divided 
+as follows: about EUR 4.5 billion in fixed assets by manufacturing industries; about EUR 2.8 billion 
+by energy industries; and about EUR 2.9 billion in R&D (intangible investments) in total by the entire 
+industrial sector. 
+According to the EK investment surveys, the annual level of industrial investment varied between 
+eight and ten billion euros over a period from 2009 to 2018. The annual levels of investment varied 
+between EUR 3 and 5 billion in manufacturing industries and between EUR 1.5 and 3 billion in 
+energy industries, while R&D investments ranged between EUR 2.5 and 4 billion. Should the annual 
+level of investment remain at about EUR 10 billion, this would mean total industrial investments to 
+the tune of EUR 300 billion from 2020 to 2050, more than EUR 200 billion of which would consist 
+of fixed investments in industries and the energy system. However, reduction of GHG emissions is 
+likely to call for additional investments. Some Finnish industrial players have even estimated that 
+achievement of climate objectives would double the level of investment needed in their own industry. 
+Based on information obtained from surveys and other sources, it is possible to estimate that the total 
+investments required to achieve the climate objectives in Finnish industries will exceed EUR 100 
+billion  between  2020  and  2050.  Bringing  energy  system  emissions  close  to  zero  will  require 
+approximately at least EUR 20 million in investments in clean energy production between 2020 and 
+2050. In addition, substantial investment will be needed in energy grids and systems as well as in 
+renewable processes within energy-intensive industries. The industrial sector’s climate solutions will 
+be closely linked to energy solutions; by way of example, hydrogen  production for industrial 
+processes may also have a considerable impact on energy distribution and production investments. 
+Renovations 
+According to Finland’s principles, improvements in energy efficiency will be integrated into regular 
+repairs, allowing material- and energy-efficient implementation. Estimated on the basis of the 2018 
+cost-optimal  levels  of  minimum  energy  performance  requirements  applicable  to  renovations, 
+implementing Finland’s long-term renovation strategy will cost a total of EUR 24 billion over 30 
+years, equating to EUR 800 million per year. VTT Technical Research Centre of Finland estimates 
+that this will correspond to a total of 12,000 person-years within manufacturing industries, services 
+and  worksites.  According  to  the  2018  estimate  of  the  Confederation  of  Finnish  Construction 
+Industries, the costs account for six per cent of the annual volume of building renovations, which 
+totals EUR 13 billion. 
+Phasing out the use of peat for energy 
+On 14 January 2020, the European Commission adopted legislative proposals on the Just Transition 
+Mechanism. One part of the mechanism is the Just Transition Fund (JTF) amounting to EUR 7.5 
+billion, which would be used to support all Member States. Finland’s allocation of the JTF amounts 
+to EUR 165 million, accounting for about 2.2% of the total JTF resources. However, tapping into the 
+funding  requires  each  Member  State  to  transfer  their  resources  from  the  European  Regional 
+Development Fund (ERDF) and the European Social Fund Plus (ESF+) equivalent to at least 1.5 
+ 33 
+   
+ 
+ 
+times the JTF allocation and corresponding national co-financing set according to the relevant 
+category of region. Accordingly, Finland would have access to (at least) about EUR 750 million to 
+support  a  just  transition  over  the  forthcoming  2021–2027  programming  period.  The  resource 
+allocation method would be based on five weighted criteria, among which production of peat is 
+especially relevant to Finland. 
+According to the proposed Regulation, the Just Transition Fund will be established “to provide 
+support to territories facing serious socio-economic challenges deriving from the transition process 
+towards a climate-neutral economy of the Union by 2050”. The Member States should identify the 
+territories and activities that are the most impacted by the transition towards a climate-neutral 
+economy and where support from the Just Transition Fund will be concentrated. For Finland, the 
+Commission proposes that support based on peat production be concentrated on the NUTS2 region 
+of Northern and Eastern Finland, as it accounts for the largest proportion of the total peat production 
+volume among Finland’s NUTS2 regions. The Commission further considers that this region is less 
+equipped to overcome the socio-economic problems caused by declining peat production than other 
+major regions. 
+In the context of the Commission’s proposal, Finland has focused attention on the exclusion of three 
+significant peat production regions – South Ostrobothnia, Central Finland and Satakunta – from the 
+proposed target territory. Even if the allocation of resources were based on peat production, the JTF 
+measures are not required to concentrate exclusively on alleviating the effects of phasing out the use 
+of peat for energy; rather, just transition plans may also define other measures relating to the effects 
+of the climate transition. The employment effects of peat production are estimated at about 2,300 
+person-years and, with multiplier effects included, at about 4,200 person-years. These are especially 
+focused on South and North Ostrobothnia. As the details of phasing out the energy use of peat are not 
+currently known, the specific allocation of JTF resources will only be determined at a later date. 
+Specific aspects to consider include whether some energy use of peat will be replaced with other uses 
+and how this would be allocated in regional terms. 
+6.2 Policies and measures for related research, development and innovation 
+Implementing measures towards the climate objectives in industry and energy supply  requires 
+significant investments in research, development and demonstration of climate-friendly solutions. In 
+total, the industrial sector will probably invest at least about EUR 100 billion in R&D over the 2020–
+2050 period, with a significant proportion focusing on R&D into climate solutions. If these accounted 
+for 35%, for example, equating to the target defined in Horizon Europe preparations, investments in 
+R&D into climate solutions would amount to at least about EUR 35 billion over the 2020–2050 
+period. 
+Research, development and innovation policy actions and measures will be implemented so as to 
+enable the development of a wide range of climate solutions to meet the needs of industry and energy 
+supply by means such as sectoral integration and digitalisation. The measures will take account of the 
+needs to find new solutions for sectors facing challenges with putting low-carbon technologies into 
+use.  These  include  certain  energy-intensive  industrial  processes,  transport  and  development  of 
+flexible energy systems. Examples of technological solutions may include digital energy systems, 
+batteries and energy storage, as well as Power-to-X solutions. 
+   
+ 34 
+   
+ 
+ 
+7   IMPACT ASSESSMENT OF THE SOCIO-ECONOMIC ASPECTS 
+7.1 Environmental impact assessments 
+Similar to the previous PITKO project, the key environmental impacts that can be identified under 
+the updated scenarios include impacts on climate change, biodiversity, water bodies, non-renewable 
+natural resources, and human health, comfort and wellbeing. As a general rule, if realised, the 
+scenarios considered in this long-term strategy can be assessed to have positive environmental 
+impacts, as the scenario narratives are premised on the assumption that achieving the below two-
+degree climate goal will succeed globally. This will likely make significant positive contributions to 
+a wide variety of environmental impacts when compared with the WEM scenario, where the climate 
+goal will not be achieved. However, the scenarios also involve some climate impacts that were not 
+assessed in the context of this long-term strategy. 
+The updated scenarios diverge in terms of the trends in emissions and removals in different sectors. 
+The most significant difference is in forest sinks, which are clearly smaller under the Savings scenario 
+when compared with the Continuous Growth scenario due to the higher levels of forest harvesting. 
+In addition to greenhouse gases, climate impacts are caused by factors such as changes in the Earth’s 
+surface reflectivity (albedo), black carbon emissions and aerosol emissions from forests. Some of 
+these impacts have global warming potential, whereas others have global cooling potential and many 
+factors involve significant insecurities. The trend or scale of these impacts under the scenarios 
+considered were not assessed in this context. 
+The scenarios considered expect that air quality will improve as transport performance declines, 
+electric transport increases and small-scale combustion of wood decreases with wider deployment of 
+alternative heating solutions and improved energy efficiency. The growing prevalence of walking, 
+cycling and vegetarian diets and improved pleasantness of environments will also bring about health 
+benefits. At the same time, however, the increasing density of urban structures will lead to higher 
+numbers of people exposed to air pollution while also creating challenges for preserving green areas. 
+The climate change mitigation measures required under the scenarios considered may also involve 
+significant  impacts  on  people’s  living  conditions,  including  those  that  will  highlight  income 
+disparities. 
+7.2 National economic impact assessments 
+In the modelling exercise performed using the FINAGE model, the scenarios aim to describe the 
+development of the national economy in the light of different technological choices and trajectories 
+and  emission  reduction  targets.  The  differences  between  the  scenarios  in  terms  of  economic 
+development stem from divergent technologies and production in the energy, industrial and transport 
+sectors. In other sectors of the economy, their differences will ultimately remain relatively limited. 
+The Continuous Growth scenario highlights growth in exports and manufacturing based on domestic 
+resources. The scenario projects net exports to have a very pronounced impact on growth, which can 
+indeed be easily called ‘export-driven’. Growth will be distributed more evenly among different 
+industries than under the WEM scenario and, consequently, the value of machinery and equipment 
+production, for example, will increase by a factor of almost 2.5. When compared with the WEM 
+scenario, growth will also be more capital- and labour-intensive – in other words, the impact of capital 
+and labour input on growth will be clearly larger. The growth impact stemming from technological 
+advancements will nevertheless be significant. After all, growth will lead to new technology being 
+ 35 
+   
+ 
+ 
+put into use, while sectors such as transport will electrify very rapidly. General government revenue 
+from emissions trading and indirect taxes will increase, unlike under the other scenarios. The focus 
+of taxation will shift more clearly towards taxing consumption when compared with the other 
+scenarios. 
+The Savings scenario underlines domestic measures to reduce emissions, ranging from energy savings 
+to biofuels. However, this scenario also makes room for exports, although growth in the output of 
+several export industries will remain slower than under the Continuous Growth scenario. Trends in 
+transport are similar to the WEM scenario. Consumption taxes will also increase almost in step with 
+the WEM scenario. However, economic growth will fall slightly short of the level projected in the 
+Continuous Growth scenario. Increases in environmentally-related indirect taxation, used as an 
+instrument of steering household behaviour based on environmental considerations, will remain at a 
+lower level when compared with the previous scenarios, as the proportion of CO  taxation will 
+2
+decrease due to growth in the use of domestic biofuels. 
+The Continuous Growth and Savings scenarios aim to describe economic development in the light of 
+different technological choices and trajectories and emission reduction targets. As the scenarios differ 
+in all of these respects (first and foremost in terms of reducing emissions), they are not unambiguously 
+comparable to the extent that it would be possible to shift from one scenario to the other by making 
+different choices. Rather, the scenarios describe the outcomes to which the choices and objectives 
+decided in the very near future could lead. 
+The differences between the scenarios stem from divergent technologies and production. In other 
+sectors of the economy, their differences will ultimately remain relatively limited. In other words, 
+while the scenarios may involve quite different choices in terms of technologies and emission 
+reductions, the choices will spread from the key sectors to other sectors of the economy to a moderate 
+extent and none of the scenarios entails endangering the prerequisites of economic growth and the 
+welfare state, as shown in Figures 15 and 16. Nevertheless, the focus of growth will be slightly 
+different under different scenarios. Technological advancements – growth in total factor productivity 
+– will play a key role in the future as well. However, deploying new technologies will require 
+increasing investments – as energy will be replaced with capital – and this will manifest as a higher 
+growth impact of capital when compared with the WEM scenario. More stringent emission targets, 
+in turn, will be reflected in quite a pronounced increase in the contribution of economic steering – i.e. 
+indirect taxes – on growth. 
+ 
+ 36 
+   
+ 
+ 
+ 
+Figure 15. Impact of economic demand items on growth in domestic product in 2019–2035, %. 
+ 
+ 
+Figure 16. Impact of economic demand items on growth in domestic product in 2019–2050, %. 
+ 
+ 37 
+   
+ 
+ 
+The differences between the scenarios in terms of economic wellbeing can be described by means of 
+a decomposition of aggregate demand growth, presented for 2035 and 2050 in Figures 17 and 18, 
+respectively. Economic wellbeing will grow even with the transition to a low-carbon society. When 
+analysed through the lens of growth in consumption, the technology-driven differences between the 
+scenarios will also become clearer because of their quite different focus and timing for deployment 
+of new technologies. 
+In conclusion, it is fair to say that, based on the modelling, economic wellbeing will grow even with 
+the transition to a low-carbon or carbon-neutral society. When approached through both supply and 
+demand, however, it becomes clear that an early pursuit of carbon neutrality will entail additional 
+costs when compared with the previous timetable for reducing emissions. Nevertheless, it is assessed 
+that this will neither jeopardise household wellbeing nor the public sector’s fiscal position and future 
+provision of welfare services. 
+ 
+ 
+Figure 17. Impact of economic supply items on growth in domestic product in 2019–2035, %. 
+ 
+ 38 
+   
+ 
+ 
+ 
+Figure 18. Impact of economic supply items on growth in domestic product in 2019–2050, %. 
+ 
+Figures 19 and 20 describe the impact of the carbon neutrality target on economic energy and 
+emissions intensity under the WEM scenario and in the low-emission scenarios. Emissions intensity, 
+in  particular,  has  declined  significantly  since  the  turn  of  the millennium.  However,  it  is  also 
+considered that energy intensity should continue to fall to half the current levels, while emissions 
+intensity should correspondingly drop to a level close to zero by 2050. Energy intensity will also 
+decline under the WEM scenario, which means that energy efficiency will improve even with existing 
+measures. 
+ 
+ 39 
+   
+ 
+ 
+ 
+Figure 19. Trends in economic energy intensity under the WEM scenario and in the 
+low-emission scenarios. 
+ 
+ 
+Figure 20. Trends in economic emissions intensity. Emissions include GHG 
+emissions under the Kyoto Protocol but exclude land use emissions and removals 
+(i.e. the LULUCF sector). 
+ 
+ANNEXES 
+1.  Summary of the results of the public consultation organised on Finland’s long-term strategy 
+2.  Balance between GHG emissions and removals under different scenarios 
+3.  Descriptions of scenario modelling processes 
+ Annex 1  1 
+ 
+ 
+Summary of the results of the public consultation organised on 
+Finland’s long-term strategy 
+ 
+Question 1: 
+The 2050 greenhouse gas emission reduction target (excl. the land use sector) is set at 87.5% under 
+the Continuous Growth scenario and at 90% under the Savings scenario compared to 1990 levels. 
+Both of the low-emission scenarios also achieve the 2035 carbon neutrality target. Is the 2050 target 
+to reduce greenhouse gas emissions ambitious enough and what should Finland’s greenhouse gas 
+emission reduction target be for 2050? 
+Summary of responses: 
+There were varying responses about the level of ambition of the emission reduction target. Some 
+thought that it would be sufficiently ambitious if carbon neutrality were to be achieved by 2035, 
+whereas others felt that it was still too soon to judge whether the level of ambition was adequate. The 
+level of ambition of the 2050 target, in particular, was considered to be too low, especially in terms 
+of what level of emission reductions would be fair for Finland. 
+There were also comments arguing that too stringent emission reduction targets would lead to loss of 
+cost-efficiency and additional economic costs and that emission reductions should be planned so as 
+not to stop at 2050. Respondents also mentioned carbon negativity and the absence of measures to 
+achieve climate neutrality on time. More important than precise numerical targets was the trend. 
+Question 2: 
+In your opinion, have the long-term strategy scenarios successfully identified realistic emission 
+reductions, or has something been overlooked? 
+Summary of responses: 
+The role of consumption and emissions generated elsewhere from Finnish consumption should be 
+taken into account in emission reductions and  various steering instruments  should be used to 
+encourage more responsible consumption patterns. Aspects that seem to have been overlooked 
+include the possibility of using steering instruments to encourage emission reductions in the land use 
+sector; the full potential of electrification in energy production; the opportunities provided by the 
+circular economy, material efficiency and digitalisation; as well as the potential of sustainable 
+mobility modes. 
+All sectors of society should pitch in with the joint emission reduction effort. The Finnish energy 
+sector is already well advanced and the sector has a clear roadmap in place to reduce emissions on 
+the journey towards carbon neutrality. The greatest emission reduction challenges can indeed be 
+found outside the energy sector, which is why, moving forward, climate action should especially 
+focus on reducing emissions from industrial processes, as well as on urban planning, transport and 
+agricultural policy. Different technologies must be applied simultaneously, without excluding any 
+economically viable option. It is necessary to look more extensively into areas such as emission 
+reduction opportunities in industrial waste heat recovery. Climate-sustainable business activities 
+ought to be supported more effectively, making sustainable entrepreneurship more attractive than 
+engaging in business that is detrimental to the climate. Change in emission reductions may be faster 
+than suggested, but this requires substantial investments in energy production infrastructure and runs 
+the risk of a significant decline in energy efficiency. 
+ Annex 1  2 
+ 
+ 
+Climate labelling should also be mandatory for imports in all product categories. The potential for 
+increasing bioenergy use should not be overestimated. Moving forward, the use of biomass should be 
+directed towards applications capable of creating more added value than energy use (including liquid 
+fuels). Resource-efficient biomass use should therefore be adopted as a key criterion for granting 
+investment support, for example. 
+Respondents also mentioned topics such as the mandatory nature of climate labels in all product 
+categories; switching to a plant-based diet; promoting wood construction; deployment of small 
+modular reactor (SMR) plants; and the potential of geothermal energy. 
+Question 3: 
+The land use sector will remain a net sink under all of the scenarios; in other words, the sector’s 
+greenhouse gas removals exceed emissions, increasing its carbon stocks. What measures do you 
+consider the most important in the long term to strengthen carbon sinks and stocks and to reduce 
+emissions in the land use sector (land use, land-use change and forestry) in Finland? 
+Summary of responses: 
+The key point is to keep forests healthy and in good condition by means of active forest management. 
+In the forest sector, it makes no sense to consider solutions over a period of less than 50 years. 
+Especially  with  forestry  carbon  sinks,  we  should  reach  a situation  where sinks  would  not  be 
+completely dependent on demand for wood and variations in harvesting levels. Since the forest 
+growth rate is an important variable in terms of the GHG balance, any policy measures relevant to 
+growth (ensuring and increasing growth by means such as ash fertilisation) are also important. 
+The  means  suggested  by  respondents  also  included  the following:  afforestation  of  scrublands; 
+abandoning the use of peat fields and peatland clearance in agriculture; intensifying the capacity of 
+croplands as carbon sinks; establishing new nature conservation areas; and keeping to smaller forest 
+harvesting quotas, favouring the principle of continuous growth, thus also improving biodiversity 
+protection. In addition, the harvesting cycle of production forests should be extended. The safest way 
+to sequester carbon is to protect and restore forests and mires. 
+The land use sector requires stronger steering instruments to cut down on forest clearance. Emissions 
+could be reduced by curtailing deforestation with regard to both clearance of fields and construction 
+activity – the steering instruments suggested for this purpose include fees payable for land-use change 
+– or by developing the use of forests so as to maximise climate benefits, i.e. by directing the structure 
+of production towards wood products with stronger emission-reducing effects. 
+Furthermore, it is advisable to curb deforestation due to construction and agriculture and to increase 
+forest cover by afforestation where it will make a difference. Any agricultural and forestry subsidies 
+should  be  revised  to  be  based  on  environmentally-related  criteria,  which  would  also  cover 
+encouraging land owners to contribute to protecting and strengthening carbon stocks and sinks. 
+It is imperative to keep the importance of a socially just/fair transition in mind. As Finland is moving 
+its economy away from the use of fossil fuels, such as peat, it is necessary to ensure that the measures 
+involved are just and respectful of everyone’s fundamental and human rights. 
+Question 4: 
+Do you have any other comments concerning the long-term strategy? 
+ Annex 1  3 
+ 
+ 
+Summary of responses: 
+The strategy should be based on creating incentives for a just climate change by all possible means. 
+The strategy should not be isolated from measures being carried out in other sectors or administrative 
+branches. The focus should be on what to support, not on what to ban or restrict. The use of 
+agricultural and industrial subsidies should be supervised and directed towards uses where each 
+specific solution would be of most benefit in concrete terms. Strategy implementation should also be 
+considered in a broader context beyond our own country, as the decisions taken by any Nordic country 
+will also affect the others in any case. 
+Attention must be paid to communications in order for changes to seem justified and positive in terms 
+of their impacts on both human wellbeing and the economy. So far, not everyone has been engaged 
+in the joint effort by means such as the media. There is still work to be done to ensure that 
+responsibility is fairly divided between everyone. 
+It is important to consider whether Finnish energy and industrial production will bear international 
+comparison and avoid harmful leakages (investment, carbon and harvest leakages). The development 
+of technology and innovations plays a key role in terms of implementing the long-term strategy. 
+Finland is especially well positioned in energy and low-carbon technologies, not only domestically, 
+but also on international markets. Successful domestic demonstrations provide valuable references 
+for the Finnish technology industry on international markets and in developing new business. At the 
+same time, however, the business community perceives the unpredictability of legislation to be the 
+main factor slowing down climate action. 
+The strategy development work was criticised, among other things, by pointing out that the existing 
+political  steering  instruments  had  failed  to  embed  a  science-based  overall  picture  in  central 
+government and as part of preparatory work. The direction is right, but the pace is still hopelessly too 
+slow. The strategy pays less attention to analysis of global impacts and dependencies. 
+The central government is also obliged to ensure that climate action is in line with its human rights 
+obligations and will reduce rather than increase inequality. It is therefore necessary to incorporate 
+assessment of fundamental and human rights into legislation and strategies as well as their drafting 
+and application. 
+When the strategy is specified, it is advisable to pay varied attention to the kinds of effects that 
+different options will have on people’s everyday lives. Among other things, it is necessary to better 
+identify vulnerable groups most affected by environmental changes and measures to combat these. 
+   
+ Annex 1  4 
+ 
+ 
+Responses from the Sámi Parliament 
+ 
+The following passages present the responses to the public consultation on Finland’s long-term 
+strategy given by the Sámi Parliament, which represents the Sámi people, the only indigenous people 
+within the European Union, and expresses their official positions. The Sámi Parliament’s responses 
+are provided in full without summarising. 
+Question 1: 
+The 2050 emission reduction target for greenhouse gases (excl. the land use sector) is set at 87.5% 
+under the Continuous Growth scenario and at 90% under the Savings scenario compared to 1990 
+levels. Both of the low-emission scenarios also achieve the 2035 carbon neutrality target. 
+The Sámi Parliamentary Council (SPC) is the cooperation body for the Sámi Parliaments of the 
+Nordic countries. In its climate policy strategy of 14 April 2010, the SPC demanded significant cuts 
+in emissions. Comparing emission levels to a single year, 1990, treats different states unequally, 
+making it possible for some states to basically not have to make any emission reductions at all. The 
+SPC proposed that the average emissions of states between 1990 and 2000 be adopted as the point of 
+reference. The SPC demanded that states reduce their greenhouse gas emissions from this average by 
+40% by 2020 and by 90% by 2050. 
+Question 2: 
+Cf. responses to ‘any other comments’ below. 
+Question 3: 
+The planning and implementation of emission reductions should be examined in a broader context: 
+Continuous environmental loading and increased exploitation of natural resources will make it 
+difficult for Sámi people to adapt to climate change and the same will also apply to adaptation of 
+Sámi livelihoods, way of life and subsistence to changing climate conditions. Measures to strengthen 
+carbon sinks and stocks must be carried out so as to avoid any negative effects on the indigenous 
+Sámi people’s health and livelihoods. The best way for the Sámi community to adapt to climate 
+change is to reduce vulnerability while also contributing to preservation of people, animals and 
+nature’s carrying capacity in Sámiland. 
+Question 4: 
+Finland’s long-term strategy development should take account of the Sámi people’s rights as an 
+indigenous people as well as the specific issues based on the Arctic location of the Sámi homeland 
+and the above-mentioned rights of indigenous peoples. The Sámi Parliament represents the Sámi 
+people in national and international contexts. The long-term strategy does not consider the transition 
+to a low-emission society from the perspective of regional or social justice; instead, its underlying 
+calculations are based on the premise that emission reduction costs will be minimised across the 
+country. 
+The Sámi Parliament considers it important that Finland’s long-term strategy to be submitted to the 
+European Commission recognise the special obligations created by the Sámi people’s status as an 
+indigenous people at the national and EU levels. Although the strategy does not specify the allocation 
+of emission reductions, its scenarios are based on qualitative and quantitative assumptions for 
+different sectors. The Sámi Parliament stresses that the special characteristics of the Sámi homeland 
+ Annex 1  5 
+ 
+ 
+should be taken into account in each sector from the outset. As they now stand, the modelled scenarios 
+seem to include assumptions that, if realised, would likely produce even quite extensive impacts from 
+the perspectives of the Sámi people’s traditional livelihoods and rights as an indigenous people. These 
+may cover assumptions relating to biofuels, battery minerals and electric vehicles, wind power 
+generation, as well as forest growth and roundwood removals. Wind power must not cause more than 
+insignificant impediment to the Sámi people’s traditional livelihoods, such as reindeer herding. The 
+assumptions on forestry rest on the existing Best Practices for Sustainable Forest Management, the 
+effectiveness of which for the Sámi homeland can justifiably be called into question. According to 
+the Government Programme, “Emissions reduction measures will be carried out in a way that is fair 
+from a social and regional perspective and that involves all sectors of society.” 
+Carbon neutrality must be pursued with due consideration for the language of the Paris Agreement’s 
+Article 2.1(b), which provides that the ability to adapt to the adverse impacts of climate change and 
+foster climate resilience and low greenhouse gas emissions development should be increased in a 
+manner that does not threaten food production. From the Sámi people’s perspective, food security 
+applies to ensuring the utilisation of natural resources – fish stocks, berries and game – at least as 
+essentially as to securing the commercial supply of food. The Sámi people’s traditional livelihoods 
+play an essential role in safeguarding their food security and their pursuit is based on traditional 
+wisdom and knowledge of nature. In terms of adaptation to climate change and Sámi people’s food 
+autonomy, it is also necessary to examine the means to promote practices of sustainable resource 
+management based on traditional wisdom. Reindeer play a demonstrably important role in mitigating 
+climate change in fell environments. 
+As the impacts of climate change are already visible in the Sámi homeland, the Sámi Parliament 
+wishes to underline the importance of creating a mechanism for Sámi people’s adaptation measures 
+(such as a Sámi climate change panel). It is of the utmost importance to provide earmarked operational 
+funds in order to enable Sámi people’s own climate change adaptation and monitoring efforts based 
+on their traditional wisdom and the observations and problem-solving methods of those pursuing 
+traditional  livelihoods,  Sámi  research,  as  well  as  their  civic  knowledge  and  representation. 
+Furthermore, projects to improve the energy efficiency of snowmobiles and ATVs should be launched 
+urgently. These vehicles are necessary in Sámi people’s traditional livelihoods, but they should be 
+developed to release less emissions while ATVs, in particular, should be developed to improve safety 
+and reduce rutting. In its 2014 recommendations to Finland (E/C.12/FIN/CO/6), the UN Committee 
+on Economic, Social and Cultural Rights stressed the need to mitigate the adverse effect of climate 
+change on the Sámi people and the Sámi homeland’s natural resources.
+ Annex 2  1 
+ 
+ 
+Balance between GHG emissions and removals under different 
+scenarios 
+ 
+GHG emissions balance under the WEM scenario (excl. LULUCF). 
+ 
+Gg (CO-eq) 
+2 2010  2015  2020  2030  2035  2040  2050 
+Emission category 
+1A Emissions from fuel combustion  60,095  40,715  39,992  33,802  31,428  26,062  15,244 
+1A1 Energy industries  30,947  17,766  16,875  12,899  12,352  9,422  5,757 
+1A2 Manufacturing industries and  10,250  6,949  8,522  8,204  8,054  7,996  3,838 
+construction 
+1A3 Transport  12,712  11,109  11,090  9,832  8,542  6,447  3,900 
+1A4 Other sectors  4,982  3,803  2,413  1,821  1,460  1,207  822 
+1A5 Other fuel use  1,204  1,088  1,092  1,047  1,019  989  927 
+1B Fugitive emissions from fuels  142  146  141  129  123  120  118 
+2 Industrial processes and product use  6,147  5,861  6,350  6,161  4,849  4,647  4,412 
+2A Mineral industry  1,167  964  1,171  1,183  1,029  1,044  1,125 
+2B Chemical industry  1,016  1,170  1,340  1,375  387  351  221 
+2C Metal industry  2,439  2,142  2,446  2,724  2,740  2,737  2,608 
+2D Non-energy use  85  104  95  100  102  104  107 
+2F F-gases  1,438  1,480  1,298  778  591  410  351 
+3 Agriculture  6,630  6,491  6,571  6,548  6,491  6,455  6,342 
+3A Enteric fermentation  2,099  2,117  2,078  2,046  2,008  1,970  1,864 
+3B Manure management  748  751  819  788  743  719  662 
+3D Agricultural soils  3,502  3,439  3,448  3,486  3,513  3,539  3,589 
+3F Field burning of agricultural residues  2  3  3  3  3  3  3 
+3G Liming  277  180  222  222  222  222  222 
+3H Urea application  2  2  2  2  2  2  2 
+5 Waste management  2,583  2,134  1,644  1,041  793  629  452 
+5 Waste disposal  2,194  1,766  1,268  699  455  295  126 
+5B Biological treatment of waste  144  113  100  100  100  100  100 
+5D Wastewater treatment and discharge  246  254  276  242  238  235  225 
+Indirect CO emissions  68  53  76  76  76  76  76 
+2
+Emissions without LULUCF  75,664  55,400  54,774  47,757  43,759  37,989  26,644 
+ 
+NB! Agricultural emission results do not correspond exactly to those provided by the Natural Resources Institute Finland (Luke). 
+ 
+Luke’s estimates are presented in a Finnish-language report available at: https://www.vtt.fi/inf/pdf/technology/2020/T366.pdf. 
+ Annex 2  2 
+ 
+ 
+GHG emissions balance under the Continuous Growth scenario (excl. LULUCF). 
+ 
+Gg (CO-eq) 
+2 2010  2015  2020  2030  2035  2040  2050 
+Emission category 
+1A Emissions from fuel combustion  60,095  40,715  38,292  23,595  14,307  7,473  3,340 
+1A1 Energy industries  30,947  17,766  17,098  9,137  5,875  4,267  2,524 
+1A2 Manufacturing industries and  10,250  6,949  7,569  6,356  4,170  1,589  32 
+construction 
+1A3 Transport  12,712  11,109  10,091  5,668  2,498  1,069  351 
+1A4 Other sectors  4,982  3,803  2,442  1,387  745  332  265 
+1A5 Other fuel use  1,204  1,088  1,092  1,047  1,019  215  168 
+1B Fugitive emissions from fuels  142  146  136  123  82  73  53 
+2 Industrial processes and product use  6,147  5,861  6,328  5,797  3,410  3,223  1,664 
+2A Mineral industry  1,167  964  1,090  1,113  1,187  1,257  1,263 
+2B Chemical industry  1,016  1,170  1,340  1,375  387  351  220 
+2C Metal industry  2,439  2,142  2,412  2,596  1,304  1,350  0 
+2D Non-energy use  85  104  95  100  101  103  107 
+2F F-gases  1,438  1,480  1,391  612  430  161  75 
+3 Agriculture  6,630  6,491  6,358  5,158  4,629  4,132  3,436 
+3A Enteric fermentation  2,099  2,117  1,989  1,537  1,375  1,256  1,105 
+3B Manure management  748  751  764  629  568  467  378 
+3D Agricultural soils  3,502  3,439  3,395  2,826  2,529  2,261  1,816 
+3F Field burning of agricultural residues  2  3  3  3  3  3  3 
+3G Liming  277  180  207  162  153  143  132 
+3H Urea application  2  2  2  2  2  2  2 
+5 Waste management  2,583  2,134  1,643  1,004  711  540  346 
+5 Waste disposal  2,194  1,766  1,266  662  462  304  133 
+5B Biological treatment of waste  144  113  100  100  100  100  100 
+5D Wastewater treatment and discharge  246  254  276  242  149  137  113 
+Indirect CO emissions  68  53  62  62  62  62  62 
+2
+Emissions without LULUCF  75,664  55,400  52,819  35,738  23,200  15,503  8,900 
+ 
+NB! Agricultural emission results do not correspond exactly to those provided by the Natural Resources Institute Finland (Luke). 
+ 
+Luke’s estimates are presented in a Finnish-language report available at: https://www.vtt.fi/inf/pdf/technology/2020/T366.pdf. 
+ Annex 2  3 
+ 
+ 
+GHG emissions balance under the Savings scenario (excl. LULUCF). 
+ 
+Gg (CO-eq) 
+2 2010  2015  2020  2030  2035  2040  2050 
+Emission category 
+1A Emissions from fuel combustion  60,095  40,715  39,623  25,423  4,416  -6  -7,834 
+1A1 Energy industries  30,947  17,766  17,572  8,501  -1,371  -3,120  -
+11,467 
+1A2 Manufacturing industries and  10,250  6,949  7,887  8,739  2,080  349  1,436 
+construction 
+1A3 Transport  12,712  11,109  10,660  6,959  3,053  2,242  1,777 
+1A4 Other sectors  4,982  3,803  2,412  612  403  301  252 
+1A5 Other fuel use  1,204  1,088  1,092  612  250  222  168 
+1B Fugitive emissions from fuels  142  146  139  145  90  84  67 
+2 Industrial processes and product use  6,147  5,861  6,438  5,655  3,546  3,379  1,796 
+2A Mineral industry  1,167  964  1,095  926  772  772  848 
+2B Chemical industry  1,016  1,170  1,350  1,375  1,124  1,082  758 
+2C Metal industry  2,439  2,142  2,506  2,642  1,239  1,261  0 
+2D Non-energy use  85  104  95  100  101  103  107 
+2F F-gases  1,438  1,480  1,391  612  310  161  83 
+3 Agriculture  6,630  6,491  6,316  5,299  4,877  4,441  4,043 
+3A Enteric fermentation  2,099  2,117  1,979  1,654  1,526  1,399  1,295 
+3B Manure management  748  751  735  609  616  495  532 
+3D Agricultural soils  3,502  3,439  3,395  2,856  2,559  2,375  2,052 
+3F Field burning of agricultural residues  2  3  3  3  3  3  3 
+3G Liming  277  180  202  175  171  167  160 
+3H Urea application  2  2  2  2  2  2  2 
+5 Waste management  2,583  2,134  1,646  1,023  710  539  348 
+5 Waste disposal  2,194  1,766  1,270  681  461  303  135 
+5B Biological treatment of waste  144  113  100  100  100  100  100 
+5D Wastewater treatment and discharge  246  254  276  242  149  137  113 
+Indirect CO emissions  68  53  62  62  62  62  62 
+2
+Emissions without LULUCF  75,664  55,400  54,223  37,606  13,700  8,500  -1,518 
+ 
+NB! Agricultural emission results do not correspond exactly to those provided by the Natural Resources Institute Finland (Luke). 
+Luke’s estimates are presented in a Finnish-language report available at: https://www.vtt.fi/inf/pdf/technology/2020/T366.pdf. 
+   
+ Annex 2  4 
+ 
+ 
+Estimated trends in emissions and removals in the LULUCF sector under different scenarios. 
+ 
+Table 1. Historical emissions and removals in the LULUCF sector by land use category and for harvested wood products 
+for 2010 and 2015 and their trends by 2050 under the WEM scenario (Mt CO2-eq). 
+  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  -32.20  -28.29  -30.64  -28.16  -25.00  -26.66  -28.01  -31.20  -34.43 
+Cropland  7.66  7.11  6.72  7.38  7.59  7.65  7.68  7.76  7.88 
+Grassland  0.75  0.67  0.88  1.12  1.25  1.31  1.28  1.28  1.28 
+Wetlands  2.11  2.21  2.07  1.95  1.87  1.86  1.85  1.78  1.70 
+Settlements  1.73  0.97  1.31  1.30  1.27  1.18  1.11  1.02  0.92 
+Harvested wood 
+-2.20  -2.73  -3.81  -3.64  -3.50  -3.29  -3.16  -3.08  -2.98 
+products 
+Total  -22.15  -20.07  -23.46  -20.05  -16.52  -17.94  -19.25  -22.44  -25.63 
+ 
+Table 2. Historical emissions and removals in the LULUCF sector by land use category and for harvested wood products 
+for 2010 and 2015 and their trends by 2050 under the Continuous Growth scenario (Mt CO2-eq). 
+  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  -32.20  -28.29  -26.29  -25.09  -23.53  -27.48  -31.34  -36.56  -42.17 
+Cropland  7.66  7.11  6.63  5.92  5.11  4.23  3.31  2.44  1.59 
+Grassland  0.75  0.67  0.74  0.86  1.02  1.19  1.35  1.37  1.40 
+Wetlands  2.11  2.21  1.86  1.85  1.86  1.91  1.93  2.16  2.40 
+Settlements  1.73  0.97  1.32  1.34  1.32  1.25  1.17  1.08  0.99 
+Harvested wood 
+-2.20  -2.73  -3.81  -3.94  -4.09  -3.95  -3.99  -4.12  -4.21 
+products 
+Total  -22.15  -20.07  -19.55  -19.05  -18.31  -22.84  -27.56  -33.62  -40.02 
+ 
+Table 3. Historical emissions and removals in the LULUCF sector by land use category and for harvested wood products 
+for 2010 and 2015 and their trends by 2050 under the Savings scenario (Mt CO2-eq). 
+  2010  2015  2020  2025  2030  2035  2040  2045  2050 
+Forest land  -32.20  -28.29  -25.89  -21.40  -16.14  -14.77  -13.01  -14.45  -15.85 
+Cropland  7.66  7.11  6.64  6.09  5.47  4.77  4.02  3.31  2.63 
+Grassland  0.75  0.67  0.74  0.78  0.85  0.93  1.00  1.07  1.13 
+Wetlands  2.11  2.21  2.07  1.86  1.68  1.49  1.30  1.30  1.30 
+Settlements  1.73  0.97  1.32  1.30  1.24  1.16  1.06  0.93  0.82 
+Harvested wood 
+-2.20  -2.73  -3.90  -4.32  -4.67  -5.32  -5.95  -6.19  -6.42 
+products 
+Total  -22.15  -20.07  -19.03  -15.70  -11.58  -11.75  -11.58  -14.03  -16.39 
+ 
+ Appendix 3  1 
+ 
+ 
+Descriptions of scenario modelling processes 
+ 
+The scenarios were modelled using the following calculation models: 
+ 
+  the TIMES-VTT model: energy production and energy systems, including production 
+scenarios for harvested wood products; 
+  the REMA model: energy consumption of the building stock; 
+  the DREMFIA model: agriculture; 
+  the MELA software: development of forest resources; 
+  the FINAGE model: economic trends. 
+ 
+These models and other methods used in modelling are described below. 
+ 
+Description of the TIMES-VTT model and its database 
+A key tool used to model and analyse the scenarios is the broad TIMES-VTT energy system model 
+developed by VTT Technical Research Centre of Finland Ltd, which covers global energy production 
+and consumption as well as greenhouse gas emissions. The model is based on the global ETSAP 
+TIAM model (Loulou 2008, Loulou & Labriet 2008), which was developed through international 
+cooperation, building on the IEA ETSAP TIMES modelling system (Loulou et al. 2016). The TIMES-
+VTT model describes energy systems in Finland, the Nordic countries and the rest of Europe. 
+Methodologically, it is a so-called partial equilibrium model, which maximises the total economic 
+surplus of consumers and producers. The model includes detailed descriptions of both the current 
+system of energy production and consumption and future technologies in terms of several different 
+investment options. 
+The TIMES-VTT model’s extensive database contains a detailed description of the current energy 
+system, including the energy production and distribution system, building stock, energy uses in 
+housing and services, stock of cars and other vehicles, processes and plants for manufacturing energy-
+intensive industrial products, other industrial energy end uses, as well as energy use in agriculture 
+and forestry. The model database also covers estimates of energy system removals, such as removals 
+from energy production plants, buildings and vehicles. However, the largest part of the database 
+naturally consists of technological descriptions of investment options in future energy systems, 
+including estimated trends in their costs and technical performance (energy production efficiencies, 
+service  life,  usability,  etc.).  The  model  also  depicts  regional  technical  potential  of  energy 
+commodities, the global fuel trade, emissions trading (incl. trade in CO  transport and storage 
+2
+services). The TIMES-VTT model and its databases have been discussed in several scientific articles 
+(Koljonen et al. 2009, Koljonen & Lehtilä 2015, Lehtilä & Koljonen 2018). 
+The energy system model’s solution is based on maximising the producer and consumer surplus and 
+the resulting energy supply and end use system therefore satisfies the demand for useful energy as 
+cost-efficiently as possible, taking account of factors such as taxes, subsidies and return on investment 
+requirements in different sectors of the economy. The model also allows a wide variety of limitations 
+to be set on the system’s development. By way of example, several forms of energy production have 
+been assigned upper or lower limits for production, capacity or market share, which the solution must 
+accommodate. The model examines energy consumption and production on the basis of consistent 
+principles, so as to account for the interaction between production investments and the opportunities 
+to enhance energy efficiency. 
+ Appendix 3  2 
+ 
+ 
+The TIMES-VTT model covers all of the GHG emissions under the Kyoto Protocol and their 
+reduction  technologies  and/or  methods.  Consequently,  the  low-emission  scenarios  assume  that 
+emission reductions will be carried out in all sectors generating GHG emissions (excluding the 
+LULUCF sector) in the order of cost. Another example of limitations set for the scenarios is the 
+emission cap set for effort sharing sectors. The model examines energy consumption and production 
+on  the  basis  of  identical  principles,  so  as  to  account  for  the  interaction  between  production 
+investments and the opportunities to enhance energy efficiency. 
+The level of energy consumption and trend in emissions calculated in the TIMES-VTT model depend 
+on several factors provided as baseline data. The key baseline data used by the model includes: 
+  trends in different economic sectors, including industrial sectors, households, services, agriculture and forestry, and 
+extractive industries; 
+  trends in production of different products in energy-intensive industrial sectors; 
+  the existing stock of cars and other vehicles and trends in mobility and transport needs by mode of transport; 
+  the existing building stock and trends in inhabitable surface area by type of building; 
+  existing energy and climate policy steering instruments, incl. energy and emission taxes, subsidies, and regulations, 
+legal statutes and other such instruments adopted to increase energy efficiency; 
+  quantitative removals from the plant and equipment base in the current energy system and the assumed 
+development of available technological options in all sectors both in terms of technical parameters and costs. 
+The energy system model produces a trajectory for an energy supply and end use system that can 
+satisfy the demand for useful energy as cost-efficiently as possible, taking account of factors such as 
+taxes, subsidies and return on investment requirements of parties operating in different sectors. The 
+results produced by the model cover the annual flows of all of the energy commodities, materials and 
+emissions described in the model from production, import and inventories to end use, export, storage 
+and disposal or recycling. The results for the levels of GHG emissions can be broken down by sector 
+and emission type and, where necessary, by process. The results also include details such as the 
+capacities, investment costs and operating costs for all of the production plants and technologies 
+described in the model. The model further produces results for energy commodity prices, which 
+represent long-term equilibrium prices. 
+MMooddeell  sscceennaarriiooss  
+MMooddeell  iinnppuutt TTIIMMEESS--VVTTTT::  1155  gglloobbaall  rreeggiioonnss  ++  55  nnoorrddiicc MMooddeell  rreessuullttss
+ddaattaa
+rreeggiioonnss  ((FFIINN,,  FFII--MMeettrroo,,  DDNNKK,,  NNOORR,,  SSWWEE)) EEnneerrggyy  pprroodduuccttiioonn
+••BByy  ppeerriioodd
+RReessoouurrcceess EEnneerrggyy   TTrraannss-- DDeemmaanndd   ••BByy  tteecchhnnoollooggyy
+••FFoossssiill  rreessoouurrcceess ccoonnvveerrssiioonn mmiissssiioonn  // tteecchhnnoollooggiieess ••BByy  eenneerrggyy  ssoouurrccee
+••RREE  ppootteennttiiaallss
+••LLaanndd  uussee ddiissttrriibbuuttiioonn IInndduussttrryy  sseeccttoorrss ••EEBBnnyyee  pprreeggrriiyyoo  ddeenndd--uussee
+••EElleeccttrriicciittyy ••EElleeccttrriicciittyy  ggrriidd ••CCHHPP  //  bbooiilleerrss ••BByy  sseeccttoorr  //  eenndd--uussee
+••CCHHPP ••DDiissttrriicctt   ••MMaannuuff..pprroocceesssseess ••BByy  eenneerrggyy  ssoouurrccee
+TTeecchhnnoollooggyy ••HHeeaatt hheeaattiinngg  ggrriidd ••BByy  tteecchhnnoollooggyy
+••EExxiissttiinngg  ssyysstteemmss ••FFuueell  rreeffiinniinngg ••GGaass  ggrriidd TTeerrttiiaarryy  sseeccttoorrss
+••EEnneerrggyy  ttrraaddee   ••HHyyddrrooggeenn ••OOtthheerr  ffuueellss ••HHeeaattiinngg  ssyysstteemmss EEmmiissssiioonnss
+iinnffrraassttrruuccttuurree pprroodduuccttiioonn ddiissttrriibbuuttiioonn ••HHWW  ssyysstteemmss ••BByy  ppeerriioodd
+••~~11550000  nneeww  tteecchhss ••CCoooolliinngg  ssyysstteemmss ••BByy  sseeccttoorr
+iinn  eeaacchh  rreeggiioonn ••LLiigghhttiinngg ••BByy  eemmiissssiioonn  ttyyppee
+••OOtthheerr  aapppplliiaanncceess
+CCoossttss
+DDeemmaannddss TTrraannssppoorrtt  sseeccttoorrss ••CCoossttss  bbyy  ppeerriioodd  aanndd  
+ccoosstt  ttyyppee
+••~~6600  ddeemmaannddss   ••PPaassss..  ttrraannssppoorrtt ••IInnvveessttmmeennttss
+((uusseeffuull  sseerrvviicceess)) ••FFrreeiigghhtt  ttrraannssppoorrtt
+iinn  eeaacchh  rreeggiioonn   ••IInnttll..  ttrraannssppoorrtt EEnneerrggyy  pprriicceess
+••FFuueellss
+••EElleeccttrriicciittyy
+••DDiissttrriicctt  hheeaatt
+ 
+Figure 1. The TIMES model components and a simplified structure diagram for one region. The diagram describes trade in key en-
+ergy commodities between regions. 
+ Appendix 3  3 
+ 
+ 
+The TIMES-VTT model allows the user to freely choose an analysis interval all the way up to 2150, 
+but its current version sets the base year at 2010. The model is calibrated to the detailed energy 
+balances of the International Energy Agency (IEA) for all countries in 2010 and 2015. For Finland, 
+these are based on the statistics submitted to the IEA by Statistics Finland, but the calculation method 
+is slightly different from national energy statistics. 
+The REMA model for energy consumption of the building stock 
+The energy consumption of the building stock was calculated using the REMA model developed by 
+VTT Technical Research Centre of Finland Ltd. The REMA model is a bottom-up model for 
+calculating the energy consumption of the building stock, which is based on the use of representative 
+standard buildings. Future trends in energy consumption were calculated on the basis of the volumes 
+of new construction, renovations and annual removals projected for each category of intended use 
+and age. The model divides the entire building stock based on the following intended uses: 
+  one-dwelling houses; 
+  terraced houses and residential blocks of flats; 
+  commercial and public buildings; 
+  free-time residences. 
+The ‘commercial and public buildings’ include the following types of buildings used by Statistics 
+Finland: commercial buildings, office buildings, transport and communications buildings, buildings 
+for institutional care, assembly buildings, and educational buildings. Each type of building stock 
+classified by intended use is further divided into age groups by year of completion. The age groups 
+were determined with a view to taking account of developments in energy performance requirements 
+as follows: 
+  completed prior to 1959; 
+  completed in 1960–1979; 
+  completed in 1980–2009; 
+  completed in 2010–2018; 
+  forecast for 2019–2024; 
+  forecast for 2025–2050. 
+In each building category, energy for heating the facilities was modelled separately from heat losses 
+due to ventilation and envelope (U-value and tightness). In addition to heating, the calculation 
+includes energy required for domestic hot water, as well as real estate electricity and other electricity 
+consumed by users. 
+The REMA model allows the energy consumption levels of standard buildings to be derived from 
+statistical data, estimated or obtained from simulated buildings. In this case, the modelling was based 
+on data from Statistics Finland (2018) and prior studies (e.g. Tuominen et al. 2012 and Tuominen et 
+al. 2013) for the existing building stock and on the baseline scenario for energy consumption in 
+buildings published by the Finnish Environment Institute (Mattinen et al. 2016) for new buildings. 
+The resulting baseline scenario, in turn, was used to derive the other scenarios by adapting these to 
+each scenario narrative. A more detailed description of the REMA model is publicly available in 
+Finnish (Tuominen et al. 2014). 
+The DREMFIA partial equilibrium model for agriculture 
+The DREMFIA model (Dynamic multiREgional sector Model of FInnish Agriculture; Lehtonen 
+2001, 2015) is an economic partial equilibrium model covering the main production sectors, arable 
+land use, domestic demand and foreign trade in Finnish agriculture within the following four major 
+ Appendix 3  4 
+ 
+ 
+regions: Southern Finland, Inland Finland, Ostrobothnia and Northern Finland (Lehtonen 2015). The 
+major regions are divided into smaller production areas based on the division into aid zones, providing 
+quite a precise description of aid policy. The DREMFIA model does not include reindeer, horse and 
+sheep husbandry and the agricultural scenario analyses assume the numbers of these animals to 
+remain close to 2018 levels through to 2050. Fur farming and horticultural production are also 
+excluded from the model. Nevertheless, the model covers over 95% of agricultural land use. 
+Structural development in Finnish agriculture was modelled endogenously, allowing for the growth 
+observed in the number of dairy cows in the largest farm size categories and in Finland’s main 
+production areas, which is taken into account in arable land use. The model was validated so as to 
+more or less match actual developments in total livestock production volumes and arable land use in 
+1995–2018. At the same time, the model takes account of the domestic consumption of Finnish 
+agricultural products in parallel to changes in imports and exports. Domestic consumption may be 
+satisfied with domestic production or competing imported products. Consumption for the 2019–2050 
+period follows actual developments between 1995 and 2018 and consumption in 2018, unless 
+otherwise determined in specific scenarios, as shown below. 
+The model assumes that Finland is completely dependent on the input and product prices formed at 
+EU and global levels. However, the price levels of domestic agricultural products may differ slightly 
+from average EU prices. Product-specific deviations in the producer prices of milk and meat, for 
+example, are realised in the model such that domestic and foreign products are treated as imperfect 
+substitutes. In other words, they can substitute for each other to quite a large – yet limited – extent, 
+being different in terms of quality. By way of example, Finland partially imports and exports different 
+types of meat (different carcass parts) and different dairy products (of which the model includes 18 
+different kinds). 
+Animal feed consumption may adjust to different levels of output, guided by price ratios, within the 
+framework of feed recommendations. Livestock production has a major impact on feed production 
+and arable land use. Developments in surface areas used for different crops are also influenced by 
+agricultural  support  and  the  prices  of  fertilisers  and  agricultural  products.  Consequently,  the 
+DREMFIA  model  broadly  replicates  the  1995–2018  developments  in  Finland’s  agricultural 
+production and land use, including the key variables required to assess agricultural trajectories and 
+trends in GHG emissions from agriculture through to 2050. 
+The agricultural trajectory covers annual developments through to 2050. The model was originally 
+designed  and  implemented  so  as  to  specifically  enable  the  assessment  of  agricultural  support 
+payments under the EU Common Agricultural Policy (CAP), including the terms of support, and the 
+effects of Finland’s national agricultural policy measures on the volume and placement of agricultural 
+production and agricultural income in Finland. The most recent study on this subject was published 
+by Lehtonen & Niemi (2018). The DREMFIA model was also applied when assessing the impacts of 
+market changes, the agri-environmental scheme (Lehtonen & Rankinen 2015) and changing climate 
+(Lehtonen 2015) on agricultural production, arable land use and income. The population projections 
+by Statistics Finland (Tilastokeskus 2015) and trends in energy prices forecast up until the mid-
+century are taken into account in DREMFIA modelling, which produces the inputs required to 
+calculate greenhouse gases, also taking account of the numbers of reindeer, sheep, horses and fur 
+animals. 
+The DREMFIA sector model allows inclusion of changes determined in different scenarios for crop 
+yields, agricultural productivity, input use and agricultural support, as well as the EU prices of 
+agricultural end products and inputs. By way of example, fertiliser tax – which is not currently levied 
+but can be determined in different scenarios – will have a direct effect on reducing crop fertilisation 
+ Appendix 3  5 
+ 
+ 
+and yield levels in the model. Fertiliser tax and any possible new or substitute forms of agricultural 
+support for grasslands with low fertiliser levels will encourage the use of nitrogen-fixing grass-clover 
+mixtures. This will be implemented in the model such that silage grass production based on intensive 
+inorganic nitrogen fertilisation will decline and will be partially replaced with grass production with 
+low fertiliser and yield levels (Lehtonen & Niskanen 2016). The effects of biogas production on 
+livestock production may be taken into account by assuming a slight reduction in energy costs in 
+livestock production, but any more precise change in input use will be omitted for the time being, 
+because the model does not include specific details of biogas production. 
+In this study, the baseline data for GHG calculations produced by the DREMFIA model includes 
+nitrogen contained in chemical fertilisers, arable land use and numbers of animals for the main 
+categories  of  livestock.  Future  developments  in  livestock  weight,  nitrogen  excretion  and  milk 
+production will continue to follow those reported in the GHG inventory. 
+Calculations for the land use, land-use change and forestry (LULUCF) sector 
+The scenarios for the land use, land-use change and forestry (LULUCF) sector were made up of 
+scenarios separately calculated for harvested wood products and for each land use category. The 
+process of drafting the scenarios was divided into four phases. The first phase produced scenarios for 
+the surface areas of land use categories and land-use change categories; surface areas constitute a key 
+baseline data set for LULUCF calculations. Forest development scenarios, mostly focusing on the 
+development of growing stock, formed a separate phase. The production scenarios for harvested wood 
+products were created using the TIMES-VTT model and its results were used as baseline data for 
+calculating changes in the carbon stocks of harvested wood products. The fourth phase consisted of 
+non-forest land use categories and land-use change categories. 
+Determining surface areas for land use and land-use change 
+Emissions and removals in the LULUCF sector were calculated in six land use categories covering 
+Finland’s land area and inland waters. Marine waters were excluded from the analysis. Land-use 
+change areas were estimated using a method proposed by Haakana et al. (2015), accounting for each 
+scenario’s underlying assumptions on factors such as wind farms or field afforestation (Kärkkäinen 
+et al. 2019). The land-use change scenarios are premised on the trends calculated from previous 
+changes in land use and averages of annual land-use change areas. These were supplemented with 
+each scenario’s updated assumptions. Historical data is the same as that used in the MALULU project 
+(Aakkula et al. 2019). Furthermore, emission calculations made use of surface area data from 
+Finland’s most recent GHG inventory (Tilastokeskus 2019). The total of Finland’s land area and 
+inland waters was  assumed to remain constant at 33.8 million hectares through to 2050. This 
+standardised total area is also used in the GHG inventory, although it is known that there is some 
+change from marine water to land. The use of the standardised area does not have any significant 
+bearing on the scenarios. 
+In addition to the historical data and calculated trends, developments in settlements under different 
+scenarios were guided by the TIMES-VTT model’s quantitative estimates on trends in solar and wind 
+power under different scenarios and, for transport routes, the railway projects already decided. The 
+area required for a single wind farm was estimated at 2 hectares with the average farm size of 2–5 
+MW (Niemi 2019, Mikkonen 2019). The area required for a single one-TWh solar power plant built 
+onshore was estimated at 1,000 ha, which was used to convert output figures into hectares (Lehtilä 
+2019). 
+ Appendix 3  6 
+ 
+ 
+Energy peat production was estimated to develop in different alternative scenarios in keeping with 
+the  peat  energy  output  (PJ/yr)  produced  by  the  TIMES-VTT  model.  The  production  area 
+corresponding  to  energy  output  was  derived  by  scaling  known  surface  areas  and  energy  use. 
+Environmental peat production was assumed to remain at current levels. 
+The LULUCF Continuous Growth and Savings scenarios cover assumptions on the growth in the area 
+used for bioenergy crops, on the one hand, and the sharp decline in cropland area. As a result, more 
+croplands will be converted into forest land or grassland than under the WEM scenario. 
+Using the MELA software to model the development of forest resources 
+The  harvesting  projections  of  the  different  scenarios  that  correspond  to  the  use  of  domestic 
+commercial timber, forest chips and fuel wood and the development of forest resources contingent 
+on these (growing stock volume, biomass, growth) and drain (harvesting and natural drain) were 
+calculated using the MELA2016 software developed by the Finnish Environment Centre (Hirvelä et 
+al. 2017). The results of MELA calculations were used to assess change in the carbon stocks of 
+moorland soil and forested peatlands. Under the WEM scenario, regional roundwood removal targets 
+corresponding to the use of commercial timber and energy wood were determined in keeping with 
+the LULUCF sector’s WEM scenario developed for a report on the development of emissions and 
+sinks in the agricultural and LULUCF sectors until 2050 (Aakkula et al. 2019). The forest industry 
+production  volumes  calculated  under  the  Continuous  Growth  and  Savings  scenarios  using  the 
+TIMES-VTT model were converted into forest industry wood consumption volumes by means of 
+coefficients. Consumption volumes were estimated taking account of commercial timber imports. 
+These consumption volumes of domestic commercial timber and energy wood under the Continuous 
+Growth and Savings scenarios were further converted into regional roundwood removals, which were 
+used to calculate the MELA cutting removal projections. 
+ 
+ Appendix 3  7 
+ 
+ 
+ 
+Figure 2. Calculation steps to forecast trends in forest GHG emissions and removals. 
+The baseline data on forest resources used in the projections consisted of topographic data from the 
+11th and 12th National Forest Inventories (NFI) covering the 2013–2017 inventory period, with the 
+exception of NFI11 data for Upper Lapland covering a period from 2012 to 2013 (VMI 2013 & 2017). 
+The data consisted of a total of 58,074 management units based on sample plots of forest and 
+scrubland. The management units were divided into three management categories: mainly timber 
+production, limited timber production, and excluded from timber production. The management 
+category sets the parameters for stand-specific forest harvesting and management measures permitted 
+at each specific site. The results on forest resources cover the total of all three categories, although 
+no measures were focused on non-production areas. 
+The MELA stand simulator automatically produced a number of alternative trajectories for each 
+management unit, comprising natural processes (reproduction, growth and death of trees), forest 
+harvesting and forest management work. Under all of the scenarios, forest management complied 
+with the Best Practices for Sustainable Forest Management by Tapio Ltd (Äijälä et al. 2014, Koistinen 
+et al. 2016). 
+ Appendix 3  8 
+ 
+ 
+The  harvesting  projections  were  determined  in  regional  optimisation  calculations,  which  used 
+maximum financial performance of timber production at a 4% required rate of return as the target 
+variable and the roundwood removal targets specified in each scenario for different types of timber 
+as constraints. The financial performance of commercial timber production was calculated on the 
+basis of roadside prices, while the figure applied to energy wood was the price paid for chips at the 
+point of use. Roadside prices were derived by adding up statistical stumpage prices and average actual 
+harvesting  costs.  Point-of-use  prices  for  forest  chips  followed  statistical  average  prices.  Cost 
+calculations were based on statistical unit prices for different types of work and on time consumption 
+levels  according  to  productivity  models,  allowing  for  factors  such  as  the effect  of  harvesting 
+conditions (sturdiness of trees to be removed, drain per hectare, the number of residual trees and soil). 
+The tree basal-area growth model used in the MELA software was calibrated on the basis of diameter 
+growth measurements in NFI11 data, which had first been indexed to the average 1984–2013 growth 
+level. Furthermore, the volume growth estimate produced by the MELA software was specified in 
+the scenarios by taking account of the effects on the growing stock increment of increases in average 
+temperature and air CO  concentration from the mid-year of the calibration period, 1999, to 2017. 
+2
+The volume growth estimate made use of the same method as the report on development of emissions 
+and sinks in the agricultural and LULUCF sectors until 2050 (Aakkula et al. 2019). 
+This report’s WEM scenario assumptions on developments in forestry and its operating environment 
+were the same as those used in the LULUCF-WEM scenario developed by Aakkula et al. (2019). 
+However, the MALUSEPO calculations presented here differed from the MALULU calculations 
+described by Aakkula et al. (2019) in terms such as calculation data and the timeliness of price and 
+cost data, simulated stand-level management operations and residue calculations. 
+Calculating emissions and removals in the LULUCF sector 
+The aim was to calculate GHG emissions and removals for the scenarios as consistently as possible 
+with the classifications and methods used in Finland’s Greenhouse Gas Inventory (GHG inventory) 
+by Statistics Finland (Tilastokeskus 2019). The inventory classifications and methods are based on 
+the  UN  Climate  Change  Convention’s  reporting  guidelines  and  those  drawn  up  by  the 
+Intergovernmental Panel on Climate Change (IPCC). The LULUCF sector calculations comply with 
+the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (IPCC 2006). The scenarios’ 
+emissions and removals are made up of the living biomass of carbon stocks, deadwood, forest litter 
+and soil changes (CO ), as well as methane (CH ) and nitrous oxide (N O) emissions. The scenarios 
+2 4 2
+neither assume nor take account of changes in climate. In calculations requiring weather data (such 
+as Yasso modelling), the annual weather from 2017 to 2050 is the average of 1980–2017. The carbon 
+content used for matter, such as biomass, is 50%. Carbon was converted into carbon dioxide (CO ) 
+2
+using the factor of (-44/12). Gases were converted into carbon dioxide equivalents with the global 
+warming potential (GWP) factors of the IPCC Fourth Assessment Report used in the GHG inventory, 
+which are 1 for CO , 25 for CH , and 298 for N O. The land use classification used in the scenarios 
+2 4 2
+corresponds to the classification of Finland’s Greenhouse Gas Inventory (Tilastokeskus 2019), which 
+is described in the report on development of emissions and sinks in the agricultural and LULUCF 
+sectors until 2050 (Aakkula et al. 2019). 
+The LULUCF sector comprises six land use categories – forest land, cropland, grassland, wetlands, 
+settlements and other land – as well as harvested wood products. In the scenario calculations, each 
+land use category was further divided into two components such that the emissions/removals for each 
+specific year include: 1) emissions from land-use changes made in the year in question and the 
+emissions and removals of land-use change areas converted over the preceding 19  years; and 
+2) emissions/removals from areas with no land-use changes within the last 20 years. 
+ Appendix 3  9 
+ 
+ 
+Under the scenarios, the land-use and land-use change areas continue a reported time series, which 
+means that the emissions and removals of land-use change areas included in point (1) above may 
+contain emissions/removals from areas converted in 2017 up until 2036. This applies to the WEM 
+scenario, in particular. 
+Changes in the carbon stocks of growing stock on forest land (that has been forest land for over 20 
+years) were calculated as the difference between growing stock biomass stocks over 10-yearly periods 
+produced by the MELA modelling process. Soil calculation inputs of forest litter generated by green 
+trees, natural drain and harvesting residue are also MELA results. For afforested lands (that have been 
+forest land for no more than 20 years), change in growing stock carbon stocks was calculated in 
+keeping with the GHG inventory, using estimates for the average growing stock increment and drain 
+of afforested lands based on data from the National Forest Inventory (Tilastokeskus 2019). Changes 
+in mineral soil carbon stocks were estimated using the Yasso07 soil model, while the CO , CH , N O 
+2 4 2
+emissions from drained peatlands were calculated with the emission factors of the Greenhouse Gas 
+Inventory  (Tilastokeskus  2019).  N O  emissions  from  nitrogen  fertilisation  and  CH   and  N O 
+2 4 2
+emissions from prescribed burning were calculated as an average of actual emissions from 2012 to 
+2016, as reported, while N O emissions from  nitrogen mineralisation were also calculated for 
+2
+afforested lands (Tilastokeskus 2019). Area data for various types of forested peatlands was derived 
+as a result of MELA calculations. 
+Changes in the carbon stocks of cropland mineral soils were estimated using the Yasso07 soil model. 
+Conversely, no changes in mineral soil carbon stocks were assumed for grasslands. The GHG 
+inventory emission factors were used for both cropland and grassland peatlands. Plant biomasses and 
+litter inputs for each plant species were calculated in accordance with the GHG inventory, as were 
+changes in biomass and deadwood carbon stocks and N O emissions from nitrogen mineralisation 
+2
+and leaching (Tilastokeskus 2019). 
+Wetlands are divided into divergent subcategories: peat production areas, sparsely wooded mires 
+reverted from forest land and waters with forest structures. Their emissions were calculated using the 
+methods and factors of the GHG inventory (Tilastokeskus 2019). 
+The results for settlements only include emissions and removals from land-use change areas. Twenty 
+years after conversion, change areas are moved to the category of areas that have been settlements 
+for at least 20 years, where no carbon stock changes were assumed, in keeping with the GHG 
+inventory (Tilastokeskus 2019). 
+The impact of harvested wood products was calculated using a production-based approach, where the 
+method was a first order decay function using product half-lives and specific conversion factors for 
+each product group. The main groups of harvested wood products are sawn timber, wood panels, 
+paper and board. The half-lives used were 35 years for sawn timber, 25 years for wood panels and 2 
+years for paper and board. Each scenario’s input assumptions on forest industry production trends 
+were harmonised with different model calculations and wood demand was based on TIMES-VTT 
+modelling results. The low-emission scenarios assumed the forest industry value added to increase, 
+while also including new products. With regard to the mechanical forest industry, these new products 
+were treated as durable products, such that one half of the output was calculated using the half-life 
+and factors for sawn timber while those for wood panels were used for the other half. The applied 
+method is based on the 2006 IPCC Guidelines and it is described in Finland’s inventory report (IPCC 
+2006, Tilastokeskus 2019, Hamberg et al. 2016). 
+ Appendix 3  10 
+ 
+ 
+The national economy equilibrium model and source data 
+The long-term energy and climate policy scenarios were assessed by means of a calculation model 
+depicting Finland’s national economy. Under all of the scenarios, the economic description is based 
+on estimated trends in key drivers of the global market and domestic economy. 
+Assessment of impacts was based on a dynamic general equilibrium model known as FINAGE 
+(formerly VATTAGE). This approach has already been used for a long time to estimate long-term 
+economic development. The model describes economic development in terms of economic activities 
+resulting from decisions made by economic players, including households, enterprises and the public 
+sector. The FINAGE model’s scenarios and their interconnections extend both backwards and 
+forwards in years. Historical scenarios make use of actual economic data from statistics and other 
+such sources to identify economic trends and calibrate the calculation model so as to ensure its 
+consistency with history. Future scenarios, in turn, are partially based on historical trends – including 
+assumptions on developments in the parameters of productivity growth and global market changes, 
+as well as certain predictable policy measures. Economic theory creates the frame of reference used 
+in the model to interpret history, whereas historical economic trends and factors such as projected 
+population growth form the framework within which economic players make their decisions. In 
+general terms, such analysis also involves a macroeconomic projection used to match the near-term 
+estimate of the development of the national balance of supply and demand with the estimate used by 
+ministries to plan policies, for example. In terms of domestic economic policy, the scenarios also take 
+account of measures with impacts extending into the next few decades. One of the most important of 
+these is the pension reform, which will mitigate the otherwise looming labour shortage, especially in 
+the 2020s. In addition, the assessment anticipates the impacts of the currently ongoing health and 
+social services reform on labour demand and public finances. 
+The scenarios produced using the FINAGE model assume that the drivers of economic development 
+will evolve on a ‘business-as-usual’ basis, whereas the impact of various economic policy objectives 
+or changes in the parameters of the global economy or technologies are assessed in alternative 
+scenarios. This allows the impacts of the phenomena being considered to be isolated from the drivers 
+of  economic  growth.  The scenarios  used  in  this  study  draw  in  many  respects  on  a  study  by 
+Honkatukia, Kohl & Lehtomaa (2018), which gauged the drivers of Finland’s long-term economic 
+growth. 
+Integrated model analyses 
+The quantitative analyses presented in this report were carried out in an integrated manner, which 
+means that the aim was to harmonise input assumptions used in calculations as far as possible, while 
+some of the results of one model analysis were used as baseline data for another. This resulted in 
+quite a bulky modelling system, which was used to perform the quantitative analyses of carbon 
+neutrality trajectories; moreover, the approach was iterative. A rough overview of the modelling 
+system as a whole is provided below. 
+The agricultural DREMFIA modelling process produces baseline data for calculating GHG emissions 
+from agriculture as well as for TIMES-VTT modelling related to agricultural production volumes 
+(cereals, livestock farming, biogas potential from agricultural side streams, required arable area). The 
+TIMES-VTT modelling process, in turn, produces baseline data relevant to demand for industrial and 
+energy wood, which is used as baseline data for MELA modelling to estimate domestic forest 
+harvesting trends. The TIMES-VTT model also produces baseline data for FINAGE modelling of the 
+national economy relating to the demand for and prices of energy commodities and needs to invest in 
+the energy system, etc. The marginal cost calculated by the TIMES-VTT model for GHG emission 
+ Appendix 3  11 
+ 
+ 
+reductions is also included in the essential baseline data for FINAGE modelling. Both MELA and 
+TIMES-VTT  calculations  provide  baseline  data  for  LULUCF  calculations.  MELA  produces 
+harvesting levels and a forest development estimate. TIMES-VTT results are used to estimate land-
+use developments from the perspective of the energy sector (peat production, wind power, etc.). The 
+net balance between land-use GHG emission and removal trends produced by LULUCF calculations, 
+in turn, functions as baseline data for TIMES-VTT modelling when determining the 2035 GHG 
+emission target and the cost-optimal pathway towards this target. 
+The schedule and resources assigned to the projects did not allow an in-depth iterative analysis, which 
+would have involved running all of the modelling processes several times. Nevertheless, the TIMES-
+VTT model calculations were performed twice and it was only during the second round that it was 
+possible to specify the GHG emission target that would allow Finland to achieve carbon neutrality by 
+2035. Furthermore, the FINAGE results were presented using the results of both TIMES-VTT 
+calculation rounds as baseline data for economic calculations, such that one of the cases would not 
+achieve  the  carbon  neutrality  target  while  the  other  one  would  (‘net-zero  calculation  case’). 
+Conversely, LULUCF calculations were not updated with the ‘final’ TIMES-VTT baseline data and 
+results, but their effects on the LULUCF sector’s GHG balance will in all likelihood be insignificant. 
+ 
+References 
+Aakkula, J., Asikainen, A., Kohl, J., Lehtonen, A, Lehtonen, A., Ollila, P., Regina, K., Salminen, O., Sievänen, R. & 
+Tuomainen T. 2019. Maatalous- ja LULUCF-sektorien päästö- ja nielukehitys vuoteen 2050 [Development of 
+emissions and sinks in the agricultural and LULUCF sectors until 2050]. Valtioneuvoston selvitys- ja 
+tutkimustoiminnan julkaisusarja [Publications of the Government’s analysis, assessment and research activities] 
+20/2019. 70 p. Available in Finnish (English abstract) at: http://urn.fi/URN:ISBN:978-952-287-650-8. 
+Haakana, M., Ollila, P., Regina, K., Riihimäki, H. & Tuomainen, T. 2015. Menetelmä maankäytön kehityksen 
+ennustamiseen: Pinta-alojen kehitys ja kasvihuonekaasupäästöt vuoteen 2040 [Methodology for forecasting 
+land use developments: Developments in surface areas and greenhouse gas emissions by 2040]. 
+Luonnonvara- ja biotalouden tutkimus [Natural Resources and Bioeconomy Studies] 51/2015. 
+Hamberg, L., Henttonen, H. & Tuomainen, T. 2016. Puusta valmistettujen tuotteiden hiilivaraston muutoksen laskenta 
+kasvihuonekaasuinventaariossa – Menetelmäkehitys Suomen kasvihuonekaasuinventaarioon [Calculating 
+change in the carbon stock of harvested wood products in the greenhouse gas inventory – Methods 
+development for Finland’s Greenhouse Gas Inventory]. Luonnonvara- ja biotalouden tutkimus [Natural 
+Resources and Bioeconomy Studies] 73/2016. Available in Finnish at: 
+https://jukuri.luke.fi/bitstream/handle/10024/537716/luke-luobio_73_2016.pdf?sequence=1&isAllowed=y. 
+Hirvelä, H., Härkönen, K., Lempinen, R. & Salminen, O. 2017. MELA2016 Reference Manual. Natural resources and 
+bioeconomy studies 7/2017. 547 p. ISBN 978-952-326-1 (Online). 
+Honkatukia, J., Kohl, J. ja Lehtomaa, J. 2018. Uutta, vanhaa ja sinivalkoista – Suomi 2040 [Something old, something 
+new – Finland 2040]. VTT Technology 327. Available in Finnish (English abstract) at: 
+https://www.vtt.fi/inf/pdf/technology/2018/T327.pdf. 
+IPCC 2006. 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Prepared by the National Greenhouse Gas 
+Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds.). Published: IGES, 
+Japan. Available at: https://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html. 
+Koistinen, A., Luiro, J-P. & Vanhatalo, K. (eds.). 2016. Metsänhoidon suositukset energiapuun korjuuseen, työopas [Best 
+Practices for Sustainable Forest Management: Energy wood harvesting, work guide book]. Tapion julkaisuja 
+[Tapio publications]. Available in Finnish at: https://tapio.fi/wp-content/uploads/2015/06/MHS-Energiapuun-
+korjuun-suositukset_verkkojulkaisu2.pdf. 
+ Appendix 3  12 
+ 
+ 
+Koljonen, T., Flyktman, M., Lehtilä, A., Pahkala, K., Peltola, E & Savolainen, I. 2009. The role of CCS and renewables in 
+tackling climate change. Energy Procedia 1:4323–4330. 
+Koljonen, T. & Lehtilä, A. 2015. Modelling Pathways to a Low Carbon Economy for Finland. In: Giannakidis G et al. 
+(eds.). Informing Energy and Climate Policies Using Energy Systems Models, Lecture Notes in Energy, vol. 30. 
+Springer, Cham. 
+Kärkkäinen, L., Haakana, M., Heikkinen, J., Helin, J., Hirvelä, H., Jauhiainen, L., Laturi, J., Lehtonen, H., Lintunen, J., 
+Niskanen, O., Ollila, P., Peltonen-Sainio, P., Regina, K., Salminen, O., Tuomainen, T., Uusivuori, J., Wall, A. & 
+Packalen, T. 2019. Maankäyttösektorin toimien mahdollisuudet ilmastotavoitteiden saavuttamiseksi [Potential of 
+land use measures in climate change mitigation]. Valtioneuvoston kanslia [Prime Minister’s Office]. 
+Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja [Publications of the Government’s analysis, 
+assessment and research activities] 67/2018. 75 p. Available in Finnish (English abstract) at: 
+http://urn.fi/URN:ISBN:978-952-287-618-8. 
+Lehtilä, A. 2019. Asiantuntija-arvio [Expert assessment]. VTT [VTT Technical Research Centre of Finland]. Email on 
+28 October 2019. 
+Lehtilä, Antti & Koljonen, Tiina. 2018. Pathways to Post-fossil Economy in a Well Below 2 °C World. In: Lect. Notes 
+Energy, Vol. 64, George Giannakidis et al. (eds.). Limiting Global Warming to Well Below 2 °C: Energy System 
+Modelling and Policy Development. 
+Lehtonen, H. 2015. Evaluating adaptation and the production development of Finnish agriculture in climate and global 
+change. Agricultural and Food Science 24: 219–234. 
+Lehtonen, H. & Rankinen, K. 2015. Impacts of agri-environmental policy on land use and nitrogen leaching in Finland. 
+Environmental Science and Policy 50: 130–144. doi:10.1016/j.envsci.2015.02.001. 
+Lehtonen, H. & Niskanen, O. 2016. Promoting clover-grass: Implications for agricultural land use in Finland. Land Use 
+Policy 59: 310–319. 
+Lehtonen, H., & Niemi, J. 2018. Effects of reducing EU agricultural support payments on production and farm income in 
+Finland. Agricultural and Food Science, 27(2), 124–137. 
+Loulou R. 2008. ETSAP-TIAM: the TIMES integrated assessment model. Part II: Mathematical formulation. 
+Computational Management Science, 5(1–2):41–66. 
+Loulou R., Labriet M. 2008. ETSAP-TIAM: the TIMES integrated assessment model. Part I: Model structure. 
+Computational Management Science 5(1–2): 7–40. 
+Loulou R., Remme U., Kanudia A., Lehtilä A., Goldstein G. 2016. Documentation for the TIMES Model. Energy 
+Technology Systems Analysis Programme (ETSAP). Available at: https://iea-
+etsap.org/docs/Documentation_for_the_TIMES_Model-Part-I_July-2016.pdf. 
+Mattinen, M. Heljo, J. & Savolahti, M. 2016. Rakennusten energiankulutuksen perusskenaario Suomessa 2015–2050 
+[Baseline scenario for energy consumption of the building stock in Finland 2015–2050]. Suomen 
+ympäristökeskuksen raportteja [Reports of the Finnish Environment Institute] 35/2016. 
+Mikkonen, A. 2019. Suomen tuulivoimayhdistys [Finnish Wind Power Association]. Email on 30 October 2019. 
+Niemi, P. 2019. Asiantuntija-arvio, tuulivoima-asiantuntija [Expert assessment, wind power expert]. Metsähallitus [Finnish 
+Agency for Forests]. Email on 10 January 2019. 
+Tilastokeskus [Statistics Finland]. 2015. Väestöennuste 2015–2065 [Population projection 2015–2065]. Suomen 
+virallinen tilasto (SVT) [Official Statistics of Finland (OSF)]. 10 p. Available in English at: 
+https://tilastokeskus.fi/til/vaenn/2015/vaenn_2015_2015-10-30_en.pdf. 
+Tilastokeskus [Statistics Finland]. 2018. Energian hankinta ja kulutus [Energy supply and consumption]. Available in 
+English at: https://www.stat.fi/til/ehk/index_en.html. 
+ Appendix 3  13 
+ 
+ 
+Tilastokeskus [Statistics Finland]. 2019. Greenhouse gas emissions in Finland 1990 to 2017. National inventory report 
+under the UNFCCC and the Kyoto Protocol. 15 April 2019. Available at: 
+http://www.stat.fi/static/media/uploads/tup/khkinv/fi_eu_nir_2017_2019-03-15.pdf. 
+Tuominen, P., Klobut, K., Tolman, A., Adjei, A., De Best-Waldhober, M. 2012. Energy savings potential in buildings and 
+overcoming market barriers in member states of the European Union. Energy and Buildings 51, pp. 48–55. 
+Tuominen, P., Forsström, J., Honkatukia, J. 2013. Economic effects of energy efficiency improvements in the Finnish 
+building stock. Energy Policy 52, pp. 181–189. 
+Tuominen, P., Holopainen, R., Eskola, L., Jokisalo, J., Airaksinen, M. 2014. Calculation method and tool for assessing 
+energy consumption in the building stock. Building and Environment 75, pp. 153–160. 
+VMI [NFI]. Valtakunnan metsien 11. inventointi (VMI11) [11th National Forest Inventory (NFI11)]. 2013. Maastotyön ohjeet 
+[Field instructions] 2013. Koko Suomi ml. Ahvenanmaa [All of Finland incl. Åland Islands]. Metsäntutkimuslaitos 
+[Finnish Forest Research Institute]. Moniste [Handout]. 191 p. 
+VMI [NFI]. Valtakunnan metsien 12. inventointi (VMI12) [12th National Forest Inventory (NFI12)]. 2017. Maastotyön ohjeet 
+[Field instructions] 2017. Luonnonvarakeskus [Natural Resources Institute Finland]. Moniste [Handout]. 164 p. 
+Äijälä, O., Koistinen, A., Sved, J., Vanhatalo, K., & Väisänen, P. (eds.) 2014. Metsänhoidon suositukset [Best Practices 
+for Sustainable Forest Management]. Metsätalouden kehittämiskeskus Tapion julkaisuja [Publications of 
+Forestry Development Centre Tapio]. Available in Finnish at: http://tapio.fi/wp-
+content/uploads/2015/06/Metsanhoidon_suositukset_ver3_netti_1709141.pdf. 
+ 
+ 
+ 

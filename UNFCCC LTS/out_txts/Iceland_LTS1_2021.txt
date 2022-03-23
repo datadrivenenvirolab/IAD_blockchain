@@ -1,0 +1,1423 @@
+October 2021
+On the Path  
+to Climate Neutrality 
+Iceland’s Long-Term Low  
+Emission Development Strategy
+Government of Iceland
+Ministry for the Environment and Natural ResourcesOn the Path to Climate Neutrality  October 2021
+Ministry for the Environment and Natural Resources 
+Skuggasund 1 – 101 Reykjavík – Iceland
+545 8600 | uar@uar.is
+October 2021
+© 2021 Ministry for the Environment and Natural Resources
+ISBN 
+government.is
+2On the Path to Climate Neutrality  October 2021
+Table of Contents
+Summary                      6
+1. Introduction                     8
+2. Climate Neutral Iceland 2040                 16
+2.1 Context and framing                  16
+2.1.1 National circumstances              16
+2.1.2 Overarching climate targets and commitments         19
+2.1.3 Iceland’s emissions profile – historical perspective        21
+2.1.4 Scope                   24
+3. Iceland’s Climate Policies and measures              27
+3.1 Iceland’s Climate Action Plan                27
+3.2 Land use measures                  33
+3.3 Carbon capture and storage                33
+3.4 Energy Policy to 2050                 34
+3.5 A transition to a circular economy              35
+3.6 Climate change adaptation                35
+3.7 National consultation processes              36
+3.8 Public expenditure for domesticclimate action          37
+3.8.1 Policies and measures for related research, development and innovation   38
+3.9 Contribution to a low-emission development pathway in other countries    39
+4. Stakeholder-generated Scenarios for Climate Neutrality          41
+4.1 Scenarios from stakeholder engagement            42
+4.1.1 Scenario A – Technological solutions            43
+4.1.2 Scenario B – Nature-based solutions            43
+4.1.3 Scenario C – Technological solutions and systems change       44
+4.1.4 Scenario D – Nature-based solutions and system change       45
+4.1.5 Scenario E – Combines technological and nature-based 
+         solutions and system changes            46
+4.1.6 Scenario emission paths in different LULUCF contexts       46
+5. Path to Climate Neutrality                  51
+3On the Path to Climate Neutrality  October 2021
+Figures
+Figure 1. Geographic location of Iceland.                17
+Figure 2. Population 1st January each year 1990-2020, projected population 2021-2050.       18
+Figure 3. Emissions of GHG by sector, without LULUCF from 1990 to 2019 in kt CO2e.       21
+Figure 4. Emissions of GHG by sector, with LULUCF from 1990 to 2019 in kt CO2e.        23
+Figure 5. Iceland’s historical greenhouse gas emissions that fall under the Effort Sharing Regulation 
+to 2018, and projected emissions in 2030 without the Action Plan, with the Action Plan and measures 
+currently in preparation.                    29
+Figure 6. Breakdown of greenhouse gas emissions and sequestration in the Action Plan.      30
+Figure 7. Summary of measures in Iceland’s Climate Action Plan, indicating whether measures are in 
+preparation, in progress or implemented.                32
+Figure 8. A mapping of climate action capturing its two main categories of mitigation 
+and adaptation measures.                    36
+Figure 9. Scenario map derived from stakeholder engagement.            42
+Figure 10. Different emission paths of GHG emission based on the scenarios A, B, C, D and E without 
+emissions or sequestration from LULUCF.                47
+Figure 11. Different emission paths of GHG emission based on the scenarios A, B, C, D and E  
+with sequestration from LULUCF but without LULUCF emissions.           48
+Figure 12. Different emission paths of GHG emission based on the scenarios A, B, C, D and E 
+with emissions and sequestration from LULUCF.              49
+4On the Path to Climate Neutrality  October 2021
+5On the Path to Climate Neutrality  October 2021
+Summary
+The Paris Agreement encourages Parties to formulate and communicate long-term low 
+greenhouse gas emission development strategies. This document enfolds Iceland’s 
+first communication on its long-term strategy (LTS), to be updated when further 
+analysis and policy documents are published on the matter. 
+Iceland is committed to reducing its overall greenhouse gas emissions and reaching
+climate neutrality no later than 2040 and become fossil fuel free in 2050, which should 
+set Iceland on a path to net negative emissions. The goal of net zero emissions no later 
+than 2040 was enacted into the Climate Act in June 2021, based on the Government 
+Agreement from 2017.
+Iceland has submitted an updated nationally determined contribution under the Paris 
+Agreement, enhancing its commitment to at least 55% net greenhouse gas emissions 
+reduction by 2030 compared to 1990, to be achieved by acting jointly with the European 
+Union and its Member States and Norway.
+In this document the foundation and various milestones that have been reached 
+on the path to climate neutrality are described. Key documents and policies are 
+introduced, such as Iceland’s Climate Action Plan for emissions reduction of 40% 
+by 2030 compared to 2005 levels, which was published in 2020, and Iceland’s Energy 
+Policy to 2050 that is based on the vision for sustainable energy future and aims 
+towards a fossil fuel free future, where all energy production is of renewable origin 
+in 2050. Insight is given into context and framing of overarching climate targets and 
+commitments. 
+Iceland’s emissions profile is in many ways unique and carbon sequestration in soil 
+and vegetation will be a key measure to achieve climate neutrality. Thus, Iceland’s 
+approach to land use measures is of special importance. Iceland is working on 
+extensive improvements in measurements and accounting of emissions and carbon 
+sequestration to improve the knowledge base and minimise uncertainty in the LULUCF 
+sector. 
+Icelandic authorities are supportive of innovation when it comes to new technology, 
+such as exploring possibilities for carbon capture and storage. Attention is also being 
+paid to adaptation planning to develop synergies between adaptation measures and 
+mitigation measures. Iceland is currently developing a national adaptation plan based 
+on Iceland’s first adaptation strategy, adopted in September 2021.
+6On the Path to Climate Neutrality  October 2021
+For a society to reach the goal of climate neutrality all hands must be on deck and 
+new strategies and measures need to be put in place to reach the target. It requires 
+engagement of different groups of stakeholders and cooperation across governmental 
+actors, industry partners, non-governmental organisations and municipalities. This 
+includes public participation in building a robust strategy to ensure a just transition 
+to a circular, competitive, climate neutral future.
+In this document, a quick introduction is given to a stakeholder engagement study 
+that took place in 2021 on pathways to a climate neutral Iceland in 2040. Scenarios 
+on several pathways were modelled by a team of researchers based on the views and 
+opinions expressed by participants in a stakeholder survey. 
+The transition to a climate neutral society requires strong commitment, planning and 
+investment on all fronts. A climate neutral society will require reducing all emissions, 
+keeping in mind their different sources and the variety of solutions applicable to each 
+sector. Therefore it is likely that the way forward will be a combined set of different 
+sectoral strategies and measures. The strategy needs to be flexible and to allow for 
+new innovative solutions that might be found on the path to climate neutrality. The 
+next step is to further the discussion on how to reach climate neutrality, e.g. using the 
+results from the stakeholder study. 
+A just path to climate neutrality should involve all sectors, different stakeholders and 
+the general public in the discussion and the decision making. 
+7On the Path to Climate Neutrality  October 2021
+1. Introduction
+The primary goal of the Paris Agreement is to limit the increase in the global average 
+temperature to well below 2°C above pre-industrial levels, and to pursue efforts 
+to limit the temperature increase to 1,5°C above pre-industrial levels. The Paris 
+Agreement further stipulates that, to attain these objectives, it will be necessary 
+‘to achieve a balance between anthropogenic emissions by sources and removals 
+by sinks of greenhouse gases’, that is net zero emissions, in the second half of 
+this century. Recent scientific reports have further evidenced the importance of 
+immediate and long-term climate action.1
+The Paris Agreement encourages Parties to formulate and communicate long-term 
+low greenhouse gas emission development strategies. This document is Iceland’s first 
+communication on its long-term climate strategy. Iceland is committed to reducing its 
+overall greenhouse gas emissions and reaching climate neutrality no later than 2040 
+and become fossil fuel free in 2050, which should set Iceland on a path to net negative 
+emissions. The goal of net zero emissions no later than 2040 was enacted into the 
+Climate Act in June 2021, based on the Government Agreement from 2017. 
+Foundation has been laid for the long-term strategy and various milestones have 
+been reached on the path towards the long-term goal of climate neutrality. A key 
+document is Iceland’s Climate Action Plan for emissions reduction of 40% by 2030, 
+compared to 2005 levels, which was published in 2020. Carbon sequestration in soil 
+and vegetation will be a key measure to achieve climate neutrality both in Iceland 
+and globally, but also in technical solutions such as carbon sequestration, utilisation 
+and mineralisation. Thus, Iceland’s approach to land use measures is of special 
+importance because of the country’s unique land use emissions profile.
+Iceland’s Energy Policy to 20502 is based on the vision for sustainable energy and 
+aims towards a fossil fuel free future, where all energy production is of renewable 
+origin in 2050.
+The success of the transition to a climate neutral society ultimately depends on the 
+harmonious cooperation of many different actors. The challenge for the Government 
+is to get a grip on this complexity, starting with a clarification of the supervision, 
+roles and responsibilities of the national Government, local governments, private 
+1 Adoption of the Paris Agreement. https://unfccc.int/sites/default/files/resource/docs/2015/cop21/eng/10a01.pdf
+2 Iceland’s Energy Policy, presented 2nd of October 2020. Orkustefna til 2050: Skýr framtíðarsýn um sjálfbæra 
+orkuframtíð. https://www.stjornarradid.is/library/01--Frettatengt---myndir-og-skrar/ANR/Orkustefna/200327%20
+Atvinnuvegaraduneytid%20Orkustefna%20A4%20V5.pdf
+8On the Path to Climate Neutrality  October 2021
+and public parties, and citizens. It will also involve a search for new methods of 
+cooperation, both between the various levels of government and between the 
+Government and civil society parties.
+Analyses of how policy, instruments and measures promote a low-emission pathway 
+up to 2050 are extremely important, bearing in mind the goal of climate neutrality 
+no later than 2040. The first steps towards an analysis of measures and instruments 
+have been taken and show that there are multiple pathways for achieving Iceland’s 
+climate neutral target for 2040. 
+The task ahead is to integrate these various policies and action plans towards the 
+further reaching common goal of climate neutrality. The main objective will be 
+to develop a sound scientific basis for a framework for a long-term low emission 
+development pathway in relevant sectors in Iceland, in line with its goals. The work 
+ahead will outline pathways towards a low emission society and choices that can be 
+made to promote a low emission pathway.
+Stakeholder engagement and public consultation will be playing a pivotal role. 
+Therefore, the long-term strategy communicated in this document should be seen 
+as an initial step, to be revisited regularly. 
+An overview of the main milestones that have been reached since 2017 on Iceland’s 
+path towards climate neutrality in 2040 are shown in the timeline below. 
+9On the Path to Climate Neutrality  October 2021
+Iceland‘s Path To Climate Neutrality By 2040
+In November 2017 the goal of a climate neutral Iceland 
+was introduced by the Government
+2018
+MARCH
+INTER-MINISTERIAL COMMITTEE ON CLIMATE ACTION 
+Inter-ministerial Steering Committee for Climate Action 
+established. Formulates proposals for climate action and 
+oversees their implementation. The Committee reports 
+annually on the progress of climate measures. 
+MAY
+CLIMATE COUNCIL 
+Climate Counsil established.
+•  Provides advice to the Government on the reduction 
+of greenhouse gas emissions and on measures for 
+carbon sequestration
+•  Provides advice on climate change adaptation
+SEPTEMBER
+•  Reviews, at the stage of preparation, the 
+Government’s climate-related plans
+•  Has an overview of educational initiatives and 
+CLIMATE ACTION PLAN 2018 – 2030
+dissemination of information on climate issues to the 
+Funded Climate Action Plan with 34 measures to cut  public, businesses, institutions, and municipalities
+greenhouse gas emissions and increase sequestration.
+•  Reviews proposals from government agencies about 
+monitoring and climate-related research
+A. Clean energy in transport
+•  Works on other tasks assigned to the Council by the 
+B. Clean energy transformation in other sectors
+Minister at any given time
+C. Climate mitigation in land use and forestry
+D. Other measures
+10On the Path to Climate Neutrality  October 2021
+2019
+JANUARY
+NORDIC CARBON NEUTRALITY 
+Helsinki Declaration - Nordic countries will reinforce   INTER-MINISTERIAL GROUP ON ENERGY TRANSITION 
+their climate goals through to 2020 and work together to 
+The working group established and assigned the task to 
+become carbon neutral.
+prioritise and predefine calls for funding on infrastructure 
+and projects for energy transition.
+MAY
+GREEN BY ICELAND 
+Public-private partnership on climate issues   CLIMATE FUND  
+and green solutions established.
+Climate fund established to support innovative projects 
+in the field of climate change and projects related to the 
+promotion and education of the effects of climate change.
+JUNE
+CARBFIX DECLARATION
+Government and heavy industry in Iceland signed   ENHANCHED CLIMATE ACT PASSED  
+a declaration of intent to explore possibilities for  
+New provisions on: 
+carbon capture and storage of industrial emissions, 
+ using the Carbfix method. •  Climate Council 
+•  National adaptation plan
+JULY •  Scientific report on the effects of climate change  
+on nature and society in Iceland
+•  Climate strategy for governmental institutions  
+LULUCF MITIGATION PLAN and local authorities 
+Plan published with measures to increase carbon 
+sequestration and to decrease carbon emissions from soils 
+and vegetation in line with Iceland’s Climate Action Plan.
+OCTOBER
+ICELAND, NORWAY AND EU JOINT CLIMATE TARGET  
+Target of reducing greenhouse gas emissions by the 
+minimum of 40% to 2030 (compared to 1990 emissions) 
+jointly with the European Union and its Member States 
+and Norway in accordance with the objectives of the 
+Paris Agreement. 
+11On the Path to Climate Neutrality  October 2021
+2020
+FEBUARY
+IMPROVED ENERGY INFRASTRUCTURE 
+Two year campaign launched to improve 
+development of the energy infrastructure.
+JUNE
+GREEN FISHERIES COLLABORATION  
+CLIMATE ACTION PLAN 2020 - 2030   Government and the fishing industry signed a  
+collaboration agreement on green steps to cut  
+New Climate Action Plan with increased funding and 
+emissions and reach climate neutrality no later  
+elaborated measures to cut greenhouse gas emissions and 
+than 2040 in line with Iceland’s Climate Action Plan.
+increase sequestration to reach climate neutrality by 2040. 
+Significantly improved analysis to estimate the individual  MINISTERS COMMITTEE ON CLIMATE ACTION  
+and collective mitigation gains of the measures.
+Ministers Committee established to strengthen 
+consultation and coordination among the ministries 
+working on climate issues. A forum for political policy 
+making and discussions on climate action, international 
+discussions on climate issues and Iceland’s goal to reach 
+JULY climate neutrality by 2040.
+COMMITTEE OF PERMANENT  
+SECRETARIES ON CLIMATE ACTION
+COMMITTEE FOR CLIMATE ACTION IN AGRICULTURE  
+The Committee has the role to ensure coordination, 
+Steering Committee for Climate Action in Agriculture 
+cooperation and participation between the ministries 
+established in line with Iceland’s Climate Action Plan.
+offices regarding climate action and to support  
+the Ministers Committee.
+OCTOBER
+FOSSIL FUEL FREE ICELAND 2050
+The first long-term energy policy for Iceland,  SOCIETAL CHALLENGES FUND - PROGRAM   
+A Sustainable Energy Future: An Energy Policy 
+Grants for societal challenges including sustainable 
+to the year 2050, published.
+development and climate change.
+12On the Path to Climate Neutrality  October 2021
+DECEMBER
+WORKING GROUP ON ADAPTATION  
+An inter-ministerial working group was established   SOCIETAL CHALLENGES FUND - PROGRAM   
+and received a mandate to draft Iceland’s first Climate 
+Grants for societal challenges including sustainable 
+Change Adaptation Strategy, based on Iceland’s scientific 
+development and climate change.
+reports on climate change and a discussion paper on 
+adaptation by the Climate Council.
+2021
+FEBUARY
+UPDATE OF NDC   
+Iceland updated its Nationally Determined Contribution by 
+enhancing its commitment to at least 55% net greenhouse 
+gas emissions reduction by 2030 compared to 1990, to be 
+achieved by acting jointly with the European Union and its 
+Member States and Norway.
+MARCH
+CARBON CAPTURE AND STORAGE LEGISLATED  
+Further work is ongoing on the framework for injecting CO 
+2
+into geological formations for storage.
+APRIL
+CLIMATE NEUTRALITY - STAKEHOLDER ENGAGEMENT
+Project initiated towards identifying the structure and  KIGALI AMENDMENT    
+trajectories towards a climate neutral Iceland, with the aim 
+The Kigali amendment to the Montreal Protocol to phase-
+to identify what kind of climate neutral Iceland stakeholders 
+down the use of fluorined greenhouse gases (F-gases) 
+envision, and plausible actions towards that end goal.
+entered into force in Iceland.
+13On the Path to Climate Neutrality  October 2021
+MAY
+SCIENTIFIC COMMITTEE ON CLIMATE CHANGE 
+Committee appointed and tasked with preparing the  
+4th scientific report on the effects of climate change on 
+nature and society in Iceland. 
+JUNE
+BUSINESS CLIMATE GUIDE  
+GREEN STEPS IN FISHERIES   The public-private partnership Green by Iceland published 
+the business communities guide towards climate neutral 
+Ministerial report on green steps to be taken to cut 
+Iceland by 2040 and fossil fuel free Iceland by 2050. 
+emissions from fishing industries and support the  
+path to climate neutrality by 2040.  
+CLIMATE NEUTRAL ICELAND 2040 LEGISLATED  
+The aim to reach climate neutrality no later than 2040 was 
+TOWARDS A CIRCULAR ECONOMY  
+added to the Climate Act.
+A dual publication of Iceland’s Waste Management  
+Plan (2021-2032) and Waste Prevention Program  
+(2016-2027) with a view to enhance the transition  
+towards a circular economy.
+SEPTEMBER
+LAND USE - IMPROVEMENT PLANS
+Action plans to improve wetland protection and   FIRST CLIMATE CHANGE ADAPTATION STRATEGY  
+inventory on emissions and removals due to  
+Based on a white paper on climate change adaptation which 
+land use, land use change and forestry (LULUCF). 
+was subject to public consultation in June 2021, Iceland’s 
+first climate change adaptation strategy was approved by 
+the Government.
+CLIMATE ACTION PLAN - PROGRESS REPORT
+First report on the progress of measures  
+in the Climate Action Plan. 
+PATH TO CLIMATE NEUTRALITY
+14On the Path to Climate Neutrality  October 2021
+15On the Path to Climate Neutrality  October 2021
+2. Climate Neutral Iceland 2040
+The global goal of a climate neutral future is the only option in terms of constructing 
+a viable, forward-looking and prosperous society, leaving no one behind.
+Iceland is committed to reducing its overall greenhouse gas emissions and in June 
+2021 the goal on climate neutrality no later than 2040 was enacted into the Climate 
+Act, based on the Government Agreement from 2017.
+More than one path can be taken towards a climate neutral future and there is more 
+than one way to imagine a climate neutral society. A key aspect is the implementation 
+and adoption of various measures to curb emissions. Climate neutrality will not be 
+achieved only by a rapid decrease in emissions; increased carbon sequestration is 
+necessary. A just transition, to a climate neutral society can only be achieved with 
+all of society reaping the benefits.
+Emissions from all major sectors, including energy, industry, transport, buildings and 
+agriculture, land use and forestry will have to be reduced. In order to achieve climate 
+neutrality, it is paramount to reduce emissions rapidly, but it is also clear that 
+nature-based solutions with improved land use, increased ecosystem restoration 
+and forestry will play an important role. Carbon sequestration in soil and vegetation 
+will be a key measure to achieve climate neutrality both in Iceland and globally, but 
+also through technical solutions such as carbon capture and storage, utilisation and 
+mineralisation. 
+2.1 Context and framing
+2.1.1 National circumstances
+Iceland is a constitutional republic with a multi-party parliamentary system of 
+government. The Constitution was adopted on 17 June 1944, when the Republic was 
+established. Legislative power is vested in Parliament (Althingi) and the president, 
+in that bills of legislation are passed by Parliament and submitted to the president 
+for confirmation by his or her signature. Upon such confirmation, the bill in question 
+acquires the force of law. The Government must be supported by a majority of 
+Parliament in order to remain in power. The president is the head of state and is 
+elected for a term of four years by a direct vote of the electorate. 
+16On the Path to Climate Neutrality  October 2021
+Iceland is located in the North Atlantic between Norway, Scotland and Greenland. 
+It is the second-largest island in Europe and the third largest in the Atlantic Ocean, 
+with a land area of some 103 thousand square kilometres, a coastline of 4,970 
+kilometres and a 200-nautical-mile exclusive economic zone extending over 758 
+thousand square kilometres in the surrounding waters. 
+Figure 1. Geographic location of Iceland.
+Iceland is situated just south of the Arctic Circle. The mean temperature is 
+considerably higher than might be expected at this latitude. Relatively mild winters 
+and cool summers characterize Iceland’s oceanic climate. The average monthly 
+temperature varies from -3 to +3 °C in January and from +8 to +15°C in July. Storms and 
+rain are frequent, with annual precipitation ranging from 400 to 4000 mm on average 
+annually, depending on location. The mild climate stems from the Gulf Stream and 
+17On the Path to Climate Neutrality  October 2021
+attendant warm ocean currents from the Gulf of Mexico. The weather is also affected 
+by polar currents from East Greenland that travel southeast towards the coastline 
+of the northern and eastern part of Iceland.
+The population of Iceland was around 364 thousand on 1 January 2020. With 3 inhabitants 
+per square kilometre, Iceland is the least densely populated country in Europe. In 2000–
+2015, annual average population growth was 1.1%. Around 64% of the population (almost 
+235 thousand) live in the capital city of Reykjavík and its surrounding municipalities. 
+Figure 2 shows Iceland’s population 1990-2020 and three scenarios for population 
+growth until 2050. The low estimate predicts that the population will reach almost 
+390 thousand in 2050, the medium estimate predicts 431 thousand and the high 
+estimate predicts that the population will reach almost 480 thousand in 2050.3
+Population
+500.000
+450.000
+400.000
+350.000
+300.000
+250.000
+200.000
+150.000
+100.000
+50.000
+0
+0 2 4 6 8 0 2 4 8 0 6 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0
+199 199 199 199 199 200 200 200 200 201 200 201 201 201 201 202 202 202 202 202 203 203 203 203 203 204 204 204 204 204 205
+Low Medium High Population
+Figure 2. Population 1st January each year 1990-2020, projected population 2021-2050 
+(source: Statistics Iceland).
+3 Statistics Iceland, 2021.
+18On the Path to Climate Neutrality  October 2021
+2.1.2 Overarching climate targets and commitments 
+Iceland’s climate commitments relate to both the national targets on the path to a 
+climate neutral society, defined in the Climate Act, and international commitments 
+of reducing greenhouse gas emissions jointly with the European Union (EU) and its 
+Member states and Norway in accordance with the objectives of the Paris Agreement. 
+In October 2019 the EU, Iceland and Norway formally agreed to cooperate on reducing 
+greenhouse gas emissions to reach the target of the Paris Agreement. 
+The agreement was set out in Joint Committee Decision No 269/2019, and stated that 
+Iceland and Norway would be part of a collective delivery by European countries 
+to reach a target of 40% reduction of greenhouse gas emissions by 2030 compared 
+to 1990 levels and apply the key pieces of EU climate legislation accordingly. The 
+agreement entails that a) Iceland will continue participation in the EU Emissions 
+Trading Scheme and b) a target for emissions outside the EU-ETS will be set by the 
+same methodology as applied to EU Member States. The target for Iceland within 
+the collective delivery has been set at 29%. The intention to deliver the target in 
+cooperation with the EU is stated in Iceland’s first NDC.
+In February 2021, Iceland submitted an updated nationally determined contribution 
+under the Paris Agreement, enhancing its commitment to at least 55% net greenhouse 
+gas emissions reduction by 2030 compared to 1990, to be achieved by acting jointly 
+with the EU and its Member States and Norway. A target for emissions outside the EU 
+ETS will be set by the same methodology as applied to EU Member States. The target 
+for Iceland within the collective delivery of 55% has not been set. 
+The EU’s climate policy is based on three pieces of legislation: 1) the Emissions 
+Trading System (EU ETS), which is included in the EEA Agreement, 2) the Effort Sharing 
+Regulation for emissions that fall outside the EU ETS, and 3) the Land Use, Land Use 
+Change and Forestry (LULUCF) Regulation. 
+Effort Sharing Regulation (ESR) No 2018/842
+Under this regulation Iceland is committed to a reduction of 29% in non-ETS emissions 
+in the period 2021-2030, relative to 2005. The target for the commitment period will be 
+divided into annual targets, expressed in annual emissions allocation (AEA). 
+Annual greenhouse gas emissions reduction targets from non-ETS activities for 
+Iceland for the period from 2021 to 2030 were set in 2020 by using the latest available 
+greenhouse gas inventory data for 2005, 2016, 2017, and 2018 and after the European 
+Commission’s implementing act referred to in Article 4 of Regulation 2018/842 was 
+adopted.
+19On the Path to Climate Neutrality  October 2021
+LULUCF Regulation, No 2018/841
+LULUCF stands for land use, land use change and forestry and covers emissions 
+by sources and removals by sinks in the land sector. Credits obtained under this 
+Regulation can be used to reach the target for the non-ETS sector in accordance with 
+the ESR up to a certain limit. The limit for Iceland is 0.2 million credits from LULUCF.
+Commitments and greenhouse gas emissions and accounting rules in the LULUCF 
+sector for the period after 2020 are laid down by Regulation 2018/841, adopted into 
+the EEA Agreement in accordance with the Decision of the EEA Joint Committee No 
+269/2019. 
+According to Article 4 of the Regulation, Iceland, making use of the provided 
+flexibilities, shall ensure that the amount of greenhouse gas emissions accounted 
+according to the accounting rules laid down in the Regulation does not exceed the 
+amount of greenhouse gas removals accounted in accordance with the LULUCF 
+Regulation. 
+The European Emission Trading Scheme (EU ETS) 
+As a party to the EEA Agreement, Iceland participates in the European Emission 
+Trading Scheme (ETS) which covers greenhouse gas emissions from stationary 
+installations and aviation operators. Emissions that fall outside of the ETS, and 
+relevant climate-related regulations, do not fall under the provisions of the EEA 
+Agreement. Under the revised EU ETS Directive, there are no differentiated caps by 
+country as there is one single EU ETS cap that covers the EU Member States and the 
+three participating non-EU Member States, the EFTA-states Norway, Iceland and 
+Liechtenstein. 
+For allowances allocated to the EU ETS sectors, annual caps were set for the third 
+trading period from 2013 to 2020; these decrease by 1.74% annually, starting from 
+the average level of allowances issued by Member States for the second trading 
+period (2008 to 2012). The annual caps imply interim targets for emissions reduction 
+in sectors covered by the EU ETS for each year until 2020. Within the cap, companies 
+receive or buy emission allowances, which they can trade with one another as 
+needed. For the fourth trading period (2021 to 2030) the cap on emissions continues 
+to decrease annually at an increased annual linear reduction rate of 2.2% annually. 
+Operators can also buy limited amounts of international credits from emission-
+saving projects around the world. The limit on the total number of allowances 
+available ensures that they have a value. After each year a company must surrender 
+enough allowances to cover all its emissions, otherwise heavy fines are imposed. If a 
+company reduces its emissions, it can keep the spare allowances to cover its future 
+needs or else sell them to another company that is short of allowances.
+20On the Path to Climate Neutrality  October 2021
+2.1.3 Iceland’s emissions profile – historical perspective
+Iceland’s emissions profile is in many ways unusual. Almost all heating and electric-
+ity generation is provided for by renewables; hydro- and geothermal energy. The 
+biggest source of emissions (not counting LULUCF) is industrial processes, mainly 
+from aluminium and ferrosilicon production, that fall under the EU ETS. In 2019 38% 
+of Iceland’s emissions, without LULUCF, fell under the EU EST. Other sectors with 
+the highest share of emissions were road transport, agriculture, fisheries and waste 
+management (see Figure 3).
+Detailed information on Iceland’s greenhouse gas emissions and removal is available 
+in Iceland’s submitted 2021 National Inventory Report (NIR)4. Iceland’s total green-
+house gas emissions in 2019 were 4,722 kt. carbon dioxide equivalents (COe) without 
+2
+LULUCF, and 13,794 kt. COe with LULUCF. 
+2
+6000
+5000
+e.)
+O-2 4000
+C
+kt 
+s (
+on 3000
+si
+s
+mi
+G e 2000
+H
+G
+1000
+0
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8
+199 199 199 199 199 200 200 200 200 200 201 201 201 201 201
+Energy Industrial Processes  Agriculture Waste
+Figure 3. Emissions of GHG by sector, without LULUCF from 1990 to 2019 in kt COe.
+2
+4 https://ust.is/library/Skrar/NIR%202021_15%20april_UNFCCC_submission_FINAL.pdf
+21On the Path to Climate Neutrality  October 2021
+Total greenhouse gas emissions, excluding LULUCF, increased by approximately a 
+third since 1990, mostly due to the expansion of the metal production industry. 
+Emissions from the energy sector were dominated by fuel combustion in road 
+transport and fishing, whereas the emissions due to electricity production and 
+district heating were relatively small and almost exclusively linked to CO emissions 
+2
+from geothermal power plants. Annual emissions have seen an overall decline 
+since 1990 from commercial fishing, with CO emissions reducing by approximately 
+2
+a quarter over the time series. Emissions from both domestic flights and navigation 
+have also declined since 1990.
+Energy: Iceland ranks first among OECD countries in the per capita consumption of 
+primary energy. However, the proportion of domestic renewable energy in the total 
+energy budget is approximately 85%, which is a much higher share than in most 
+other countries, with close to 100% of the energy demand covered by hydrothermal-, 
+geothermal- and wind energy. The cool climate and sparse population call for high 
+energy use and transport. Together with road transport, fisheries also dominate 
+emissions in the energy sector.
+Industrial Processes: Emissions from industrial processes and product use in Iceland 
+fall mostly under the EU Emission Trading System (EU ETS), where the main sources 
+are aluminium and ferroalloy production. The availability of renewable energy like 
+hydropower in Iceland allows the metal industry to lower emissions of CO per ton of 
+2
+metal produced compared to the use of fossil fuels for energy generation. About 15% 
+of emissions in this sector are in the form of fluorinated greenhouse gases (F-gases). 
+22On the Path to Climate Neutrality  October 2021
+Agriculture: Emissions are dominated by agricultural soils and enteric fermentation 
+across the time series. Approximately 60% of emissions from enteric fermentation 
+are from cattle, whereas the second and third most significant livestock categories 
+are sheep and horses.
+Waste: Emissions from waste increased from 1990 to 2007 due to solid waste 
+disposal and increased composting, and then decreased to reach similar levels of 
+1990. Emissions from waste are dominated by solid waste disposal and wastewater 
+treatment activities.
+LULUCF: Overall, the LULUCF sector results in net emissions which are greater that all 
+other sectors combined. This is primarily due to emissions from grassland, wetlands 
+and cropland. LULUCF emissions have remained relatively constant since 1990. 
+15000
+13000
+11000
+e.)
+O-2
+C 9000
+kt 
+s (
+n
+o 7000
+si
+s
+mi
+e 5000
+G 
+H
+G
+3000
+1000
+-1000
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8
+199 199 199 199 199 200 200 200 200 200 201 201 201 201 201
+Energy Industrial Processess and Product use Agriculture
+Waste LULUCF emissions LULUCF removals
+Figure 4. Emissions of GHG by sector, with LULUCF from 1990 to 2019 in kt COe.
+2
+23On the Path to Climate Neutrality  October 2021
+Estimates of LULUCF emissions are subject to great uncertainty, higher than for any 
+other sector of emissions. The uncertainty applies both to the assessment of emis-
+sions and sequestration. 
+Emissions from land use, changed land use and forestry in Iceland are proportionally 
+high in total emissions compared to other countries. It will be important to elabo-
+rate on this aspect in relation to climate neutrality when more knowledge becomes 
+available. In order to address this uncertainty, extensive work is being undertaken 
+(see section 3.2). 
+2.1.4 Scope
+Setting a goal of reaching climate neutrality requires a concise description of key 
+parameters: sectors, gases, benchmarks, accounting rules, timeframe etc. Designing 
+the path to reach the goal of net zero emissions within a few decades is bound to be 
+a huge undertaking for almost any country, and it will require ambitious and effective 
+measures to reach that goal. However, It is important that the parameters associated 
+with the goal are clearly defined and transparent. 
+Iceland’s goal of climate neutrality extends to the seven greenhouse gases consistent 
+with the Paris Agreement. To achieve net zero emissions, it is considered necessary 
+to significantly reduce all of them. 
+They are as follows: 
+•  Carbon dioxide - CO 
+2
+•  Methane - CH 
+4
+•  Nitrous oxide - NO 
+2
+•  Hydrofluorocarbons - HFCs 
+•  Perfluorocarbons - PFCs 
+•  Sulphur hexafluoride - SF 
+6
+•  Nitrogen trifluoride - NF
+3
+24On the Path to Climate Neutrality  October 2021
+In national emissions accounting, emissions and sequestration are divided into the 
+following sectors according to their source. All the sectors fall under Iceland’s goal 
+of climate neutrality: 
+1.  Energy 
+2.  Industrial processes and chemical / product use (IPPU) 
+3.  Agriculture
+4.  Waste 
+5.  Land use, land use change and forestry (LULUCF)
+As stated above, it is important to elaborate on the high proportion of LULUCF 
+emissions in total emissions in Iceland and the significant uncertainty of their 
+estimate in defining the path towards net zero emissions. 
+25On the Path to Climate Neutrality  October 2021
+26On the Path to Climate Neutrality  October 2021
+3. Iceland’s Climate 
+Policies and measures
+Iceland’s mitigation measures seek to reduce greenhouse gas emissions while 
+ensuring sustainable growth and a just transition and providing synergies with other 
+environmental goals, such as improving air quality, a circular economy, and protecting 
+biodiversity.
+The Climate Action Plan is Iceland’s main instrument to reach its commitments under 
+the Paris Agreement, specifically its emissions reduction goals for 2030. The plan is 
+also intended to help reach the Government’s ambitious aim to make Iceland climate 
+neutral no later than 2040. 
+A road to climate neutrality relies on an array of crosscutting policies, such as 
+Iceland’s recent Waste Management Plan and Waste Prevention Program which 
+promote a circular economy.5 The transition is already underway with the 
+participation of different stakeholders and growing public awareness.
+3.1 Iceland’s Climate Action Plan
+The Icelandic Government presented a new Climate Action Plan in September 2018. 
+The Action Plan was a watershed, as it was the first long-term comprehensive 
+plan that was fully funded, with substantial increase in government funding of 
+key measures in climate mitigation. An updated version of the Climate Action 
+Plan was presented in June 2020, containing new and elaborated measures and 
+increased funding. The updated Action Plan also contained significantly improved 
+analysis to estimate the individual and collective mitigation gains of the measures 
+presented. All in all, the Climate Action Plan now contains 50 measures aimed at 
+reducing greenhouse gas emissions and increasing carbon sequestration. The updated 
+Action Plan reflected comments and suggestions received, and the conclusions of 
+a consultation process with stakeholders and civil society. Emphasis is placed on 
+implementing measures immediately; in 2021 all but 3 measures have already been 
+set in motion.
+Emphasis is placed on a rapid clean energy transition in transport and increased 
+efforts in the LULUCF sector, where Iceland has great mitigation potential in 
+5 Iceland’s Waste management Plan and Waste Prevention Program. 2021. https://www.stjornarradid.is/
+library/02-Rit--skyrslur-og-skrar/Stefna%20um%20me%C3%B0h%C3%B6ndlun%20%C3%BArgangs%202021- 27
+2032%20090621.pdfOn the Path to Climate Neutrality  October 2021
+afforestation, revegetation and wetland reclamation. There is special emphasis on 
+measures in these two fields, rationalised by the fact that Iceland has significant 
+mitigation potential in these fields and by economic findings showing that measures 
+in these fields are cost efficient. Iceland has already achieved an almost complete 
+energy transformation from fossil fuels to renewables in electricity production and 
+heating and now there are technological options for electrification of transport, 
+of which Iceland is well placed to take advantage, with an ample supply of 
+electricity from renewables. Iceland has great potential for carbon sequestration by 
+afforestation and revegetation, and possibilities to stop legacy emissions inter alia 
+from drained wetlands. 
+The Climate Action Plan addresses all major sources and sinks, and outlines climate 
+mitigation measures in transport, fisheries, energy, industry, chemicals, agriculture, 
+waste management and LULUCF. Part of the plan’s approach to emissions from 
+industry involves compliance with the Kigali amendment to the Montreal Protocol 
+to phase down the use of fluorinated greenhouse gases (F-gases) which Iceland 
+ratified in 2021.
+According to analysis, measures in the updated version of the Climate Action Plan 
+will lead to a decrease of emissions in 2030 by more than one million tons of CO 
+2
+equivalents compared to 2005 in sectors that fall under the EU Effort Sharing 
+Regulation –(ESR): transport, agriculture, fisheries, waste management etc. This 
+means that Iceland should meet its current climate commitments for a 29% reduction 
+in ESR emissions from 2005 levels, as analysis indicates that Iceland should be able 
+to reduce emissions in these sectors by 35% by implementing the actions outlined in 
+the Plan. In addition to this, actions currently in preparation are estimated to result 
+in an additional cut in emissions of 5-11%, for a total decrease of 40-46%. 
+28On the Path to Climate Neutrality  October 2021
+With the 2020 Climate Action Plan Iceland expects to achieve a substantial reduction  
+in greenhouse gas emissions — still greater reduction is aimed at through additional  
+measures currently in preparation.
+Development
+from 2005 to 2030
+3.500 Business as usual
+projection
+-20%
+3.000
+29% — Iceland’s 
+CO-e.)2 2.500 breindduicntgio Enff toarrtg Sehtaring
+kt  2005
+s ( Projected emissions 
+ssion 2.000 2018 bClyi mimaptele Amcetinotnin Pgl athne  -35%
+mi
+e
+G  1.500 40% — Iceland’s  
+H
+G reduction target
+1.000
+Projected emissions by 
+implementing measures   -40-46%
+500 in preperation
+0 5 0 5 0 5 0 5 0
+199 199 200 200 201 201 202 202 203
+Figure 5. Iceland’s historical greenhouse gas emissions that fall under the Effort Sharing Regulation to 2018, and 
+projected emissions in 2030 without the Action Plan, with the Action Plan and measures currently in preparation.
+Because climate change respects neither borders nor emissions accounting, it is 
+important to address greenhouse gas emissions regardless of their sources and 
+nature of commitments. The Action Plan takes this into consideration and aims 
+to address all significant sources and sinks. Figure 7 shows the expected success 
+of the measures and how they relate to Iceland’s commitments. For instance, 
+under land use, carbon sequestration and wetlands restoration will lead to greatly 
+increased benefits, more than 500% compared to 2005 levels. These measures play 
+an important role in achieving Iceland’s goal of climate neutrality no later than 2040.
+29On the Path to Climate Neutrality  October 2021
+Estimated reduction 2005-2030 in Iceland‘s emissions under the Effort Sharing Regulation  
+– carbon sequestration will be greatly increased through better land- use
+Annual greenhouse gas emissions and carbon sequestration by category, 1000 tonnes of CO equivalents
+2
+Expected change  Projected 2030
+2005 emissions with the Action Plan emissions Change 2005-2030
+776 -161 615
+A. Land transport -21%
+769 -320 449
+B. Ships and ports -42%
+C. Energy production 
+571 -384 189 -67%
+and small industry
+R) -35%
+S
+E
+g ( D. F-gases and 
+arin chemical use 127 +13 140 +11%*
+h
+ort s
+ff
+E E. Agriculture 605 -30 575 -5%
+F. Waste management -66%
+330 -217 113
+G. Transition  Consists of actions encouraging transition in the society not aimed  
+incentives at specific emission sources
+H. EU ETS: Aviation and 
+1.307
+EU ETS heavy industry Target for the EU-ETS is to reduce emissions in the  -43%
+system by 43% from 2005 to 2030
+I. Land use
+-204
+LULUCF Carbon sequestration  +515%
+and reduction in 
+-1.048 -1.252
+emissions from land
+Figure 6. Breakdown of greenhouse gas emissions and sequestration in the Action Plan.
+30On the Path to Climate Neutrality  October 2021
+In addition, many parties at national level other than the Government have taken 
+initiatives in combating climate change: municipalities, private sector companies and 
+other actors. These initiatives are expected to result in a reduction in greenhouse 
+gas emissions in Iceland’s emissions accounting. Supporting such initiatives is 
+important as government actions alone will not suffice to successfully counter 
+climate change. 
+The Action Plan takes into account the UN Sustainable Development Goals, which 
+were universally adopted in September 2015, and require the participation and 
+cooperation of numerous and diverse stakeholders. As technology advances rapidly, 
+new and more cost effective ways to reduce emissions can be expected to emerge. 
+The Climate Action Plan must therefore be in continuous development.
+The Action Plan will be assessed in terms of its impact on different income groups 
+and analysed in terms of costs and benefits, including the macroeconomic impacts 
+of measures. It is important to ensure that climate action supports efforts towards 
+a just transition.
+31The Climate Action Plan includes a total of 50 measures, divided into three parts
+Measures to reduce Iceland’s Effort Sharing emissions (ESR)1
+A.1 Infrastructure for active mobility A.2 Incentives for active mobility A.3 Encouraging public transport
+A.7 Ban on new registration  
+A.4 Incentives for low- and  A.5 Infrastructure for low-  A.6 Energy transition 
+of diesel and gasoline vehicles 
+A. Land transport zero emissions vehicles and zero emissions vehicles legislation and regulations after 2030
+A.10 Low emissions vehicles in 
+A.8 Energy transition in heavy transport A.9 Low emissions rental cars
+government and state enterprises
+B.1. Energy transition  B.2 Electrical infra- B.3 Ban on use  B.4 Energy transition  B.5 Energy transition 
+B. Ships and ports
+in fisheries structure in ports of heavy fuel oil of ferries of state-owned vessels
+C.1 Carbon capture from geothermal power plants C.2 Electrification of fishmeal production plants
+C. Energy production 
+and small industry
+C.3 Climate impact of the construction industry C.4 Domestic renewable fuels C.5 Energy transition in manufacturing industries
+D. F-gases and 
+D.1 Regulation of F-gases D.2 Taxation of F-gases
+chemical use
+E.3 Increased domestic vegetable 
+E.1 Climate-friendly agriculture E.2 Carbon neutral beef production
+production
+E. Agriculture
+E.4 Improved use and handling of fertilisers E.5 Improved feeding of livestock to reduce enteric fermentation
+F. Waste management F.1 Landfill tax F.2 Ban on the landfilling of organic waste F.3 Reduction in food waste
+G.3 Environmental  G.4 Information on climate 
+G.1 Carbon tax G.2 Climate fund
+data reporting change for the public
+G.5 Climate education  G.6 Climate impact assess- G.8 Sustainable public 
+G. Transition incentives G.7 Issuing of green bonds
+in schools ment of legislation procurement
+G.9 Climate strategy of  G.10 Climate strategy of other 
+G.11 Climate action planning
+Government Offices public agencies
+Measures to reduce emissions in connection with EU-ETS2
+H. EU ETS: 
+H.1 Carbon capture from  H.2 Updated Regulation under  H.3 Participation in international system 
+Air transport and 
+heavy industry the Emissions Trading System for reducing air transport emissions
+heavy industry
+Measures to reduce emissions and increase carbon sequestration through improved land use, land use change 
+and forestry (LULUCF)3
+I.2 Enhanced  I.5 Improved map- I.6 Improvement 
+I. LULUCF I.1 Enhanced  action in land  I.3 Recovery  I.4 Wetlands  ping of grazing  plan for the  
+action in forestry of wetlands conservation
+reclamation land and land use LULUCF inventory
+3 in preparation 17 in progress 30 implemented
+Definitions | In preparation: Preparation of the measure is underway, including situational analysis and mapping. | In progress: Work is well underway to 
+implement the measure and many aspects are well under way. | Implemented: The measure has been implemented and/or completed. 
+1 ESR: Effort Sharing Regulation. Regulation on joint fulfilment. Effort Sharing emissions with binding annual greenhouse gas reduction targets for each state.
+2 EU-ETS: EU - Emissions Trading System. | 3 LULUCF: Land Use, Land-Use Change, and Forestry.
+Figure 7. Summary of measures in Iceland’s Climate Action Plan, indicating whether measures  
+are in preparation, in progress or implemented.
+32On the Path to Climate Neutrality  October 2021
+The Climate Act ensures regular follow-up on the Government’s climate effort. 
+According to the Climate Act the Government shall, in consultation with stakeholders, 
+review and update the Climate Action Plan every fourth year, based on international 
+commitments and the Government’s goals. Climate measures shall be developed and 
+put in motion by an inter-ministerial committee. The committee shall also prepare 
+a yearly progress report on the status of implementation of the climate plan and 
+its measures, emissions development and whether or not the development is in 
+accordance with the Climate Plan. 
+3.2 Land use measures
+LULUCF is a cornerstone in Iceland’s climate mitigation policy and a key element of 
+Iceland’s Climate Action Plan6. The LULUCF sector is a key to Iceland’s climate neutrality 
+2040 goal, and in 2019 the Icelandic Government published a LULUCF mitigation plan7 
+outlining specific LULUCF policies and measures to be taken in the period up to 2022. 
+Iceland’s climate measures emphasise the reduction of emissions and the increase 
+of carbon sequestration in land use by the restoration of woodlands and wetlands, 
+revegetation, and afforestation. These measures play a role in Iceland meeting the 2030 
+commitments, but also an important role in achieving Iceland’s goal of climate neutrality 
+by 2040.
+Iceland is working on extensive improvements in measurements and accounting 
+of emissions and carbon sequestration in the LULUCF sector. In September 2021 an 
+improvement plan on measures to be taken to improve Iceland’s greenhouse gas 
+inventory was published.  Improved scientific knowledge and accounting should provide 
+more accurate estimates and improve the knowledge base for estimating the effect 
+of different policies and measures and thereby provide a better basis for long-term 
+projections.
+3.3 Carbon capture and storage
+In March 2021, a legislation that transposes the EU Directive 2009/31/EC of carbon 
+capture and storage into Icelandic legislation, was passed by the parliament of Iceland, 
+Alþingi.  In June 2019 the Government and heads of heavy industry operators in Iceland 
+signed a declaration of intent to explore possibilities for carbon capture and storage 
+of industrial emissions based on the collaborative research project CarbFix that is led 
+6 Iceland’s Climate Action Plan, June 2020: https://www.stjornarradid.is/library/02-Rit--skyrslur-og-skrar/Adger-
+daaetlun%20i%20loftslagsmalum%20onnur%20utgafa.pdf
+7 LULUCF Mitigation Plan (Bætt landnýting í þágu loftslagsmála): https://www.stjornarradid.is/lisalib/getfile.aspx-
+?itemid=f8c0433d-9cca-11e9-9443-005056bc4d74
+33On the Path to Climate Neutrality  October 2021
+by Reykjavík Energy. The legislation and further work on the legal framework for CCS 
+in Iceland aims to enable the use of the CCS opportunities in order to reach climate 
+neutrality.
+3.4 Energy Policy to 2050
+In the beginning of October 2020, the Icelandic Government presented a new Energy 
+Policy to 20508 based on the vision for a sustainable energy future. Amongst other 
+things, the vision states that in 2050 all energy production will be of renewable origin. 
+Energy use should be sustainable in a way that benefits society and the public in general. 
+Iceland should be leading in sustainable energy production and clean energy transition. 
+Consensus should be achieved on the balance between nature protection and utilisation 
+of energy resources.
+Iceland’s Energy Policy to 2050 main aims are:
+•  Energy needs are fulfilled
+•  Infrastructure is solid and shock-resistant 
+•  More diverse energy system 
+•  Iceland is independent of fossil fuels; clean energy transition on land, at 
+sea and in the air
+•  Improved energy efficiency and energy loss minimized 
+•  Resource streams are multi-use
+•  Nature conservation is taken into account in energy utilization
+•  Environmental impact is minimized 
+•  Sustainable utilization of energy resources
+•  The nation benefits from energy resources
+•  Energy market is active and competitive
+•  Equal access to energy throughout the country
+8 Iceland’s Energy Policy, presented 2nd of October 2020. Orkustefna til 2050: Skýr framtíðarsýn um sjálfbæra 
+orkuframtíð. https://www.stjornarradid.is/library/01--Frettatengt---myndir-og-skrar/ANR/Orkustefna/200327%20
+Atvinnuvegaraduneytid%20Orkustefna%20A4%20V5.pdf
+34On the Path to Climate Neutrality  October 2021
+3.5 A transition to a circular economy
+Iceland’s Waste Prevention Program (2016-2027) and Waste Management Plan (2021-
+2032) are important mechanisms on the road to climate neutrality. One of the five 
+core goals of the Waste Prevention Program is to cut greenhouse gas emissions with 
+ongoing and pipelined focus areas with clear mitigation co-benefits, e.g. food waste, 
+textile sustainability, and sustainable construction. Moreover, a pillar of the Waste 
+Management Plan is to reduce greenhouse gas emissions from waste and to work 
+towards a climate neutral Iceland.
+Iceland has already seen a significant reduction in emissions from waste management 
+through a decrease in the use of landfills, increased recycling and rise in the use of 
+methane from landfills.
+3.6 Climate change adaptation
+Building the climate resilience of societies and ecosystems is a part of the big picture 
+vision for a climate neutral Iceland not later than 2040. Iceland emphasises nature-
+based solutions which help build climate resilience for communities and ecosystems 
+vulnerable to for instance climate-induced natural hazards.
+Iceland is currently developing its first national adaptation plan based on a white 
+paper on climate change adaptation and Iceland’s first adaptation strategy.9 One 
+of Iceland’s policy aims and an objective for its adaptation planning is to develop 
+synergies between adaptation measures and mitigation measures. Figure 8 captures 
+the potential for such synergies with mitigation measures on the right side of the 
+x-axis and adaptation measures on the top part of the y-axis, creating an area in the 
+top right corner representing exceptionally beneficial measures with either mitigation 
+or adaptation co-benefits. Iceland has identified nature-based solutions as one of the 
+main opportunities to facilitate such synergies. Thus, a part of Iceland’s long-term goal 
+for net zero emissions is the strategic implementation of adaptation measures with 
+mitigation co-benefits.
+9 https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2021/09/10/Stefna-um-adlogun-samfelag-
+sins-ad-ahrifum-loftslagsbreytinga-gefin-ut/
+35On the Path to Climate Neutrality  October 2021
+ADAPTATION
+MUTUAL
+Y BENEFITS
+T
+LID
+EMISSIONS LNERABIREDUCE
+U
+INCREASED V M
+IT
+IG
+A
+T
+IO
+Y N
+BILITSED ERMEIDSUSICOENDS
+AA
+ERRE
+NC
+LN
+UI
+V
+Figure 8. A mapping of climate action capturing its two main categories  
+of mitigation and adaptation measures. 
+3.7 National consultation processes
+Public consultation is a key element in decision and policy making in Iceland and is 
+conducted in numerous ways. To increase transparency and opportunities for the public 
+and stakeholders to participate in policy making, regulatory work or public decision 
+making, the Government uses an online consultation portal. Additionally, various other 
+types of consultation processes are used such as informal and formal meetings with key 
+stakeholders, brainstorming sessions, participation of stakeholders in committee work, 
+direct invitation to comment during different work phases etc. 
+For instance, the recently added provisions to the Climate Act, legally formalising 
+Iceland’s goal for climate neutrality, were welcomed in stakeholder submissions to the 
+consultation portal along with useful discussions and suggestions for its implementation. 
+36On the Path to Climate Neutrality  October 2021
+In 2020, Iceland’s Climate Council published a discussion paper on the Government’s 
+intent to aim for net zero emissions. The Climate Council was established in 2018 and 
+was given a legal basis with an amendment to the Icelandic Climate Act in 2019. The 
+Council members are various stakeholders from different economic sectors, civil society, 
+and academia and the Council has the status of an independent body whose role is 
+to hold authorities accountable and provide advice on policy objectives and specific 
+measures related to climate change. According to the Climate Act, the Climate Council 
+shall inter alia review, at the stage of preparation, the Government’s climate-related 
+plans, and thus it represents an important formalised avenue for policy consultation. 
+Another platform for discussions on Iceland’s goal for climate neutrality is Green by 
+Iceland, established in 2019 by the Government and the Icelandic business sector for 
+cooperation on climate issues and green solutions.  
+In addition to the above consultation processes, Iceland’s path to climate neutrality 
+has been informed by a stakeholder engagement study, which was initiated by the 
+Government and carried out by a team of researchers. A random sample of Icelandic 
+individuals were invited to participate in a survey and group workshops on climate 
+change and mitigation in order to inform system dynamic modelling for the visualisation 
+of different ways for Iceland to reach net zero emissions. The objective and outputs 
+of the study are further elaborated in section 4, but the Government aims to further 
+expand participation of different stakeholders in the strategic work in order to create 
+a common vision describing the different measures needed and their implications for 
+Iceland. 
+3.8 Public expenditure for domestic
+climate action
+Iceland’s climate funding includes direct contributions to climate action, expenditure for 
+changed travel habits, tax incentives and additional funding. 
+In 2018, the Government issued a funded Climate Action Plan that marked a turning point 
+in combatting climate change in Iceland. These fiscal measures set a new high for climate-
+related spending and which was further increased along with the updated Climate Action 
+Plan in 2020. Based on the Government’s fiscal plan for 2022-2026, direct contributions for 
+climate action will be 2-2.6 billion ISK annually in the period 2022-2026. Moreover, climate 
+funding will be increased annually by 1 billion ISK in the period 2022-2031, in order to 
+finance Iceland’s enhanced goals on climate change mitigation. Expenditure for changed 
+travel habits and tax incentives are additional to the aforementioned spending. 10 
+10 Fjármálaáætlun 2022-2026 (e: Iceland‘s Fiscal Plan 2022-2026). https://www.stjornarradid.is/library/02-Rit--
+skyrslur-og-skrar/Fj%c3%a1rm%c3%a1la%c3%a1%c3%a6tlun%2020222026.pdf
+37On the Path to Climate Neutrality  October 2021
+Specifically, additional spending is foreseen in the fields of nature-based solutions, 
+agriculture, energy transition and sustainable transport. 
+Funding has been significantly increased to improve scientific knowledge and minimise 
+uncertainty and to strengthen Iceland’s national inventory and reporting system of 
+emissions and carbon sequestration. 
+3.8.1 Policies and measures for related research, development and 
+innovation 
+The Government aims to support strategic programming for climate-related research and 
+innovation to underpin and catalyse climate action in Iceland. Specifically, support has 
+been focused on basic research on climate-related processes to insure a strong scientific 
+foundation for decision making on mitigation and adaptation measures. This research 
+funding targets improvements of accounting of emissions and sequestration in the LULUCF 
+sector, inter alia in alignment with Iceland’s Science and Technology Strategy.11 Funds are 
+also allocated through strategic funding via the Climate Fund, Societal Challenges Fund 
+Program with grants for projects on sustainable development and climate change, as well 
+as the Energy Fund, which focuses on measures to cut emissions from fossil fuels.12 
+Iceland has developed and funded an improvement plan on measures to be taken 
+to improve Iceland’s greenhouse gas inventory. Improved scientific knowledge and 
+accounting should provide more accurate estimates and improve the knowledge base for 
+estimating the effect of different policies and measures.
+The Climate Fund, established by law in 2012 and operationalised in 2019, primarily 
+supports projects in the field of green technology innovation that aim at strengthening 
+research and development related to the introduction of new climate-friendly technology 
+solutions and design and public education related to the impact of climate change.13 
+11 Vísindi- og tæknistefna 2020-2022 (e. Iceland’s Science and Technology Strategy 2020-2022). https://www.stjor-
+narradid.is/library/03-Verkefni/Visindi/V%C3%ADsinda-%20og%20t%C3%A6knistefna%202020-2022.pdf
+12 https://orkustofnun.is/orkustofnun/rad-og-nefndir/orkusjodur/
+13 https://en.rannis.is/funding/research/icleandic-climate-fund/icleandic-climate-fund
+38On the Path to Climate Neutrality  October 2021
+The Ministry for The Environment and Natural Resources has supported specific topics 
+in order to enhance research in particular gaps in local climate knowledge. For instance, 
+by the establishment of a research fund to support scientific research on the interplay of 
+land use and climate. Research in this area is a prerequisite for Iceland to achieve its goals 
+in tackling climate change, and to make it possible to systematically protect and restore 
+ecosystems.14
+3.9 Contribution to a low-emission 
+development pathway in other countries
+A significant amount of Iceland’s ODA is focused on climate action with 20% of total 
+support in 2019 directly aimed at mitigation measures and 34.1% at adaptation measures.  
+As a part of its renewed NDCs, Iceland increased its year-on-year funding for climate 
+related development programs and projects by 45% in 2021. Iceland plans to increase its 
+overall climate funding by another 10% next year. 
+Along with the other Nordics, Iceland is committed to building back better and greener 
+and is aligning development policies and programmes with international climate and 
+environment objectives, including supporting OECD DACs work on aligning to the Paris 
+Agreement.
+This is reflected in Iceland’s position and advocacy at the UN, the World Bank, and the 
+OECD. At the World Bank, Iceland, together with the Nordic Baltic Constituency, has for 
+example advocated strongly against financing coal and other fossil fuel projects. 
+Climate action is an integrated part of Iceland bilateral development cooperation, 
+which includes clean-cooking initiatives, locally harvested school meals and integrating 
+renewable energy solutions in its bilateral development cooperation programmes in 
+education, health and water and sanitation such as electrifying schools and health-care 
+facilities in partner districts in Malawi and Uganda. 
+Through long-established fellowship programs, project financing, and technical assistance 
+Icelandic will continue sharing climate-related expertise in the field of geothermal and 
+renewable energy, sustainable use of marine resources and waters, soil conservation, and 
+measures to enhance the measures of societies to mitigate and adapt to climate change.15
+14 https://en.rannis.is/funding/research/the-doctoral-student-fund-of-the-ministry-for-environment-and-natu-
+ral-resources/
+15 Parliamentary Resolution on Iceland’s policy for international development cooperation for 2019-2023. https://
+www.althingi.is/altext/149/s/1424.html. English translation: https://www.government.is/library/01-Ministries/Min-
+istry-for-Foreign-Affairs/Iceida/Publications/Parliamentary%20Resolution%20on%20Iceland%E2%80%99s%20
+policy%20for%20international%20development%20cooperation.pdf
+39On the Path to Climate Neutrality  October 2021
+40On the Path to Climate Neutrality  October 2021
+4. Stakeholder-generated  
+Scenarios for Climate Neutrality
+In this section scenarios based on a stakeholder engagement study on pathways to
+a climate neutral Iceland in 2040 are showcased. The specific delineations of the 
+scenarios do not reflect government decisions but are modelled projections by a 
+team of researchers based on views and opinions expressed by the participants in 
+the stakeholder engagement. Still, the scenarios figure a field of potential pathways 
+towards net zero emissions, bearing in mind that the path will likely be some kind of 
+combination of many measures. 
+In 2017, the Icelandic Government agreed on a climate neutral Iceland no later than 
+2040 and implemented the goal into the Climate Act in 2021. Different options exist 
+regarding what a climate neutral Icelandic society could look like, and so do the 
+corollary trajectories towards that goal. To craft a robust long-term strategy towards 
+net zero emissions, identifying and comparing different trajectories is necessary.
+When identifying how a climate neutral Iceland could be structured and realised, 
+widespread stakeholder engagement is important to ensure that diverse viewpoints 
+are represented. 
+The advantages of such engagement include:
+•  The creation of a common vision of the future and what it entails
+•  A common vision of different measures required and their implications
+•  Understanding of diverse viewpoints
+•  Empowerment of participants to contribute to a climate neutral future
+•  Increased likelihood of support for necessary action
+41On the Path to Climate Neutrality  October 2021
+4.1 Scenarios from stakeholder engagement
+In 2021, a study was carried out by the University of Iceland and the University of 
+Reykjavik, on behalf of the Government of Iceland. The scope of the project was to 
+initiate a dialogue on how to reach climate neutrality and what this would mean 
+in Icelandic context. The study is a part of a longer participatory process towards 
+the goal of net zero emissions no later than 2040. A special minister-appointed 
+working group was established to advise on the work of the Universities on the 
+project on climate neutrality, including specialists from numerous Ministries and 
+key stakeholders. 
+Firstly, a randomly selected group of people was invited to participate in a survey 
+and a consequent workshop. Covid-19 put its mark on the process with meetings 
+being held online. Participants discussed various topics and moderators elaborated 
+discussions. Following this, the researchers were able to identify two major themes 
+in the discussions: 1) a focus on technological versus natural solutions and 2) climate 
+neutrality would be confined to a society similar to the one we know now, versus a 
+society where systemic changes have occurred, such as a significant changes in meat 
+consumption, travel habits and consumer habits.
+SMALL SYSTEMS
+CHANGE
+SCENARIO  SCENARIO 
+A B
+TECHNOLOGICAL  NATURE-BASED
+SOLUTIONS SOLUTIONS
+SCENARIO  SCENARIO 
+C D
+LARGE SYSTEMS
+CHANGE
+Figure 9. Scenario map derived from stakeholder engagement.
+42On the Path to Climate Neutrality  October 2021
+Following the discussion and its analysis, a team of modulators at the University of 
+Iceland and the University of Reykjavik analysed different scenarios based on the 
+solutions provided by the public. 
+4.1.1 Scenario A – Technological solutions
+Scenario A is characterised by climate neutrality which has been reached through 
+technological solutions without systems change.
+The Icelandic society described in Scenario A is an open, industrial and high-
+tech society that relies on energy-intensive industries, large-scale fishing and 
+tourism. Sustainable use of renewable energy resources is the foundation for 
+continued reliance on energy-intensive industries and electrification of transport. 
+Both economic growth and population growth is high. This is rooted in high levels 
+of consumerism, which translates into high levels of waste and high travel demand 
+with a preference for private transport solutions. Agriculture takes place around the 
+country, where farm size has increased. Diet preferences are for animal products.
+Technological solutions have enabled reaching net zero emissions. The energy system 
+largely runs on domestic renewable energy. Transport on land relies on electricity, 
+hydrogen or synfuels, but aviation and marine transport have only partially switched 
+to low-carbon solutions. However, the fishing industry has switched to hydrogen 
+or synfuels. Emissions from energy-intensive industries are captured and either 
+mineralised or used to produce synfuels. All organic waste is composted and/or 
+gasified. Better manure management is practiced in agriculture where wet manure 
+is used to produce methane. Less emphasis is given to carbon sequestration and 
+wetland reclamation and is practiced only to complete the road to climate neutrality.
+4.1.2 Scenario B – Nature-based solutions
+Scenario B is characterised by climate neutrality which has been reached through 
+nature-based solutions without systems change.
+The Icelandic society described in Scenario B is an open, industrial society that relies 
+on energy-intensive industries, large-scale fishing and tourism. Sustainable use of 
+renewable energy resources is the foundation for continued reliance on energy-
+intensive industries and electrification of light-duty transport. Both economic 
+growth and population growth is high. This is rooted in high levels of consumerism, 
+which translates into high levels of waste and high travel demand with a preference 
+for private transport solutions. Agriculture takes place around the country, where 
+farm size has increased. Diet preferences are for animal products. 
+43On the Path to Climate Neutrality  October 2021
+Nature-based solutions have secured climate neutrality, including a significant effort 
+in carbon sequestration through revegetation and reforestation. Greenhouse gas 
+emissions have also been mitigated by wetland reclamation. All organic waste is 
+composted and/or gasified. Transport on land relies on electricity or biofuels, but 
+aviation and marine transport have only partially switched to low-carbon solutions. 
+Electricity and biofuels are used in fisheries, agriculture uses fertilisers more 
+effectively and has changed composition of feed for livestock with increased use of 
+seaweed as feed for cattle to reduce methane production from enteric fermentation.
+4.1.3 Scenario C – Technological solutions and systems change 
+Scenario C is characterised by climate neutrality which has been reached through 
+technological solutions and systems change.
+The Icelandic society described in scenario C is a sustainable, high-tech society 
+that is diverse, circular and climate aware. Sustainable use of renewable energy 
+resources supports green industrial development and electrification of transport. 
+The economy relies on diverse green industries replacing 50% of aluminium smelters, 
+including low-carbon industries such as data centres and high-tech horticulture. 
+Fishing and tourism continue to be important parts of the economy. Both population 
+growth and economic growth is moderately high. Scenario C is rooted in moderate 
+levels of private consumption with increased emphasis on increased durability and 
+greener solutions. This translates into moderate levels of waste, reduced travel 
+demand with increased emphasis on public transport and active transport modes. 
+Diet preferences have changed with increased demand for plant-based diets. 
+Agriculture with focus on livestock takes place around the country, but demand 
+and thus production levels are moderate of sheep- and cattle-based products. As a 
+result, the numbers of sheep and cattle in the country have declined.
+Both systems change, as described above, and technological solutions have enabled 
+reaching net zero emissions. The energy system largely runs on domestic renewable 
+energy. Transport on land relies on electricity, hydrogen or synfuels but aviation and 
+marine transport have only partially switched to low-carbon solutions. The fishing 
+industry has switched to low-carbon fuels such as electricity, hydrogen or synfuels, 
+in addition to increased use of fishing gear that is lighter and thus less energy 
+intensive. Emissions from remaining energy-intensive industries is captured and 
+either mineralised or used to produce synfuels. Livestock has declined in agriculture, 
+and manure management has improved. All organic waste is composted and/or 
+gasified. Less emphasis is given to carbon sequestration and wetland reclamation 
+and is practiced only to complete the road to climate neutrality.
+44On the Path to Climate Neutrality  October 2021
+4.1.4 Scenario D – Nature-based solutions and system change 
+Scenario D is characterised by climate neutrality that has been reached through 
+nature-based solutions and systems change.
+The Icelandic society described in scenario D is a sustainable society that is 
+diverse, circular and aware, with an increased sense of community focusing on local 
+solutions. Sustainable use of renewable energy resources supports green industrial 
+development, where aluminium smelters have been replaced, and electrification of 
+transport. The economy relies on diverse smaller scale green industries, smaller 
+scale fisheries, smaller farms and tourism. Both economic growth and population 
+growth are comparatively low. This is rooted in, lower levels of private consumption 
+with increased emphasis on increased durability and greener solutions derived or 
+produced locally. Waste levels have drastically declined, including food waste.
+Travel demand has declined with significantly increased emphasis on public 
+transport and active transport modes. Diet preferences have significantly changed 
+with increased demand for plant-based diets based on domestic/local production. 
+Agriculture has been transformed with smaller farms and significantly reduced 
+emphasis on raising livestock due to changes in diet preferences. As a result, the 
+numbers of sheep and cattle in the country have significantly declined.
+Nature-based solutions and systems change as described above have secured 
+climate neutrality, including a significant effort in carbon sequestration through 
+revegetation and reforestation. Greenhouse gas emissions have also been mitigated 
+by wetland reclamation. Levels of waste have significantly declined, but all organic 
+45On the Path to Climate Neutrality  October 2021
+waste is composted and/or gasified. Transport demand has declined with a 
+significant overall increase in public transport. Transport on land relies on electricity 
+or biofuels, but aviation and marine transport have only partially switched to low-
+carbon solutions. The fishing industry has switched to low-carbon biofuels and 
+electricity, in addition to a significant increase in use of fishing gear that is lighter 
+and thus less energy intensive. Stock size of sheep and cattle has significantly 
+declined, fertilisers are used more effectively, and seaweed is used for feed for 
+cattle to reduce methane production from enteric fermentation. 
+4.1.5 Scenario E – Combines technological and nature-based 
+solutions and system changes
+Scenario E combines technological and nature-based solutions and systems changes 
+from scenarios A, B and C in a relatively moderate way.
+Scenario E is an open, industrial and high-tech society that relies on energy-
+intensive industries, large-scale fishing and tourism. Carbon neutrality has been 
+reached by a combination of technological and nature-based solutions, with some 
+systems changes. Both population growth and economic growth is moderately high. 
+Travel demand has increased, but with increased emphasis on public transport and 
+active transport modes. Diet preferences have moved towards more plant-based 
+diets.
+Transport on land relies on electricity, hydrogen or synfuels, but aviation and marine 
+transport have only partially switched to low-carbon solutions. However, the fishing 
+industry has switched to hydrogen or synfuels. Emissions from energy-intensive 
+industries are captured and either mineralised or used to produce synfuels. All 
+organic waste is composted and/or gasified. Carbon sequestration and wetland 
+reclamation are used alongside technological solutions to complete the road to 
+carbon neutrality.
+4.1.6 Scenario emission paths in different LULUCF contexts
+All the scenarios aim for climate neutrality no later than 2040 and all the scenarios 
+succeed in reaching net zero emissions no later than 2040. However, to reach net zero 
+emissions, reforestation, revegetation, and wetland reclamation (called LULUCF-
+based mitigation) are actively used at different levels for the different scenarios. The 
+required use of land for LULUCF-based mitigation depends on the effectiveness of 
+the other solutions and changes embedded in the scenarios. The less effective, the 
+more land required. The amount of land required to reach climate neutrality in 2040 
+46On the Path to Climate Neutrality  October 2021
+thereby reflects indirectly the effectiveness of the other mitigation measures and 
+systems changes at play in the different scenarios. 
+Iceland’s path towards climate neutrality can differ quite significantly based on 
+which measures will be taken. Figures 10-12 all show five different paths reflecting 
+the stakeholder-generated policy extremes in the directions of technology, nature 
+and systems change, in terms of their projected development of greenhouse gas 
+emissions. 
+Figure 10 shows the different paths without LULUCF emission or sequestration. 
+Moreover, the figure shows that the goal of climate neutrality will not be reached 
+without using removals of carbon from the atmosphere to compensate for emissions 
+that are unlikely to be eliminated. 
+GHG emissions without LULUCF
+6000
+5000
+e.)
+O-2
+kt C 4000
+s (
+n
+o 3000
+si
+s
+mi
+e
+G  2000
+H
+G
+1000
+0
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0
+199 199 199 199 199 200 200 200 200 200 201 201 201 201 201 202 202 202 202 202 203 203 203 203 203 204
+Historical GHG emissions Scenario A Scenario B
+Scenario C Scenario D Scenario E
+Figure 10. Different emission paths of GHG emission based on the scenarios A, B, C, D and E without 
+emissions or sequestration from LULUCF.
+47On the Path to Climate Neutrality  October 2021
+While Figure 10 does not capture emissions or sequestration from LULUCF, figures 11 
+and 12 show how measures for revegetation and wetland restoration can influence 
+net emissions. Both figures show different paths based on a significant additional 
+increase in land use mitigation measures. Figure 11 shows the development of net 
+emissions in each of the stakeholder-generated scenarios to 2040 including LULUCF 
+sequestration. 
+GHG emissions and LULUCF sequestration
+8000
+6000
+Oe)2 4000
+C
+kt  2000
+s (
+n
+o 0
+si
+s
+mi -2000
+E
+G 
+GH -4000
+-6000
+-8000
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0
+199 199 199 199 199 200 200 200 200 200 201 201 201 201 201 202 202 202 202 202 203 203 203 203 203 204
+Historical GHG emissions Scenario A Scenario B
+Scenario C Scenario D Scenario E
+Figure 11. Different emission paths of GHG emission based on the scenarios A, B, C, D and E  
+with sequestration from LULUCF but without LULUCF emissions.
+Only including LULUCF sequestration in the projection, that is, without LULUCF 
+emissions, leads to significant net negative emissions in 2040 in all stakeholder-
+generated scenarios. However, in Figure 12 where LULUCF emissions are also depicted, 
+all scenarios hit or come very close to net zero emissions around 2040, except scenario 
+B (nature-based solutions without systems change) which is still projected far away.
+48On the Path to Climate Neutrality  October 2021
+GHG net emissions (with LULUCF emissions and removals)
+16000
+14000
+12000
+e.)
+O-2 10000
+C
+kt 
+s ( 8000
+n
+o
+si
+s 6000
+mi
+E
+HG  4000
+G
+2000
+0
+-2000
+0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0 2 4 6 8 0
+199 199 199 199 199 200 200 200 200 200 201 201 201 201 201 202 202 202 202 202 203 203 203 203 203 204
+Historical GHG net emissions w/LULUCF emissions and removals Scenario A
+Scenario B Scenario C Scenario D Scenario E
+Figure 12. Different emission paths of GHG emission based on the scenarios A, B, C, D and E with 
+emissions and sequestration from LULUCF.
+The difference between figures 11 and 12, reflecting calculations including LULUCF 
+sequestration without and with LULUCF emissions, underscores the large proportion 
+of greenhouse gas emissions from land, a unique feature of Iceland’s emissions profile. 
+The high proportion of LULUCF emissions in total emission and great uncertainty 
+of their estimate must be considered when defining the path towards climate 
+neutral Iceland 2040. To address this uncertainty, Iceland is working on extensive 
+improvements to improve accounting of emissions and carbon sequestration in the 
+LULUCF sector.
+49On the Path to Climate Neutrality  October 2021
+50On the Path to Climate Neutrality  October 2021
+5. Path to Climate Neutrality
+The Icelandic Government is committed to the task of creating a climate neutral 
+society with net zero emissions and to fulfil Iceland’s international obligations. 
+Iceland has submitted an updated nationally determined contribution under the 
+Paris Agreement, enhancing its commitment to at least 55% net greenhouse gas 
+emissions reduction by 2030 compared to 1990, to be achieved by acting jointly with 
+the EU and its Member States and Norway.
+Reaching the goal of net zero emissions is not a straightforward task and new 
+strategies and measures need to be put in place to reach the target. The transition 
+to a climate neutral society requires strong commitment, investment on all fronts 
+and planning. It is important to continue the collection of data and best practices 
+to continue the political debate on the way forward. A carbon neutral society will 
+require reducing all emissions, keeping in mind their different sources and the 
+variety of solutions applicable to each sector. Therefore it is likely that the way 
+forward will be a combined set of different sectoral strategies and measures. The 
+strategy needs to be flexible and to allow for new innovative solutions that might be 
+found on the path to climate neutrality. 
+Going forward, the creation and systematic reconsideration of a credible strategy 
+for a climate neutral Iceland no later than 2040 relies on the engagement of different 
+groups of stakeholders and cooperation across governmental actors, industry 
+partners, non-governmental organisations and municipalities. This includes public 
+participation in building the strategy to ensure a just transition to a circular, 
+competitive, climate neutral future.
+The regularly updated Climate Action Plan will continue to be Iceland’s primary 
+policy mechanism to coordinate the implementation of the mitigation measures 
+which are at the heart of a goal for climate neutral Iceland no later than 2040. To 
+support reaching the goal, further data and analysis is needed. 
+The uncertainty regarding LULUCF emissions is an ongoing challenge for discussions 
+and decision-making on net zero emissions policy in Iceland. Furthermore, the 
+depiction of scenarios in section 4 in different LULUCF contexts, shows the unique 
+significance of how LULUCF targets are defined and framed for the country. Part of 
+51On the Path to Climate Neutrality  October 2021
+the enhanced support for basic and applied research on climate change in Iceland 
+is specifically directed at studies regarding the interplay of land use and climate.
+The next step is to further the discussion on how to reach climate neutrality, e.g. 
+using the results from the stakeholder study. A just path to climate neutrality should 
+involve all sectors, different stakeholders and the general public in the discussion 
+and the decision making. 
+Iceland intends to update its communication of a long-term strategy when further 
+analysis and policy documents are published on the matter.
+52On the Path to Climate Neutrality 
+Government of Iceland
+Ministry for the Environment and Natural Resources

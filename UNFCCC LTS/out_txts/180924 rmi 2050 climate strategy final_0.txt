@@ -1,0 +1,2924 @@
+Tile Til Eo
+2050 CLIMATE STRATEGY
+“Lighting the way”
+The Republic of the Marshall Islands
+September 2018 
+ 
+ 
+    
+Table of Contents 
+ 
+Dedication .......................................................................................................................................................3 
+Foreword .........................................................................................................................................................4 
+The Marshall Islands – a Context .....................................................................................................................6 
+Section 1 – Executive Summary ........................................................................................................................8 
+Key Recommendations ................................................................................................................................8 
+Greenhouse Gas Emissions ........................................................................................................................ 10 
+Adaptation & Climate Resilience ............................................................................................................... 14 
+Means of Implementation ......................................................................................................................... 15 
+Transparency, Environmental & Social Information .................................................................................. 16 
+Gender and Human Rights ........................................................................................................................ 16 
+Approach and Future Perspectives ............................................................................................................ 17 
+Section 2 – Greenhouse Gas Emissions ........................................................................................................... 19 
+2a – Breakdown & Context ........................................................................................................................ 19 
+2b – Electricity ........................................................................................................................................... 21 
+2c – The Waste Sector ............................................................................................................................... 30 
+2d – Domestic Transportation – Land based .............................................................................................. 34 
+2e – Domestic Transportation – Ocean based ........................................................................................... 38 
+2f – Cooking & Lighting.............................................................................................................................. 40 
+Section 3 – Adaptation & Climate Resilience .................................................................................................. 43 
+Section 4 – Means of Implementation ............................................................................................................ 52 
+Section 5 – Transparency, Environmental & Social Information ..................................................................... 55 
+Section 6 – Gender & Human Rights .............................................................................................................. 57 
+Section 7 – Health .......................................................................................................................................... 61 
+Section 8 – Education, Training & Public Awareness ...................................................................................... 63 
+Section 9 – Approach & Future Perspectives .................................................................................................. 65 
+Section 10 – Background to the RMI 2050 Strategy ....................................................................................... 68 
+Why Have a 2050 Strategy? ....................................................................................................................... 68 
+The Process that Led to This 2050 Strategy ............................................................................................... 70 
+Section 11 – Methodologies, Baseline, Projections......................................................................................... 71 
+11a – Greenhouse Gas Emissions .............................................................................................................. 71 
+11b – Adaptation, Environmental Information  & Means of Implementation ........................................... 73 
+Section 12 – Acronyms ................................................................................................................................... 74 
+Section 13 – Acknowledgments...................................................................................................................... 76 
+ 
+  
+Dedication 
+ 
+ 
+ 
+ 
+Ilo Ememej Minister Mattlan Zackhras ilo ettonak eo  
+an nan eiki monakjen in jibadbad kein iumin Strategy 2050. 
+ 
+ 
+Dedicated to the memory of Minister Mattlan Zackhras  
+and his vision to produce this 2050 Strategy. 
+Foreword 
+ 
+As  seafaring  people  we  know  that  a  long  journey  requires  careful  navigation.  In 
+beginning to ask ourselves what kind of country we want to live in by the middle of this 
+century, our 2050 Climate Strategy provides us with a compass that we can use to travel 
+with confidence and along a steady course. And by ensuring that it is a dynamic, living 
+document, we will improve the Strategy over time, allowing us to carry out our journey 
+with increasing precision as we get closer to our destination.  
+Under the Paris Agreement that my country was proud to have played a key role in 
+helping secure, every country should strive to formulate and communicate long-term 
+low greenhouse gas emission development strategies, and to do so by 2020. These 
+“2050 Strategies” will be essential for each country to set a clear direction of travel and 
+provide a domestic context in which to progressively raise ambition in a manner that is 
+consistent with achieving the goals of the Paris Agreement. Quite simply, the five-year 
+cycles of the Paris Agreement will only ever yield the necessary increases in climate 
+ambition if coupled with each country setting a long-term vision that it works towards 
+achieving.    
+In  producing  our  own  2050  Strategy,  we  wanted  to  set  a  clear  framework  for 
+progressing towards net zero greenhouse gas emissions by 2050, as well as transitioning 
+to an economy and society that is resilient and can adapt to the inevitable impacts of 
+climate change. But most importantly, we wanted to do this in a way that promotes 
+sustainable development and the future well-being of the Marshallese people – women, 
+men and youth. The process of producing our 2050 Strategy has of itself been a useful 
+experience. 
+In my experience long journeys require many partners. We therefore invite everyone to 
+consider how they may be able to support the Marshall Islands in our own journey, but 
+also ask those countries that have not yet produced their own 2050 Strategies to start 
+that process and discover for themselves the possibilities and opportunities they can 
+reveal.  
+ 
+H.E. Dr. Hilda C. Heine 
+President 
+ 
+The Honorable David Paul 
+Minister-in-Assistance to the President & Environment Minister 
+Chair of the Tile Til Eo Committee 
+Page 4   
+ 
+Page 5   
+The Marshall Islands – a Context 
+ 
+1.  The Republic of the Marshall Islands (RMI) is one of the world’s lowest-lying and 
+climate vulnerable countries. It is a coral atoll nation comprising 1,156 individual 
+islands/islets and 29 different atolls with an average elevation of just six feet 
+above sea level, dispersed across nearly two million square kilometers of the 
+Pacific Ocean. The national population is almost 53,000 and the national Gross 
+Domestic Product (GDP) is approximately US$180 million, driven overwhelmingly 
+by external assistance from the Compact of Free Association relationship with the 
+United  States  and  remittances.  National  industry  and  agriculture,  including 
+fisheries and especially tuna, account for less than 15% of economic activity. 
+2.  Gaining independence in 1986, after a long period of contestation and occupation, 
+RMI is now a stable and peaceful democracy. However, the impacts of 67 different 
+nuclear tests are still felt. These tests, conducted by the US in the period following 
+World War II when RMI was a UN Trusteeship Territory, were roughly equivalent 
+in energy terms to 1.6 Hiroshima detonations every day for 12 years. 
+3.  While  RMI  may  only  contribute  0.00001%  of  global  greenhouse  gas  (GHG) 
+emissions, the country has a proud history of prominent climate leadership, both 
+at home and on the world stage. Following a global fuel price spike in 2008, RMI 
+declared a National Economic Emergency and has since then rapidly embraced 
+renewable energy technologies and taken huge strides in energy efficiency. For 
+example, more than 90% of the country’s outer islands have now been completely 
+solarized. The country is also embarking on a major solar project for Ebeye (one of 
+two major urban centers) on Kwajalein Atoll, and four other atolls. Additional 
+stability improvements in the electricity grid are still required to allow further 
+penetration of renewable energy in urban areas. 
+4.  On the international stage, RMI spearheaded the 2013 Majuro Declaration for 
+Climate Leadership, which sought to demonstrate the Pacific’s adoption of some 
+of the world’s most ambitious GHG emissions reduction targets. In 2015 it played 
+a key role in securing the Paris Agreement on climate change, including as the 
+founder of the High Ambition Coalition (HAC) which it continues to convene. RMI 
+assumed Presidency of the Climate Vulnerable Forum (CVF) in August 2018. 
+5.  RMI is at the front of the front line in the battle against climate change, and its 
+front line is its last line of defense. As one of the countries most vulnerable to 
+climate change, adapting to climate impacts is an increasingly pressing national 
+priority, including with respect to women, men and children in rural communities 
+who  have  limited  access  to  resources  and  services  and  so  are  particularly 
+vulnerable.  
+6.  The country is experiencing increasingly damaging effects from climate change 
+and seeing more frequent and intense events, such as drought, floods and swells, 
+and tropical cyclones and storms. RMI declared a State of Disaster in 2013 and 
+2016 as a result of prolonged and unseasonal droughts. The Post Disaster Needs 
+Assessment (PDNA) from the 2016 drought estimated the total economic losses to 
+be approximately US$4.9 million, with agriculture being the single most affected 
+Page 6   
+sector. In 2015, Typhoon Nangka cost RMI more than 3% of its GDP in a single 
+night. As king tides become more frequent and intense, salt water is increasingly 
+seeping into fresh water lenses, creating urgent challenges for the islands. Raising 
+support to assist with adaptation efforts remains a significant challenge. 
+7.  RMI has matched its international leadership in calling for greater ambition with 
+equally ambitious domestic action. In 2015 RMI became the first Small Island 
+Developing State (SIDS) to table its post-2020 Nationally Determined Contribution 
+(NDC). This committed the country to a 32% reduction of GHG emissions by 2025, 
+based on 2010 levels. It also made an indicative commitment to reduce  GHG 
+emissions by 45% by 2030, based on 2010 levels, thereby setting a projected 
+straight-line intended NDC trajectory to achieve RMI’s stated aspiration of net 
+zero GHG emissions by 2050. The NDC was ground breaking in that it contained 
+the first economy-wide absolute GHG emissions reduction target against a base 
+year by a developing country. 
+8.  In 2016 RMI also committed, under the Marrakech Partnership, to achieving 100% 
+renewable energy by 2050. RMI has reiterated its aspiration to achieve net zero 
+GHG emissions by 2050, including most recently through signing the Declaration of 
+the Carbon Neutrality Coalition at the One Planet Summit in December 2017. 
+9.  The  purpose  of  this  2050  Climate  Strategy  –  which  is  RMI’s  long-term  low 
+greenhouse gas emission climate-resilient development strategy under the Paris 
+Agreement - is to outline a long-term pathway for RMI to achieve its objectives 
+for  net  zero  emissions  and  100%  renewable  energy,  as  well  as  to  facilitate 
+adaptation and climate resilience in a way that ensures the future protection 
+and prosperity of the country and its women, men and youth. 
+Page 7   
+Section 1 – Executive Summary 
+ 
+Key Recommendations  
+ 
+ 
+In order to achieve its objectives for net zero emissions by 2050 and 100% 
+renewable energy, as well as to adapt to the impacts of climate change and 
+achieve resilience in a way that ensures future protection and prosperity of 
+RMI, this 2050 Strategy makes the following recommendations:  
+  Submit, by 2020 at the latest, a new NDC in which, in the context of the 
+necessary means of implementation being available, RMI: 
+  revises  its  quantified  economy-wide  target  to  reduce  its 
+emissions of GHGs to at least 32% below 2010 levels by 2025; 
+  commits  to  a  quantified  economy-wide  target  to  reduce  its 
+emissions of GHGs to at least 45% below 2010 levels by 2030;  
+  communicates an indicative target to reduce its emissions of 
+GHGs by at least 58% below 2010 levels by 2035; 
+  reaffirms its aspiration to achieve net zero GHG emissions by 
+2050 at the latest, 
+  commits to producing a National Adaptation Plan by the end of 
+2019 at the latest that sets out short, medium and long-term 
+milestones  to  adapt  to  the  impacts  of  climate  change  and 
+transition  to  climate  resilience,  suggests  implementation 
+measures  and  includes  a  plan  to  generate  the  necessary 
+financing; 
+  commits to submitting an  Adaptation Communication to the 
+UNFCCC by 2020 at the latest; 
+  commits  to  a  gender-responsive  and  human  rights-based 
+approach  in  all  NDC-related  planning,  programming  and 
+implementation; and 
+  commits to using the latest Intergovernmental Panel on Climate 
+Change (IPCC) Guidelines (currently 2006). 
+  Focus  in  the  short  and  medium  term  on  RMI’s  electricity  sector  to 
+implement GHG reductions consistent with achieving its NDC targets; 
+  Act  to  reduce  RMI’s  growing  waste  problem  by  minimizing  organic 
+material in collected waste and consider possibilities to generate energy 
+Page 8   
+from waste; 
+  Develop polices to encourage a greater use of public transport, cycling 
+and walking, and the increased uptake of electric vehicles; 
+  Explore options to reduce GHG emissions from domestic ocean-based 
+transport, including improved regulatory control; 
+  Continue  efforts  to  phase  out  the  use  of  kerosene  for  lighting  and 
+strengthen  existing  institutional  arrangements  to  reduce  GHGs  from 
+cooking and lighting; 
+  Establish a long-term finance strategy to implement this 2050 Strategy 
+and its recommendations; and identify and consider options for a more 
+coordinated  and  centralized  approach  to  applying  for,  and  monitor, 
+related overseas aid and investment; 
+  Ensure due diligence is fulfilled before making significant investments to 
+implement this 2050 Strategy and its recommendations; 
+  Prioritize capacity building in all areas relevant for the implementation 
+of this 2050 Strategy and its recommendations; 
+  Mainstream  gender  and  human  rights,  including  in  relation  to 
+developing,  adopting,  reviewing  and  implementing  laws,  policies  and 
+projects related to climate change, and commission further analysis with 
+a view to putting in place a strategy to improve related data collection, 
+monitoring and evaluation;  
+  Include  health  considerations  as  part  of  RMI’s  forthcoming  National 
+Adaptation Plan; 
+  Include education, training & public awareness considerations as part of 
+RMI’s forthcoming National Adaptation Plan; 
+  Review  and  update,  as  necessary,  this  2050  Strategy  as  a  minimum 
+every five years – including to recommend targets for inclusion in future 
+NDCs – at least one year before RMI submits future NDCs; and 
+  Establish a domestic process to oversee reviews and updates to this 
+2050 Strategy, as well as to monitor its implementation. 
+ 
+ 
+   
+Page 9   
+Greenhouse Gas Emissions 
+ 
+1.  RMI’s GHG emissions – as presented in the Second National Communication1 
+(August  2015)  –  can  be  broken  down  into  four  key  sectors:  electricity; 
+transportation (land and sea); waste; and cooking & lighting.  
+2.  The  following  sections  will  outline  illustrative  decarbonization  scenarios  and 
+pathways  for  each  individual  sector  and,  where  appropriate,  suggest  specific 
+considerations for RMI’s major population centers (Majuro, Ebeye, Wotje, Jaluit, 
+and Kili) and the outer islands.  
+3.  RMI produced its NDC in 2015. The key GHG provisions of the NDC state that: 
+  RMI  commits  to  a  quantified  economy-wide  target  to  reduce  its 
+emissions of GHGs to 32% below 2010 levels by 2025; 
+  RMI communicates, as an indicative target, its intention to reduce its 
+emissions of GHGs to 45% below 2010 levels by 2030; 
+  These targets put RMI on a trajectory to nearly halve GHG emissions 
+between  2010  and  2030,  with  a  view  to  achieving  net  zero  GHG 
+emissions by 2050, or earlier if possible.  
+4.  Essentially this represents a  straight-line intended trajectory from the  current 
+2025 target to zero GHG emissions in 2050 (see NDC trajectory in Figure 1 below). 
+Figure 1: RMI Greenhouse Gas Emissions Reductions – NDC Trajectory and Scenarios 
+                                                 
+1 http://www.un-gsp.org/sites/default/files/documents/mhlnc2.pdf  
+Page 1 0  
+5.  RMI’s  current  NDC  targets  are  highly  ambitious  and  will  require  significant 
+additional efforts, as well as additional means of implementation, to achieve. 
+Nevertheless, this 2050 Strategy proposes targets for a new and more ambitious 
+NDC consistent with the straight-line intended emissions reduction trajectory from 
+the 2025 target to net zero in 2050 (see below).  
+6.  RMI has been clear – as reflected in its 2015 NDC – that its GHG targets represent 
+a floor, and not a ceiling, to ambition. In that context, and in order to illustrate 
+examples of how RMI might further raise ambition and to do so more quickly, this 
+2050 Strategy also includes three illustrative Scenarios for RMI’s GHG emissions:   
+  a  "Moderate"  enhanced  ambition  Scenario,  reflecting  technically  and 
+economically feasible targets;  
+  an  intermediate  "Significant"  enhanced  ambition  Scenario,  which  is 
+equivalent to the Lighthouse Scenario, but is delayed by 15 years due to 
+presumed lack of funding; and 
+  a "Lighthouse" enhanced ambition Scenario, which is technically feasible but 
+more expensive. 
+7.  Each of the illustrative Scenarios (see Figure 1) is defined in more detail in the 
+Section 2 of this 2050 Strategy. The purpose of these Scenarios is to:  
+  provide illustrative examples of the range of options available, and the kind 
+of measures that might need to be implemented to achieve them, as well as 
+to suggest next steps; 
+  provoke discussions as to what might be the best way forward for RMI to 
+contribute to achieving the temperature goals of the Paris Agreement; 
+  facilitate making progress towards achieving RMI’s aspiration of net zero 
+GHG emissions by 2050. 
+8.  This 2050 Strategy is intended to provide a framework under which more detailed 
+implementation plans, strategies and projects can be developed. In that context it 
+is important, when considering measures and next steps to implement this 2050 
+Strategy, that reference is also made to RMI’s forthcoming NDC Partnership Plan, 
+and  to  keep  in  mind  that  for  the  electricity  sector  specific  implementation 
+measures will be set out in RMI’s forthcoming Electricity Roadmap. 
+ 
+Main Points 
+9.  Achieving RMI’s 2025 NDC target and indicative 2030 NDC target is possible under 
+the assumptions outlined in this 2050 Strategy. In both the Lighthouse and the 
+Significant Scenarios, RMI would essentially meet its indicative 2030 NDC goal. 
+RMI could achieve up to an 87% reduction in GHG emissions in the Lighthouse 
+Scenario by 2050, without using any offsets. A pathway to eliminate remaining 
+emissions and achieve 100% reductions by 2050 is not clear due to currently 
+unavoidable GHG emissions from waste. But in future planning efforts, RMI can 
+evaluate additional new technology options, carbon sinks, or offsets.  
+Page 1 1  
+10.  On the basis of the current NDC, and consistent with the straight-line intended 
+emissions reductions trajectory from the 2025 target to net zero in 2050, as well 
+as the content and underpinning analysis of this 2050 Strategy, it is recommended 
+that – in accordance with the legally binding requirement of the Paris Agreement 
+– RMI submits by March 2020, at the latest, a new NDC in which it: 
+  revises its quantified economy-wide target to reduce its emissions of 
+GHGs by 2025 to be at least 32% below 2010 levels. Changing its 
+current 2025 target to an “at least” target is consistent with RMI’s wish 
+to overachieve on its 2025 target, and to further raise ambition and do 
+so more quickly, should the means of implementation to do so be 
+available; 
+  commits to a quantified economy-wide target to reduce its emissions 
+of GHGs to at least 45% below 2010 levels by 2030. In doing this, RMI 
+will make trying to achieve its previously indicative 2030 target binding 
+under the Paris Agreement;  
+  communicates,  as  an  indicative  target,  its  intention  to  reduce  its 
+emissions of GHGs by at least 58% below 2010 levels by 2035. This 
+indicative target would be consistent with RMI’s straight-line intended 
+NDC emissions reduction trajectory from the 2025 target to net zero in 
+2050,  and  so  represents  consistent  momentum  in  RMI’s  GHG 
+emissions reductions efforts. 
+11.  By specifying that targets in its future NDC will be “at least” targets, RMI will send 
+a clear signal of intent to try to overachieve against them, and that they are a floor 
+for ambition, not a ceiling. Nevertheless, it must be emphasized that achieving 
+even RMI’s existing ambitious NDC targets will require the necessary means of 
+implementation to be available. Going beyond these and overachieving against 
+targets will clearly require the availability of further means of implementation. At 
+the same time, the transition to renewable energy could present net future cost 
+savings  from  reduced  imports  of  fossil  fuels  and  bring  other  co-benefits,  for 
+example. 
+12.  It is worth pointing out that  RMI has already undertaken significant steps to 
+reduce its GHG emissions. Its emissions peaked in 2009, and the National Energy 
+Policy and Energy  Action  Plan  identifies  a  comprehensive  list  of  strategies  to 
+further reduce GHG emissions. To maintain this momentum, this 2050 Strategy 
+recommends undertaking studies and pilot projects, which focus on the actions 
+with the highest potential to transform RMI’s energy usage and accelerate the 
+shift away from emissions-intensive practices, towards net zero emissions by 
+2050.  
+13.  With strategic and adaptive management, RMI can achieve significant emissions 
+reductions  and  solidify  its  climate  leadership  position.  In  its  2009  and  2016 
+National Energy Plans, RMI outlined national goals for energy use that move the 
+country toward achievement of its 100% decarbonization vision by 2050. The 
+electricity sector has by far the greatest potential to rapidly reduce RMI’s GHG 
+emissions  in  line  with  its  2025  and  2030  NDC  targets.  The  pathway  to  a 
+Page 1 2  
+sustainable  green  energy  mix  and  to  further  decarbonizing  the  electricity 
+generation sector will be set out in RMI’s forthcoming Electricity Roadmap.  
+ 
+Further Detail 
+14.  This 2050 Strategy shows that by 2050, RMI can nearly achieve its goal of reaching 
+zero emissions. In order to achieve these results without the use of GHG offsets, 
+significant changes to energy policy and in-use technologies are needed.  
+15.  A comparison of the NDC to the three illustrative Scenarios in 2030 and 2050 
+shows the following projection on 2010 levels: 
+ 
+  2030  2050 
+NDC   45% reduction  100% reduction 
+Moderate Scenario  47% reduction  56% reduction 
+Significant Scenario   54% reduction  70% reduction 
+Lighthouse Scenario  60% reduction   87% reduction 
+ 
+16.  Among the three  Scenarios, the Lighthouse Scenario gets RMI closest to its 
+stated aim of net zero GHG emissions by 2050 (see Figure 4).  
+17.  After  2025,  the  three  Scenarios  diverge  significantly  in  terms  of  achieved 
+emissions reductions. This means that if ambitious action is delayed, emissions 
+reductions would need to be more aggressive in the future in order to achieve 
+net zero emissions by 2050. Internationally it is generally accepted that delayed 
+action would ultimately incur greater overall costs – although this would need 
+further analysis, taking into account the specific circumstances of RMI. 
+18.  Decisions  regarding  how  a  Lighthouse  ambition  reduction  strategy  could  be 
+pursued will depend on a number of factors including:  
+  current and projected future technology costs (e.g. energy storage);  
+  the relatively higher costs of delaying action and still achieving net zero 
+emissions reductions by 2050;  
+  RMI’s international leadership on climate change; and 
+  access to financing and other means of implementation. 
+19.  In  the  Lighthouse  Scenario,  the  addition  of  energy  storage  allows  renewable 
+penetration to reach 100% of electricity generation. Electric vehicles would tend 
+to  eliminate  land  transportation  emissions,  and  electricity  for  cooking 
+substitutions would tend to eliminate “other” emissions.  
+Page 1 3  
+20.  While  waste  emissions  can  be  reduced  through  recycling  and  landfill 
+improvements,  they  cannot  be  eliminated  entirely  due  to  the  limitations  of 
+current  technologies  and  policy  options.  Therefore,  even  under  a  Lighthouse 
+emissions reductions Scenario, reaching net zero emissions by 2050 is currently 
+not feasible. Offsetting residual emissions from waste could be considered, and 
+more sustainable technologies may, of course, emerge in the future.  
+ 
+Adaptation & Climate Resilience 
+ 
+21.  As  one  of  the  world’s  most  climate  vulnerable  nations,  adaptation  will  be  a 
+constant requirement for RMI, even if the Paris Agreement’s goal of limiting global 
+temperature increases to no more than 1.5°C is achieved. It is difficult to predict 
+exactly what adaptation needs there will be based on how high the temperature 
+might rise and therefore it is important to apply the precautionary principle in 
+planning.   
+22.  RMI  has  historically  developed  adaptation  policies  based  on  immediate  and 
+foreseen requirements, hence there is an urgent need to review and consolidate 
+policies and measures on adaptation and climate resilience.  A systematic and 
+integrated  approach that  combines  climate  and  disaster  risk  considerations  is 
+needed to build resilience across the entire country and economy. This should 
+happen around three pillars: 
+  a clear sense of strategic principals and priorities; 
+  an  understanding  of  current  and  future  climate  change  risks  and 
+impacts; 
+  a phased and adaptive approach to action. 
+23.  In that light, RMI should start, as soon as possible, the process to develop a 
+National Adaptation Plan (NAP) and complete it by the end of 2019 at the latest.  
+24.  The NAP should: 
+  incorporate adaptation and climate resilience milestones to be achieved, 
+for example by 2020, 2025, 2030 and 2050, as well as suggest measures to 
+achieve them; 
+  elaborate in detail immediate, accelerated gender-responsive actions and 
+investments over the next five years (2019-2023) to adapt to the impacts 
+of climate change and transition to climate resilience; 
+  suggest,  as  appropriate,  updates  to  relevant  national  policies  and 
+legislation; 
+  set out a plan for significant investments in adaptation and resilience in 
+order to be in a position to fully implement its recommendations; and 
+Page 1 4  
+  incorporate, as appropriate, the key recommendations arising from the 
+review of the Joint National Action Plan on climate change adaptation and 
+disaster risk management (JNAP).  
+25.  The NAP should set out in detail RMI’s policy for domestic planning purposes. On 
+the international front, RMI should submit an Adaptation Communication, based 
+on the NAP, to the UNFCCC by 2020 at the latest. That Communication should 
+concisely set out RMI’s contribution towards meeting the adaptation goal set out 
+in  the  Paris  Agreement,  and  the  required  means  of  implementation  to  fully 
+implement that contribution. 
+26.  Both  the  commitment  to  produce  the  NAP  and  subsequent  Adaptation 
+Communication should be set out in RMI’s forthcoming NDC. 
+27.  A significant barrier to implementing RMI’s current and future adaptation and 
+resilience  measures  is  long-term  predictable  and  adequate  financing.  Because 
+private sector finance is particularly hard to secure in this area, public sector 
+funding from the international climate donor and development sector must be the 
+focus.  
+ 
+Means of Implementation 
+ 
+28.  In order to more effectively attract investment in relation to implementing RMI’s 
+NDC, its future NAP as well other aspects of this 2050 Strategy, a long-term 
+climate finance strategy needs to be put in place. That long-term finance strategy 
+will need to  help prioritize and target funding  applications in a strategic and 
+coordinated way, and it should be regularly reviewed and monitored to deliver 
+against key objectives. 
+29.  Unless  more  effective  oversight  and  coordination  is  put  in  place,  including 
+establishing a clear mechanism to enable and improve the efficiency of Overseas 
+Development Assistance (ODA) coordination, RMI’s ability to attract necessary 
+levels of future climate finance consistent with domestic priorities is likely to be 
+significantly  constrained.  It  is  therefore  recommended  that  the  Government 
+urgently considers how to deliver a more coordinated and centralized approach 
+to applying for, and monitoring, overseas aid and investment. 
+30.  At the same time, means of implementation for short term action in line with the 
+priorities  of  this  2050  Strategy  is  also  critical.  Implementation  of  RMI’s  NDC 
+Partnership Plan, which identifies the immediate priorities for action and existing 
+gaps, and coordinates support from partners to achieve these priorities, will be 
+very important. This can and should be leveraged over time to enhance donor 
+support toward implementation of future NDCs and this 2050 Strategy.  
+31.  In  general  terms  capacity  and  resource  constraints  are  a  significant  factor 
+restricting RMI’s ability to access international climate-related assistance. This is 
+an issue that needs to be urgently addressed and in-country capacity building and 
+institutional strengthening should be prioritized in this area.   
+Page 1 5  
+Transparency, Environmental & Social Information  
+ 
+32.  Good  quality  data  and  information  management  and  monitoring  systems  are 
+crucial  for  informed  policy  development  and  to  measure  progress  towards 
+achieving  goals,  and  to  enable  results-oriented  policy,  investment  and 
+development  planning.  Lack  of  reliable,  high  quality  and  accessible  data  will, 
+unless addressed, be a very significant barrier to RMI achieving its climate change 
+objectives as set out in its NDC and this 2050 Strategy. This is a consistently 
+recurring issue in relation to every aspect and sector addressed by this  2050 
+Strategy. 
+33.  In that context it should be noted that some of the analysis and recommendations 
+in this 2050 Strategy are based on RMI’s GHG inventory as set out in its Second 
+National Communication. That inventory should be officially updated and set out 
+in  RMI’s  future  Third  National  Communication.  The  2050  Strategy  and  its 
+recommendations can be accordingly revised in future to reflect the updated 
+emissions inventory. 
+34.  Therefore, institutional arrangements and the roles and responsibilities for data 
+collection,  management,  monitoring,  analysis  and  dissemination  should  be 
+reviewed and policies put in place to ensure that a more effective system is 
+implemented.  RMI  should  aspire  to  using  the  latest  IPCC  Guidelines  where 
+relevant. 
+35.  Capacity building in this area should be a priority, and international funding and 
+technical  assistance  already  available  or  set  aside  for  this  purpose  should  be 
+accessed, and further assistance sought as needed. 
+36.  RMI should also prioritize producing and submitting its Biennial Update Report 
+and its Third National Communication, and should aim to do so at the latest by the 
+end of 2019. 
+ 
+Gender and Human Rights  
+ 
+37.  Social considerations — including the differentiated impacts of climate change and 
+the response initiatives on women, men and youth — should be systematically 
+integrated into all climate change policy, planning and implementation. Women 
+are disproportionately affected by the impacts of climate change  due to their 
+marginalized status in global society which limits their access, use and control over 
+resources and services.  
+38.  This 2050 Strategy finds there to be a need to mainstream gender considerations 
+and a human rights-based approach in all aspects of RMI’s policy and legislative 
+development, adoption and implementation in relation to climate change. An 
+initial step is to increase gender-differentiated and disaggregated data collection 
+to  identify  gaps,  needs  and  opportunities  for  women,  men,  youth  and 
+marginalized  and  vulnerable  groups  to  address  gender  and  social  inequities, 
+Page 1 6  
+particularly in rural remote communities. Further expert input should be sought to 
+further improve these aspects – including in future revisions of this 2050 Strategy. 
+A strategy should be developed to progressively ensure RMI’s full compliance with 
+its human rights obligations.   
+39.  Women, men, and youth should be included and engaged as valuable stakeholders 
+in identifying and addressing the climate change concerns of their communities 
+and to share knowledge for responses to ensure their strengthened resilience. 
+Further support should also be commissioned from gender organizations in RMI, 
+as well as gender and human rights experts in advocacy, engagement and capacity 
+building, and for enhancing sector-specific gender considerations. 
+ 
+Approach and Future Perspectives 
+ 
+40.  In producing this 2050 Strategy, stakeholders were of the view that existing RMI 
+legislation,  measures  and  policies  should  be  built  upon,  and  that  inefficient 
+duplication  and  replication  should  be  avoided.  Stakeholders  also  expressed  a 
+strong view that it should not be a one-off document but improved over time. 
+41.  A key recommendation is that this 2050 Strategy is reviewed and updated, as 
+necessary, every five years as a minimum, including to identify new and relevant 
+technologies and policy options. More immediately, once the key outcomes and 
+recommendations from the 2nd National Climate Dialogue and the Partnership 
+Dialogue held in July 2018, have been identified, they should be collected and 
+used in the implementation of this 2050 Strategy as well as to inform future 
+updates. Additional comments received in the future from stakeholders of all 
+levels should be similarly collected and used. In that sense the 2050 Strategy 
+should be treated as a living document. As such, it will be critical that the key 
+findings of this 2050 Strategy are disseminated and feedback sought from a range 
+of stakeholders. 
+42.  Furthermore, updates to the 2050 Strategy should recommend the targets for 
+future RMI NDCs one year in advance of their submission to the UNFCCC in line 
+with  the  requirements  of  the  Paris  Agreement.  The  recommendation  process 
+should include stakeholder consultation. 
+43. The  Tile  Til  Eo  Committee  (TTE  Committee)  was  established  to  facilitate  the 
+production of this 2050 Strategy and it has proved valuable outside of the 2050 
+Strategy remit as well. The Committee and this 2050 Strategy were given the name 
+Tile Til Eo, meaning 'lighting the way' in Marshallese, to signify both the pathway to 
+the country's zero emissions future and also the example which RMI hopes others 
+can follow. 
+44.  Consideration should be given to maintaining the TTE Committee. In any event, 
+the TTE Committee or another body should have a future role in: 
+  monitoring the alignment and consistency of relevant legislation, policies 
+and measures with the 2050 Strategy; 
+Page 1 7  
+  overseeing the update of the 2050 Strategy every five years – including the 
+goals it contains; 
+  monitoring progress towards achievement of RMI’s current NDC; and 
+  recommending the targets and goals of future RMI NDCs. 
+45.  It is strongly recommended that the TTE Committee or other body should be as 
+independent  of  day-to-day  Government  decision-making  as  possible,  so  as  to 
+enhance  the  credibility  of  its  functions  and  to  maximize  the  possibility  of 
+considering  and  advising  on  politically  sensitive  issues  in  making  future 
+recommendations. International policy and legislative frameworks such as the 
+United Kingdom’s Climate Change Act and Climate Change Committee should be 
+considered. Further thoughts are set out in Section 9.  
+   
+Page 1 8  
+Section 2 – Greenhouse Gas Emissions 
+ 
+2a – Breakdown & Context  
+46. The following figures provide a breakdown and context for RMI’s GHG emissions: 
+RMI Greenhouse Gas Scenario - Moderate 
+200,000
+ 
+ 
+s 180,000
+n Electricity Transport
+o
+is) 160,000 Waste Other
+stn
+ie
+mla140,000
+v
+Eiu
+ q
+sE120,000
+a-2
+GO
+C
+ e ,s100,000
+n
+so
+uT 80,000
+o c
+hirt
+e
+nM 60,000
+e(
+e
+r 40,000
+G
+20,000
+0
+2010 2015 2020 2025 2030 2035 2040 2045 2050
+Figure 2: Moderate Scenario projection breakdown by sector 
+ 
+RMI Greenhouse Gas Scenario - Significant 
+200,000
+ 
+ s 180,000
+n Electricity Transport
+o
+160,000 Waste Other
+is) 
+stn
+ie 140,000
+mla
+v
+Eiu 120,000
+ q
+sE
+aGO-2100,000
+C
+ e ,sn 80,000
+so
+uT
+oh cirt 60,000
+e
+nM
+40,000
+e(
+e
+r 20,000
+G
+0
+2010 2015 2020 2025 2030 2035 2040 2045 2050  
+Figure 3: Significant Scenario projection breakdown by sector 
+ 
+Page 1 9  
+RMI Greenhouse Gas Scenario - Lighthouse 
+200,000
+ 
+ s 180,000
+n Electricity Transport
+o
+is)  160,000 Waste Other
+stn
+ie
+mla 140,000
+v
+Eiu
+ q
+saE-2 120,000
+GO
+C
+ e ,s 100,000
+n
+so
+uT
+oh cirt 80,000
+e
+nM
+e( 60,000
+e
+r
+G 40,000
+20,000
+0
+2010 2015 2020 2025 2030 2035 2040 2045 2050
+ 
+Figure 4: Lighthouse Scenario projection breakdown by sector  
+ 
+RMI Greenhouse Gas Scenarios 
+  200,000
+ 
+s Electricity Transport
+n
+o 180,000 Waste Other
+is)  NDC 
+sitne 160,000 Moderate scenario 
+mla
+Eviu 140,000 Significant scenario 
+ q
+sE Lighthouse scenario 
+aGO-2 120,000  
+C
+ es ,sno 100,000 Ntaorg ceutrsr eanftte Nr D20C3 0 
+uT
+o c
+hirt 80,000
+e
+nM
+e( 60,000
+e
+r
+G 40,000
+20,000
+0
+        2010        2015        2020        2025        2030        2035        2040        2045        2050
+ Figure 5: Snapshot comparisons of Scenarios by sector and year 
+   
+Page 2 0  
+2b – Electricity 
+ 
+Headline Recommendations 
+ 
+  Focus – particularly in the short and medium term – on the electricity 
+sector to implement GHG emissions reductions targets; 
+  Complete and implement RMI’s Electricity Roadmap, which will provide 
+further detail on least-cost technology pathways for how the electricity 
+sector can be further decarbonized; 
+  Invest  in  electricity  grid  upgrades  to  improve  grid  stability,  minimize 
+system  losses  and  accommodate  more  variable  generation  from 
+renewable energy; 
+  Undertake a feasibility study to assess the potential for vehicle to grid 
+electricity  storage,  which  would  provide  dual  benefits  of  reducing 
+transportation emissions and providing stability to the grid. RMI should 
+also consider thermal storage options;  
+  Review the governance relationship between the RMI Government and 
+the  electric  utilities,  including  to  ensure  national  mandates  are 
+implemented by the electricity generating sector; and 
+  Consider passing an Energy Sector Management Act to clarify powers and 
+responsibilities  among  Government  agencies  to  streamline 
+decarbonization policies across the energy sector.    
+ 
+ 
+Summary  
+47.  The electricity sector has by far the greatest potential to rapidly reduce RMI’s GHG 
+emissions  in  line  with  its  2025  and  2030  NDC  targets.  As  such  RMI’s 
+decarbonization pathway relies primarily on transitioning the electricity sector 
+away from fossil fuels. It is estimated that at least 10% of RMI’s GDP is spent on 
+importing fossil fuels for electricity generation alone. This represents a significant 
+national cost. Furthermore, the heavy reliance on fossil fuel imports represents a 
+highly significant energy security risk. Being at the end of the supply chain due to 
+its  remote  location,  RMI  is  highly  susceptible  to  changes  in  supply  due  to 
+geopolitical shocks or fuel price spikes.  
+48.  At present, electricity generation is almost exclusively reliant on diesel fuel. While 
+a full-scale shift to renewable energy is imperative, in the short to medium-term, 
+RMI must leverage a combination of demand and supply-side reductions to reduce 
+GHG emissions and facilitate the long-term transition.  
+49.  Current policies only look out to 2020 – and not to 2025 or 2030 – and therefore 
+do not fully implement RMI’s NDC. Policies in the energy sector will need to be 
+Page 2 1  
+developed – based on solid analysis – that look well beyond 2020. These will need 
+to  be  accompanied  by  a  solid  and  rigorous  long-term  financial  plan.  The 
+forthcoming Electricity Roadmap will be a positive step towards addressing some 
+of these concerns. 
+50.  Majuro, home to RMI’s largest electricity grid, must undertake a combination of: 
+  upgrading the electricity grid to reduce system losses; 
+  pursuing demand-side energy efficiency upgrades; 
+  replacing existing diesel generators with high speed engines; 
+  increasing solar and wind penetration on the grid; and 
+  installing storage capacity.   
+51.  Upgrading the grid could bring much needed supply-side efficiency improvements 
+and  also  accommodate  projected  increases  in  demand  from  new  industrial 
+facilities  (e.g.  a  proposed  fish  processing  plant  in  Majuro)  and  potential 
+electrification of land-based transportation. Upgrading the grid is also a necessary 
+step to allow for more variable generation (e.g. wind and solar).  
+52.  It is estimated that there  are up to 30% energy losses in the current grid  – 
+although there are a lot of uncertainties around this figure, which is based on 
+comparing production and billing. These losses are made up of: 
+•  energy ‘lost’ to run the power station – estimated to be about 7%; 
+•  distribution network losses through transmission lines and transformers 
+– estimated to be about 7%; and 
+•  energy theft – estimated to be around 15%. 
+53.  It may be technically feasible to reduce losses to as little as 5%. As such, reducing 
+grid losses could provide RMI with significant cost savings and GHG emissions 
+reduction potential. Policies should be urgently developed to address this. New 
+electricity meters, for example, would facilitate a better understanding of energy 
+losses by comparing what comes out of transformers to what is billed. 
+54.  Demand-side  efficiency  improvements  should  also  be  considered,  such  as 
+appliance standards for air conditioning units and building code reforms to reduce 
+electricity demand for cooling.  
+55.  RMI should consider novel and variable tariff structures for electricity consumers – 
+to maximize social access to energy and lower costs for all citizens while dis-
+incentivizing overuse. The current policy of providing landowners with 1000KwH 
+free per month should be reviewed for consistency with trying to curtail GHG 
+emissions through reduced energy use. 
+56.  Policies will also need to be developed in relation to independent producers of 
+renewable  energy,  including  in  relation  to  possible  feed-in  tariffs.  A  lack  of 
+regulation in this area could be problematic in terms of developing grid capacity 
+for renewable energy in a logical and planned way. The impact of independent 
+renewable energy production on the Marshall Energy Company (MEC) will also 
+need to be considered. 
+Page 2 2  
+57.  Current  diesel  engines  are  manually  controlled  and  incompatible  with  high 
+penetration of renewable energy on the present grid system. Installing high-speed 
+diesel  engines  would be  needed  to  address  supply  fluctuations  from  variable 
+generation until adequate energy storage is added to the grid. As such, an upgrade 
+to diesel generation would facilitate greater penetration of renewable energy. As 
+the  penetration  of  renewable  energy  increases,  the  use  of  diesel  could  be 
+downscaled – provided that the right kind of diesel generators are chosen at the 
+outset.  In  the  future  these  engines  could  theoretically  be  run  on  biodiesel, 
+although  this  would  not  reduce  RMI’s  GHG  emissions  unless  procured  from 
+sustainable sources.  
+58.  RMI also has extensive coconut oil production (copra), which can potentially be 
+used as either a renewable fuel for transportation or for electricity generation. 
+However, there is limited land area available and copra is a key source of foreign 
+exchange  and  economic  prosperity  for  RMI.  As  a  starting  point  for  national 
+discussion, it has been assumed that 50% of the available crop could in future be 
+devoted to electricity generation. For this to make economic sense, world copra 
+prices need to be lower than diesel prices. This use of copra can complement 
+renewables, providing power during cloud cover, at night, and during low wind 
+periods, allowing higher levels of renewable penetration. 
+59.  An alternative would be to leapfrog diesel upgrading and move directly to greater 
+renewables combined with storage – but this would require a considerable up-
+front  investment  in  storage  as  well  as  grid  infrastructure.  In  any  event,  any 
+decision to invest in new diesel needs to be made in the context of, and balanced 
+against, reducing battery costs in relation to renewable energy storage as a source 
+of baseload. 
+60.  There  remain  significant  uncertainties  over  levels  of  fuel  imports  used  for 
+electricity generation. Policies should be put in place to improve data collection – 
+including more granularity on how imported fuel is used once on island – as well 
+as to improve access to such data (much of which lies in the hands of commercial 
+organizations) by the RMI Government and relevant agencies. 
+61.  A major constraint to solar penetration aside from electricity grid limitations is the 
+lack of land area in RMI. There is about 7 megawatts (MW) worth of existing 
+usable  space  on  land  and  roofs.  Majuro  would  need  nearly  40  MW  of  solar 
+capacity installed (with storage) to decarbonize its electricity grid based on current 
+demand. Many buildings in Majuro lack the structural capacity to support rooftop 
+solar. A lack of policy in this area poses a very real barrier to the roll out of 
+renewable energy in the urbanized areas of RMI. As such, there is a need to 
+urgently develop policy, such as: 
+  the use of novel approaches to install solar (e.g. schools, basketball 
+courts, hospitals, airport, etc.); 
+  the potential use of floating solar panels for the reservoir by the airport 
+or options for using floating solar in the lagoon, including addressing 
+related land rights issues. Such options could be cheaper than land 
+mounted solar; and 
+Page 2 3  
+  a  consistent  and  comprehensive  approach  for  negotiating  relevant 
+access contracts for placement of solar panels. 
+62.  Ebeye – the second largest grid in RMI – could follow a similar path to electricity 
+sector  decarbonization  as  Majuro.  According  to  the  International  Renewable 
+Energy Agency’s (IRENA) 2015 Renewables Readiness Assessment, Ebeye’s grid 
+losses are considerably smaller than Majuro’s due to its size and the density of its  
+population. Grid upgrades may still be necessary to allow for increased solar 
+penetration.  
+63.  For electricity storage, which is essential as renewable energy penetration for 
+electricity generation increases, a mixture of stationary batteries, thermal storage, 
+and  electric  vehicles  (which  can  provide  vehicle  to  grid  storage),  has  been 
+assumed in the Scenarios set out in this 2050 Strategy. 
+64.  Electric vehicles could play a role in electricity storage in the two main population 
+centers  of  Majuro  and  Ebeye.  Vehicle  to  grid  storage  would  allow  RMI  to 
+simultaneously  reduce  transportation  emissions  and  help  stabilize  the  grid  in 
+response to the growing variability in electricity production introduced by the 
+rising penetration of renewable energy. This may require infrastructure upgrades 
+to facilitate bi-directional electricity flows to and from the grid. As a first step, a 
+feasibility study should be conducted.  
+65.  The remaining major population centers (Jaluit, Wotje, and Kili) operate micro-
+grids powered by diesel. Demand in these micro-grids would not justify short-term 
+investments  in  high-speed  diesel  engine  upgrades.  These  micro-grids  may 
+therefore need to wait until they can be upgraded directly to a grid-connected 
+solar system with energy storage. Off-grid solar can perhaps be pursued in the 
+intervening period. In the outer atolls, the electricity sector is theoretically already 
+decarbonized through off-grid stand-alone solar systems. However, the expansion 
+of these systems and their long-term maintenance ought to be given  further 
+consideration.  
+66.  In all of the Scenarios considered, solar photovoltaics have been found to be the 
+most viable renewable resource for RMI to achieve full decarbonization. While 
+wind may also be a viable resource, it is still in its nascent stages in RMI. The lack 
+of available land in RMI suggests that wind may need to play a significant role in 
+the country’s future renewable energy mix. Feasibility studies in this area should 
+be undertaken. 
+67.  Whilst data collection and availability for the electricity sector is relatively well 
+developed  compared  to  other  sectors,  there  still  seem  to  be  significant 
+uncertainties. This is an area where improvement would assist in more accurate 
+policy development and projections. Studies have, for example, tended to focus 
+mainly on Majuro. 
+68.  Ocean  Thermal Energy Conversion  (OTEC) has been  previously proposed  as  a 
+moonshot technology that could significantly contribute to RMI’s decarbonization 
+efforts and also make it an energy exporter. Feasibility studies for a proposed pilot 
+project on Kwajalein have shown promise but two factors impede progress: lack of 
+adequate demand; and absence of adequate financial capital. A power purchase 
+Page 2 4  
+agreement (PPA) with the US Army to supply electricity to the military base on 
+Kwajalein would be necessary to address concerns around adequate demand as 
+RMI alone would not justify the investment in an OTEC plant. Furthermore, raising 
+financial capital is difficult as RMI is credit-constrained and would have to rely on 
+private capital and grants to fund a pilot project. This can perhaps be overcome by 
+stressing the economic co-benefits of OTEC as excess electricity can be used to 
+produce hydrogen fuel, which can be employed domestically and sold on the 
+international market. Additionally, OTEC can also be a freshwater resource and 
+provide drought resilience for RMI.   
+69.  As RMI looks towards full electricity decarbonization, the relationship between the 
+Government and electric utilities will need to be reviewed to ensure that effective 
+and efficient structures are in place to drive and oversee the transition to 100% 
+renewable energy. For example, while the governance structure of the MEC and 
+Kwajalein  Atoll  Joint  Utility  Resources  (KAJUR)  allow  for  limited  Government 
+influence,  the  extent  of  this  influence  is  ambiguous  –  in  particular  from  the 
+external perspective of donors and development banks – and could usefully be 
+clarified.  
+70.  Another important governance question is the role of the Energy Planning Division 
+(EPD) within the Ministry of Resources and Development (R&D). While EPD is 
+meant to be the “focal point for all energy-related activities and initiatives” it 
+currently  lacks  the  regulatory  authority  necessary  to  drive  a  comprehensive 
+decarbonization policy. An Energy Sector Management Act has been proposed “to 
+clarify powers and responsibilities within Government for energy” but has yet to 
+be drafted and passed by the Nitijela. Addressing this should be a priority. 
+ 
+ 
+Potential measures and next steps 
+Area  Sub-Area  Measure  Feasibility Assessments  Pilot Actions 
+Evaluate the best time to upgrade diesel engines to fast   
+ 
+Diesel Generator  start technology and how to use this to expand 
+Generation  Efficiency / Rapid  renewable usage. Increase priority for this equipment. If 
+Response  coconut usage will be high over the long term, see 
+  comments below. 
+ 
+Evaluate the feasibility of increasing solar penetration on  Pilot floating 
+ 
+Majuro (which is likely possible if automated SCADA and  solar arrays in 
+  dispatch best practices are implemented (see below).  RMI, and 
+collect solar 
+Stationary    insolation 
+Electricity    data near 
+Solar  population 
+  centers of 
+Majuro and 
+  Ebeye to 
+reduce solar 
+ 
+financing 
+  uncertainty. 
+ 
+To eliminate transmission costs, a wind plant will need to   
+  Wind  be located as close to the current MEC electricity plant as 
+possible. Put up a wind tower to measure wind speeds 
+Page 2 5  
+  for a few years, to establish whether wind availability is 
+high enough to warrant wind use; and verify that land 
+ 
+(even slightly offshore if needed) near this location is 
+Storage  available. 
+ 
+Given RMI economics, and the export value of coconut   
+  oil, decide what proportion of the coconut crop it makes 
+sense to eventually devote to electricity production; in 
+  addition, examine if crop yield/acreage can be expanded 
+and/or what levels of oil usage make sense. 
+ 
+  With coconut oil viscosity higher than diesel, it should be  It will be 
+Coconut Oil  feasible to use the waste heat from the current diesel  critical that 
+ 
+engines to pre-heat the coconut oil to allow much higher  fast-starting 
+  blend rates.  Continue current studies and see if this is  diesel 
+feasible in a laboratory.  technology 
+ 
+be 
+  compatible 
+with coconut 
+  oil blends. 
+ 
+Examine best electric utility dispatch practices in the U.S.   
+  Automated  (whether automated, semi-automated, or manual), 
+SCADA/Dispatch/ especially for low cost and at the RMI utility's size and 
+ 
+Forecasting  implement automated dispatch at 15-minute intervals if 
+  possible.   
+ 
+  Continue 
+  electric 
+vehicles  
+ 
+pilots, and 
+  form a 
+partnership 
+  Vehicle to Grid  with vehicle 
+Battery Storage  to grid 
+ 
+storage 
+Energy  software/ 
+Efficiency  hardware 
+vendors, and 
+pilot this 
+aspect as well 
+Vehicle to grid battery capacity appears to be the most  If attractive 
+economic, but other utility battery storage vendors are  technology is 
+starting to offer products.  Examine costs, land  found, 
+Battery Storage 
+requirements, and maintenance / salt corrosion for utility  partner with 
+scale battery storage, to determine whether/which non-  vendors as a 
+vehicle to grid technology RMI should pilot.  test/pilot site.  
+Examine which thermal storage technologies are  Pilot these 
+technically and economically feasible in RMI.  technologies, 
+especially 
+with regards 
+Thermal Storage 
+to 
+maintenance 
+and salt/air 
+corrosion. 
+Assess Majuro's and Ebeye's air conditioning  Look for 
+infrastructure, identifying the equipment's condition and  other tropical 
+Replace all A/C  type, to verify if shifting to seawater-source heat pumps,  climate pilots 
+with Wet Cooling  and/or water-cooling towers, is viable, and what  as examples, 
+Towers /  efficiency gains are reasonable. (As was done for the  and pilot 
+Seawater ASHPs  infrastructure report, RMI may be able to recruit military  these 
+base personnel to provide technical expertise.)  technologies 
+on RMI. 
+Improve Building  Assess RMI's buildings' insulation levels, and the  Launch a 
+Codes /  potential for savings through improved building codes  building 
+Page 2 6  
+Enforcement  and/or building retrofits. (As above, military base  insulation 
+personnel may be a resource, or energy efficiency code  retrofit 
+professionals from the U.S. or elsewhere.)  program, 
+and/or 
+improve 
+building 
+codes and 
+enforcement. 
+Conduct a survey study, if not already done, to determine   
+what types of equipment Majuro's electricity supplies, 
+and what efficiency levels these pieces of equipment 
+operate at.  This will include water pumps (already 
+Other Appliances  described in the infrastructure report), air conditioning, 
+lighting, other electric motors, etc. Examine maintenance 
+levels as well, to assess potential for efficiency 
+improvement and next steps (i.e. efficiency standards, 
+improved maintenance regimes/enclosures, etc.). 
+  Figure 6: Electricity - potential measures and next steps 
+ 
+ 
+Key Assumptions 
+Electricity — Renewables 
+71.  Assumption: the renewable potential in RMI involves a significant role for biomass 
+(coconut oil), wind, and solar photovoltaics. 
+72.  Assumption:  50%  of  the  current  coconut  oil  crop  can  be  used  to  generate 
+electricity while the remaining 50% would be sold on the open market, either 
+domestically or for export. Coconut oil would first be used for stationary energy 
+rather than transportation or heating applications. As such, it could eventually 
+replace approximately 12% of diesel used to generate electricity. 
+73.  Wind power could make up several MW of RMI’s renewable generation, thanks to 
+the improvement of technology and the availability of RMI’s atolls as pre-built 
+offshore  wind  platforms.  Current  wind  data  appears  indeed  to  be  above 
+economical thresholds in the US Midwest.  Assumption: one to two 1.5-2.5 MW 
+turbines can be used in Majuro, as wind's generation profile is complementary to 
+solar. 
+74.  Land is scarce in RMI, and non-government rooftops are not structurally capable 
+of supporting PV arrays. Assumption: RMI will use floating photovoltaics arrays 
+when it runs out of appropriate rooftop space. 
+ 
+Electricity — Storage 
+75.  At higher renewable levels, some form of energy storage is necessary.  Assumption 
+in  the  Moderate  Scenario:  no  storage  is  developed,  and  renewable  energy 
+generation is therefore capped. Assumption in the Lighthouse Scenario: storage 
+comes from a combination of thermal storage technologies and grid-to-electric 
+vehicle storage. 
+ 
+Page 2 7  
+ 
+Electricity — Energy Efficiency 
+76.  Assumption: Majuro electricity loss improvement efforts will reduce losses from 
+30% to 20% in 2025. 
+77.  Assumption: 25% (Moderate) and 50% (Lighthouse) end use energy efficiency 
+improvements  by  2050.  This  will  come  from  a  combination  of  insulation 
+improvements (retrofits, building codes), electrical grid loss reductions (from 30% 
+losses to 20% by 2025), air conditioning improvements (seawater heat pumps and 
+water-cooling towers appear to be able to achieve a 50% efficiency improvement), 
+and other higher efficiency appliances (water pumps, motors, etc.). 
+ 
+ 
+Sector Definitions 
+78.  Emissions from current diesel generators that generate power for Majuro, the 
+capital, and Ebeye, an island with 28% of RMI’s population of 52,000.   
+79.  Only these two grids are modeled, covering 79% of the population (there are a few 
+outlying grids on other islands). 
+ 
+ 
+Scenario Definitions 
+80.  Figure 7 below provides a more detailed description of assumptions used for the 
+scenario projections. Each row represents a measure that may be put in place to 
+reduce emissions. In some cases, measures are combined (e.g. a variety of end 
+user efficiency measures are delineated by row; these are modeled as an overall 
+improvement in end user efficiency). 
+ 
+NDC  MCG 
+Lighthouse 
+2025  2030  Scenario (the 
+Significant 
+Millennium Consumption  Scenario has 
+Area  Measure 
+Goals (MCG) Moderate  the same 
+Mtons  Additional  efficiency 
+Reduced  Mtons  assumption but 
+Reduced  is 15 years 
+delayed) 
+Energy Efficiency Demand: Prepay  Included  in 
+1,5  0,7 
+Meter  overall  50% 
+Included  in  overall  25% 
+reduction 
+reduction target across all 
+Energy  Efficiency  End  User  end user efficiencies.  target across all 
+Electricity  Improvement  19,2  26,1  end  user 
+efficiencies. 
+Diesel Generator Efficiency / Rapid 
+6,2  3,7  10% reduction in 2025. 
+Response 
+Page 2 8  
+Diesel Heat Recovery  3,8  0 
+Solar  Total radiant energy (RE) 
+100%  RE  w/ 
+capped  at  30%  of  grid 
+19,2  29,9  battery/thermal 
+(ramping  w/  fast 
+storage. 
+diesel/SCADA). 
+Wind  5  MW  2 
+2,5 MW single turbine @ 
+0,8  1,5  turbines @ MEC 
+MEC gen plant. 
+gen plant. 
+Coconut Oil  Use  50%  available  coconut  for  electricity 
+3,8  3,7 
+generation phase in, 50% by 2035. 
+Vehicle to Grid Battery Storage  Convert  all 
+cars/trucks  to 
+     
+electric 
+vehicles. 
+Automated 
+    In place by 2025. 
+SCADA/Dispatch/Forecasting 
+Battery Storage  Covers  2/3  of 
+     
+storage needed. 
+Curtailment     
+Not used. 
+Commercial/Residential  Demand 
+   
+Response 
+Thermal Storage  Covers  1/3  of 
+     
+storage needed. 
+Replace all A/C with Wet Cooling  Major  driver  in  the  25%/50%  end  use 
+Towers/Seawater ASHP’s      efficiency  improvement.  Can  potentially 
+double efficiency (see VHAC efficiency sheet). 
+Improve  Building  Codes/  Major  driver  in  the  25%/50%  end  use 
+Enforcement      efficiency improvement. Improved isolation is 
+particularly important. 
+  Figure 7: Electricity – Scenario definitions    
+   
+Page 2 9  
+2c – The Waste Sector 
+ 
+Headline Recommendations 
+ 
+  Focus – in the medium term out to 2030 – on policies and plans to reduce 
+RMI’s  significant  and  growing  waste  problem  on  the  social  and  wider 
+environmental  benefits  of  taking  action  rather  than  reduction  of  GHG 
+emissions; 
+  Develop policies and measures to minimize the level of organic material in 
+collected waste – including a focus on local composting; 
+  Analyze further the feasibility of generating energy from waste and the 
+corresponding GHG benefits; 
+  Assess future plans for the landfilling of waste carefully against RMI’s long-
+term goals of achieving net zero emissions by 2050 and for environmental 
+impacts.  Apart  from  using  waste  for  land  reclamation,  landfill  is  not 
+recommended as a primary policy to deal with waste; 
+  Review the powers of the RMI Government to ensure they are fit for the 
+purpose of developing and implementing relevant policies and measures. 
+The 2008 draft waste strategy should be finalized, taking into account the 
+latest data and this 2050 Strategy; and 
+  Extend waste collection throughout the whole of Majuro to minimize the 
+use of illegal waste dumps. 
+ 
+ 
+Summary  
+81.  Waste accounts for nearly a quarter of RMIs total GHG emissions, and if the 
+country is to move towards net zero GHG emissions, this sector will need to be 
+addressed. However, the waste sector is by far the most difficult of RMI’s sectors 
+to decarbonize.  
+82.  As such, and given that most of RMI’s GHG emissions reductions potential for its 
+2025 and 2030 NDC targets will be delivered through the energy sector,  the 
+country should not look to the waste sector as a significant contributor to reduce 
+GHG emissions in the short to medium term. Rather, planning out to 2030 should 
+focus on social benefits and the wider environmental advantages of dealing with 
+the RMI’s significant and growing waste problem. 
+83.  Having  said  that,  dealing  with  waste  and  reducing  GHG  emissions  in  an 
+economically feasible way are not mutually exclusive. Planning for this sector 
+should therefore align and be consistent with RMI’s 2050 goal. 
+Page 3 0  
+84.  A successful feasibility study for a 1.2 MW waste-to-energy (WTE) plant in Majuro 
+was  conducted  in  2010.  WTE  would  substantially  reduce  RMI’s  waste-related 
+emissions thanks to the reduction of methane emissions. Furthermore, a WTE 
+plant could provide baseload power for RMI, at least partially eliminating the short 
+to  medium-term  need  for  diesel-powered  electricity  generation.  This  would 
+provide the dual benefit of reducing waste as well as decreasing the need for 
+imported fossil fuel.  
+85.  There are, however, operational concerns that are barriers to adopting WTE in 
+RMI such as the lack of a reliable waste stream to run a WTE facility. One option 
+might be for RMI to consider in further detail the potential to import waste from 
+other  atolls.  In  particular,  waste  from  Ebeye  (combined  with  Majuro)  could 
+perhaps provide a steady waste stream. In any event, further feasibility analysis of 
+WTE potential should be carried out. 
+86.  The Majuro Atoll Waste Company (MAWC) is looking into building an incineration 
+facility  to  address  space  constraints  in  Majuro.  This  could  have  some  GHG 
+reduction  potential  but,  as  with  WTE,  localized  air  pollution  risks  could  be  a 
+concern.  
+87.  Landfilling waste in RMI could, if planned and managed well, deliver co-benefits 
+such as creating new land or as part of coastal defenses. However, landfilling of 
+organic waste will very likely be inconsistent with RMI’s goal of net zero emissions 
+by 2050 because recovery of GHG emissions from landfill is technically difficult and 
+resource intensive, generally requiring significant amounts of freshwater and soil. 
+88.  As such, very careful thought needs to be given as to whether or not to invest in 
+landfill. Given the general unsuitability of RMI for landfill, a WTE approach might 
+be more preferable and more consistent with the overall vision of moving towards 
+net zero emissions by 2050. If landfilling is pursued, methods such as a "Fukuoka" 
+style landfill, which reduces methane emissions by 50% compared to standard 
+landfills, should be considered. 
+89.  To date, the Environmental Protection Agency (EPA) has sought to reduce solid 
+and toxic waste that pose direct threats to human health. Going forward, given 
+that waste management in the outer atolls would be difficult to oversee, RMI 
+should focus its efforts on reducing organic waste – the major driver of waste-
+related GHG emissions – in its major population centers, specifically in Majuro and 
+Ebeye. Urgent priority needs to be given to local composting of organic material 
+and  separating  out  organic  materials  from  the  general  waste  stream.  Local 
+initiatives such as composting will be key to this. 
+90.  Waste collection should be urgently extended throughout Majuro. This should 
+assist in minimizing the use of illegal waste dumps, burning, burying or dumping of 
+waste into the ocean – including of toxic wastes. 
+91.  Government authority over waste management is relatively decentralized in RMI, 
+which complicates national efforts to reduce waste-related emissions as there is 
+no clear responsibility for national policy. The ad hoc reliance on the EPA for this 
+purpose – which is an enforcement agency – is far from ideal. Government powers 
+should be reviewed for adequacy to ensure they are fit for purpose. As part of 
+Page 3 1  
+that, the 2008 draft waste strategy should be finalized, taking into account the 
+latest data and this 2050 Strategy. 
+92.  A fundamental problem is that the vast majority (up to 90%) of what is imported 
+to RMI stays here. Consideration should be given to introducing policies to: 
+  influence the nature and types of material that are imported, with the 
+aim of reducing waste – for example by discouraging importation of 
+packaging materials that cannot be economically recycled or are not 
+biodegradable (e.g. banning or reducing the import of plastic bottles or 
+plastic bags); 
+  incentivize recycling (e.g. through deposit schemes); 
+  improve  waste  reduction  across  all  atolls  through  public  education 
+programs and existing Government mandates. 
+93.  Many waste studies have been conducted in RMI, which have generated a wealth 
+of data. It is recommended that these are consolidated. An overarching study 
+could be launched, and a comprehensive policy consequently developed based on 
+the study’s conclusions. As part of this, RMI should complete the development of 
+its national waste strategy, initiated in 2008 in conjunction with the South Pacific 
+Regional Environment Program (SPREP). 
+ 
+ 
+Potential Measures and Next Steps 
+   Area       Measure         Feasibility Assessment         Pilot Actions 
+“Fukuoka”  Implement a “Fukuoka” landfill site at/near the   
+Landfill Site  current side, verifying post landfill site use (aka 
+Japan,  elsewhere);  clean  up  and  close  the 
+current site.  
+Incinerate  Waste  As recommended by the Japanese waste team,   
+rather  than  explore the opportunity for large-scale public 
+Uncontrolled  incineration  to  reduce  landfill  volumes. 
+Burning  Incineration will increase emissions but is safer 
+than current uncontrolled burning. 
+Waste 
+Disposable  As part of education on recycling and reuse, consider a disposable container ban 
+Container Ban  and explore tactics on how to increase recycling rates to  match US and/or 
+European Union (EU) levels. 
+Improve 
+Recycling, 
+Education, 
+Regulation 
+Enforcement, 
+Reducing  Landfill 
+Volumes 
+Figure 8: The Waste Sector – potential measures and next steps 
+ 
+   
+Page 3 2  
+ 
+Key Assumptions 
+94.  Assumption in both Moderate and Lighthouse Scenarios: the Majuro landfill is 
+over capacity and therefore should be closed and replaced with a "Fukuoka" style 
+landfill, which reduces methane emissions by 50% compared to standard landfills. 
+95.  WTE incineration can reduce landfill volumes/land requirements but has higher 
+eventual emissions. Assumption: incineration in the Moderate Scenario, but not 
+for the Lighthouse Scenario. 
+96.  Assumption: RMI can achieve higher recycling levels by 2050, reaching current US 
+levels by 2025 and current EU levels by 2040 in all Scenarios. 
+ 
+ 
+Sector Definition 
+97.  Municipal solid waste, incineration/burning, and waste water treatment emissions 
+for Majuro and Ebeye. We use a 2017 waste survey's estimate of open burning to 
+include  burning  emissions  in  the  GHG  inventory,  in  contrast  to  the  Second 
+National Communication where these emissions are not accounted for. 
+ 
+ 
+Scenario Definitions 
+98.  Figure 9 below provides a more detailed description of assumptions used for the 
+scenario projections. Each row represents a measure that may be put in place to 
+reduce emissions. 
+ 
+NDC 
+MCG Lighthouse 
+2025  2030  (Significant 
+Scenario has the 
+Area  Measure  MCG Moderate 
+same efficiency 
+Additional 
+assumption but is 
+Mtons 
+Reduced  Mtons  15 years delayed) 
+Reduced 
+“Fukuoka”  Landfill      Reduces  methane  emissions  by  50%  compared  to  standard 
+Site  landfill. 
+Incinerate  Waste      Reduces landfill volume by 80% when  Incineration not used 
+rather  than  ashes  are  buried.  However,  not  all  and burning on Majuro 
+Uncontrolled  material  can  be  incinerated  after  and  Ebeye  banned; 
+Waste 
+Burning  collection.   requires more landfill 
+space,  but  Fukuoka 
+landfill  technique 
+allows productive use 
+after land is used as 
+landfill.  
+Page 3 3  
+Disposable     
+Container Ban 
+Improve  Recycling,      Assume current 8% recycling rate increases to 35% (US average) 
+Education,  by 2025, and then 45% (EU average) by 2035. 
+Regulation 
+Enforcement, 
+Reducing  Landfill 
+Volumes 
+“Collect  and  Burn    8,5     
+Methane 
+Producers” 
+  Figure 9: The Waste Sector – sector definitions 
+ 
+2d – Domestic Transportation – Land based 
+ 
+Headline Recommendations 
+ 
+  Develop polices to encourage a greater use of public transport, as well as 
+cycling and walking, and to reduce the reliance and demand on private 
+vehicles; 
+  Commission  further  analysis  to  identify  policy  options  to  increase  the 
+uptake of electric vehicles; 
+  Consider policies to require  Government departments and agencies to 
+transition to electric vehicles; and 
+  Improve data collection, including on what proportion of imported fossil 
+fuels are used by domestic land transport. 
+ 
+ 
+Summary  
+99.  The  decarbonization  pathway  for  land  transportation  would  require  the 
+electrification of the transportation fleet with the possibility of also leveraging low 
+and zero-carbon fuel sources such as biofuel and hydrogen.  
+100.  These alternative fuel sources currently show little promise. Hydrogen-powered 
+vehicles are only plausible if OTEC becomes viable and offers RMI a cheap stream 
+of hydrogen fuel.  
+101.  Most likely RMI will largely need to transition its land transportation fleet to 
+electric vehicles. A three-year pilot project in Majuro funded by Japan is testing 
+the viability of solar powered electric vehicles. The results of this pilot should be 
+analyzed and disseminated. 
+Page 3 4  
+102.  Five main barriers would need to be addressed to increase the penetration of 
+electric vehicles in RMI: 
+  the absence of clear institutional authority to mandate/facilitate the 
+uptake of electric vehicles; 
+  the relative cost of electric vehicles; 
+  the lack of charging infrastructure; 
+  the current limits of electricity generation; 
+  the prohibitive cost, especially to the public. 
+103.  The  relationship  between  increased  use  of  electric  vehicles  and  increased 
+electricity demand will need to be further explored. Policies in both areas will 
+need to be consistent.  
+104.  The major impediment to decarbonizing the land transportation sector is the 
+absence of clear institutional authority that can mandate electric vehicle sales and 
+make the necessary infrastructure upgrades (e.g. charging stations) to support 
+electric  vehicles.  While  the  Government  could  leverage  existing  laws  (i.e.  the 
+Import Duties Act) to encourage the purchase of fuel-efficient and/or electric 
+vehicles, an implementing/planning agency would still be necessary but currently 
+does not exist. In the intervening period, Government agencies should be the 
+initial adopters of these vehicles.  
+105.  In any event, RMI should commission further analysis of the potential to transition 
+towards  electric  land-based  transport,  covering  challenges,  solutions  and 
+opportunities as a basis for informed policy development. Hard and soft policy 
+options could include: 
+  tax incentives for the importation of electric vehicles; 
+  transitioning the Government fleet to electric vehicles; 
+  transitioning the taxi fleet to electric vehicles; 
+  the use of golf carts – as is the case with the US military base on 
+Kwajalein. 
+106. In  future  RMI  could  consider  vehicle  to  grid  storage,  further  integrating 
+decarbonization efforts of the transportation and electricity sectors.  
+107. There is considerable uncertainty as to what proportion of RMI’s imported fossil 
+fuels is used for domestic land transport. Better data will be needed to establish a 
+baseline, develop informed policies and monitor progress towards net zero GHG 
+emissions in this sector. 
+108. As a first step, however, RMI should consider developing policies to encourage a 
+greater use of public transport, as well as cycling and walking, and to reduce the 
+reliance  and  demand  on  private  vehicles.  Increased  cycling  and  walking  in 
+particular would have a number of co-benefits, including reduced pollution and 
+improved public health. 
+109. Hard and soft policy options to incentivize walking and cycling could include: 
+Page 3 5  
+  improved  urban  planning  –  such  as  clearly  demarcated  cycling  and 
+walking paths with shade; 
+  public and school education programs; 
+  school cycle training programs; 
+  cycle hire schemes; 
+  cycle  to  work  schemes,  where  the  Government  and  private  sector 
+workers could have the up-front cost of cycle purchase deferred; 
+  encouraging Government workers to use Government cycles to travel 
+between different departments. 
+110. The  social  impacts,  including  gender  issues,  of  such  options  will  need  to  be 
+carefully considered. 
+ 
+ 
+Potential Measures and Next Steps 
+      Area          Measure     Feasibility Assessment        Pilot Actions 
+Land  Efficiency  Inventory current vehicle stock and   
+Improvements  efficiency  level.  Examine  current 
+efficiency standards on RMI, higher 
+US Corporate Average Fuel Economy 
+(CAFE)  standards,  and  available 
+technologies  to  determine  further 
+action  (higher  standards,  cash  for 
+clunkers, better efficiency standard 
+enforcement,  better  maintenance/ 
+catalytic  converter  enforcement, 
+etc.).  
+Electric Vehicles    Continue electric vehicles’ 
+Transportation 
+pilots, especially 
+examining market 
+barriers, and/or 
+maintenance issues. 
+Multi-modal  Take  a  deeper  look  at  citizens’   
+initiatives:  transportation needs, mapping total 
+Regular  Island  trips per year and mode (air, sea, car, 
+Shuttles; Electric  bike,  walking,  etc.).  Assess  the 
+Bikes  frequency, timing, and purpose of 
+these  trips  to  see  whether/what 
+form of public transportation and/or 
+bicycling programs may make sense.   
+  Figure 10: Land based transport – potential measures and next steps 
+ 
+   
+Page 3 6  
+ 
+Key Assumptions 
+111.  Assumption:  20%  efficiency  improvement  in  vehicles  to  2050  (per  US  CAFE 
+standards),  and  in  the  Lighthouse  Scenario  that  RMI  will  shift  to  using  100% 
+electric vehicles. 
+ 
+ 
+Sector Definition 
+112. Emissions are based on approximately 2700 vehicles in Majuro and Ebeye. Air and 
+ship emissions have been modelled but are excluded from this analysis as “pass-
+through  emissions”  and  are  therefore  not  counted  in  national  totals.  This  is 
+consistent with the  RMI GHG inventory done as part of the  Second National 
+Communication published in 2015. 
+ 
+ 
+Scenario Definitions 
+113.  Figure 11 below provides a more detailed description of assumptions used for the 
+scenario projections. Each row represents a measure that may be put in place to 
+reduce emissions.  
+NDC 
+MCG Lighthouse (the 
+Significant Scenario 
+2025  2030 
+has the same 
+Area  Measure  MCG Moderate 
+efficiency 
+Mtons  Additional  assumptions, but is 15 
+Mtons  years delayed) 
+Reduced 
+reduced 
+Land Efficiency Improvements  1,5  2,4  4% reduced/ 5 years for 25 years. 
+Air Improved Efficiency    0,2  0.3% reduced every 5 years. 
+Electric Vehicles        Get  to  100% 
+penetration over time. 
+Transportation 
+Multi-modal Initiatives: Regular      Reduce Vehicle Miles Travelled (VMT) by 1% / 5 
+Island Shuttle; Electric Bikes  years for 25 years. 
+Biofuels  for  Air/Ship      RMI does not have enough coconut supply to 
+Applications  begin using these. 
+Figure 11: Land based transport – Scenario definitions   
+ 
+   
+Page 3 7  
+ 
+2e – Domestic Transportation – Ocean based 
+ 
+Headline Recommendations 
+ 
+  Improve data collection to better illustrate what proportion of imported 
+fossil fuels are used by domestic sea-based transport; 
+  Explore  options  to  reduce  GHG  emissions  from  domestic  ocean-based 
+transport, including by using the results of the GIZ/University of the South 
+Pacific (USP) Low Carbon Sea Transport Transition Project (LCSTTP); and 
+  Consider institutional reforms that will allow the Ministry of Transport and 
+Communication (MTC) to exercise more effective regulatory control over 
+the operational aspects of domestic sea transport in addition to managing 
+the infrastructure.  
+ 
+ 
+Summary  
+114.  Domestic  shipping  is  responsible  for  approximately  a  third  of  RMI’s  fuel 
+consumption. RMI was the only country to explicitly include domestic shipping in 
+its 2025 NDC and has led the way – as the world’s second biggest flag registry – to 
+encourage  efforts  to  decarbonize  international  shipping  at  the  International 
+Maritime Organization (IMO). 
+115.  There are a number of interventions that RMI can pursue in the short to medium-
+term to achieve a low-carbon pathway for domestic sea transportation. These 
+include:  
+  changes to ship design; 
+  changes to operations; 
+  fuel switching/mixing; 
+  improved docking facilities to reduce the amount of time (and fuel) 
+required to load and unload ships. 
+116.  These  efficiency  improvements  can  also  provide  economic  benefits  through 
+avoided costs from fuel imports.  
+117.  A  pathway  to  full decarbonization for  sea  transport,  however,  appears  to  be 
+unfeasible  in  the  medium  term.  RMI  should  carefully  monitor  and  reap  the 
+benefits of the GIZ’s/USP’s LCSTTP under the Micronesian Center for Sustainable 
+Transport established in Majuro.  
+Page 3 8  
+118.  There is considerable uncertainty as to what proportion of RMI’s imported fossil 
+fuels are used for domestic sea transport. Better data will be needed in order to 
+establish a baseline, develop informed policies and monitor progress towards net 
+zero GHG emissions in this sector. The initial baseline studies by the LCSTTP could 
+prove very useful in this regard. 
+119.  Considering RMI’s status as the second largest flag registry in the world, successful 
+adoption of nascent low- or zero-carbon sea transport technologies at home could 
+have ripple effects across the international shipping sector at large.   
+120.  The  MTC  has  administrative  control  over  seaports  but  apparently  lacks  the 
+authority to mandate conservation and efficiency improvements in sea transport. 
+To more aggressively pursue a decarbonization strategy in sea transportation, RMI 
+should consider institutional reforms that will allow the MTC to exercise more 
+effective regulatory control over the operational aspects of domestic sea transport 
+in addition to managing the infrastructure.  
+ 
+ 
+Potential Measures and Next Steps  
+ 
+       Pilot     
+   Area       Measure  Feasibility Assessment 
+Actions 
+Examine both in-country fleet efficiency and equipment, and   
+pass-through  fleet  efficiency  and  equipment.  Examine 
+potential  standards  and  technical  pathways  for 
+Sea Efficiency 
+Transportation  improvements (i.e. sails, engine efficiency improvement, 
+Improvements 
+etc.). Evaluate the economics and implications of various 
+options (improved efficiency standards, lower carbon fuels, 
+etc.) to find the best path forward.   
+  Figure 12: Ocean based transport – potential measures and next steps 
+ 
+ 
+Sector Definition 
+121.  Emissions are based on approximately 2700 vehicles in Majuro and Ebeye. Air and 
+ship emissions have been modelled but are excluded from this analysis as “pass-
+through  emissions”  and  are  therefore  not  counted  in  national  totals.  This  is 
+consistent with the  RMI GHG inventory done as part of the  Second National 
+Communication published in 2015. 
+ 
+   
+Page 3 9  
+ 
+Scenario Definitions 
+122.  Figure 13 below provides a more detailed description of assumptions used for the 
+scenario projections. Each row represents a measure that may be put in place to 
+reduce emissions.  
+ 
+NDC 
+MCG Lighthouse 
+(the Significant 
+2025  2030  Scenario has the 
+Area  Measure  MCG Moderate 
+same efficiency 
+assumption but is 
+Additional 
+Mtons  15 years delayed) 
+Mtons 
+Reduced 
+Reduced 
+Sea  Efficiency  3% reduced / 5 years for 25 years (3 primary ferries 
+0,9  1,4 
+Improvements  to improve, not 1000s of vehicles). 
+Sea Coconut Oil Diesel  Not a practical use of limited coconut oil supplies 
+1,3  2 
+Blends  relative to electricity sector. Not used. 
+Air Improved Efficiency    0,2  0,3% reduced every 5 years. 
+Transportation 
+Shipping:  Require 
+Efficiency  Measures 
+(Efficient Propellers, Sail      See Sea Efficiency Improvements above. 
+Assist,  Low-carbon 
+Fuels…) 
+Biofuels  for  Air/Ship  RMI does not have enough coconut supply to begin 
+   
+Applications  using these. 
+  Figure 13: Ocean based transport – Scenario definitions 
+ 
+2f – Cooking & Lighting 
+ 
+Headline Recommendations 
+ 
+  Continue efforts to phase out the use of kerosene for lighting and cooking; 
+  Engage women stakeholders as key players in this sector and empower 
+women as entrepreneurs with capacity building and technology transfer; 
+and 
+  Establish whether the Energy Planning Division (EPD) needs a more robust 
+Government mandate in order to fully decarbonize these activities. 
+ 
+ 
+Page 4 0  
+Summary  
+123.  Kerosene and liquefied petroleum gas (LPG) used for cooking and lighting are 
+significant contributors towards the ‘other’ sector listed in RMI’s GHG emissions 
+inventory. In 2010, the base year used for RMI’s NDC, the ‘other’ sector accounted 
+for nearly the same level of emissions as the transportation sector, underscoring 
+its significance when considering RMI’s decarbonization pathway.  
+124.  As a result of the electrification of RMI’s population centers, kerosene use for 
+lighting has significantly declined. Similarly, the adoption of solar lighting in the 
+outer atolls has also led to a decrease in kerosene use. RMI must continue these 
+efforts to phase out the use of kerosene for lighting.  
+125.  For cooking, due to public health concerns, particularly for women and children, 
+RMI has already embarked on an aggressive low-carbon strategy encouraging the 
+replacement of kerosene with LPG and efficient biomass cook-stoves (e.g. the 
+‘One Smokeless Stove Per Home’ project). However, the decarbonization pathway 
+is less clear since electric/solar-powered stoves are not seen as viable at the 
+moment.  
+126.  RMI  has  made  remarkable  progress  thus  far  with  its  existing  institutional 
+arrangements to reduce GHG emissions from cooking and lighting. The MEC, with 
+a  Government  mandate,  has  moved forward with  full  electrification of  urban 
+households  by  2015.  RMI  is  also  making  great  progress  towards  a  90% 
+electrification target for rural households in the outer atolls.  
+127.  The  EPD  has  played  a  critical  role  in  procuring  and  funneling  development 
+assistance to encourage the use of more efficient and environmentally friendly 
+fuels for cooking. The lifestyle and economic benefits of eschewing kerosene have 
+been natural drivers for a low-carbon pathway for cooking and lighting.  
+128.  A more robust Government mandate to phase out GHG emissions from this sector 
+may be needed to provide EPD with the mandate to undertake the final step 
+towards decarbonization.  
+ 
+ 
+Potential Measures and Next Steps 
+       Pilot 
+  Area  Measure  Feasibility Assessment 
+        Actions 
+Similar to above infrastructure studies, examine cooking 
+equipment used in RMI and their efficiency to determine 
+ 
+LPG Efficiency  actions needed relative to kerosene to LPG and other fuel 
+Improvements  switching. 
+Other 
+Explore the potential for cheaper solar power and time of 
+use rates to incentivize users to switch loads to electric, 
+ 
+Convert LPG  particularly during the hours  that solar generation is 
+Cooking to Electric  highest.  
+  Figure 14: Cooking & lighting – potential measures and next steps 
+ 
+Page 4 1  
+ 
+ 
+Key Assumptions 
+129.  Assumption:  kerosene cooking will be phased out in favor of LPG by 2025, and in 
+the Lighthouse Scenario electric cooking will be used to phase out LPG by 2050 as 
+electricity  prices  become  set  by  low  solar  array  prices.  This  is  valid  for  the 
+Lighthouse Scenario only because storage is required, as most cooking occurs 
+during non-sunlight hours. 
+ 
+ 
+Sector Definition  
+130.  Emissions from residential, commercial and Government buildings. These are from 
+kerosene and LPG used for cooking. 
+ 
+ 
+Scenario Definitions 
+131.  Figure 15 below provides a more detailed description of assumptions used for the 
+scenario projections. Each row represents a measure that may be put in place to 
+reduce emissions.  
+NDC 
+MCG  Lighthouse  (the 
+2025  2030  Significant Scenario has the 
+Area  Measure  MCG Moderate 
+same efficiency assumption 
+Mtons  Additional  Mtons  but is 15 years delayed) 
+Reduced  Reduced 
+Assume  remaining  6%  kerosene  for  cooking  is 
+LPG Efficiency    3,1  phased out for LPG; and for heating is phased out 
+Improvements  using heat pumps.  
+Other 
+Phased, assume 100% by 2035 
+(can only occur if storage is 
+     
+Convert LPG  present,  as  most  cooking  is 
+Cooking to Electric  done in non-daylight hours). 
+  Figure 15: ‘Other’ – Scenario definitions 
+ 
+ 
+ 
+ 
+   
+ 
+Page 4 2  
+Section 3 – Adaptation & Climate Resilience 
+ 
+Headline Recommendations 
+ 
+  Review and consolidate policies and measures on adaptation and climate 
+resilience, as well as social and economic policies, to align with strategic 
+principals and priorities, an understanding of recent and future impacts of 
+climate change and a phased and adaptive approach to action; 
+  Initiate, as soon as possible, the process to develop a National Adaptation 
+Plan (NAP) by the end of 2019. The NAP should: 
+  incorporate  adaptation  and  climate  resilience  milestones  to  be 
+achieved, for example by 2020, 2025, 2030 and 2050, as well as 
+suggest measures to achieve them; 
+  elaborate  immediate,  accelerated  gender-responsive  actions  and 
+investments  over  the  next  5  years  (2019-2023)  to  adapt  to  the 
+impacts of climate change and transition to climate resilience; 
+  suggest, as appropriate, updates to relevant national policies and 
+legislation; 
+  set  out  a  plan  for  significant  investments  in  adaptation  and 
+resilience  in  order  to  be  in  a  position  to  fully  implement  its 
+recommendations;  
+  incorporate, as appropriate, the key recommendations arising from 
+the review of the JNAP;  
+  Submit RMI’s Adaptation Communication to the UNFCCC by 2020 at the 
+latest, setting out RMI’s intended adaptation contribution to achieving the 
+goals of the Paris Agreement; 
+  Reflect RMI’s intention to produce a NAP and Adaptation Communication 
+in its forthcoming NDC; and  
+  Establish,  as  soon  as  possible,  financing  pathways  for  adaptation, 
+resilience  and  protection  measures,  particularly  focusing  on  coastal 
+resilience including coastal vulnerability assessments, as well as tackling 
+critical knowledge gaps in key areas. 
+ 
+ 
+Summary  
+132.  RMI’s  international  climate  change  focus  has  been  largely  on  mitigation  and 
+related  issues.  Even  if  the  Paris  Agreement  goal  of  limiting  global  average 
+temperature increases to 1.5 degrees Celsius is achieved, the serious impacts on a 
+Page 4 3  
+climate  vulnerable  nation,  such  as  RMI,  will  be  considerable.  Domestically, 
+attention will urgently and increasingly need to focus on adaptation and climate 
+change resilience. 
+133.  RMI’s existing adaptation policies are built around three pillars: 
+  having  a  clear  sense  of  strategic  principals  and  priorities  (e.g.  RMI’s 
+inalienable right to exist and its exceptional status as an atoll nation); 
+  an understanding of recent and future impacts of climate change, using 
+climate patterns and evidence, and regional and global projections; and   
+  a  phased  and  adaptive  approach  to  action  –  focused  on  protection, 
+elevation and consolidation as well as on the identification of knowledge 
+gaps and capacity needs, and on the importance of innovative financing.  
+134.  Understandably, much of RMI’s adaptation efforts have focused on policies and 
+measures  to  combat  drought,  which  has  already  had  a  significant  impact  on 
+communities.  But  focus  over  the  coming  years  will  also  need  to  look  more 
+systematically at other aspects of adaptation, including the climate resilience of 
+women, men and youth.   
+135.  Particular  immediate  areas  of  focus  for  adaption  are  likely  to  be,  but  not 
+necessarily limited to, coastal resilience including coastal vulnerability assessment. 
+136.  RMI should set out a vision for adaptation and climate resilience, incorporating 
+milestones to be achieved, for example by 2020, 2025, 2030 and 2050 – as well as 
+suggested  measures  to  achieve  them.  Prioritization  will  be  critical  to  attract 
+necessary private, public and international funding to implement policies, and in a 
+way that is consistent with RMI’s strategic interests. 
+137.  Particular areas of focus for resilience could include, but not be limited to: 
+  disaster risk management – including working through the Chief Secretary’s 
+Office to build further capacity nationally; and improving communications 
+with outer islands; 
+  contingency and emergency response – including putting in place a financial 
+mechanism  to  allow  rapid  response  and  emergency  funding,  such  as 
+frameworks, protocols and procedures for rapid disbursement. 
+138.  Thought  will  need to be  given  as  to  how progress  against  specific  goals  and 
+milestones should be measured and tracked. Adaptation and climate resilience 
+policies should be reviewed to identify overlaps and redundancies, with a view to 
+consolidation. This review should also identify and clearly allocate responsibilities 
+for taking forward specific policies. 
+139.  A big barrier to implementing adaptation and resilience measures is long-term 
+financing. Because private sector finance is particularly hard to secure in this area, 
+public sector funding from the international donor/development sector must be a 
+focus. In that context, capacity and resource constraints to RMI accessing some of 
+major international climate finance and climate-related ODA is an issue that needs 
+to be urgently addressed.  
+Page 4 4  
+140.  The  cost  and  consequences  of  underestimating  future  changes,  in  particular 
+future rates of sea level rise, and thus underinvesting in appropriate adaptation 
+and building resilience would be catastrophic. Socioeconomic costs will also need 
+to be evaluated, as well as the impacts of the identified responses to build 
+adaptive capacity and resilience keeping in mind the women, men and youth of 
+the most vulnerable communities. Therefore, RMI must apply the precautionary 
+principle in future planning and implementation.  
+141.  While RMI is already taking measures to adapt and to build resilience, including 
+through a number of projects underway, including the Pacific Resilience Program 
+Phase  2  (PREP  II),  the Addressing  Climate Vulnerability in the  Water  Sector 
+project (ACWA), and others, it is now a matter of urgency to develop a NAP – 
+and to aim to complete it by the end of 2019 at the latest.  
+142.  RMI should follow up production of its NAP with a subsequent Adaptation 
+Communication to the UNFCCC, in which it sets out its contribution towards 
+meeting the adaptation goal set out in the Paris Agreement (Article 2(1)(b)). The 
+Adaption Communication, and the goals it contains, should be based on the key 
+recommendations  of  the  NAP,  preferably  be  quantifiable,  and  articulate  the 
+means  of  implementation  needed  to  achieve  those  goals.  The  Adaptation 
+Communication could be a stand-alone document or submitted as part of a 
+subsequent National Communication. Building on the NAP, its production and 
+submission need not be resource intensive. 
+143.  The commitment to produce a NAP and Adaptation Communication should be 
+set out in RMI’s forthcoming NDC. 
+144.  The NAP should, as appropriate, align with and build on existing national and 
+regional policies and plans, particularly the recommendations of the recently 
+completed review of RMI’s JNAP (2018) and set out what RMI considers to be the 
+most  plausible  scenarios  for  the  key  manifestations  of  climate  change,  in 
+particular  sea  level  rise,  bearing  in  mind  the  need  –  consistent  with  the 
+precautionary principle – to consider extreme-case scenarios. 
+145.  While  the  NAP  will  need  to  articulate  detailed  priorities  and  actions  for 
+adaptation and building resilience, it is already clear that  RMI’s pathway to 
+adaptation will need to consider at least the following four areas:  
+  Protection:  including  coastal  protection,  infrastructure  climate-proofing, 
+community and household resilience building, food security, water security, 
+health  security,  and  broader  adaptation  and  disaster  risk  reduction 
+investments, including the development of financial mechanisms to finance 
+investments and response and recovery efforts; 
+  Elevation: all new construction of all types of structures should be elevated, 
+based on the new National Building Code to be finalized in 2019 and other 
+policies to be adopted. As conditions are likely to worsen, particularly sea 
+level rise, new policies and plans for constructing elevated settlements for 
+future consolidation of the population will be critical; 
+  Consolidation:  in  the  event  that  the  majority  of  communities  become 
+increasingly vulnerable and experience more frequent and dire effects of 
+Page 4 5  
+climate change, including flooding and inundation, there may need to be a 
+policy to consolidate the population onto elevated settlements. It is plausible 
+that a policy for consolidation may need to be considered sooner rather than 
+later; and 
+  Relocation: while relocation should be considered the last-resort option, it is 
+likely that some Marshallese will choose to migrate, as many have done so 
+already.  Moreover,  it  is  possible  that  RMI  may  not  be  able  to  viably 
+accommodate the entire 60,000-plus residents that are projected to be living 
+in  the  country  by  2030.  Therefore,  the  Government  will  need  to 
+simultaneously assure the right of citizens to remain in the islands as best it 
+can,  and  ensure  continued  opportunity  for  migration  for  those  who  so 
+choose to relocate.  
+146.  Given the dynamic nature of climate change and disaster risks, the NAP and 
+Adaptation Communication should be reviewed and, if necessary, revised every 
+five years as a minimum, aligning with the five-year cycles of future updates of this 
+RMI 2050 Strategy.  
+147.  An  immediate  priority  is  securing  financing  for  protection  measures  and  to 
+urgently address knowledge gaps in order to ensure a solid foundation for the 
+milestones and measures to be set out in the NAP, including in the four areas set 
+out above.  
+148.  More specifically there is an urgent need to expand coastal protection measures 
+and investments, complete and implement the new building code, strengthen 
+food and water security, and develop more formal financing mechanisms for both 
+disaster risk reduction and post-disaster response and recovery. RMI must work 
+effectively with existing and new development partners to secure initial resources 
+for these priority investments. 
+149.  In relation to tackling critical knowledge gaps, some immediate critical questions 
+that need to be addressed include: 
+  How will global sea level rise translate into regional and RMI-specific sea level 
+rise in the future?  
+  What changes in precipitation, air temperature, ocean acidification, tropical 
+cyclones, and coastal vulnerability and hazards will RMI likely experience in 
+the coming decades? 
+  What will be the economic, social, community, and health impacts of the 
+increasingly  adverse  effects  of  climate  change,  including  on  the  most 
+vulnerable? 
+  What resources, including sand and aggregate, are available  – and what 
+amounts are sustainable – for coastal protection and other adaptation and 
+disaster risk reduction infrastructure projects?  
+  How will sea level rise impact RMI’s claim to its sovereign territory, exclusive 
+economic zone, and the resources within its current boundaries?  
+Page 4 6  
+  How  will  marine  resources  such  as  pelagic  (including  tuna)  and  inshore 
+species be affected by future climate change?  
+  Can RMI construct elevated settlements to house its future population or a 
+part thereof? How could such settlements be developed and settled?  
+  If Marshallese relocate to other countries, what are the most appropriate 
+places and means of resettlement? What rights and status would they have? 
+  Should establishing resettlement communities be considered as an option to 
+preserve the Marshallese language and culture? 
+150.  RMI’s  future  adaptation  and  resilience  policies,  including  the  NAP,  should  be 
+underpinned by the following principles: 
+  our  natural  right  to  live  on  our  islands  –  the  Marshallese  people  have 
+occupied  this  archipelago  for  some  3,000  years  and  have  a  natural  and 
+inalienable right to continue living and thriving in these islands. It is the RMI 
+Government’s official policy to assure this right to the women, men, youth 
+and  future  generations  of  Marshallese,  as  well  as  to  assure  continued 
+opportunity to migrate for those who choose this as their ultimate means of 
+adaptation, to the best of its ability; 
+  prioritize support and capacity building for the most vulnerable and those 
+least capable of adapting – RMI’s social protection system, which remains in 
+an underdeveloped stage, will need to be strengthened to better deliver 
+targeted social assistance and household and community support for women, 
+men and youth;  
+  a  fundamental  focus  on  resilience  –  building  resilience  to  the  effects  of 
+climate change as well as managing and mitigating disasters from natural 
+hazard risks are strategic priorities for RMI;  
+  follow  best-practice  –  RMI  will  follow  a  best-practice  adaptation  and 
+resilience  approach,  taking  into  account  the  latest  scientific  evidence, 
+building on relevant lessons from other countries and regions, and working 
+with development partners. A knowledge-first evidence-based approach will 
+be critical, as will be  taking into account indigenous knowledge and the 
+knowledge of rural communities; 
+  innovative financing, environmental, and engineering solutions; and 
+  the  exceptional  circumstances  of  atoll  nations  like  RMI  –  while  climate 
+change will surely impact all SIDS,  the unique circumstances and unique 
+vulnerability of atoll nations should be further recognized. 
+ 
+ 
+Potential Measures and Next Steps 
+151.  Immediate priority next steps are to: 
+Page 4 7  
+  take stock of and implement, as appropriate, the recommendations of the 
+JNAP review; and 
+  initiate the production of RMI’s NAP, including securing external means of 
+implementation to do so. 
+ 
+ 
+Local and Global Trends that will be Relevant to RMI’s Future Adaptation 
+and Resilience Planning 
+152.  The  effects  of  climate  change  are  manifest  in  changes  in  air  and  sea 
+temperatures,  rainfall  patterns,  ocean  acidification,  typhoons,  and  other 
+observable  phenomena.  Figure  16  below  summarizes  the  recent  trends  and 
+future projections for these changes from the most recent sources available. 
+ 
+  Recent Trend  Projections 
+Air Temperature  Temperatures have increased. Annual maximum and minimum  Temperatures  will  continue  to 
+temperatures in both Majuro and Kwajalein have increased  increase.  Air  temperatures  are 
+from the 1950s. In Majuro, maximum temperatures have  projected to continue to rise. By 2030, 
+increased at a rate of 0.22⁰ F (0.12⁰ C) per decade, consistent  under a high emissions scenario, the 
+with the global pattern of warming.   increase in temperature is projected to 
+be in the range of 0.8-1.8⁰ F (0.4-1.0⁰ 
+C). This will result in more very hot 
+days and warm nights, with a decline in 
+cooler weather.  
+Rainfall and  Annual rainfall has decreased and droughts have become  Rainfall  patterns  will  continue  to 
+Droughts  more severe. Rainfall data for Majuro and Kwajalein since the  change  and  droughts  are  likely  to 
+1950s show a decreasing trend in annual and seasonal rainfall,  increase in frequency and duration. 
+significant at the 5% level. There has also been substantial  Most global climate models project an 
+variation in rainfall from year to year. The long-term negative  increase  in  average  annual  and 
+trend suggests either a shift in the mean location of the Inter- seasonal rainfall through this century. 
+Tropical Convergence Zone (ITCZ) or a change in the intensity  While there is some uncertainty in the 
+of rainfall associated with the ITCZ. Dry seasons in recent years  rainfall projections for RMI, increasing 
+have been relatively more severe than in the past, with an  rainfall  variability  with  potential  for 
+extremely severe drought in 2015-2016 that prompted a State  extended dry periods is expected. A 
+of Emergency.   recent analysis (UNDP 2018) confirms 
+this, projecting higher rainfall but with 
+longer and more intense dry periods 
+and increased frequency and duration 
+of droughts being very likely in RMI 
+through 2045. The analysis shows that 
+increases in drought frequency cannot 
+be ruled out at the 95% confidence 
+level.  
+Ocean  Sea level will continue to rise. Sea level will continue to rise in  Ocean acidification will continue. By 
+Acidification  RMI, but the exact rate of increase depends on multiple  all indications, the acidity level of sea 
+factors. According to US NOAA (2017), the questions are when  water surrounding RMI will continue to 
+and how much, rather than if, and even if society sharply  increase over this century, with the 
+reduces emissions in the coming decades, sea level will most  impact compounded by other stressors 
+likely continue to rise for centuries. NOAA (2017) projects  such as coral bleaching, storm damage, 
+global mean sea level to rise by 2030 from a low scenario of 3.5  and fishing pressure.  
+inches (0.9 meters) to an extreme scenario of 9.4 inches (0.24 
+ 
+meters). Sea level rise has not been uniform across the globe, 
+and  the  Western  Pacific  region—which  includes  RMI  —is 
+expected to see increases of 20% to 40% above the global 
+mean.  
+Sea Level Rise  Sea level has risen. As ocean water warms, it expands and  Sea level will continue to rise. Sea 
+causes the sea level to rise. The melting of glaciers and ice  level will continue to rise in RMI, but 
+sheets also contribute to sea level rise. Satellite data indicate  the exact rate of increase depends on 
+Page 4 8  
+that sea level near RMI has risen by about 0.3 inches (7 mm)  multiple factors. According to US NOAA 
+per year since 1993 — at this rate, the sea level has risen by 7  (2017), the questions are when and 
+to 8 inches from 1993 to 2018. This is larger than the global  how much, rather than if, and even if 
+average of 0.11-0.14 inches (2.8-3.6 mm) per year. This higher  society sharply reduces emissions in 
+rate may be partly due to natural fluctuations or by the El Nino  the coming decades, sea level will most 
+Southern Oscillation.   likely continue to rise for centuries. 
+NOAA (2017) projects global mean sea 
+ 
+level  to  rise  by  2030  from  a  low 
+scenario of 3.5 inches (0.9 meters) to 
+an extreme scenario of 9.4 inches (0.24 
+meters). Sea level rise has not been 
+uniform  across  the  globe,  and  the 
+Western  Pacific  region  —  which 
+includes RMI — is expected  to see 
+increases of 20% to 40% above the 
+global mean.  
+Flooding Events  Flooding  and  inundation  events  have  increased.  The  Flooding and inundation to intensify. 
+frequency  of  annual  flooding  and  inundation  events  has  The frequency of inundation events will 
+increased, with higher number of events observed in recent  continue to rise, resulting in high tide 
+years in Majuro, Kwajalein, and other atolls. These typically  levels increasingly exceeding what may 
+occur during very high tides, including during King Tides,  be  presently  considered  King  Tide 
+and/or during periods with strong ocean or wind-driven waves.  levels.  
+A 2018 NOAA study reported that high tide flood frequencies 
+Continued  sea  level  rise  and  wave-
+on Kwajalein have grown to more than 5 days a year on 
+driven flooding are expected to have a 
+average, compared to fewer than 1 day a year in 2000. The 
+compounding effect, resulting in more 
+same general trend has been observed in Majuro.  
+frequent  and  increasingly  severe 
+  flooding and damage. A 2018 study on 
+Roi-Namur in Kwajalein projects sea 
+ 
+level rise will exacerbate wave-driven 
+flooding  within  just  two  to  three 
+decades.  This  will  severely  affect 
+groundwater  resources,  critical 
+infrastructure, and render everyday life 
+more and more difficult in RMI.  
+Tropical Cyclones  Tropical cyclones frequency increased through the 1990s, but  Frequency  projections  for  tropical 
+the recent trend is unclear. Historical records on major tropical  cyclones uncertain, but intensity likely 
+storms  suggest  that  from  the  1970s  through  1990s  the  to  increase.  Projections  indicate  a 
+frequency of reported storms affecting RMI (of all intensities)  decrease in the number of typhoons 
+increased from 5 in the 1970s, to 7 in the 1980s, to 11 in the  worldwide by the end of this century, 
+1990s. In the recent two decades, the pattern has been less  but a likely increase in the average 
+discernible, but RMI has seen fairly severe events in recent  maximum  wind  speed  and  rainfall 
+years, including from tropical storm Nangka in 2015.   intensity of future typhoons. A recent 
+study  (UNDP  2018)  projects  the 
+ 
+climatological  baseline  number  of 
+storms per decade in the RMI region as 
+approximately  30;  the  multi-model 
+mean  projection  is  an  additional  2 
+tropical storms per decade by 2035 and 
+an additional 3 per decade by 2045. 
+Power  dissipation  index  is  also 
+projected to increase by 9% and 14% 
+by  2035  and  2045,  respectively—
+although these projected changes have 
+medium  confidence  due  to  lack  of 
+statistical significance.  
+ Figure 16: Climate Trends and Projections for RMI 
+Sources: Pacific Climate Change Science Program. 2011. Current and Future Climate of the Marshall Islands. RMI National Weather 
+Service, Australian Bureau of Meteorology, and Commonwealth Scientific and Industrial Research Organization; US National 
+Oceanic and Atmospheric Administration. 2017. Global and Regional Sea Level Rise Scenarios for the United States. US NOAA, 
+USGS, US EPA, Rutgers University; Government of RMI and Secretariat of the Pacific Regional Environment Program. 2016. RMI 
+State of the Environment Report. RMI, SPREP, ACP EU, and UNEP; Government of RMI. 2017. Post Disaster Needs Assessment of 
+the 2015-2016 Drought. Majuro; US National Oceanic and Atmospheric Administration. 2018. Patterns and Projections of High 
+Tide Flooding Along the US Coastline Using a Common Impact Threshold. Maryland; Storlazzi, Curt. et al. 2018. Most atolls will be 
+uninhabitable by the mid-21st century because of sea-level rise exacerbating wave-driven flooding. Science Advances research 
+article, April 2018; United Nations Development Program. 2018. Report on Climate Change Projections for the RMI. Annex 22, 
+Feasibility Study, Green Climate Fund Funding Proposal, RMI Addressing Climate Vulnerability in the Water Sector Project. 
+Page 4 9  
+ 
+  Figure 17: Annual Average Temperature for Majuro 
+  Note: Light blue bars = El Nino years; dark blue bars = La Nina years; gray bars = neutral years 
+Source: Pacific Climate Change Science Program; RMI National Weather Service, Australian Bureau of Meteorology, and 
+Commonwealth Scientific and Industrial Research Organization.  
+ 
+ Figure 18: Annual Rainfall for Majuro  
+Note: Light blue bars = El Nino years; dark blue bars = La Nina years; gray bars = neutral years. The 
+negative trend is statistically significant at the 5% level. 
+Source: Pacific Climate Change Science Program; RMI National Weather Service, Australian Bureau of  Meteorology, and 
+Commonwealth Scientific and Industrial Research Organization.  
+   
+Page 5 0  
+ 
+153.  The most recent global mean sea level rise projections suggest a direr outlook. As 
+reported by the National Oceanic and Atmospheric Administration (NOAA 2017), 
+there has been continued and growing evidence that Antarctica and Greenland are 
+losing mass at an accelerated rate; this growing evidence of accelerated ice loss 
+only strengthens the argument for considering worst-case scenarios in coastal risk 
+management. 
+154.  Importantly,  sea  levels  have  not  risen  uniformly  across  the  globe,  and  the 
+anticipated level of sea level rise in the Western Pacific is between 20% to 40% 
+above the global mean. This suggests that by 2030, in the best-case scenario RMI 
+may experience 4.61 inches of sea level rise, and in the worst-case scenario over 1 
+foot (12.28 inches) of sea level rise. 
+ 
+ 
+Figure 19: Western Pacific Mean Sea Level Rise Scenario Heights (inches): 2030 to 2100 
+Note: Figures are anchored on year 2000 and are for 19-year averages centered on decade through 
+2100. Only median values are shown. 30% additional sea level rise calculated based on global mean sea 
+level projections. 
+Source: Calculations based on data from: US National Oceanic and Atmospheric Administration. 2017. Global and Regional Sea 
+Level Rise Scenarios for the United States. US NOAA, USGS, US EPA, Rutgers University. 
+ 
+ 
+Page 5 1  
+Section 4 – Means of Implementation 
+ 
+Headline Recommendations 
+ 
+  Identify  &  consider  options  for  a  more  coordinated  and  centralized 
+approach to applying for, and monitoring, overseas aid and investment in 
+relation to implementation of RMI’s NDC and 2050 Strategy; 
+  Develop a long-term finance strategy to  implement RMI’s current and 
+future NDC, future National Adaptation Plan as well as this 2050 Strategy. 
+The long-term finance strategy should:  
+  prioritize  and  target  funding  applications  in  a  strategic  and 
+coordinated way; and 
+  be  regularly  reviewed  and  monitored  to  deliver  against  key 
+objectives. 
+  Prioritize in-country capacity building and institutional strengthening in 
+relation to every aspect of the implementation of this 2050 Strategy, and 
+at  all  levels  of  stakeholders,  including  communities,  women,  men  and 
+youth.  
+ 
+ 
+Summary  
+155.  Effective implementation of this 2050 Strategy will require coordinated efforts 
+across all sectors, including governance, GHG emissions reductions, adaptation 
+and resilience, finance, and monitoring, reporting and verification. The availability 
+of means of implementation – including long-term finance and capacity building – 
+will  be  major  factors  limiting  the  extent  to  which  this  2050  Strategy  can  be 
+implemented. RMI should maximize inward investment and provision of means of 
+implementation on climate change-related issues. Continued political leadership 
+at the highest levels, along with a clear governance structure for implementation 
+of all aspects of this 2050 Strategy, will also be necessary. 
+156.  There  is  no  centralized  comprehensive  overview  of  the  donor 
+assistance/development aid that RMI is eligible to apply for, has applied for or has 
+secured, nor of monitoring of implementation once funds have been secured in 
+areas of relevance to the implementation of RMI’S NDC or this 2050 Strategy. A 
+major  cause  is  that  responsibilities  for  doing  so  are  fragmented  across 
+Government departments and agencies. 
+157.  In order to improve efficiencies, to provide an enhanced enabling environment for 
+donors and so attract more inward investment, and to secure funds consistent 
+with nationally driven priorities, options for a more coordinated and centralized 
+approach to applying for, and monitoring, overseas aid and investment in relation 
+Page 5 2  
+to areas of relevance to RMI’s NDC and this 2050 Strategy should be identified and 
+assessed. 
+158.  The main functions to be considered are: 
+  overall policy and priority setting – what funds to apply for, etc; 
+  operational  –  such  as  oversight  and  quality  control  of  applications,  and 
+ensuring alignment with high level Government policies, including this 2050 
+Strategy; and 
+  monitoring – collection of data, including on project delivery. 
+159.  In 2017 the Cabinet agreed in principle that the Economic Policy, Planning and 
+Strategy Office (EPSO) should do overarching monitoring, and that the Division of 
+International  Development  Assistance  (DIDA)  should  centrally  coordinate  and 
+manage overseas assistance, but a final decision has not yet been made. Any 
+centralization of functions needs to be sensitively handled and not interfere with 
+existing policy setting and substantive functions of existing Government ministries 
+and departments, without careful consideration. In that context, consideration 
+should be given to the Chief Secretary’s Office having a role in relation to overall 
+policy setting and prioritization.  
+160.  In order to more effectively attract investment in relation to RMI’s NDC, its future 
+NAP and this 2050 Strategy a long-term climate finance strategy needs to be put 
+in  place.  The  long-term  finance  strategy  should  prioritize  and  target  funding 
+applications in a strategic and coordinated way. Consideration should also be 
+given as to whether and how donor assistance could be pooled, so as to ensure 
+efficiency and reduce administrative burdens on both donors and RMI. That long-
+term finance strategy should also be regularly reviewed and monitored to deliver 
+against key objectives. 
+161.  Unless  more  effective  oversight  and  coordination  is  put  in  place,  including 
+establishing a clear mechanism to enable and improve the efficiency of Overseas 
+Development Assistance (ODA) coordination, RMI’s ability to attract necessary 
+levels of future climate finance consistent with domestic priorities is likely to be 
+significantly  constrained.  As  such  it  is  recommended  that  the  Government 
+urgently considers how to deliver a more coordinated and centralized approach 
+to applying for and monitoring overseas aid and investment. 
+162. It  is  important  that  means  of  implementation build  on  and  strengthen  wider 
+development policy across all sectors. Mitigation, adaptation, and climate change 
+resilience actions identified in this 2050 Strategy should be further mainstreamed 
+and integrated into existing development planning processes and national plans 
+and strategies. Developing a new and separate process is not necessary. 
+163. RMI’s  strategic  approach  to  long-term  finance  and  wider  means  of 
+implementation  should  be  dynamic,  and  be  periodically  reviewed,  assessed 
+against  delivery  of  objectives  and  updated  to  reflect  and  ensure  relevancy, 
+validity, transparency, and accuracy. 
+164.  At the same time, means of implementation for short term action in line with the 
+priorities  of  this  2050  Strategy  is  also  critical.  Implementation  of  RMI’s  NDC 
+Page 5 3  
+Partnership Plan, which identifies the immediate priorities for action and existing 
+gaps, and coordinates support from partners to achieve these priorities, will be 
+very important. This can and should be leveraged over time to enhance donor 
+support toward implementation of future NDCs and this 2050 Strategy.  
+165.  In general, capacity and resource constraints are a significant factor restricting 
+RMI’s ability to access international climate-related assistance. This is an issue that 
+needs to be urgently addressed and in-country capacity building and institutional 
+strengthening should be prioritized in relation to all aspects of implementation of 
+this 2050 Strategy.   
+ 
+ 
+Potential Measures and Next Steps 
+ 
+Area  Activity  
+  Review the climate finance landscape;  
+  Establish institutional arrangements for the oversight and coordination of climate 
+finance activities;  
+  Compile an overall costing for the NDC;  
+  Identify funding gaps and needs;  
+Long-term Climate Finance    Assess public and private financing options and develop a country climate 
+investment plan; 
+  Develop a country climate investment plan; 
+  Develop a project pipeline and financing propositions that can be put forward to 
+different financing sources; 
+  Increase private sector engagement and overcome barriers to investment;  
+  Design and implement a climate finance MRV system. 
+ Figure 20: Means of implementation potential measures and next steps 
+166. The  Government  should  utilize  a  robust  process  in  implementing  this  2050 
+Strategy including an initial assessment of resource needs and clear sequencing of 
+activities in accordance with identified priorities. 
+167. In that context a long-term climate finance strategy and strategy on wider means 
+of implementation should clearly set out actions, timings, and responsibilities.  
+ 
+ 
+  
+Page 5 4  
+Section 5 – Transparency, Environmental & Social 
+Information 
+ 
+Headline Recommendations 
+ 
+  Review roles and responsibilities for data measurement, reporting and 
+verification (MRV), and develop policies to ensure that the current system 
+is more effective; 
+  Improve capacity in the area of environmental information and social data 
+collection, monitoring, reporting and verification as a priority, including 
+through  accessing  available  assistance  such  as  the  UNFCCC  Capacity 
+Building Initiative on Transparency (CBIT); 
+  Prioritize producing and submitting a Biennial Update Report and a Third 
+National Communication; and 
+  Transition to using the latest IPCC Guidelines – including in the production 
+of the next NDC. 
+ 
+ 
+Summary  
+168.  Good  quality  data  and  monitoring  systems  are  crucial  for  informed  policy 
+development and to measure progress towards achieving goals. 
+169.  The lack of reliable up-to-date quality environmental data is a significant issue in 
+relation to every aspect of RMI’s NDC and this 2050 Strategy. Unless addressed, 
+this will be a significant barrier to RMI achieving its climate change objectives as 
+set out in its NDC and this 2050 Strategy.  
+170.  The main problems are: 
+  institutional  –  fragmented,  overlapping  and  unclearly  allocated 
+responsibilities for data collection and monitoring; 
+  ineffective data coordination and sharing between Government agencies; 
+  lack of resources and capacity. 
+171.  RMI should review roles and responsibilities and should put in place policies to 
+address these problems and to implement a more effective system. International 
+means of implementation available to make improvements in this area should be 
+accessed as a priority. 
+172.  It should be noted that some of the analysis and recommendations in this 2050 
+Strategy are based on RMI’s 2010 inventory as set out in its Second National 
+Communication. That inventory should be officially updated and set out in RMI’s 
+Page 5 5  
+future Third National Communication. Once that is done, the recommendations in 
+this 2050 Strategy may need to be updated in future revisions. 
+ 
+ 
+Potential Measures and Next Steps 
+ 
+Area  Activity  
+  Access international means of implementation available to improve domestic MRV 
+systems; 
+  Review current MRV activities; 
+  Establish institutional arrangements for the oversight and coordination of MRV 
+activities; 
+Transparency, Environmental    Assess data gaps and needs; 
+& Social Information    Design and implement improved domestic MRV system for mitigation, adaptation 
+and finance; 
+  Establish data management processes; 
+  Build MRV capacity; 
+  Seek to improve the MRV system over time; 
+  Identify international support available to assist RMI to begin preparing a BUR and 
+its third National Communication. 
+ Figure 21: Transparency, environmental and social information potential measures and next steps 
+ 
+   
+Page 5 6  
+Section 6 – Gender & Human Rights  
+ 
+Headline Recommendations 
+ 
+  Mainstream and safeguard gender and human rights, including in relation 
+to  developing,  adopting,  reviewing  and  implementing  laws,  policies  and 
+projects related to climate change;   
+  Commission further analysis with a view to  implementing a strategy to 
+improve  disaggregated  data  collection,  monitoring,  evaluation  and 
+accountability;  
+  Utilize  participatory  community  led,  bottom-up  approaches  to  identify 
+challenges and best practices with stakeholders and beneficiaries; 
+  Commission specific research on impacts of climate change on men and 
+women, and their associated responses, in all their diversities drawing on 
+traditional knowledge and skills; 
+  Secure  technical  assistance  and  resources  to  strengthen  capacity across 
+national and local Governments, as well as civil society and NGO networks, 
+to  design  and  deliver  gender-responsive  climate  change  programs  and 
+services; 
+  Ensure  programs  and  projects  contribute  to  secure  family  wellbeing 
+including  healthy  lives  and  livelihoods,  through  education,  domestic 
+partnerships, family and household responsibilities, sexual and reproductive 
+health; 
+  Eliminate  gender-based  violence  and  increase  protection  and  care  of 
+survivors; 
+  Establish an enabling environment for an equitable participation in, and 
+benefits from, economic development; 
+  Ensure  equitable  participation  of  women  and  men  in  decision-making 
+through  equal  opportunities  for  women  and  men  in  all  fields  of 
+employment,  inclusive  decision-making  and  support  women’s 
+entrepreneurship; 
+  Design and implement a program for progressive compliance with human 
+rights obligations; and 
+  Build the knowledge and capacity of women, men and youth to address 
+gender inequalities across sectors. 
+ 
+ 
+   
+Page 5 7  
+Summary 
+173.  Climate change will affect everyone, but the impacts of climate change, and the 
+response initiatives, will be differentiated among women, men and youth. Women 
+and children, disabled and impoverished groups are often the most vulnerable and 
+disproportionately  affected  by  the  impacts  of  climate  change  due  to  their 
+marginalization  in  global  society,  limiting  their  access,  use  and  control  over 
+resources and services. This limits their responses, including adaptive capacity and 
+resilience to climate change. 
+174.  The United Nations Framework Convention on Climate Change (UNFCCC) has put 
+in place multiple mandates to support gender responsive and human rights-based 
+approaches to ensure that climate change policy, programing and implementation 
+address the interests, needs and capacities of women and men for efficient and 
+effective  outcomes.  The  recently  adopted  UNFCCC  Gender  Action  Plan  (GAP) 
+states: 
+‘Gender-responsive climate policy requires further strengthening in all activities 
+concerning adaptation, mitigation and related means of implementation (finance, 
+technology development and transfer, and capacity-building) as well as decision-
+making on the implementation of climate policies. The GAP recognizes the need for 
+women to be represented in all aspects of the UNFCCC process and the need for 
+gender mainstreaming through all relevant targets and goals in activities under 
+the Convention as an important contribution to increasing their effectiveness’.2 
+175.  Additionally, the Sustainable Development Goals (SDGs) link gender equality (Goal 
+5) and climate change (Goal 13). SDG Target 13b suggests countries should: 
+‘Promote mechanisms for raising capacity for effective climate change related 
+planning  and  management  in  least  developed  countries  and  small  island 
+developing States, including focusing on women, youth and local and marginalized 
+communities’3. 
+176.  Natural disasters, climate change hazards, food insecurity, water crises and public 
+health risks are all threats facing the women, men and youth of RMI. Climate risks 
+are particularly serious, in part because sources of cash income are limited, leaving 
+people with little in the way of savings or financial resources to adapt to changing 
+conditions or recover from climate change-related stresses.  
+177.  In 2016, studies revealed that the changing climate and environmental conditions 
+associated with drought resulted in higher morbidity rates and declining nutrition 
+levels, negatively affecting human development and quality of life. Drought also 
+compromises food security with related malnutrition, notably in the outer islands. 
+Natural disasters have resulted in an unknown number of internally displaced 
+people, who have been forced to leave their homes and islands because of factors, 
+including drought, exacerbated by climate change.  
+178.  Women are more vulnerable than men to the effects of events related to climate 
+change, but their critical role in recovery and resilience is gaining recognition. The 
+                                                 
+2 https://unfccc.int/topics/gender/workstreams/gender-action-plan  
+3 https://sustainabledevelopment.un.org/sdg13  
+Page 5 8  
+2015‒2016  drought  reduced  women’s  incomes  from  handcrafts  because  it 
+decreased the supply of necessary materials (pandanus, coconut, vines, etc.) and, 
+across RMI, increased the time and effort needed – and in some cases the cost – 
+to secure water and to perform other household tasks for their families.  
+179.  While women and different social groups have been disproportionally affected by 
+the  2015–2016  drought,  women’s  contribution  to  the  household  economy  is 
+substantial. Therefore, women will be a critical partner in recovery and resilience. 
+Post-disaster recovery resources must therefore strive to safeguard, restore and 
+promote the economic engagement and participation of disadvantaged groups. 
+Recovery  efforts  must  redress  gender  inequalities  or,  at  the  very  least,  not 
+perpetuate unequal access to power and resources. 
+180.  In early 2015, the RMI Government adopted its National Gender Mainstreaming 
+Policy.  The  Policy  guides  the  development  of  laws,  policies,  procedures  and 
+practices to address the needs, priorities and aspirations of all women and men 
+and to eliminate all forms of discrimination and inequality. The priority areas of 
+the policy are: strengthening capacity across Government to integrate gender 
+equality  into  Government  services  and  programs;  family  well-being  and 
+eliminating gender-based violence and protecting and caring for survivors; and 
+improving  women’s  economic  empowerment  and  participation  in  decision-
+making. The policy also identifies vulnerable groups of women including those 
+living in the outer islands (rural areas) and those with disabilities. 
+181.  Going  forward,  key  recommendations  arising  from  the  GAP  should  be 
+incorporated, as appropriate, into existing and future RMI policies to implement 
+this 2050 Strategy. Human rights obligations should be similarly mainstreamed 
+and safeguarded. 
+182.  Reliable data in relation to gender issues is a major deficiency. A strategy needs to 
+be put in place to address this, including identifying data needs. Sex disaggregated 
+data  needs  to  be  collected  to  improve  the  monitoring  of  the  impact  and 
+effectiveness of climate change initiatives and policies. 
+183.  Women, men, and youth should be included and engaged as valuable stakeholders 
+in identifying and addressing the climate change concerns of their communities, 
+and  share  knowledge  for  responses  to  ensure  their  strengthened  resilience. 
+Further support should also be commissioned from gender organizations in RMI, 
+as well as gender and human rights experts in advocacy, engagement and capacity 
+building, and for enhancing gender in sector-specific elements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 9  
+Potential Measures and Next Steps 
+ 
+Issue  Suggested Next Steps 
+Gender equality and human    Conduct legislative review  
+rights are mainstreamed and    Increase representation of women in national and local climate change decision-
+safeguarded in RMI’s existing  making and implementation 
+and new climate and 
+  Increase representation of women in global decision-making processes and related 
+development policies, 
+events 
+strategies, laws, and 
+  Include references to gender and human rights in all Government documents 
+activities 
+related to climate change 
+Gender analysis is 
+incorporated in strategic    Gender analysis made mandatory 
+planning, programming, and 
+  Conduct gender analysis for new and ongoing initiatives  
+implementation of climate 
+ 
+change initiatives 
+Marshallese young women 
+are empowered to respond 
+to climate change and    Training developed with traditional weaving as basis for understanding 
+disasters, including through 
+  Train young women in climate change and disaster risk management 
+training programs rooted in 
+traditional skills 
+ Figure 22: Gender & human rights potential measures and next steps 
+ 
+   
+Page 6 0  
+Section 7 – Health  
+ 
+Headline Recommendations 
+ 
+  Include  health  considerations  as  part  of  RMI’s  forthcoming  National 
+Adaptation Plan. 
+ 
+ 
+Summary 
+184.  Climate change will exacerbate many current climate-sensitive health issues and 
+threatens  the  ability  of  health  institutions  and  organizations  to  maintain  and 
+improve health services into the future. This is expected to be particularly true in 
+low-income  countries  and  Small  Island  Developing  States,  who  are  especially 
+vulnerable to the effects of climate change. In particular, climate change will 
+disproportionately affect vulnerable groups, including the poor, children, elderly 
+and those with pre-existing medical conditions.  
+185.  The World Health Organization (WHO)4 predicts that the effects of climate change, 
+including storms and flooding, rising sea levels, higher freshwater temperatures, 
+reduced  availability  of  food  and  drinking  water,  will  translate  into  increased 
+mortality  and  morbidity  from  extreme  weather  events  and  climate-sensitive 
+diseases, such as malaria, dengue and cholera. The Paris Agreement specifically 
+mentioned the right to health. 
+186.  As such it is critical that RMI takes steps to increase the adaptive capacity and 
+resilience of its health system. The most effective health adaptation strategies 
+take into account that contextual factors as adaptation needs are often highly 
+localized. RMI should undertake measures to identify and assess the greatest 
+health risks and shortcomings in RMI’s current health system in order to develop 
+effective strategies for minimizing the anticipated effects of climate change on 
+health outcomes.  
+187.  It is therefore recommended that health is clearly considered and included as part 
+of RMI’s future NAP. As a starting point studies should be undertaken to develop a 
+better  understanding  of  climate-related  health  impacts  in  RMI,  including  on 
+vulnerable groups. 
+ 
+ 
+ 
+                                                 
+4
+http://apps.who.int/iris/bitstream/handle/10665/176009/9789241564953_eng.pdf;jsessionid=9205E550AD8
+CAC3D30396D2A0AC66CAF?sequence=1  
+Page 6 1  
+Potential Measures and Next Steps 
+ 
+Area  Activity  
+Health    Relevant studies should be initiated to better identify potential health impacts from 
+climate change in RMI and used inform the process of developing the NAP. 
+ Figure 23: Health potential measures and next steps 
+ 
+   
+Page 6 2  
+Section 8 – Education, Training & Public Awareness 
+ 
+Headline Recommendations 
+ 
+  Include education, training & public awareness considerations as part of 
+RMI’s forthcoming National Adaptation Plan. 
+ 
+ 
+Summary 
+188.  The  global  community  has  recognized  that  education  plays  a  key  role  in 
+responding to climate change. The Paris Agreement specifically acknowledges the 
+importance of  “education, training, public  awareness, public  participation  and 
+public access to information” (Article 12) in the fight against climate change.  
+189.  UNESCO5 has developed the following five recommendations for policy-makers on 
+how climate change education (CCE) and education for sustainable development 
+(ESD) can be integrated at the national level:  
+  Policy  development:  ESD  is  an  interdisciplinary,  cross-sectoral  approach, 
+which aims to prepare people for change by equipping them with a broad 
+base  of  knowledge,  skills,  dispositions  and  values.  Governments  need  to 
+integrate ESD and CCE into all levels and types of education and across the 
+curriculum. 
+  Governance and resources: Integrating CCE and ESD into national systems 
+requires  high-level  support  from  the  Government,  with  cross-sectoral 
+coordination and harmonization. CCE and ESD programs were found to be 
+more successful when a national coordination structure was clearly defined. 
+  Curriculum development:  Ministries of  Education  and  education  planners 
+should review, develop and strengthen their curricula to ensure that CCE and 
+ESD feature at all levels of the education system. This will entail creating new 
+work units for teachers, and developing new pedagogical approaches with 
+greater  emphasis  on  critical  thinking  and  problem-solving  skills.  New 
+curricula should be flexible enough to be adaptable to local contexts.  
+  Capacity-building of teachers and education planners: Teachers and non-
+teaching  staff  need  to  understand  climate  change,  and  have  sufficient, 
+locally-adapted materials for classroom use.  
+  Public  awareness,  communication  and  stakeholder  involvement: 
+Governments should support non-formal education opportunities provided 
+                                                 
+5 http://unesdoc.unesco.org/images/0023/002330/233083e.pdf  
+ 
+Page 6 3  
+by communities, civil society and the media, all of which play an important 
+role  in  conveying  information  about  climate  change  mitigation  and 
+adaptation.  
+190.  It is recommended that education considerations in the broadest sense are clearly 
+considered and included as part of RMI’s future NAP. As a starting point studies 
+should  be  undertaken  to  develop  a  better  understanding  of  climate-related 
+education issues and needs in RMI, including among vulnerable groups. 
+ 
+ 
+Potential Measures and Next Steps
+ 
+ 
+Area  Activity  
+Education, Training & Public    Relevant studies should be initiated to better understand the specific climate 
+Awareness 
+education needs in RMI and to inform the process of developing the NAP. 
+ Figure 24: Health potential measures and next steps 
+ 
+ 
+   
+Page 6 4  
+Section 9 – Approach & Future Perspectives 
+ 
+Headline Recommendations 
+ 
+  Review and update, as necessary, this 2050 Strategy as a minimum every 
+five years – including to recommend targets for inclusion in future NDCs – 
+at least one year before RMI submits future NDCs pursuant to the Paris 
+Agreement; 
+  Collect comments on this first 2050 Strategy from stakeholders – including 
+Government, private sector, donors, members of the public  – and use 
+them to inform implementation and subsequent updates; 
+  Design and implement a domestic process to oversee future reviews and 
+revisions of this 2050 Strategy and to monitor its implementation. The TTE 
+Committee (or another body) should have a future role in:  
+  monitoring the alignment and consistency of relevant legislation, 
+policies and measures with the 2050 Strategy; 
+  overseeing  the  update  of  the  2050  Strategy  every  five  years  – 
+including the goals it contains; 
+  monitoring progress towards achievement of RMI’s NDC; and 
+  recommending the targets and goals of future RMI NDCs. 
+  Ensure due diligence is fulfilled before making significant investments to 
+implement this 2050 Strategy, including, as appropriate, peer review, third 
+party review and an open and transparent procurement process.  
+ 
+ 
+A Dynamic 2050 Strategy 
+191.  In producing this 2050 Strategy, a strong feeling prevailed among stakeholders 
+that existing RMI legislation, measures and policies should be built upon and 
+inefficient duplication and replication should be avoided. 
+192.  At the same time, this 2050 Strategy should serve as a useful tool in setting the 
+context for, and influencing, relevant near, medium and long-term planning and 
+decision-making at all levels of stakeholders. As such, the purpose of this 2050 
+Strategy  is  to  enable  relevant  RMI  decision-makers  to  make  well-informed 
+decisions  based  on  the  full  national  context  and  not  only  on  economic 
+considerations. 
+193.  The importance of this 2050 Strategy being treated as a dynamic document has 
+been strongly emphasized by all categories of stakeholders, who were also of the 
+view that it should be improved and refined over time.  
+Page 6 5  
+194.  A key recommendation is that in order to provide an effective context for policy 
+making and planning this 2050 Strategy is reviewed and updated, as necessary, 
+as at least every five years, including to identify and consider new and relevant 
+technologies and policy options. More immediately, once the key outcomes and 
+recommendations from the 2nd National Climate Dialogue and the Partnership 
+Dialogue  have  been  identified,  they  should  be  collected  and  used  in  the 
+implementation and in future updates of this 2050 Strategy. Other comments 
+received in future from stakeholders of all levels – including Government, private 
+sector, donors, members of the public – should be similarly collected and used.  
+195.  In that sense the 2050 Strategy should be treated as a living document. As such it 
+will be critical that the key findings of this 2050 Strategy are disseminated and 
+feedback sought. 
+196.  Furthermore, updates to this 2050 Strategy should recommend the targets for 
+future RMI NDCs one year in advance of the submission to the UNFCCC in line with 
+the  Paris  Agreement.  The  updating  process  should  include  stakeholder 
+consultation. 
+197.  When implementing this 2050 Strategy, in particular when considering short-term 
+measures, reference should also be made to RMI’s NDC Partnership Plan. 
+198.  A domestic process should be put in place to oversee future reviews and revisions 
+of this 2050 Strategy and to monitor its implementation. A critical role will be to 
+endure the five-year NDC updating process is undertaken in the context of RMI 
+working to deliver on its long-term vision. This overarching function could be 
+achieved through maintaining the TTE Committee or by another new or existing 
+body. The TTE Committee (or another body) should have a future role in: 
+  monitoring the alignment and consistency of relevant legislation, policies and 
+measures with the 2050 Strategy; 
+  overseeing the update of the 2050 Strategy every five years – including the 
+goals it contains; 
+  monitoring progress towards achievement of RMI’s current NDC; and 
+  recommending the targets and goals in future RMI NDCs. 
+199.  Consideration should be given to setting out the status and function of the TTE 
+Committee (or other body) in legislation, so as to give it independent standing, 
+insulate this 2050 Strategy from political changes, and ensure its longevity. Models 
+such as the United Kingdom Climate Change Act 2008 and its Climate Change 
+Committee6 should be considered if they offer useful precedents. In any event, the 
+UK’s standing offer to provide technical advice and insights into the functioning of 
+its Climate Change Act should be taken up. 
+200.  As an immediate suggestion, the Environment Minister could usefully report once 
+a year to the Nitijela on the state of implementation of the 2050 Strategy. This 
+could be done annually, on the day after the opening of the Nitijela in August, and 
+                                                 
+6 https://www.theccc.org.uk/tackling-climate-change/the-legal-landscape/the-climate-change-act/   
+Page 6 6  
+dedicated to the memory of Minister Mattlan Zackhras whose vision led to the 
+production of this 2050 Strategy and who passed away in August of 2017.  
+ 
+Due Diligence 
+201.  Decisions  in  the  short  term  have  the  potential  to  lock  RMI  into  a  particular 
+development pathway for many years to come. As such RMI should undertake full 
+due diligence before making any significant investment decisions related to the 
+implementation of this 2050 Strategy. Options could include, as appropriate, peer 
+review, third party review and open and transparent procurement processes. This 
+is  of  particular  importance  when  deciding  on  technological  options  for 
+implementation – there are examples of developing countries being sold outdated 
+technologies, obsolete or even outlawed in developed countries (e.g. for failing to 
+meet important environmental health standards). 
+   
+Page 6 7  
+Section 10 – Background to the RMI 2050 Strategy 
+ 
+Why Have a 2050 Strategy? 
+ 
+Benefits 
+202.  The RMI Cabinet, as well as members of the TTE Committee, have identified 
+several benefits to having a 2050 Strategy: 
+  A clear framework for RMI’s decision-making and to constantly anchor that in 
+a wider vision. Most importantly this 2050 Strategy will set out a long-term 
+context that will guard against short-term decision-making inconsistent with 
+achieving net zero emissions, including those often driven by donors, partners 
+and economic interests; 
+  Clarity for the Government and other stakeholders by holistically bringing key 
+information, policy and financial requirements together in one place. In turn, 
+this can help achieve better domestic coordination; 
+  Improved donor coordination. This 2050 Strategy will for the first time provide 
+a hierarchy of climate-related needs – and hopefully a discipline – so that 
+support can start to flow to where it is needed most, when it is needed most. 
+In  other  words,  financial  and  capacity  support  will  for  the  first  time  be 
+holistically aligned with our strategic national climate priorities; 
+  Delivery of benefits for Marshallese women, men and youth. By asking the 
+fundamental question of what kind of country RMI wants to be by 2050, RMI 
+will  become  less  reactionary  and  more  proactive  in  its  policy  process. 
+Furthermore,  by developing  and  implementing  this  2050  Strategy  through 
+consultative  processes  with  a  wide  range  of  stakeholders,  the  RMI 
+Government can ensure that the population supports RMI’s climate change 
+priorities,  and  has  a  role  in  setting  those  priorities.  In  turn  this  will  help 
+translate RMI’s international climate change leadership into tangible benefits 
+for Marshallese people on the ground through sustainable, climate resilient 
+development; and 
+  Maintaining RMI’s international climate leadership by walking the walk, not 
+just talking the talk. By taking the steps to produce RMI’s own 2050 Strategy, 
+RMI aims to press its international partners to do so as well, including by 
+sharing lessons learned. In turn this will support the wider global commitment 
+to limit temperature increase to well below 2°C, pursuing efforts to limit it to 
+the 1.5 °C cap needed for the survival of RMI.  
+ 
+Commitments under the Paris Agreement  
+203.  Having a 2050 Strategy also helps RMI deliver on its commitments under the Paris 
+Agreement.  As  the  Agreement  states,  Parties  aim  to  “strengthen  the  global 
+Page 6 8  
+response  to  the  threat  of  climate  change,  in  the  context  of  sustainable 
+development and efforts to eradicate poverty, including by: 
+(a) Holding the increase in the global average temperature to well below 
+2°C  above  pre-industrial  levels  and  pursuing  efforts  to  limit  the 
+temperature increase to 1.5 °C above pre-industrial levels, recognizing 
+that this would significantly reduce the risks and  impacts of climate 
+change; 
+(b) Increasing the ability to adapt to the adverse impacts of climate 
+change and foster climate resilience and low greenhouse gas emissions 
+development, in a manner that does not threaten food production; and 
+(c)  Making  finance  flows  consistent  with  a  pathway  towards  low 
+greenhouse gas emissions and climate-resilient development”. (Article 
+2(1)) 
+204.  The  Paris  Agreement  goes  on  to  invite  Parties  to  strive  to  formulate  and 
+communicate  long-term  low  greenhouse  gas  emission  development  strategies 
+(2050 Strategies) […](Article 4(19)). In accordance with this, at the Conference of 
+the Parties in Marrakesh (COP22), President Heine committed RMI to producing a 
+2050 Strategy7. 
+205.  The preamble of the Paris Agreement states that: 
+“Parties should when taking action to address climate change, respect, promote 
+and consider their respective obligations on human rights, the right to health, the 
+rights of indigenous peoples, local communities, migrants, children, persons with 
+disabilities and people in vulnerable situations and the right to development, as 
+well as gender equality, empowerment of women and intergenerational equity". 
+   
+                                                 
+7 https://thecvf.org/cvf-2016-forum-press-release/  
+Page 6 9  
+The Process that Led to This 2050 Strategy 
+ 
+Timeline & Process for Producing the RMI’s 2050 Strategy 
+206.  Timeline and process: 
+  21  August  2017  – skeleton  outline  of  the  Strategy  discussed  and 
+agreed by the Committee; 
+  22/23 August 2017 – RMI Cabinet endorses approach to developing 
+2050 Strategy;   
+  19-20 July 2018 – 2nd National Climate Dialogue; 
+  22-23 July 2018 – NDC Partnership Dialogue; 
+  July/August 2018 – revised draft 2050 Strategy; 
+  August  2018  –  presented  final  draft  of  Strategy  to  Cabinet  for 
+approval; 
+  Third quarter 2018 – published RMI’s final 2050 Strategy. 
+ 
+The TTE Committee  
+207.  The TTE Committee, comprising key stakeholders, was formed in order to oversee 
+the production  and  implementation of  RMI’s 2050  Strategy.  The  Government 
+energy planning division has served at the Secretariat to the Committee. 
+ 
+The 2nd RMI National Climate Dialogue Process & Partnership Dialogue 
+208.  The 2nd National Climate Dialogue was held on 19-20 July 2018.  
+209.  In order to support the delivery and implementation of the 2050 Strategy in the 
+future, a Partnership Dialogue took place on 22-23 July 2018. The Partnership 
+Dialogue engaged a range of key international stakeholders who will be crucial to 
+the realization of the goals of the 2050 Strategy, including through the production 
+of an NDC Partnership Plan.  
+210.  As recommended above, the outcomes of the Dialogues, as well as the NDC 
+Partnership  Plan  should  be  used  to  inform  the  implementation  of  this  2050 
+Strategy, as well as its future updates. 
+ 
+   
+Page 7 0  
+Section 11 – Methodologies, Baseline, Projections 
+ 
+11a – Greenhouse Gas Emissions 
+ 
+Methodology  
+211.  Data was collected on a variety of inputs which were then used to separately 
+calculate carbon dioxide (CO ) emissions, methane (CH ) emissions, and nitrous 
+2 4
+oxide (N O) emissions. Using the Intergovernmental Panel on Climate Change Fifth 
+2
+Assessment Report’s (IPCC AR5) 100-year global warming potentials, CH  and N O 
+4 2
+emissions  were  converted  to  CO -equivalent  emissions.  These  three  emission 
+2
+sources were then summed to arrive at a total of CO -equivalent emissions. Using 
+2
+2010  and  2015  data,  current  emissions  were  calculated  based  on  fuel 
+consumption multiplied by emissions factors. For these emission factors, EPA’s 
+2015 estimates were used. Overall, the same approach was followed as used in 
+Chapter  Two  of  the  RMI’s  Second  National  Communication  (August  2015) 
+regarding emissions that were, or were not, included using the improved data 
+collected since this document was published. In some cases, the original IPCC GHG 
+protocol equations were used to calculate emissions. 
+212.  Data collected to produce this 2050 Strategy included: population data, burning 
+and recycling rates, waste generation, copra production, fossil fuel consumption 
+(kerosene, liquefied petroleum gas, diesel, gasoline, etc.), cooking demand, fuel 
+efficiency, electricity system losses, electricity loads and consumption, levels of 
+current renewables penetration, renewable resources and performance, number 
+of vehicles driven, and vehicle miles per year. 
+213.  In addition to the Second National Communication, another point of reference 
+was the RMI’s NDC, which projects emissions reductions in 2025 and 2030 from a 
+baseline in 2010. This 2050 Strategy therefore also uses the baseline year of 2010. 
+The Second National Communication notably does not account for emissions from 
+the waste sector. In developing its NDC, RMI updated its emissions inventory to 
+include the waste sector. However, data collection for this sector is poor and 
+requires  revision  in  the  Third  National  Communication.  Similarly,  the  Second 
+National  Communication  disregarded  incineration  or  burning  emissions.  More 
+recent 2017 studies show that burning is prevalent in RMI, so this source of 
+emissions was included in the emissions inventory used to develop the 2050 
+Strategy.  
+214.  The 2010 baseline emissions estimate relies on an extrapolation of a bottom-up 
+calculation that accounts for 80% of RMI’s population. The revised estimate of 
+168,000 metric tons (Mtons) is aligned with estimates made by the RMI Electricity 
+Roadmap and is in close agreement to the 170,000 Mtons estimate made in the 
+Second National Communication. 
+Page 7 1  
+RMI Greenhouse Gas Scenario - NDC 
+200,000
+ 
+ 
+sn )  180,000
+t
+o n
+is el 160,000 Electricity Transport
+s a
+i v Waste Other
+m i
+u 140,000
+E q
+  E
+sa O-2 120,000
+G
+C
+ e  , 100,000
+s
+s n
+u o 80,000
+o T
+h  c
+n ir 60,000
+e t
+e
+e M
+r 40,000
+G (
+20,000
+0
+2010 2015 2020 2025 2030 2035 2040 2045 2050
+Figure 25: RMI’s Greenhouse Gas Scenario – NDC 
+ 
+215.  RMI produced its NDC in 2015. The key provisions of the NDC state that: 
+  RMI  commits  to  a  quantified  economy-wide  target  to  reduce  its 
+emissions of GHG to 32% below 2010 levels by 2025; 
+  RMI communicates, as an indicative target, its intention to reduce its 
+emissions of GHGs to 45% below 2010 levels by 2030; 
+  These targets put RMI on a trajectory to nearly halve GHG emissions 
+between  2010  and  2030,  with  a  view  to  achieving  net  zero  GHG 
+emissions by 2050, or earlier if possible.  
+216.  The  NDC  also  contains  sections  in  relation  to  adaptation  and  means  of 
+implementation. 
+217.  Since RMI seeks to significantly reduce its emissions and explore pathways to zero 
+emissions  by  2050  goal,  the  Moderate  Scenario  is  not  a  “business  as  usual” 
+scenario, but rather assumes significant renewables penetration and efficiency 
+improvements. The Lighthouse Scenario assumes maximal effort, implemented 
+rapidly,  whereas  the  Significant  Scenario  assumes  the  same  actions  as  the 
+Lighthouse Scenario delayed by 15 years due to presumed lack of funds.  
+218.  The quantitative analysis and scenarios on which the 2050 Strategy is based is 
+focused on Majuro and Ebeye because they are the main population centers and 
+because relevant environmental data is most readily available in these cities. From 
+this base, assumptions and recommendations can be extended to other parts of 
+RMI.  
+219.  The specifics of the choices and assumptions made in relation to the scenarios, 
+pathways or measures set out in this 2050 Strategy may likely change in the 
+Page 7 2  
+future,  as  technology  improvements,  costs,  local  preferences  and  market 
+acceptance, as well as financial constraints, all change over time. As a next step, 
+further  feasibility  studies  and/or  pilot  projects  are  recommended  in  order  to 
+validate  and  verify  that  these  pathways  are  feasible  in  RMI.  On  this  basis, 
+assumptions made should be modified and the model improved in the future. 
+ 
+11b – Adaptation, Environmental Information  
+& Means of Implementation 
+ 
+220.  The  analysis  underpinning  the  parts  of  this  2050  Strategy  unrelated  to  GHG 
+emissions reductions – including on adaptation, environmental information and 
+means of implementation - was based on data collected through interviews with 
+key RMI stakeholders as well as desktop reviews of relevant materials. 
+ 
+   
+Page 7 3  
+Section 12 – Acronyms 
+Addressing Climate Vulnerability in the Water 
+ACWA  MCG  Millennium Consumption Goals 
+Sector Project 
+CAFE  Corporate Average Fuel Economy  MEC  Marshall Energy Company 
+CBIT  Capacity Building Initiative on Transparency  MRV  Measurement, Reporting and Verification 
+CESC  Clean Energy Solutions Center  MTC  Ministry of Transport and Communication 
+CH   Methane  Mtons  Metric tons 
+4
+CO   Carbon Dioxide  MW  Megawatts 
+2
+COP22  Conference of the Parties in Marrakesh  N O  Nitrous Oxide 
+2
+CVF  Climate Vulnerable Forum  NAP  National Adaptation Plan 
+Division of International Development 
+DIDA  NDC  Nationally Determined Contribution 
+Assistance 
+National Oceanic and Atmospheric 
+EPA  Environmental Protection Agency  NOAA 
+Administration 
+Office of Environmental Planning and 
+EPD  Energy Planning Division  OEPPC 
+Policy Coordination 
+EPSO  European Plant Science Organization  OTEC  Ocean Thermal Energy Conversion 
+EU  European Union  PPA  Power Purchase Agreement 
+Second Phase of the Pacific Resilience 
+GAP  Gender Action Plan  PREP II  
+Project 
+GDP  Gross Domestic Product  RMI  Republic of the Marshall Islands 
+GHG  Greenhouse Gas  SCADA  Supervisory Control and Data Acquisition 
+Deutsche Gesellschaft für Internationale 
+GIZ  SIDS  Small Island Developing State 
+Zusammenarbeit 
+South Pacific Regional Environment 
+IMO  International Maritime Organization  SPREP 
+Program 
+IPCC AR5 
+Intergovernmental Panel on Climate Change 
+UNDP  United Nations Development Program 
+  Fifth Assessment Report 
+Page 7 4  
+United Nations Framework Convention on 
+IPCC  Intergovernmental Panel on Climate Change  UNFCCC 
+Climate Change 
+IRENA  International Renewable Energy Agency  US  United States 
+Joint National Action Plan on climate change 
+JNAP  USP  University of the South Pacific 
+adaptation and disaster risk management 
+KAJUR  Kwajalein Atoll Joint Utility Resources  VMT  Vehicle Miles Travelled 
+LPG  Liquefied Petroleum Gas  WTE  Waste-to-Energy 
+MAWC  Majuro Atoll Waste Company     
+   
+Page 7 5  
+Section 13 – Acknowledgments 
+ 
+221.  The Committee would like to acknowledge the help and contributions of the 
+following to the production of this 2050 Strategy: 
+  All the members of the TTE Committee; 
+  Independent Diplomat; 
+  Meister Consultants Group, Clean Energy Solutions Center (CESC) who 
+did much of the technical analysis and modeling underpinning this 2050 
+Strategy; 
+  The 2050 Pathways Platform; 
+  The NDC Partnership Support Unit. 
+ 
+ 
+Page 7 6 

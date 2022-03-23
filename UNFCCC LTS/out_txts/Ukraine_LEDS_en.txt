@@ -1,0 +1,2165 @@
+UKRAINE 2050
+LOW EMISSION
+DEVELOPMENT
+STRATEGY 
+KYIV, November 2017CONTENTS 
+LIST OF ABBREVIATIONS 4
+SUMMARY  6
+1. Strategic vision of low carbon future for Ukraine 14
+1.1. Problems and challenges of Ukraine's sustainable development  15
+1.2. Goals and objectives of Ukraine's low emission development strategy 15
+2. PRECONDITIONS OF TRANSITION TOWARDS LOW CARBON DEVELOPMENT 17
+2.1. Climate change combatting advantages 18
+2.2. Greenhouse gas emissions 19
+2.3. Vulnerability to climate change 22
+2.4. International cooperation 23
+3. LEGISLATIVE AND INSTITUTIONAL FRAMEWORK 25
+4. DE-CARBONIZATION OF UKRAINE'S ENERGY SECTOR 33
+4.1.Energy de-carbonization policy and measures 36
+4.1.1. Energy efﬁciency   37
+4.1.2. Renewable energy 40
+4.1.3. Modernization and innovation 44
+4.1.4. Transformation of market and insitutions   48
+4.2.Model assessments of social and economic outcomes 53
+5. REDUCING NON CO2 EMISSIONS 55
+5.1. Reducing leaks in fossil fuel extraction,
+processing transportation and storage 56
+5.2. Improvement of waste treatment 57
+5.3. Agriculture 58
+6. CARBON SINK BY LAND USE, LAND USE CHANGE AND FORESTRY SECTOR  61
+6.1. Land use and forestry sector and its contrinution to GHG balance
+господарства України і його внесок у баланс ПГ 62
+6.2. Low carbon policies and measures in land use and forestry 
+розвитку землекористування і лісового господарства 64
+6.3. Projections of GHG absorption dynamics under different scenarios
+of Ukraine's foresttry sector development 66
+REFERENCES 71
+2233LIST OF 
+ABBREVIATIONS 
+NPP nuclear power plant 
+GDP gross domestic product  
+RES renewable energy sources 
+LULUCF land use, land use changes and forestry  
+Catalogue  Catalogue of directions and policies and LEDS measures 
+IAC inter- agency commission on implementation
+of United Nations Framework Convention on Climate Change  
+IPCC Intergovernmental Panel on Climate Change  
+IEA International energy agency  
+OR oil reﬁnery 
+OECD Organization for Economic Cooperation and Development 
+GHG  Greenhouse Gases 
+VAT Value Added Tax  
+PPP Purchasing Power Parity  
+UNFCCC United Nations Framework Convention on Climate Change 
+LEDS Low Emissions Development Strategy 
+CPP co-generation power plant  
+DSW domestic solid wastes  
+FAO  United Nations Food and Agriculture Organization 
+44SUMMARY 
+Low emission development strategy (hereafter – LEDS) determines national stakeholders 
+agreed vision on decoupling further economic and social growth of the State and its social 
+development from the growth in greenhouse gases emissions (hereafter – GHG).
+LEDS development has become Ukraine's ﬁrst experience in synergy approach application, as 
+climate change problem solution requires signiﬁcant advances in the key sectors of economy 
+and main components to human livelihood.  
+On the one hand, LEDS is based upon the national priorities for sustainable development and 
+current sectoral strategies, while, on the other, it determines a potential pathway for 
+economic development with due account of the goals for the state policy on emission 
+reduction and GHG absorption. 
+At the national level, the LEDS is an instrument for public administration and shaping of 
+climate responsible behavior of both businesses and citizens, while at the international level, 
+it supports a global target on stabilization of GHG concentration in accordance to the 
+scenario of global average temperature increase conﬁnement to well below 2°С of pre-
+industrial level. 
+Existence of LEDS is the basis   for development and implementation of economic 
+instruments used to support Ukraine's transition to low emission development, attraction of 
+innovation technologies and international ﬁnancial resources.
+LEDS is made of six sections.
+64FIRST SECTION «Strategic vision of low emission future for Ukraine» brieﬂy describes 
+the problems in Ukraine's economic development and approaches to solve them, as 
+well as the LEDS's goal and objectives.
+The LEDS goal is to determine strategic directions for Ukraine's economy sustainable develop-
+ment based on national priorities accordant transition to low emission growth trajectory. 
+Strategy objectives: 
+Objective I. Transition to energy system which envisions the use of energy sources with low 
+carbon content, development of the sources of clean electricity and heat energy, increase in 
+energy efﬁciency and energy saving in all sectors of economy and housing and utilities 
+infrastructure facilities, stimulation of the use of alternative to oil motor fuels and transition of 
+cargo and passenger carrying operations to more environmentally clean types of transport. 
+Objective IІ. Increase in the volumes of carbon absorption and uptake with the help of best 
+climate change mitigation practices in agriculture and forestry. 
+Objective IІІ.  Reduction in GHG emissions such as methane gas and nitrogen oxide predomi-
+nantly associated with fossil fuel production, agriculture and waste.
+LEDS focuses on policies and measures which will be gradually implemented up to the mid of 
+the current century СНВР, and envisions their periodical review and adjustment. 
+SECOND SECTION «Prerequisites to low carbon development» includes information on:
+Conclusions of IPCC - Intergovernmental Panel on Climate Change (hereafter IPCC), which 
+justify the need in GHG reduction in order to maintain such status of climate system which 
+will preclude growing in the risks for health and wellbeing of people and environment.
+Main goals of Paris Agreement, which aims to strengthen the global response to the 
+threat of climate change, in the context of sustainable development and efforts to eradicate 
+poverty, and the expected outcomes for Ukraine from this Agreement implementation.
+Dynamics in Ukraine's GHG emission for the period 1990 – 2015, including explanations of 
+the speciﬁc features in their observed trajectory, as well as the main factors underpinning 
+them. In particular, the GHG emissions in 2015 amounted to 323.36 million tons of CO -
+2
+equivalent, with the exception of sector «land use, changes in land use and forestry » 
+(hereafter - LULUCF), which is by 66.4% lower than in the base 1990 year. If the LULUCF is 
+included, the emissions in 2015 amounted to 308.64 million tons of CO2-equivalent, which is 
+by 66.1% less compared to base year. 
+Dynamics in Ukraine's average annual temperature deviations from climate normal over 
+the period from 1961 – 2015, list of climate change impacts and substantial consequences. 
+7Ukraine's international cooperation and participation in climate change mitigation effort.
+THIRD SECTION «Legislative and institutional foundations, » describes legislative 
+framework supporting low emission development, speciﬁcally:
+Fundamental legislative acts on sustainable development, Ukraine EU Association, 
+ratiﬁcation of Paris Agreement, Concept for the State Environmental Policy Implementation.
+Acts issued by the Cabinet of Ministers of Ukraine pertaining to the State policy on 
+climate change.
+Energy Laws and Acts of the Cabinet of Ministers of Ukraine.
+Renewable energy and Energy Saving Laws and Acts of the Cabinet of Ministers of 
+Ukraine. 
+Laws and Acts of the Cabinet of Ministers of Ukraine, draft strategies for development of 
+different climate related industries in Ukraine's economy.   
+Central Executive Body authorized to form and implement the State policy on climate Change is 
+the Ministry for Ecology and Natural Resources of Ukraine. Inter-agency Commission on 
+implementation of the United Nations Framework Convention on Climate Change (hereafter 
+UNFCCC) is an advisory body for coordination of activities on different climate change related 
+aspects.  
+FOURTH SECTION «Decarbonization of Energy in Ukraine» makes the key section of LEDS 
+as the energy sector's share in total emissions of GHG amounts to 65%, and if taken 
+together with GHG generated by the “Industrial processes sector,” the share totals at 82%. 
+According to 2015 data, carbon intensity of Ukraine's GDP is 1.9 times higher than the global 
+ﬁgure,   2.4 times higher than that of the OECD countries and 3.3 higher than that of 28 EU 
+member states. Over 1990-2015 the GDP's carbon intensity was going down, yet, under the 
+current economic policy the pace of such reduction is not sufﬁcient.
+According to Baseline (business as usual) scenario, which envisions that the characteristics for 
+most of technologies that households apply in their use and consumption of energy resources  
+and  those  applied  throughout  all  the  stages  of  goods  and  services  production  remain 
+unchanged up to 2050,  projections of GHG emissions  in «Energy» and «Industrial processes»  
+are the following:
+2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Emissions, million tons
+367 265 347 408 455 500 540 570 592
+of СО -equivalent
+2
+Share of 1990 level, % 44 31 41 48 54 59 64 68 70
+* data of the National Cadaster of anthropogenic emissions from sources and absorption
+of greenhouse gases by absorbers in Ukraine over 1990-2015. 
+8In order to measure reduction in GHG emissions, identiﬁed and factored in were the policies 
+and measures on de-carbonization of Ukraine's energy sector grouped by functional and 
+sector principle. Of which, single out were those aiming at the energy sector de-
+carbonization. 
+ 
+I. Energy efﬁciency  
+Projections of GHG emissions in «Energy» and «Industrial processes» sectors under 
+«Energy efﬁciency» scenario.
+Scenario  Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million.
+tons of
+367 265 294 335 344 363 406 429 448
+СО
+Scenario 2
+-equivalent 
+«Energy efﬁciency»
+%
+of 1990 44 31 35 40 41 43 48 51 53
+level  
+Group of policies and measures in energy efﬁciency includes the following:
+1 Increase of energy efﬁciency in the buildings;
+2 Promotion of private and public ﬁnancing of measures aiming at increase in energy 
+efﬁciency;
+3 Speciﬁc measures aimed at increase in energy efﬁciency in the use of electricity and 
+heat energy and/or types of fuel in all sectors of Ukraine's economy;
+4 Incentives to use energy efﬁcient technologies in agroindustry;
+5 Incentives to use energy efﬁcient measures in the industry.
+II. Renewable energy 
+Projections of GHG emissions in «Energy» and «Industrial processes» sectors under 
+«Energy efﬁciency and renewable energy» scenario.
+Scenario  Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million.
+tons of
+Scenario СО 367 265 282 315 312 291 299 288 278
+2
+-equivalent 
+«Energy efﬁciency
+%
+and renewable energy» 
+of 1990 44 31 33 37 37 34 35 34 33
+level  
+Group of policies and measures in renewable energy includes the following:
+1 Increase in output and consumption of electricity produced from renewable sources;
+2 Environmentally sustainable production and extension  in the use of biomass 
+(biofuel);
+3 Production of biogas and extension in its use for heat energy and electricity 
+production;
+4 Development of Ukraine's sectors international integration in the sphere of 
+renewable energy.
+94III. Modernization and innovation  
+Projections of GHG emissions in «Energy» and «Industrial processes» sectors under 
+«Energy efﬁciency, renewable energy, modernization and innovation» scenario.
+Scenario  Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million.
+Scenario tons of
+«Energy efﬁciency, СО 367 265 265 361 244 242 274 284 285
+2
+-equivalent 
+renewable energy,
+modernization %
+of 1990 44 31 31 31 29 29 32 34 34
+and innovation» 
+level  
+The highest reduction in GHG emissions level will be attained by 2035, after that, the GHG 
+emissions may show insigniﬁcant growth. Under this scenario, the share of GHG emissions shall 
+amount to 34% of 1990 level, which is by one percentage point higher compared to the above 
+presented scenario. Under the «Energy efﬁciency, renewable energy scenario» which does not 
+include modernization and innovations,  higher share of renewable energy sources was needed 
+in the structure  of energy resources production and consumption in the sphere of traditional 
+generation, in particular. 
+Group of policies and measures in the sphere of modernization and innovation includes 
+the following:
+1 Increase in power plant operations;
+2 Nuclear energy development;  
+3 Modernization and intellectualization  of power grids;
+4 Modernization of transport sector;
+5 Development of highly efﬁcient cogeneration at local and regional level;
+6 Support to energy accumulation technologies implementation;
+7 Development of hydrogen generation.
+140IV. Transformation of market and institutions  
+Projections of GHG emissions in «Energy» and «Industrial processes» sectors under 
+scenario «Energy efﬁciency, renewable energy, modernization and innovation, 
+transformation of market and institutions»
+Scenario  Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Scenario Million.
+tons of
+«Energy efﬁciency, СО 367 265 265 259 242 236 264 265 261
+renewable energy, -equiva2lent 
+modernization
+and innovation,
+%
+transformation of market of 1990 44 31 31 31 29 28 31 31 31
+and institutions» level  
+Group of policies and measures in the sphere of transformation of market and 
+institutions includes:
+1 Introduction of market mechanisms enabling  reduction in GHG emissions;
+2 Support to research and development  and design and engineering works;
+Promotion of more active engagement of communities into climate related policies 
+3
+and measures; 
+4 Disclosure of information on GHG emissions and absorption at the enterprise level;
+5 Application of energy efﬁciency criteria in the state procurement  process;
+6 Training and upgrading the skills of  professionals;
+7 Enhancement of the program for  public awareness of climate change consequences, 
+climate change prevention and adaptation to climate change;
+8 Enhancement of requirements to ecodesign and labelling of energy related products;
+9 Improvement of the organization of labor relations to stimulate, where possible, the 
+use of remote working arrangements.
+Modelling results show that in 2050 the GHG emissions in «Energy» and «Industrial processes» 
+sectors (according to IPCC classiﬁcation) may be reduced to the level of 31-34% of 1990, or to 
+260-285 million t of СО2-equivalent, given that a wide set of low carbon policies and measures 
+for low emission development of Ukraine are implemented,, which, in its turn, will lead to posi-
+tive social and economic outcomes,  in particular, additional growth in GDP and real households 
+income. 
+FIFTH SECTION «Reduction of GHG other than CO2» describes policies and measures in 
+three areas of activities, aimed at reduction of methane and nitrogen emissions, speciﬁ-
+cally:
+I. Reduction in the leaks in the process of extraction, processing, transportation and 
+storage of fossil fuels includes the following policies and measures: 
+1 Reduction  of leaks in gas sector;
+2 Reduction in leaks  in the process of oil extraction, transportation and processing;
+3 Removal, use and recycling of coalmine methane from underground coalmines.
+141II. Improvement of waste treatment includes the following policies and measures:
+1 Reduction in the amounts of waste and prevention of waste generation;
+2 Conducting social advertising campaign aimed at reduction of domestic waste 
+generation; 
+3 Improvement of methods applied to waste treatment, promotion the repeated use 
+and secondary recycling of waste; 
+4 Improvement of wastewater treatment.
+III. Activities in agriculture include the following policies and measures:
+1 Improvement of the treatment process of animal origin byproducts;
+2 Optimization of agricultural crops fertilization systems.
+SIXTH SECTION «Absorption of carbon and reduction in GHG emissions in the land use 
+sector, change in the land use and forestry» describes the sector and its contribution to 
+the balance of GHG emissions and absorption.
+List of policies and measures in the LULUCF includes the following:
+Optimization of land use structure, extension of space covered with forests, wood 
+1
+lines and  green planting under enhanced interagency coordination;
+2 Betterment of business practices in the sector using the climate smart  methods  in 
+agriculture and forestry;
+3 Development and implementation of national program for forestry development 
+using the  best international experience in this ﬁeld;
+4 Fostering replacement of energy intense produce (such items made of metal, 
+concrete, plastic etc.) with produce made of wood, grown under sustained 
+(balanced) yield forest management.
+Projections of GHG absorption by Ukrainian forests under different scenarios:
+Scenario  Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million.
+tons of
+СО 60 56,4 55,3 52,8 50,3 48,8 47,4 45,9 44,4
+«Business as usual» -equiva2lent 
+(no change scenario) 
+%
+of 1990 95 89 87 83 79 77 75 72 70
+level  
+Million.
+tons of
+60,0 57,6 56,4 54,6 52,8 52,2 51,6 51,0 50,4
+СО
+2
+«Forward looking» -equivalent 
+Scenario
+%
+of 1990 95 91 89 86 83 82 81 80 79
+level  
+Million.
+tons of
+«Forward looking 60 57,6 57,0 55,6 54,3 54,1 54,1 54,0 53,9
+СО
+2
+with optimum -equivalent 
+forest cover»
+%
+Scenario of 1990 95 91 90 88 86 85 85 85 85
+level  
+12Due to speciﬁc features in the age structure of Ukraine's forests, it is expected that moving 
+forward their absorption capacity will gradually decrease because of a declining growth in 
+phytomass attributable to forest stands' natural aging processes. 
+Yet, if Ukraine's forest cover increase up to 19.4 % and progressive management solutions are 
+implemented, in 2050 the volumes of GHG absorption by the forests will amount to 85% of 
+1990 level. Given appropriate implementation of other policies and measures in the LULUCF 
+sector, the GHG emissions and absorption balance will reach 1990 level.   
+Being committed to achieving Paris Agreement goals and being guided by 
+national priorities, Ukraine will ensure doing its best to achieve the indicative 
+GHG emissions target of 31-34% by 2050, compare to 1990 level. This target is 
+ambitious and fair in the context of Ukraine’s participation in the global 
+i response to the climate change threat. 
+Long term strategic planning is an iterative process; hence, this document 
+should not be treated as ﬁnal. Ukraine is planning to review its strategy at 
+least every ﬁve years in order to measure its progress, and to increase the level 
+of its ambitions in accordance to national circumstances.
+143STRATEGIC VISION 
+OF LOW CARBON 
+FUTURE FOR 
+UKRAINE  
+1
+114451.1.  Problems and challenges of Ukraine's sustainable development 
+Transition of Ukraine's economy to low carbon trajectory is an important component to 
+Government policy aimed to ensure its sustainable development, speciﬁcally, in the context of 
+2030 Global sustainable development goals.
+Following the signing of the Association Agreement between Ukraine as one Party, and 
+European Union, European  Atomic Energy Community, and their member states, as the other 
+Party  (hereafter  - EU Association Agreement) enhancement of competitiveness has been the 
+main challenge for Ukraine's economic development. Main directions to resolve this problem 
+include establishment of more favorable investment climate, stimulation of innovations, mod-
+ernization of ﬁxed production assets, and creation of high technology jobs, raising the labor and 
+production efﬁciency, and implementation of structural and institutional reforms. 
+Innovation-investment development model should become the foundation for extended social 
+restoration, where the increase in the volumes of output produced and increase in its competi-
+tiveness are achieved not by means of additional use of resources, but mainly through intensive 
+production factors, active use of new knowledge and materialized outcome of such knowledge. 
+Added to this is the fact that negative trends that are observed in production sphere and include 
+aging of ﬁxed assets, technological equipment, and loss of the most skilled staff etc, make it 
+more difﬁcult for Ukraine's economy to get out of systemic crises. Therefore, resolute transition 
+to innovation development model is the only solution to the crisis.
+Ukraine needs high pace of GDP growth to overcome poverty and impoverishment of citizens, 
+yet, it should be underscored, that  a new development model should be  – «green» restoration, 
+«green» growth, «green» development,   which is based on the inﬂow of investments into 
+renewable sources of energy, environmentally safe production, and «green»  technologies.
+1.2.  Goals and objectives of Ukraine's low emission development strategy.
+The LEDS goal is to determine strategic directions for Ukraine's economy sustainable develop-
+ment based on the national priorities accordant transition to low emission growth trajectory. 
+Strategic vision of low carbon future is reﬂected in the LEDS objectives:
+Objective I. Transition to energy system which envisions the use of energy sources with low 
+carbon content, development of the sources of clean electricity and heat energy, increase in 
+energy efﬁciency and energy saving in all sectors of economy and at housing and utilities 
+infrastructure facilities, stimulation the use of alternative to oil motor fuels and transition of 
+cargo and passenger carrying operations to more environmentally clean types of transport. 
+De-carbonization of energy system shall bring about structural changes in the economy, 
+primarily through reduced demand for fossil fuels, which will bolster investment opportunities 
+for machine and equipment building, and facilitate expansion of markets for new technology 
+and incentives to further innovations. 
+15Objective IІ. Increase in the volumes of carbon absorption and uptake with the help of best 
+climate change mitigation practices in agriculture and forestry. 
+Policy of climate change prevention and mitigation in the sectors of land use and forestry   
+requires strengthening of institutional and improvement of regulatory framework, speciﬁcally, 
+with respect to retention and enhancement of climate protection function of forests and soils. 
+Application of climate smart methods in agriculture and forestry will result in the increased 
+volumes of carbon absorption and uptake.
+Objective IІІ.  Reduction in GHG emissions such as methane gas and nitrogen oxide predomi-
+nantly associated with fossil fuel production, agriculture and waste. 
+ 
+In addition to reduction in GHG emissions, development and implementation of innovation 
+technologies and production management methods in the above mentioned spheres, will 
+contribute to improvement in human health and reduce the level of environmental degradation.
+  
+In the process of Ukraine 2050 LEDS development the best global practices were 
+taken into account,   and the policies and measures were widely discussed by 
+! sectoral work groups, which included decision makers, representatives of aca-
+demic and expert communities and public. 
+ 
+LEDS is focused on the policies and measures which will be gradually imple-
+mented up to the mid of the current century, and envisions their periodic review 
+and adjustment.  
+16PRECONDITIONS
+OF TRANSITION 
+TOWARDS LOW CARBON 
+DEVELOPMENT
+2
+182.1. Climate change combatting advantages  
+According to IPCC Fifth Assessment Report, research on detection and establishment of the 
+causes behind climate change have demonstrated that anthropogenic  inﬂuence on global 
+climate system  is the main reason of its undeniable warming, which  has been observed since 
+1950. Human inﬂuence has also resulted in substantial increase of regional temperatures at the 
+continent and subcontinent levels. It is expected that the change in temperature distribution 
+towards warmer regimes will also result in higher repeatability and intensity of extremely high 
+temperature periods.
+It is highly likely that from 2000 to 2100 increase in average global temperature of the air will 
+amount from two до 5 °C, and raising of sea level - from 0.6 to 1.2 meters with a possibility for 
+signiﬁcantly higher growth. Climate change can make long-term economic growth impossible 
+and will increase the risks for human livelihood security at global level. As its consequences, the 
+climate change will include more frequent waves of heat, drought and other extreme weather 
+phenomena, change in precipitation regime and exhaustion of ecosystems, which will substan-
+tially increase the risks to health and wellbeing of people and environment.  
+Paris Agreement, in enhancing the implementation of the UNFCCC, aims to strengthen the 
+global response to the threat of climate change, in the context of sustainable development 
+and efforts to eradicate poverty, including by:
+«Holding the increase in the global average temperature to well below 2°C above pre-
+industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-
+industrial levels, recognizing that this would signiﬁcantly reduce the risks and impacts of 
+climate change; 
+Increasing the ability to adapt to the adverse impacts of climate change and foster climate 
+resilience and low greenhouse gas emissions development, in a manner that does not 
+threaten food production; and;
+Making ﬁnance ﬂows consistent with a pathway towards low greenhouse gas emissions 
+and climate-resilient development».
+In Ukraine, achievement of optimum interrelationship (synergy) of Paris Agreement goals 
+with Ukraine's national priorities will make it possible to:
+Enhance the role of energy efﬁciency and general technological modernization  of 
+economy on the  basis  sustainable development;
+Implement the renewable energy sources on broader and more sound basis;
+Ensure interlink ages of the State policy in the climate change sphere with the strategies, 
+policies,  plans and programs in other spheres of  economic and social development of 
+the State;
+Implement new economic instruments to ensure optimum way for  Ukraine to make its  
+national determined contribution into Paris Agreement;
+Establish grounds to attract climate investments into Ukraine's economy;
+Strengthen Ukraine's role in international climate change combatting efforts.
+182.2.  Greenhouse gas emissions  
+In Ukraine GHG emission in 2015 amounted to 323.36 million tons of CO2-equivalent, the excep-
+tion is the sector of LULUCF, with its emissions by 66.4% lower than in the base 1990 year, and by 
+12.3% less than in 2014. Inclusive of LULUCF sector, emissions in 2015 totaled at 308.64 million 
+tons of CO2-equivalent, which is by 66.1% less compared to base year, and by 13.2% less com-
+pared to 2014.   
+Such a reduction is mainly attributed to decrease in the use of energy resources due to decline
+in GDP, decrease in Ukraine's population number and lowering of social standards of life
+(ﬁgure 2.1).
+950 100%
+750 80%
+-t
+v
+u
+-eq2 550 60%
+2
+О
+sions, mln t of  С 350 40% Share of 1990 .
+s
+mi
+e
+G 
+GH 150 20%
+-50 0%
+-250                                                    -20%
+0  1  2  3  4  5  6  7  8  9  0  1  2  3  4  5  6  7  8  9  0  1  2  3  4  5 
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ Total (without net absorption by LULUCF)  
+   
+ LULUCF (net absorption )  
+   
+ Share of GHG emissions (total) in relatio to1990 (right scale)  
+   
+ GDP share to 1990 (right scale)   
+   
+ Share of TPES to 1990 (right scale)   
+   
+ Share of GHG emissions (Energy + Industrial processes) to 1990 (right scale)   
+   
+Figure 2.1. Ukraine's economic, energy and climate performance over 1990-2015. 
+19General trend of GHG emissions may be broken down into the following periods:
+1 Sharp drop in GHG emissions over 1990-1999, which is attributed to collapse of the 
+Soviet Union and adjustment of Ukraine's economy to new environment. In addition to that, a 
+signiﬁcant decline in GDP was also taking place; 
+2 Stabilization and restoration of economic growth over 1999-2008. This period is char-
+acterized by a relatively stable economic development and GDP growth. The trend of GHG 
+emissions dynamics does not capture GDP growth, because taking place over this period are 
+structural shifts in economy which increased  the role of trade, services and ﬁnances in compari-
+son to  industrial output growth rate;
+3 Decline and gradual restoration of GHG emissions over the 2008-2012. This period 
+reﬂects severe effect of global ﬁnancial and economic crises.  Particularly affected were export  
+oriented industries such as  – iron and steel industry,  chemical industry, machine building, and 
+also industries related to them – such as electric grid industry  and mining industry;
+2013-2015  –  Ukrainian production sector, which generates 21-23% of GDP, demon-
+strated  negative  dynamics.  Almost  all  industries  reduced  their  volumes  of  output. 
+Pharmaceutical was the only industry which demonstrated positive growth dynamics in its 
+output; 
+5 Starting with 2016, owing to a number of structural reforms, Ukrainian economy has 
+started its gradual growth.  
+Given below are the factors producing adverse effects on the structure and dynamics in    
+Ukraine's economy development:
+Temporary annexation of the AR of Crimea and the city of Sevastopol' by the Russian 
+Federation ;
+Military actions of Russian Federation in some areas of Donets'k and Luhans'k oblasts, which 
+result in reduction of output in the region, worsening of conditions for attraction of external 
+ﬁnancing and increase in the State Budget expenditures to fund the needs of defense sector and 
+national security and  rehabilitation of the ruined infrastructure.
+According to ﬁndings of experts from the National Institute of Strategic Studies,  secondary 
+effects from internal political and economic shakeups, annexation of Crimea, the city of 
+Sevastopol' and some areas in Donets'k and Luhans'k  regions permeated most sectors of 
+Ukraine's economy. In consequence, to that, current GDP misbalances are growing, volumes of 
+industrial output, construction works, foreign trade and the amount of attracted and disbursed 
+capital investments are decreasing. 
+20СО2  is the heaviest GHG, its share over 1990-2015 amounted to 65-75%. The share of methane 
+stays in the range of 21-33%, and that of N2O – 6-8% (ﬁgure 2.2 and ﬁgure 2.3).
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+CO2                       C H4              N2O
+Figure 2.2 GHG emissions over 1990-2015, million tons
+4% Waste
+14% Agriculture  Energy
+Industrial processes
+Agricuture
+Waste
+17% Industrial
+processes 
+65% Energy 
+Figure 2.3 Structure of GHG emissions by sector in 2015 (without LULUCF)
+212.3.  Vulnerability to climate change 
+Over the course of recent decades climate conditions throughout Ukraine's territory have been 
+changing substantially, bringing about increase in the risks to human health and livelihoods, 
+natural ecosystems and economy sectors.
+Since the beginning of ХХІ, century intense increase in surface air temperature is observed in 
+Ukraine (ﬁgure 2.1). 
+3,0
+2,5
+2,0
+1,5
+1,0
+0,5
+0,0
+-0,5
+-1,0
+-1,5
+-2,0
+-2,5
+1  3  5  7  9  1  3  5  7  9  1  3  5  7  9  1  3  5  7  9  1  3  5  7  9  1  3  5 
+6 6 6 6 6 7 7 7 7 7 8 8 8 8 8 9 9 9 9 9 0 0 0 0 0 1 1 1
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+Figure 2.4 Anomalies of annual average air temperature in Ukraine in relation to climate norm (base period 1961-1990)
+Norm (1961-1990 )  +7.8°C Average 1991-2016  +8.8 °C Average 2007-2016 +9.4 °C
+Warming brings about:
+Sudden changes in weather;
+Increased frequency and intensity  of dangerous and natural hydro meteorological events   
+during the warm  season of the year (showers, thunders, rain squall, hail,  long periods of heat - 
+heat waves), and in cold season (heavy snowfalls, glazed frost,  complex slush buildup);
+Increased frequency and intensity  of  droughts, and territories covered by them;
+22Reduction in river ﬂows in the South and South East of Ukraine, increase in the intensity of 
+river ﬂoods in the Western part of Ukraine (Subcarpathia and Transcarpathia), in particular, the 
+Dniester basin, change in the intra-river structure of river ﬂows in Ukraine;
+Raise in the level of Black and Azov seas, which strengthens the processes of erosion, and 
+stream bank erosion, which results in ﬂooding, saturation and soil salting in the coastal area.
+Substantial consequences of climate change include increased risks in relation to:
+Human health, stemming from practically all manifestations of climate change;
+Signiﬁcant reduction in yields of major agricultural crops  in consequence  of dry weather 
+phenomena and emergence of unseen earlier pests and pathogenic diseases of agricultural 
+crops,  and also due to other extreme weather phenomena;
+Exacerbation of problems with water supply in southern and south east regions which suffer 
+from drought  in summer, and where the residents are least provided with drinking water of 
+appropriate quality;
+Intensiﬁed  degradation of lands and desertiﬁcation due to high paced climate change;
+Decrease in productivity, viability and  resilience of forests under signiﬁcant water stress, 
+which  increases the likelihood  of ﬁres and outburst of mass  epidemics of pests; Accelerated 
+degradation of ecosystems;
+Accidents and unstable operation of electricity grids and district heating systems, other 
+infrastructure facilities.
+In the long-term perspective, adaptation to climate change in Ukraine shall be treated with the 
+same degree of priority as climate change prevention, and will include such aspects of policy 
+planning and improvement as expansion of knowledge base, scientiﬁcally justiﬁed identiﬁcation 
+of needs and expenses, implementation of innovation approaches and establishment of condi-
+tions favorable for attraction of external investments. 
+2.4.  International cooperation  
+Combatting the climate change is a global challenge, which requires broad international coop-
+eration, global consensus to which was reﬂected in the whole number of successively concluded 
+international Agreements including UNFCCC, Kyoto Protocol, and Paris Agreement. Since the 
+tools envisioned in the ﬁrst two Agreements have not helped to achieve substantial reduction in 
+GHG emissions, 195 countries, including the most powerful economies, have concluded Paris 
+Agreement, which came into effect on November 4, 2016.
+23According to the objective of holding the increase in the global average temperature to well 
+below 2°C above pre-industrial levels, the Parties to Paris Agreement  must balance the sources 
+of GHG emission and absorption in the second half of the current century, or to reach actually net 
+zero global GHG emissions by 2100.
+LEDS objectives for Ukraine comply with global objectives of Paris Agreement and joint interna-
+tional actions will have critical importance to their achievement. In parallel to reducing the risks 
+and climate change consequences international cooperation will contribute to signiﬁcant 
+decrease in de-carbonization expenses, and will provide economic opportunities for both 
+individuals and enterprises.
+Brief description of Ukraine's participation history in the climate combatting processes is 
+the following:
+Party to Annex I to UNFCCC  since 1997;
+Party to Annex В  to Kyoto Protocol since 2004;
+First country in the world in joint projects implementation (250 projects),  47 million assigned 
+amount units were issued under the green investment scheme  over 2008-2012 in the frame-
+work of   Kyoto Protocol;  
+Active participant to negotiation process  taking place in the framework of UNFCCC;
+Climate related obligations were determined in accordance to EU-Ukraine Association 
+Agreement  (2014);
+Party to Paris Agreement (2016).
+24LEGISLATIVE
+AND INSTITUTIONAL 
+FRAMEWORK  
+3
+27«Sustainable development strategy «Ukraine – 2020» is the main political document declaring 
+comprehensive strategic guidelines of Ukraine's prospective development. The Document was 
+approved by Presidential Decree dated 12 January 2015 № 5/2015. This Strategy envisions 
+reforms in energy sector, agriculture, housing and utilities sector, land reform and implementa-
+tion of programs for energy independence, increase in energy efﬁciency, and environmental 
+protection.  
+Association Agreement with EU, which became the part of National Legislation on September 
+16, 2014 after its ratiﬁcation by the Verkhovna Rada of Ukraine, envisioned gradual approxima-
+tion of Ukraine's legislation to EU Laws and policies in energy efﬁciency, renewable energy, 
+energy products taxation, waste treatment, and climate change, including  implementation of 
+GHG allowances   trading scheme  in accordance to Directive 2003/87/EU  on establishment of 
+greenhouse gas emission allowances trading scheme (ETS)  within the Community.
+The Verkhovna Rada of Ukraine ratiﬁed Paris Agreement on July 14, 2016 (Law of Ukraine № 
+1469-VIII). Even before this the Cabinet of Ministers of Ukraine by its Instruction dated 16 
+September 2015 № 980 approved the expected nationally determined contribution to this 
+Agreement. It was declared that in 2030 the GHG emissions might not exceed 60% of 1990 
+emissions level. Further review of ambitiousness level of this contribution is envisioned to factor 
+in Ukraine's social and economic development indicators. In addition to that, to improve the 
+current climate policy the Cabinet of Ministers of Ukraine in its instruction dated 7 December 
+2016 № 932-р approved the Concept for Implementation of the State policy on Climate change 
+up to 2030. The Concept determines the tasks in the following areas:
+strengthening the institutional capacity for development and implementation of state policy 
+on climate change;
+prevention of climate change through reduction of anthropogenic emissions and increased 
+greenhouse gas absorption to ensure gradual transition to low-carbon development of the 
+country;
+Adapting to climate change, increasing the resilience and reducing the climate change 
+related risks.
+Action plan was developed to implement the Concept for implementation of the State policy on 
+climate change up to 2030.
+Tax on carbon dioxide from ﬁxed sources, which was introduced in 2011, is the current ﬁscal 
+instrument to reduce GHG emissions (Article 243 Section VIІІ of the Tax Code of Ukraine). 
+Concept for implementation of the State policy on climate change up to 2030 envisions review-
+ing its rate and administration procedure.
+Ukraine's 2035 Energy Strategy: «Security, Energy efﬁciency, Competitiveness» approved by the 
+Cabinet of Ministers Instruction dated 18 August 2017 № 605-r constitutes a fundamental 
+26element of gradual transition to low carbon development policy. Because of completing the 
+tasks envisioned by Ukraine's 2015 Energy strategy, it is planned to:
+achieve more than twofold reduction in GDP energy intensity ;
+Increase the use of renewable energy sources up to 25% of the total scope of primary energy 
+supply.
+Components  to current climate change prevention policy include the following effective 
+national plans:
+National Renewable Energy Action plan through 2020, approved by the Cabinet of Ministers 
+Instruction dated 1 October 2014  № 902-р, envisions that  by 2020 the share of energy  pro-
+duced from renewables shall amount to 11% of energy consumption mix; 
+National  2020  energy  efﬁciency  action  plan,    approved  by  the  Cabinet  of  Ministers 
+Instruction of 25 November 2015  № 1228, which envisions to reach in 2020 the indicative 
+energy saving target of  9% of the average ﬁnal domestic energy consumption.
+Action plan to implement the EU Parliament and Council Directive 2009/28/EC of the European 
+Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from 
+renewable sources, approved by the Cabinet of Ministers instruction of 3 September, 2014 № 
+791-r, is geared to harmonization of Ukrainian and European legislation on the renewable 
+energy sources (hereafter - RES). It is envisioned that sustainability criteria shall be developed for 
+liquid and gaseous fuel, which is produced from biomass and used by transport vehicles, and for 
+liquid fuel, which is produced from biomass and designated for energy use other than transport 
+vehicles. Technical speciﬁcations to production and use of bio fuels and bio liquids are planned 
+to be developed.  
+According to the Law of Ukraine «On Amending Some Laws of Ukraine on "Green Tariff” 
+Establishment» (of 25 September 2008 № 601), effective in Ukraine is the «green" tariff which is 
+applicable to purchase electricity produced by the facilities using alternative energy sources 
+(except blast furnace gas and coke gas, and in case of hydroenergy - only electricity which was 
+generated by small hydropower plants).
+To legally regulate the energy service related services the Verkhovna Rada of Ukraine passed the 
+Law of Ukraine  «On Introduction of New Investment Opportunities, Guarantee to the Rights and 
+Lawful  Interests  of  Business  Entities  to  Ensure    Performance  of    a  Full  Scale  Energy 
+Modernization » (of 9 April 2015  № 327-VIII, including amendments made in accordance to the 
+Laws № 922-VIII of  25.12.2015; № 1980-VIII of 23.03.2017). In addition to that, respective 
+changes were made into the Budget Code of Ukraine with regard to introduction of new invest-
+ment opportunities, guarantee to the rights and lawful interests of business entities to ensure 
+performance of a full-scale energy modernization, speciﬁcally, in the part that relates to deﬁni-
+tion of energy service contract as a long-term credit liability.
+27State construction codes  SCN  В.2.6-31:2016 «Heat insulation of buildings» were approved  to 
+ensure rational use of energy resources for the purposes of heating and cooling, and to meet the 
+required sanitary parameters of indoor climate as well as to ensure  long life of  envelope struc-
+tures in the course of their use.  The said codes include requirements to energy efﬁciency and 
+thermo technical characteristics of thermal insulation envelope for buildings and structures and 
+their calculation procedure. SCN В.2.6-31:2016 are designated to be applied in doing design for 
+the buildings and structures with heat, conditioning and cooling, in doing Greenﬁeld projects, 
+modernization, thermal insulation and capital repairs.  
+On June 22, 2017 the Verkhovna Rada passed the Law of Ukraine № 2118-VIII «On Energy 
+Efﬁciency in the Buildings» which aims to establish conditions enabling reduced energy con-
+sumption in the buildings in accordance to Directive 2010/331/EU of the European Parliament 
+and of the Council “On the energy performance of building” as a part to implementation of 
+ratiﬁed Treaty Establishing the Energy Community.  The Law regulates establishment of mini-
+mum requirements to energy efﬁciency in the buildings, envisions introduction of certiﬁcation of 
+energy efﬁciency and survey of engineering systems in the buildings. The Law also intends to 
+regulate professional activity in the sphere of energy efﬁciency in the buildings.
+The Law of Ukraine passed on 8 June 2017 envisioned establishment of Energy efﬁciency Fund, 
+which is an important instrument to support energy efﬁciency initiatives. The said Fund complies 
+with requirements of Directive 2012/27/EU of the European Parliament and of the Council as a 
+part to implementation of ratiﬁed Treaty Establishing the Energy Community, and іs designated 
+to stimulate and support measures aimed at increasing energy efﬁciency and energy saving 
+mainly in residential sector buildings with due incorporation of respective national plans and for 
+reduction in GHG emissions. 
+Already passed or modiﬁed Laws of Ukraine support measures, instituting low emissions 
+development in different spheres, speciﬁcally:
+Law of Ukraine «On Natural Gas Market» (of  9 April 2015 № 329-VIII, with amendments 
+introduced in accordance to the Law № 1541-VIII of 22.09.2016), which deﬁnes environmental 
+protection, including energy efﬁciency, increased share of energy from alternative sources and 
+reduction in GHG emissions as general public interest in the process of natural gas market 
+operations.
+Law of Ukraine  «On Electricity Market» (of 13 April 2017 № 2019-VIII), which envisions 
+assignment by the Cabinet of Ministers of Ukraine of special obligations on market participants 
+with regard to environmental protection, energy efﬁciency, increase in the share of energy 
+produced from alternative energy sources and reduction in GHG emissions.
+Law of Ukraine «On Alternative Energy Sources» (of 20 February 2003 № 555-IV, in the ver-
+sion of 11.06.2017), which determines legal, economic, environmental and organizational basis 
+for the use of alternative energy sources and fosters their more extensive use in the fuel and 
+energy sector.
+28Law of Ukraine  «On Alternative Types of Fuel» (of 14 January 2000  № 1391-XIV, in the ver-
+sion of 24.11.2016), which envisions incentives to increase the share of alternative types  fuels  
+use up to 20%  of the total scope  of fuel consumption by  2020.  
+Law of Ukraine  «On  coalﬁeld gas (methane)» (of 21 May 2009 № 1392-VI, in the version of  
+22.09.2016), which determines legal, economic, environmental and organizational  principles for 
+activities in the sphere of geological study of coal ﬁeld  gas (methane), its extraction and removal 
+in the course of degassing and further use as material and/or energy resource.
+Since the time of Paris Agreement ratiﬁcation legal framework for the related industries polices is 
+gradually changing, as climate change prevention and adaptation hereto have bearings on 
+practically all sectors of economy and human livelihood. A number of below listed Laws and 
+other regulations, already passed or drafted, envision to incorporate certain climate change 
+related policy provisions into sectoral strategies:
+Law of Ukraine «On Amending the Law of Ukraine «On Drinking Water and Drinking Water 
+Supply» (of 18 May 2017 № 2047-VIII), which provisions aim to improve legal regulation of 
+relations  associated with waste  water collection and to increase efﬁciency in the management 
+of  drinking water suppliers  and water drainage  entities.   
+Draft of the National 2030 Strategy on Waste Management in Ukraine, which was developed 
+with due regard to the Framework Directive № 2008/98/EU on wastes, Directive  № 1999/31/EU 
+on waste burial, Directive  № 2006/21/EU on management of extractive industries. The goal of 
+this strategy is to create efﬁcient waste management system based on innovation principles, 
+which in the end should facilitate waste recycling of natural resources and recycling of wastes. 
+Draft of Ukraine's National 2030 transport strategy, which aims to comprehensively incorpo-
+rate global priorities in transport policy, speciﬁcally, it envisions to reduce GHG from mobile 
+sources by 60% compared to 1990, increase in the share of electric transport and electro cars 
+vehicles usage, and to increase alternative fuels use share.
+Draft Law of Ukraine «On Amending the Law of Ukraine «On the Main Foundations (strategy) 
+of the State Environmental Policy of Ukraine through 2020», which extends the strategy up to 
+2030,and envisions, among other things,  to broaden the Government tasks with respect to 
+prevention of  increase in agricultural lands and territorial expansion of buildup territories and 
+infrastructure;  increase in the forest covered space in Ukraine; establishment of conditions 
+facilitating broad implementation of environmentally friendly and organic farming technolo-
+gies.
+Draft Strategy 2022 for sustainable development and institutional reformation of Ukraine's 
+forestry and hunting sector, which envisions, among other things, integration and intensiﬁcation 
+of forestry and hunting sector contribution to climate change prevention and facilitation of 
+environmental sustainability of Ukraine. 
+30Concept for the State heat supply policy implementation, which was approved by the Cabinet 
+of Ministers Resolution of 18  August  2017  № 569-р, and aims to develop and determine the 
+methods facilitating effective implementation of the state policy focused to ensure reliable 
+provision of heat supply services, Ukraine's energy independence and security; reduce adverse 
+effects on environment,  improve ﬁnancial and economic situation of enterprises, to introduce 
+transparent efﬁcient system of payments between consumer and service suppliers, and to 
+establish conditions and incentives geared to attract investment in heat supply sector.
+Ministry for Ecology and Natural Resources of Ukraine is the Central executive body authorized 
+to form and implement the State climate change policy.
+Operating as Advisory Coordination body is the Interagency Commission on UNFCCC imple-
+mentation (IAC), which was created by the Cabinet of Ministers of Ukraine in 1999. IAC member-
+ship includes ofﬁcials at the level of Deputy Ministers of key ministries and other executive 
+bodies, plus, subject to, Ukrainian parliament members, representatives of R&D institutions and 
+NGOs.
+In addition, Ukraine has established a practice for broad engagement of representatives from 
+academic and expert community, public and business community into the Task forces drafting 
+legislation as well as other strategic climate change related documents.
+31DECARBONIZATION
+OF UKRAINE'S
+ENERGY SECTOR 
+4
+36Energy intensity of Ukraine's GDP remains extremely high in comparison to advanced countries. 
+In 2015 energy intensity of Ukraine's GDP   (according to purchasing power parity (PPP) in 2010 
+prices) was by 2.2 times higher of the respective global ratio, by 2.6 times higher than that of the 
+OECD countries and by 3.2  times higher of  28 EU member states  ﬁgure ( Fig. 4.1). 
+0,45 
+0,40 
+0,35 
+0,30 
+0)  0,25 
+1
+0
+2
+D ( 0,20 
+S
+U
+00  0,15 
+0
+1
+E/  0,10 
+O
+T
+0,05 
+0,00 
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+  Ukraine    OcoEuCnDtries    Glob al EU-2 8 
+Figure 4.1. Energy intensity of Ukraine's GDP according to PPP in 2010 prices.
+Similar situation is observed in the GDP carbon intensity level (ﬁgure 4.2), which, according to 
+2015 data, exceeds global ratio by 1.9 times, is 2.4 times higher than that of the OECD countries, 
+and 3.3 times higher of 28 EU member states. GDP carbon intensity calculations included only 
+СО2 emissions, and, of them, only those resulted from fossil fuels combustion. 
+ 
+0,90 
+0,80 
+0,70 
+0,60 
+0) 
+1 0,50 
+0
+2
+D ( 0,40 
+S
+U
+0 
+0 0,30 
+0
+1
+2* /  0,20 
+О
+С
+of  0,10 
+ns 
+o 0,00 
+t
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+Ukraine OcoEuCnDtries  Glob al EU-28
+* includes only СО2 emissions and only from combustion of energy resources 
+Figure 4.2. Carbon intensity of Ukraine's GDP according to PPP in 2010 prices 
+Figure 4.3 shows dynamics in energy and carbon intensity (it includes all GHG emissions and 
+their absorption) of Ukraine's GDP over 1990-2015 (according to IEA data) 
+342,50 
+Carbon Capacity, t CO2-eq. /$ 1000 2010 GDP (PPP) 
+2,05  Primary energy intensity, t n.e./$ 1000 2010 GDP (PPP) 
+1,96 
+2,00  1,89 
+2,00  2,06  1,80 
+1,67  1,69  1,63 
+1,76 
+1,50  1,64  1,59  1,46 
+1,23 
+1,17 
+1,31  1,22  1,06  1,05  1,03  0,98 
+1,00  1,08  1,06  1,08  1,03 
+0,57  0,65  0,62  0,58  0,89 
+0,50  0,47 0,52 0,50 0,51  0,64  0,64  0,62  0,53 0,51 0,50 0,44  0,38  0,34  0,38  0,33  0,31 
+0,43 
+0,36  0,34  0,34  0,31  0,29 
+0,00 
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Figure 4.3. Ukraine's GDP carbon and energy intensity over 1990-2015. 
+De-carbonization process of Ukraine's energy sector is taking place, yet, under current economic 
+and environmental policy, its pace is not sufﬁcient. For example, according to model generated  
+estimates, in the absence of effective policy and de-carbonization measures in Ukraine's energy 
+sector,  the GHG emissions will continue to  show constant growth and in  2050 may reach  70% 
+of 1990 level, whereas in 2012 and 2015   they amounted to 44% and   31%, respectively. 
+Underpinning such estimates  is also the fact that over 1990-2015  the dynamics of total GHG 
+emissions was be corresponding to the  dynamics of GHG emissions in such sectors as «Energy» 
+and  «Industrial processes» according to  IPCC  terminology (Figure 2.1).
+Table 4.1 presents current level of GHG emissions in «Energy» and  «Industrial processes», and 
+their projections according to Baseline  (Business as Usual)  scenario. This scenario is treated as  
+hypothetic scenario, where the characteristics for most of   the technologies   in   energy  
+resources  usage and  household consumption, and also at any stage of goods or services 
+production,  stay unchanged by 2050, i.e. stay as they were as of  2012. It should be underscored, 
+that   technologies are replaced only when useful life of current capacities expires.  The cost and 
+efﬁciency of technologies replacing the outdated ones are compliant with modern level: with the 
+time the cost is decreasing, while efﬁciency is growing.  Calculation of GHG emissions according 
+to such business as usual scenario is useful, as it enables to perform calculations under alterna-
+tive scenarios, i.e. the effectiveness of measures and policies, which stimulate technological 
+change in economy and result in its de-carbonization.
+Table 4.1
+Projections of GHG emissions in «Energy» and «Industrial processes»
+in accordance to baseline (business as usual) scenario 
+2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Emissions, million tons
+367 265 347 408 455 500 540 570 592
+of СО -equivalent
+2
+Share of 1990 level, % 44 31 41 48 54 59 64 68 70
+* data of the National Cadaster of anthropogenic emissions from sources and absorption
+of greenhouse gases absorbers in Ukraine over 1990-2015.
+35In accordance to baseline scenario, under almost unchanged technical parameters of energy 
+technologies, increase in GHG is taking place as growth in economy is assumed  to take place 
+primarily in consequence to restoration and  growth in the industrial output. The model includes 
+assumption that average annual GDP growth rates over 2016-2050 will amount to 4%, which 
+means that by 2050 GDP will show a fourfold increase. Ukrainian population will shrink from 45.2 
+millions of people in 2014, to 38.9 million in 2050. Over 2014-2050 oil and gas prices will grow by 
+35% and 60%, respectively. In addition, the Baseline scenario conditions do not envision 
+enhanced environmental constraints. 
+Quantitative model calculations of GHG emissions reduction under Baseline scenario   are 
+performed with the help of economic-mathematical optimization model of energy ﬂows of 
+Ukraine (model TIMES-Ukraine). This very model is also used to calculate reduction in GHG 
+emissions when policies and measures on energy de-carbonization, included into Catalogue of 
+policies and measures of low emissions development (hereafter Catalogue) are implemented. 
+The Catalogue is based on best global practices and current legal framework, and was put 
+together through broad consultations with representatives of Government authorities, business 
+Ukrainian and international experts, scientists and public. 
+Dynamic General Equilibrium Model with extended  energy block was used to estimate the 
+social and economic outcomes of Ukraine's energy decarbonization policies and measures 
+implementation. Uniﬁcation of the said two models was performed through application of the 
+same assumptions with regard to economic growth rate, in particular, aggregated GDP growth 
+rate.  
+4.1. Energy de-carbonization policies and measures  
+In the Catalogue policies and measures were grouped by function and sector, of which targeting 
+de-carbonization are the following trends:
+1 Energy efﬁciency – includes policies and measures which aim to increase efﬁciency in 
+the use of energy resources and energy saving  accompanied with enhanced quality in energy 
+services and energy resources supply;
+2 Renewable energy – includes policies and measures which aim to support and stimu-
+late the renewable energy development in Ukraine;
+3 Modernization and innovation  – includes policies and measures which aim to mod-
+ernize the ﬁxed assets used in traditional energy (energy resources generation, transition and  
+consumption) and implementation of innovation  technologies (such as smart networks, indus-
+trial production and use of hydrogen etc.);
+4 Market transformation and institutions – includes business measures, which directly 
+or indirectly affect structural shifts in economy and in goods and services markets; regulatory 
+and management practices at the national and sector level; standards and codes; public aware
+36ness measures; policy on education, science and technology development.
+For each of the above given group developed are the GHG reduction scenarios based on full imple-
+mentation of respective policies and LEDS measures.  
+4.1.1. Energy efﬁciency  
+Implementation of policies and measures which aim to increase efﬁciency in the use of energy 
+resources and energy saving  accompanied with enhanced quality in energy services and energy 
+resources supply will enable to cumulatively reduce GHG emissions over 2012-2050 by 3 677 
+million tons of СО2-еequivalent  compared to Baseline scenario. The growth pace in GHG emis-
+sions will show substantial reduction compared to Baseline scenario. According to «Energy 
+efﬁciency scenario, » in 2050 the share of GHG emissions will amount to 53% of 1990 level (table 
+4.2).
+Table 4.2
+GHG emission projections in «Energy» and «Industrial processes»
+according to Baseline and Alternative scenario  
+Scenario Unit 2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons
+367 265 347 408 455 500 540 570 592
+of СО
+2
+Baseline -equivalent 
+scenario 
+%
+of 1990 44 31 41 48 54 59 64 68 70
+level 
+Million
+tons 367 265 294 335 344 363 406 429 448
+of СО
+2
+Scenario -equivalent 
+«Energy efﬁciency»
+%
+of 1990 44 31 35 40 41 43 48 51 53
+level 
+* Data of the National Cadaster of anthropogenic emissions from sources and absorption
+of greenhouse gases absorbers in Ukraine over 1990-2015. 
+40LEDS policies and measures in energy efﬁciency  
+1 Raising energy efﬁciency in the buildings  
+№ Policy /measure Description of policy /measure 
+Planning  and  To prepare and implement plans for thermal insulation 
+implementation of   of buildings with due account for climate and local 
+thermal insulation of  speciﬁcities with proper compliance to energy 
+1
+housing stock   efﬁciency requirements and thermal technological 
+characteristics of envelope structures. 
+Promotion of  energy  To adopt and ensure compliance with stricter building 
+efﬁciency  in design and  standards in order to raise energy efﬁciency in  doing 
+2 construction of  new construction  projects, modernization, thermal 
+residential and public  insulation of residential  and public buildings. 
+buildings 
+Monitoring energy  To prepare energy passports including assessment of 
+performance of  energy performance in order to measure  how much 
+3 residential and public  fuel and energy resources  was used on heating, 
+buildings  cooling, ventilation, hot water supply and lightning in 
+residential and public buildings 
+Creating enabling  To set standard requirements to reaching close to zero 
+conditions for increase in  energy consumption in construction of new and 
+4 the number of buildings  modernization and technical re-equipment of the 
+with close to zero energy  already existing building 
+consumption 
+Introduction of National  To set standard requirements to buildings and 
+system for technical  settlements design to meet the environmental criteria 
+5
+regulation of «green 
+construction»
+To adopt  "Government  Budget funded institutions, and public authorities of 
+sets example approach " national, regional and local level  must set an example 
+6 in energy efﬁciency by  their compliance with 
+requirements  on carbon neutrality and publicity about 
+their energy consumption  
+382 Promotion of private and government funding on energy efﬁciency measures 
+№ Policy /measure Description of policy /measure 
+Expansion of   public -  To create the prerequisites required to facilitate the  use 
+private partnership in  of innovation mechanisms in ﬁnancing of measures 
+ﬁnancing  of energy  aiming to improve energy performance of buildings (for 
+efﬁciency measures   example, credit guarantees to private capital, credit 
+1 guarantees to stimulate energy efﬁciency agreements, 
+transfers, subsidized loans and targeted credit lines, 
+systems of multilateral funding), which reduce energy 
+efﬁciency projects risks. 
+Support to ESCO  To create the prerequisites required to facilitate high 
+mechanism and it use to  scale mobilization   of private investments for energy 
+raise energy efﬁciency  efﬁciency purposes, substantial reduction in energy 
+expenses in public and communal sectors of Ukraine's 
+economy, and also to mobilize private investments to 
+increase  energy efﬁciency at the state and communal 
+2 facilities such as schools, universities and colleges 
+hospitals etc., including establishment of  legal grounds 
+to develop energy service contracts mechanisms for  
+budget funded institutions, comprising an option of 
+entering into long-term sales contracts to budget 
+funded institutions of heat energy produced from 
+alternative energy sources.
+3 Increase in energy efﬁciency in the use of electricity  and heat energy  and/or  
+ fuels in all sectors of economy  
+№ Policy /measure Description of policy /measure 
+Introduction of 
+To establish conditions required for equipment  of the 
+cogeneration 
+new and already operational energy generating entities 
+installations at the new 
+with highly efﬁcient  cogeneration installations in order  
+1
+and already operational 
+to  use the  waste heat, resultant from electricity 
+energy generation 
+generation and  supply it to consumers 
+entities. 
+Introduction of  market  To establish competitive environment allowing  
+mechanism  enabling  consumers to freely choose suppliers of different types 
+2
+consumer access to  of energy or fuels in order to save energy resources 
+energy suppliers  and\or  ﬁnancial resources 
+Facilitation the increase  To introduce incentives for communally owned 
+in efﬁcient use of  enterprises to increase efﬁciency in their use of natural 
+3 natural gas at the heat  gas at the already existing and /or modernized boiler 
+generation sources in  plants. 
+communal energy 
+sector 
+394 Promotion of energy efﬁcient technologies in agriculture  
+№ Policy /measure  Description of policy /measure  
+Introduction of  farming  To stimulate modernization of the already existing and 
+technologies which aim  introduction of new modern equipment at agricultural 
+to reduce fossil fuel  enterprises, for example, to convert diesel using 
+consumption  agricultural machinery to biofuel or hybrid technology;  
+1 to  introduce  automatic operating width technology  
+used by the farm machinery with the help of GPS 
+Promotion of increase in  To establish conditions enabling the implementation of 
+energy efﬁciency in   energy efﬁcient technologies for deep processing of 
+agricultural produce and  agricultural produce in food and processing industry  
+2
+foods production  
+process 
+5 Promotion of energy efﬁcient measures in production sector 
+№ Policy /measure  Description of policy /measure  
+Increase in resource  To stimulate the production sector enterprises to 
+efﬁciency of production  reduce their speciﬁc utilization of the raw and energy 
+1
+sector output   resources in the course of industrial output production 
+Lowering the share of  To stimulate the production sector enterprises to 
+carbon intense  energy  reduce their speciﬁc utilization of carbon intense 
+2
+resources use by   energy resources 
+production sector 
+4.1.2. Renewable energy  
+Substantial intensiﬁcation of renewable energy sources will make a signiﬁcant contribution to 
+energy efﬁciency measures, which aim to de-carbonize the energy sector. In particular, modeling 
+results show, additional - in contrast to “Energy efﬁciency” scenario - reduction of GHG emis-
+sions by 2430 million tons of СО2-equivalent could be achieved cumulatively over the 2012-
+2050 period, compared to Baseline scenario. Thus, the share of GHG emissions will amount to 
+33% of the 1990 level, which will not signiﬁcantly exceed the 2015 level (table 4.3).
+40Table 4.3
+Projections of GHG emissions in «Energy» and «Industrial processes» according
+to Baselines (Business as usual) and alternative scenario  
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons
+367 265 347 408 455 500 540 570 592
+of СО
+2
+Baseline -equivalent 
+scenario 
+%
+of 1990 44 31 41 48 54 59 64 68 70
+level 
+Million
+tons
+367 265 282 315 312 291 299 288 278
+of СО
+Scenario 2
+-equivalent 
+«Energy efﬁciency
+and renewable energy» %
+of 1990 44 31 33 37 37 34 35 34 33
+level 
+* Data of the National Cadaster of anthropogenic emissions from sources and absorption
+of greenhouse gases absorbers in Ukraine over 1990-2015.
+41LEDS policies and measures in renewable energy 
+1 Increase in generation and consumption of energy from renewable sources 
+№ Policy /measure  Description of policy /measure  
+Introduction of standard  RES standard will require electricity generating 
+for RES portfolio or  companies to supply a certain ﬁxed percentage of 
+1 ecological portfolio  electricity from renewable source (sources)
+Overcoming the barriers  Existing institutional and market barriers include 
+on the way to renewable  price distortions, market's inability to appreciate 
+energy development    social good of renewable sources  and social costs 
+of fossil fuel technologies, insufﬁcient information, 
+2
+institutional barriers when connecting to the grid, 
+high operational costs for small projects, and high 
+ﬁnancing costs 
+The measure shall follow the following algorithm: 
+Pre-investment 
+government funded contracts are concluded on 
+preparation of industrial 
+competitive basis with design bureaus for them to 
+platforms for renewable 
+perform initial project preparations and platform 
+energy facilities in the 
+3 search, pre-construction preparation of platforms, 
+framework of PPP 
+and infrastructure construction. After that, 
+investment projects with the pre-set parameters are 
+implemented. The investor refunds the money 
+spent on initial project preparations.  
+Promotion the  To introduce  green certiﬁcates system in order to 
+consumer  purchase of  stimulate clean energy generation and supply  
+4
+environmentally clean 
+energy 
+Promotion  of  It is envisioned to encourage introduction of   
+generation and energy  practices and  use of equipment contributing  to 
+consumption from RES   reduction in GHG emissions in production of 
+by entities of all  forms  agricultural produce and foods owing  to increased 
+of ownership  output and use of RES, including, installation  of 
+5 (incorporation) in  solar or wind energy devises; use of hydroelectricity 
+agriculture and forestry  generators for irrigation purposes, in particular;  
+increased use by enterprises of biomass of their 
+own production and biofuel; extending  the  energy 
+audit programs 
+Joint combustion of  It is envisioned to encourage joint combustion of 
+biofuel  and fossil fuel at   biomass at the new and already operating power 
+6 the new and already  plants, using fossil fuel, in order to reduce the GHG 
+operating power plants   emissions and use of fossil fuel in general. 
+422 Sustainable production and expansion in the use of biomass  (biofuel)
+№ Policy /measure  Description of policy /measure  
+Increase in sustainable  To increase in the scope of biomass coming from 
+production of biomass  agriculture and forestry (wood substance, wood 
+1 for energy supply  wastes, wastes coming from agricultural crops and 
+purposes  agricultural produce processing; energy crops) to 
+be used in heat and electricity generation and as 
+fossil fuels replacement.  
+Development and  To increase  the pace for development of new 
+implementation of  biomass conversion technologies as well as the 
+2
+biomass conversion  market for such technologies  in order to receive 
+technologies  biofuel of the ﬁrst and second generation
+Expansion in the use of  To increase the scope of biomass coming from solid 
+solid household wastes  household wastes and garden and park wastes, 
+as biomass,  and also  which is suitable for heat and electricity generation, 
+biomass of park and  ﬁrst, to meet the needs of small towns and 
+3 garden waste  for the  territorial communities. 
+purposes of heat and 
+electricity generation 
+Production of liquid and  To increase the output of bioethanol, biodiesel  
+gaseous fuel from  the  and/or  other types of liquid or gaseous  biofuel  
+4 raw materials coming  from  the raw material coming from agriculture and 
+from agriculture and  forestry in order to replace  ﬁxed and mobile use of 
+forestry    fossil fuel  
+Production of liquid and  To stimulate the use of SHW biomass for 
+gaseous fuel from  solid  production of liquid or gaseous biofuel 
+5
+household wastes  (gasiﬁcation, pyrolysis) and its ﬁxed and mobile use.
+433 Biogas production and expansion of its use for heat 
+and electricity production purposes   
+№ Policy /measure  Description of policy /measure  
+Biogas production from  To promote the  development of agricultural activities 
+animal origin by- which aim to reduce the methane emissions from 
+1 products and other by- animal wastes  by way of installation of reactor for 
+products coming from  manure fermentation, and also emissions from primary 
+agro industrial complex  and secondary  agricultural products 
+Generation of energy  Stimulation the collection and use of landﬁll gas  for 
+from biogas coming  the purposes of energy generation and incentivizing 
+2
+from SHW landﬁlls  the use of anaerobic fermentation reactors to produce 
+biogas from organic components of SHW  
+Generation of energy  Stimulation the installment of methane tanks  and 
+3
+from biogas coming  turbines at the already operating and new waste 
+from waste water  treatment facilities 
+4 Ukraine's international cooperation in  renewable energy 
+№ Policy /measure  Description of policy /measure  
+European integration  Harmonization of legislative and regulatory acts  of 
+Ukraine  with EU Legislation on promotion the use of 
+1 energy generated from renewable energy sources 
+International  Facilitation of further development of Ukraine's 
+cooperation  cooperation with international (global, regional and 
+national) institutions in the spheres directly or 
+2 indirectly related to renewable energy development. 
+Cooperation with International Renewable Energy 
+Agency (IRENA) enabled Ukraine to get access to best 
+global RES related practices.
+4.1.3. Transformation of market and institutions  
+Transformation of market and institutions indirectly promote transition of Ukraine's economy to 
+low carbon pathway. Policies and measures in this area include business measures, regulatory 
+and management practices at the national and sectoral level, standards and codes, public 
+outreach measures, development of education, science and production of proprietary technolo-
+gies.
+44Transformation of market and institutions indirectly promote transition of Ukraine's economy to 
+low carbon pathway. Policies and measures in this area include business measures, regulatory 
+and management practices at the national and sectoral level, standards and codes, public 
+outreach measures, development of education, science and production of proprietary technolo-
+gies.
+Table 4.4
+Projections of GHG emissions in «Energy» and «Industrial processes» according
+to Baselines (Business as usual) and alternative scenario 
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons 367 265 347 408 455 500 540 570 592
+of СО
+2
+-equivalent 
+Baseline
+scenario  % 44 31 41 48 54 59 64 68 70
+of 1990
+level 
+Million
+367 265 265 361 244 242 274 284 285
+Scenario «Energy efﬁciency tons
+of СО
+and renewable energy, 2
+-equivalent 
+modernization
+and innovation» % 44 31 31 31 29 29 32 34 34
+of 1990
+level 
+* Data of National Cadaster of anthropogenic emissions from the sources and absorption by absorbents of GHG
+in Ukraine over 1990-2015 
+45LEDS policies and measures in modernization and innovation
+Increase in the power plants efﬁciency    
+№ Policy /measure  Description of policy /measure  
+Support to  To ensure modernization of power plants already in 
+modernization of power  operation  to facilitate their full  or partial transition to 
+1 plants already in  fuels with lower or zero GHG emissions level, 
+operation  introduction of incentives /removal of barriers 
+Increase in  To quicken  decommissioning pace  of inefﬁcient 
+2 decommissioning pace  energy blocks at TPP 
+of inefﬁcient TPPs 
+Introduction of  To promote the development of new technologies, which 
+incentives, provision of  will include enforcement and/or incentives for the use of 
+support or  advance technologies by TPP using non-renewable 
+establishment of  energy sources (coal to start with). Enforcement envisions 
+requirements to fossil  to ensure that all or a certain part of coal using power 
+3
+fuel based  advanced  plants would apply certain technology, such as IGCC¹, 
+technologies  CCSR². Incentives would include direct subsidies and/or 
+assistance with mobilizing of funding for new 
+technologies implementation , and/or  long term 
+purchase   agreements on TPP products or services 
+1 Nuclear energy development  
+№ Policy /measure  Description of policy /measure  
+Retention of an  To perform repeated licensing/improvement of 
+important role of the  characteristics/ enhancement in the efﬁciency of the 
+1 nuclear energy as a low  already operational NPP under conditions of  strict 
+carbon energy source.   compliance with safety ratios, and also creation of 
+effective mechanism  for accumulation by nuclear plant  
+operating organization (operator) of resources required 
+to ﬁnance the works on nuclear blocks 
+decommissioning.
+To stimulate development of new technologies, such as 
+small module reactors, to facilitate optimum 
+replacement of NPP capacities which will be 
+decommissioned after 2030. 
+ ¹IGCC (Integrated Gasiﬁcation Combined Cycle or in Ukrainian Integrated combined gasiﬁcation cycle (ICGC) –  is a steam 
+and gas plant with gasiﬁcation of coal which is used to convert coal into syngas. 
+ ²CCSR – (Carbon Capture and Storage Ready) –  technology  for carbon catching, storage and recycling  .
+462 Modernization and intellectualization of electricity grids 
+№ Policy /measure  Description of policy /measure  
+Modernization and  To stimulate and support implementation of programs 
+intellectualization of  which will aim to achieve higher efﬁciency in the 
+1 electricity transmission  transmission and distribution systems. 
+system  and distribution 
+networks to reduce 
+losses at electricity 
+transmission lines 
+3 Modernization of transport industry 
+№ Policy /measure 
+Promotion the use of transport vehicle which may use different types of motor fuels 
+1 (for example, petrol and gas or use biofuel and  bio component additives), electric, 
+hydrogen cars, cars using fuel cells, as well as public electric transport development 
+Promotion or introduction of requirements to producers of  transport vehicles using 
+2 combustion engines to increase efﬁciency and environmental friendliness of 
+traditional transport vehicles 
+Incentivizing Ukrainians to reduce the share of their use of outdated cars. To create 
+3 advantages for old cars scrappage. For example, provision of rewards, introduction 
+of car vouchers  etc. 
+Increase the number of high-speed trains used  to  carry the same as before number 
+of passenger by railways, it should be underscored,  that due to optimized routes and 
+4
+less time required to reach destinations point  the park of such trains will be smaller 
+compared to conventional trains  
+More efﬁcient planning of public transport network and routes, which among other 
+things, include  better logistics, minimized number of trafﬁc jams in the cities etc…. 
+5
+Improvement of transport system management technologies, including smart system 
+implementation. 
+Introduction of inter -mode load carrying transport technologies. Policy  which aims 
+6 to improve railway infrastructure and infrastructure of inland water ways to promote 
+wider use of railways and water transport 
+Stimulation of modernization  the water and river ports in order to incentivize      
+7 implementation of more energy efﬁcient technologies,  and take energy saving 
+measures throughout the entire technological chain 
+4 Development of highly efﬁcient cogeneration at local and regional level 
+№ Policy /measure  Description of policy /measure  
+Development of highly  Increase in general fuel usage efﬁciency and reduction 
+efﬁcient cogeneration  in GHG emissions under combined generation of heat  
+1 and electricity  by TPP at local and regional level  
+475 Support to energy accumulation technologies implementation 
+№ Policy /measure  Description of policy /measure  
+Support to energy  To support development and implementation of energy 
+accumulation  accumulation technologies  by  way of subsidies, tariff 
+1 technologies  compensation and other ﬁnancial incentives 
+implementation 
+6 Development of hydrogen production technologies   
+№ Policy /measure  Description of policy /measure  
+Development of  Provision of incentives on development and 
+hydrogen production  implementation of hydrogen production technologies 
+1 technologies   and efﬁcient technologies for storage of electricity in the 
+form of hydrogen 
+4.1.4. Transformation of market and institutions  
+Transformation of market and institutions indirectly promote transition of Ukraine's economy to 
+low carbon pathway. Policies and measures in this area include business measures, regulatory 
+and management practices at the national and sectoral level, standards and codes, public 
+outreach measures, development of education, science and production of proprietary technolo-
+gies.
+Implementation of these policies and measures will enable additional reduction in GHG emis-
+sions by 267 million tons of СО2-equivalen. On the whole, compared to Baseline scenario, the 
+scope of GHG emissions reduction will amount to 7438 million tons of СО2-equivalent (cumula-
+tively for 2012-2050 period), which will enable to stabilize GHG emissions at the 2015 level or at 
+31% of the 1990 level (table 4.5).
+Table 4.5
+Projections of GHG emissions for «Energy » and «Industrial processes»
+in accordance to Baseline and Alternative Scenario 
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons 367 265 347 408 455 500 540 570 592
+of СО
+2
+-equivalent 
+Baseline
+scenario  % 44 31 41 48 54 59 64 68 70
+of 1990
+level 
+ Scenario «Energy efﬁciency
+Million
+367 265 265 359 242 236 264 265 261
+and renewable energy, tons
+of СО
+modernization 2
+-equivalent 
+and innovation,
+Market transformation % 44 31 31 31 29 28 31 31 31
+of 1990
+and institutions»
+level 
+* Data of National Cadaster of anthropogenic emissions from the sources and absorption by absorbents
+of GHG in Ukraine over 1990-2015  
+48LEDS policies and measures in modernization and innovation
+1 Implementation of market mechanisms allowing for reduction in GHG emissions 
+№ Policy /measure  Description of policy /measure  
+Implementation of  Policy on implementation of market mechanism 
+emission trading system  allowing for reduction in GHG emissions at its ﬁrst 
+1 stage envisions to implement the  system for 
+monitoring, reporting and veriﬁcation of GHG 
+emissions  at installation level,  and  to establish 
+emission trading system at the second stage  
+Improvement of GHG 
+To develop and implement the new ﬁscal instruments 
+emissions taxation 
+applied to GHG emissions reduction, and to update 
+2 system and targeted use   taxation system for carbon emissions or fossil fuel 
+of the  revenues 
+energy consumption 
+obtained  
+2 Supporting research and development and project design works  
+№ Policy /measure  Description of policy /measure  
+Support to research and  To create prerequisites required for implementation of 
+development, R&D  advanced technologies in fossil fuel use, including,  
+products, demonstration  integrated gasiﬁcation in combined cycle (IGCC), 
+1
+projects and promotion of  carbon capture, storage and recycling (CCSR); advance 
+advance technologies  technology on coal dust, technology of circulating 
+implementation  ﬂuidized bed (CFB)
+Support and expansion  To increase funding on  R&D and project design works 
+of innovative research  which aim to:
+and development and 
+develop  the next generation technologies and to 
+project design works 
+support the “green” energy companies;
+2
+prepare and implement the measures,  which 
+contribute to increased absorption and uptake of 
+carbon by terrestrial absorbents  in forestry and 
+agriculture 
+493 Promotion of more active use of communities
+in the LEDS related policies and measures 
+№ Policy /measure 
+Establish conditions required for development and passage  by local executive 
+authorities and local self-governance bodies of comprehensive and sustainable  
+1 action plans on energy efﬁciency including clear cut goals,  engagement of  
+citizens into the process of such plans development and implementation, and 
+providing proper  information to general public  about the contents of such plans 
+and their expected results 
+4 Disclosure of information on GHG emissions and GHG absorption at enterprise level
+№ Policy /measure  Description of policy /measure  
+Public reporting on  Regular publication of information from emission 
+GHG emissions and  sources and absorption thereof  
+1
+absorption thereof  at 
+enterprise  level 
+5 Application of energy efﬁciency criteria in the public procurement process  
+№ Policy /measure  Description of policy /measure  
+Application of energy  Establishment of conditions allowing for procurement 
+efﬁciency criteria in the  by government authorities of goods and services with 
+public procurement  high level of energy efﬁciency  and  due account  for 
+1
+process   cost  efﬁciency, economic feasibility, technical 
+speciﬁcation and competition  compliance 
+6 Training and skill upgrade for professionals  
+№ Policy /measure  Description of policy /measure  
+Educational and skill  Development  the training and skill upgrade  system 
+training for energy  for  energy management system professionals  
+1 management  through government certiﬁcation program, industry 
+professional  associations and educational institutions 
+Provision of education  Establishment of preconditions as to provision of the 
+and skill training for cus- appropriate number of designers, and construction 
+2 tomers, designers  and   specialists with the level of skill allowing them to install 
+contractors who imple- and integrate required technologies in the sphere of 
+ment modern technolo- energy efﬁciency and renewable energy sources.  
+gies in energy efﬁciency, 
+RES and alternative fuels
+507 Extension of awareness raising program on climate change outcomes,
+climate change prevention and adaptation thereto  
+№ Policy /measure 
+To carry out awareness raising campaign to promote broad understanding  by 
+Ukrainian citizens  of climate change problem, climate change prevention actions 
+1
+and adaptation thereto (including such co beneﬁts as clean air and citizens 
+health).  8 Improvement of requirements to eco design labelling of energy related products
+№ Policy /measure  Description of policy /measure  
+Implementation of Eco  To give priority to products with the highest energy 
+design for products  saving potential. Eco design establishes minimum 
+1
+requirements, while energy labelling informs buyers on 
+energy and environmental characteristics  
+9 Improvement the organization of labor relations to encourage, where possible,
+the use of remote work. 
+№ Policy /measure  Description of policy /measure  
+Improvement  the  To create conditions favorable to  improvement the 
+organization  of labor  organization of labor relations at the national and local 
+1
+relations  level  in order to reduce the need  for employees travel 
+by transport vehicles 
+Figure 4.4 shows projected dynamics in GHG emissions for «Energy» and «Industrial processes» in comparison
+to 1990 (1990=100%) in accordance to Baseline and Alternative scenarios 
+Figure 4.4. 
+Share of GHG emissions in «Energy » and «Industrial processes» compared to 1990  
+70%
+70% Signe and symbols:
+60%
+БАЗ– Baseline scenario;
+54% 53%
+50% ЕЕ – «Energy efﬁciency» scenario; 
+44%
+42% 41%
+40% 36% ЕЕ+ВЕ – «Energy efﬁciency
+34% and renewable energy»; 
+37%
+30%
+31% 31%
+29% ЕЕ+ВЕ+МІ – «Energy efﬁciency
+and renewable energy, 
+20%
+modernization and innovation»; 
+10%
+ЕЕ+ВЕ+МІ+ТРІ – scenario
+«Energy efﬁciency and renewable
+0% energy, modernization
+2012* 2013* 2014* 2015* 2020 2025 2030 2035 2040 2045 2050 and innovation, market
+ БАЗ   ЕЕ   ЕЕ+ВЕ   ЕЕ+ВЕ+МІ   ЕЕ+ВЕ+МІ+ТРІ  transformation and institutions».
+* Data of National Cadaster of anthropogenic emissions from the sources and absorption by absorbents
+of GHG in Ukraine over 1990-2015 
+524.2.  Model assessment of social and economic outcomes 
+Assessments of economic outcomes of low carbon policies and measures show that their imple-
+mentation is characterized with generally positive macroeconomic effects (Figure 4.5). Boosted 
+investment processes is the main factor  that  triggers quality changes, which in turn,  result  in 
+the raised efﬁciency in production owing to lower speciﬁc consumption of energy resources. 
+Increased efﬁciency in technology and production processes contribute to additional cumula-
+tive growth in the goods and services output (6%) and GDP (13%) by 2050.   
+Enhanced productivity and increased output have positive affect on real income of households. 
+It is expected that by 2035 additional increase in household consumption can amount to 8%, and 
+will reach 13% by 2050.
+14 13,3 
+13,0 
+12,1 
+11,8 
+12
+10,6 
+10,3 
+10
+9,0 
+8,6 
+8
+7,1 
+6,7 
+5,7 
+6 5,3 
+4,8  4,8 
+4,4  4,1 
+4 3,3 
+2,2  2,3 
+2 1,6  1,6 
+0,9  0,7 1,0  1,0 
+0,4 0,4 
+0
+2018 2019 2020 2025 2030 2035 2040 2045 2050
+Output  Household incomes    GDP 
+Figure 4.5. Macroeconomic assessments of energy de-carbonization (percentage of Baseline scenario)
+53At the industry level,  the start of low carbon development policies and measures implementa-
+tion will  bring about moderate structural shifts,  which will be  manifested in the increased share 
+of services, and, construction - as the main suppliers of investment products - and also  in the 
+shares of some processing industries, notably, chemical and   metal industry (Figure 4.6.) 
+Slowdown in goods, and services output growth rate should characterize the industries related 
+to fossil fuels extraction and processing. 
+20
+10
+0
+-10
+-20
+-30
+-40
+Distribution of gasC oal mining HOiyl dprroocdarubctos n extracCtiokoen production AgElriecctulrticu rpe ower sectorC onstruction Transport MetallWuorogyd processing Non-Treandere gy miCnherealmis calP iunbldiuc stardyministratiFoon od industry Healthcare Education 
+2020 2050
+Figure 4.6. Changes in the goods and services output by the industry (percentage baseline scenario)
+Overall, de-carbonization of Ukraine's energy sector will result in positive social and economic 
+outcomes. Speciﬁcally, it is expected that GDP and real income of household will show additional 
+growth. Under increase in total goods and services output, the share of economic activities with 
+high gross value added will be growing at the industry level. Reduced scope of fossil fuels con-
+sumption will contribute to increased level of national energy security and lowered import 
+dependency.  
+In 2050, given the policies and measures of Ukraine's energy sector de-carbonization are imple-
+mented,  GHG emissions in «Energy» and  «Industrial processes»  will be expected  to stay within  
+31-34%  of 1990 level or 260-285 million tons of СО2-equivalent. 
+544REDUCING
+NON CO
+2 
+EMISSIONS 
+5
+58In 2015 methane emissions in Ukraine amounted to 62.7 million tons of СО2-
+equivalent, which is by 67.1% lower than in 1990.  The largest sources of СН4 
+i
+(61%)  emissions are coal mines, as well as the processes of oil and natural gas 
+extraction, transportation, storage and consumption. In agriculture emissions 
+amount to 21%, in wastes treatment sector to 18%.
+Nitrogen oxide emissions in 2015 totaled at 37.21 million tons of СО2-
+equivalent, which is by 43.3% lower compared to 1990. Producing over 85% 
+nitrogen oxide emission agriculture is a prevailing source of such emissions in 
+Ukraine.  
+5.1. Reducing leaks in the fossil fuel extraction, processing, transportation and storage 
+1 Reducing leaks in gas sector 
+№ Policy /measure  Description of policy /measure  
+Reduction of leaks in  To implement new methane capture technologies at 
+gas extraction with the  different technological stages of extraction process can 
+1 help of new methane  reduce methane emissions by 2.5% 
+capture technologies 
+Reduction of leaks in  To introduce innovations and technologies to reduce 
+natural gas  technical and process design related losses at Ukraine's 
+transportation process  gas pipeline system, and, in consequence, to that, to 
+through modernization  reduce GHG emissions in the process of natural gas 
+2
+of Ukraine's gas  transportation in the main and distribution gas 
+pipelines system  pipelines.  
+2 Reducing leaks in oil extraction transportation and processing 
+№ Policy /measure  Description of policy /measure  
+Reducing leaks in oil  To prevent  oil evaporation losses in oil and  oil products 
+extraction transportation  production, storage and transportation, and also at oil 
+1 and processing  reﬁneries through implementation of respective 
+innovations and technologies 
+3 Removal, usage and recycling the coalmine methane from underground coal mines  
+№ Policy /measure  Description of policy /measure  
+Removal, usage and  To promote geology study, extraction and use of coal 
+recycling the coalmine  ﬁelds methane,  degassation and recycling of methane, 
+1 methane from  in particular, installation of cogeneration plants 
+underground coal mines  
+56Ukraine's oil processing industry is characterized by exacerbated manifestation 
+! of crises in the market due to reduced production of oil,  decrease in import of  
+essential raw materials and low depth of raw materials processing (only at the 
+level  55%) due to outdated equipment and substantial worn out of production 
+facilities. Ukraine needs to update its technological support in oil reﬁneries to 
+93% level of oil processing.  
+5.2.  Improvement of waste treatment 
+In this sphere, the policy aims to create preconditions, which will enable to increase the share of 
+SHW utilization, to maximize their re-introduction in economy as secondary resources. Through 
+waste generation reduction programs, this policy will facilitate reduction in the scope of waste 
+from residential, commercial and administrative sectors. Decreasing generation of waste imme-
+diately at the source of its original generation helps to reduce the GHG emissions from both 
+waste burial, and from upstream production processes along manufacturing chain. In addition, 
+GHG emissions associated with SHW transportation will be reduced. 
+1 Reducing the scope  of waste and prevention of waste generation  
+№ Policy /measure 
+Drafting regulations introducing extended responsibility   of producers of 
+1 goods with expiration date (packaging, medicine, electric home appliances, 
+tires, cars, etc.)
+Development and implementation by local executive authorities  and local self-
+2
+governance bodies of solid household wastes treatment 
+Implementation of ﬁnancial and economic mechanism to develop the SHW 
+treatment infrastructure and services, namely, VAT exemption, and customs 
+3
+duties privileges enabling to bring into Ukraine the sort of equipment, which is 
+not produced in Ukraine.
+2 Social advertising campaigns which aim to reduce SHW generation
+3 Improvement the SHW treatment methods, promotion of recycling and utilization
+574 Improvement of waste water  treatment 
+№ Policy /measure  Description of policy /measure  
+Reduction in waste  To introduce new water consumption  and waste water 
+water generation  reduction technologies, carry out public awareness 
+1
+campaign to reduce water consumption 
+Improvement of waste  To apply new technologies and management methods  
+2 water  and  waste water  to improve waste  water and  sludge treatment 
+sludge treatment 
+Expansion of district   To establish prerequisites required to expand district 
+waste water treatment  wastewater treatment infrastructure (pipeline system, 
+capacities  to enable  pumping stations, and puriﬁcation facilities) to the areas, 
+them  to provide   which currently are not yet covered by such systems. 
+services to the areas  
+which are not yet 
+covered with such 
+services 
+Spreading out or  To establish prerequisites required to expand  district  
+expansion the  waste water treatment infrastructure (pipeline system, 
+regenerated water  pumping stations, puriﬁcation facilities) up to  “regener-
+usage  ated water” safety level and delivery,  in order to use 
+such water for watering of lawns, sport ﬁelds, and agri-
+cultural lands or to meet other not drinking water needs.   
+5.3.  Agriculture  
+Methane and nitrogen oxide are main GHG emissions produced by Ukraine's agriculture.  Their 
+sources include digestive fermentation by grazing animals - CH4; cleaning, collection and usage of 
+manure - CH4 and N2O, agriculture used land – N2O , which comes from application of nitrogen 
+containing fertilizer (nitrogen fertilizer, manure, plant residues).
+Energy efﬁciency and renewable energy polices and measures for agriculture are presented in 
+Section 4.1
+58LEDS policies and measures in agriculture 
+1 Improvement of animal origin co-products treatment process components 
+№ Policy /measure  Description of policy /measure  
+Drafting nationally  To draft and implement recommendations on energy 
+acceptable   value increase in feeding staff which will result in smaller 
+recommendations on  amount of feed staff conversion into methane. Usage of 
+1
+animal feeding practice  speciﬁc natural or synthetic additives will also contribute 
+improvement  to higher digestibility of feeding staff and will inhibit  
+methane output 
+Promotion the  Incentives will be provided mostly to small and mid-size 
+implementation  by  agribusinesses for them to introduce advanced manure  
+agricultural enterprises   treatment technologies such as fermentation, avoidance 
+of all ownership  of contact with air in storage process,  blending to 
+2 (incorporation) forms of  reduce the loss of nutrition substances, application of 
+the improved  advanced methods of ﬁeld manuring which preclude 
+technologies for manure  manure dusting or spreading on the surface, and,   
+disposal, storage and use  hence, reduce N2O, emissions)
+2 Optimization the system of agricultural crops fertilization  
+№ Policy /measure  Description of policy /measure  
+Enhancement efﬁciency   To implement scientiﬁcally justiﬁed technologies in 
+in the use  of fertilizers   application of fertilizers and other chemical substances, 
+which will help to reduce N2O emissions, because 
+1
+nitrogen surplus that was ﬁxated by plants may either 
+go to subterranean waters and/or emitted into air.  
+Rational water use in  Incentivizing more efﬁcient use of water by 
+agricultural lands  implementing best practices in prevention of washing 
+out of nitrogen from the surface and subsequent N2O 
+emissions into air. 
+2
+60CARBON SINK 
+BY LAND USE LAND  
+USE CHANGE 
+AND FORESTRY 
+SECTOR
+66.1. Land use and forestry sector and its contribution to GHG balance    
+Ukraine occupies the territory of 60354. 9 thousand hectares or 0.4% of the Earth surface, of 
+which the land amounts to 57928. 5 thousand hectares. Ukraine owns 8.7% of the world stock of 
+black soil, 2.3% of cropland (8th in the world) and 2.2% of basal area under cereal crops. 
+Agricultural use lands take almost 70% of Ukraine's territory, forests and other lands, covered in 
+woods and bushes vegetation - 17.6%, and settlement land constitute 4.2%. Fig. 6.1 shows the 
+structure of Ukraine's land resources. 
+1,7 4
+  1 ,6
+  4,2
+ 
+Agricultural lands 
+  Forests and other forest
+17,6
+covered areas 
+Settlements
+ 
+68,8 Open wetlands
+Open lands without plant
+cover
+Waters (areas covered
+with surface waters )
+Fig. 6.1 structure of Ukraine's land resources (percentage) in 2015
+(according to the data of Geocadastre of Ukraine)
+Forests is the main sink of GHG emissions in LULUCF sector. According to the State register of 
+Ukraine's  forests,  the  total  territory  of  forest  resource  is  10.8  million  hectares  including 
+reclamative afforestation. Prevailing in Ukraine is the State form of forest ownership; about 87% 
+of forests are managed by State entities and organizations.  The sector's speciﬁc feature includes 
+imbalanced land usage structure, excessive ploughness of territory, and low level of forest cover 
+of the territory (average forest cover in Ukraine amounts to 15.9%, while that in European coun-
+tries is 37%).
+LULUCF sector contribution to total emission/absorption balance is positive. According to 
+National Cadaster of anthropogenic emissions from sources and absorption of greenhouse 
+gases absorbers over 2015 in Ukraine the sector absorbed about 5% of the total GHG emissions. 
+In absolute terms, for the period 2010 - 2015 the level of absorption in the sector stayed within 
+the range of 13-30 million t СО2 equivalent per annum. 
+62Forestlands are net GHG absorbers - on average for the period 2010-2015 the scope of GHG 
+absorption by forests amounted to 65.5 million t of СО2 equivalent per annum. GHG emissions 
+in the sector were mostly coming from croplands, pastures, wetlands, settlements and other 
+lands. The scope of GHG emissions from croplands on average totaled at 38.8 million t СО2 
+equivalent per annum (Fig. 6.2).
+2015
+22001144
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+-150000 -100000 -50000 0 50000
+Together                           Forest lands
+Arab                         le Pastures
+Wetlands                           Constructed land
+Other lan                         ds Harvested wood products
+Fig.  6.2. Dynamics in C02 emissions and absorption (million tons) in LULUCF sector over 1990-2015 (source: NIR-2017)
+* 1990-2015 data of the National Cadaster of anthropogenic emissions from sources
+and absorption of greenhouse gases absorbers  
+6436.2  Low carbon policies and measures in land development and forestry 
+Forest cultivation, sustainable forestry and reduction in the loss of forest cover are the most 
+appropriate activities to increase GHG emissions absorption in LULUCF sector. Of agricultural 
+practices, the optimum include non-exhaustive farming, cattle grazing and organic soil restora-
+tion. Ukraine's speciﬁc feature include  imbalanced land usage structure,  excessive ploughness 
+of territory, and also low level of forest cover of the territory (average forest cover in Ukraine 
+amounts to 15.9%, while that in European countries is 37%). 
+Within the territories of cities and other inhabited localities, the total area of green planting of all 
+types as of 01.01.2015 amounted to 652, 1 thousand hectares. 
+Ukraine belongs to the group of countries with the highest share of agricultural lands in its total 
+area of – 70.8% as of 01.01.2015, including agricultural arable lands – 68.8%, pastures and hey 
+ﬁelds– 13.0%.
+LEDS policies and measures in LULUCF sector  
+1 Optimizing the land use structure, increase in the forest area, wood lines 
+and green plants, enhancement of interagency coordination  
+Policies and measures aim to:
+reduce cropland in the land use structure; 
+increase the area of lands covered with forest vegetation, to create new forests (afforestation) 
+and to timely restore the forests (reforestation);
+Rationally place forests and declarative afforestation, which constitute ecological carcass in 
+the landscape, and restore ﬁeld protection strips and other types of declarative afforestation;
+to take stock of green vegetation in the inhabited localities, assess their status and carbon 
+sequestration; 
+to green the inhabited localities, which implies to incentivize measures of support and 
+improvement  the status of trees and plants in residential areas of inhabited localities, to increase 
+plants density in urban environment via creating of public and  curtilage gardens,  green roofs, 
+and to plant  different types of vegetation to enable sequestration and uptake of accumulated 
+carbon; 
+to enhance interagency coordination, in particular, among forestry, agriculture etc. 
+2 Improvement the practices of economic activities in LULUCF sector   based on 
+climate    friendly  methods  of    farming  and  forest  management  -  Climate  Smart 
+Agriculture, Climate Smart Forestry
+64Policy and measures aim to: 
+implement and support best practices of farming and forest management, which take due 
+account of climate change and aim to prevent carbon take out  from soils in agrocoenosis,  
+increase the level of forest productivity and resilience, to preserve and accumulate carbon in 
+forest  phytomass and soil; 
+to improve conservation and protection of forests and conservation areas, green vegetation 
+in the inhabited localities, conservation of ﬁeld protection forest strips and other reclamative  
+afforestation to  store the accumulated (sequestered) carbon; 
+to introduce economic incentives of land user (owner) to rationally use and protect agricul-
+tural lands;
+to combat degradation of agricultural lands and desertization, including via conservation of 
+low productive and technologically polluted lands;
+to improve methods of agro technical regulation of carbon content in soil, which  means  
+promotion  implementation of innovative agri-technologies, geared towards preservation and 
+improvement of fertility, non-alkalic cultivation and rotation of crops; to lower mechanical 
+impact on the soil;
+to support measures which aim to transform low productive agricultural lands  into lands 
+with permanent plantation cover, such as meadow/pasture, garden or forest where the carbon 
+content in the soil and/or biomass will increase;
+to reduce the rate of agricultural lands transformation into build-up lands, as this will help to 
+uptake carbon in the soil of such land and also keep their carbon sequestration potential.
+3 Development and implementation of national forestry development program 
+with the engagement of the best international experience 
+National Forestry development program will include the following components: policy and 
+strategy (set of the national and regional forest policy, goals and ways to achieve them, assign-
+ment of responsibilities, connectivity with other sector policies in the sphere of land use and 
+climate change); legislation (laws which will enable policy implementation, regulatory frame-
+work); institutions (organizations for decision making preparation and implementation – forest 
+administrations, civic organizations, professional association and NGO, R&D institutions, educa-
+tional institutions and media); information, communication and research (stock taking and 
+monitoring of forests,  forest information system, collection, exchange and dissemination of 
+information on  forests, including information  on climate change and vulnerability; research of 
+biophysical, social and political aspects related to forest problems and climate change; reports 
+to national and international organizations; communication and awareness raising work  for 
+interested groups  and general public); competence  (knowledge and experience, which make it 
+possible to efﬁciently respond  to climate change produced challenges in forestry  and ability to 
+65efﬁciently resolve the tasks related to planning, management and economic activities); ﬁnancial 
+mechanisms (mechanisms which are used to ﬁnance forestry, mechanisms for attraction, 
+management and allocation of ﬁnancial resources;  and control mechanisms).
+4 Promotion of replacement of energy intense products made of metal, concrete, 
+plastic etc.  With products made of wood grown under sustainable (balanced forestry). 
+Implementation of such policy promotes the use of wood in which the absorbed carbon is 
+conserved for such wood usage period. In addition to that, the policy will also contribute to 
+reduction of GHG emissions in other sectors inconsequence to energy intense products being 
+replaced with products made of metal, concrete, plastic with wooden products.
+To efﬁciently implement forestry potential as regards lows carbon development applied shall 
+forestry methods which factor in the climate change in accordance to Climate Smart Forestry. 
+Key elements to this concept of forestry include the following: 
+application of «triune» approach  - absorption (sink ), sequestration (deposing) and replace-
+ment; 
+establishment of new political incentives; 
+due account of  regional (local) speciﬁc features of forests in the process of climate preven-
+tion measures implementation and adaptation thereto; 
+interaction in solving the climate change problems and other challenges (such as develop-
+ment of bio economics, food safety, rural areas, recreation, tourism, biodiversity );
+synergy in  climate change prevention and adaptation thereto.
+6.3  Projections of GHG emissions absorption dynamics under different scenarios of 
+Ukraine's forestry sector development  
+Projections of GHG emissions absorption dynamics under different scenario of Ukraine's forestry 
+sector development are based on the outcomes of international project SCEFORMA «Scenario 
+analysis of forestry management in Check Republic, Hungary, Poland and Ukraine». 
+Analysis of Ukraine's forestry sector development scenarios was performed with the help of the 
+model of European Forest Institute EFISCEN based on processing information for each forest 
+plot, which is included in the database of the State Forest Agency of Ukraine «Forest Fund of 
+Ukraine». General modelling scheme included assessments of the following:
+Natural growth in forest stand;
+66Natural growth in forest stand;
+Scope of wood substance, harvested in course of cutting
+(main use, care felling and forest sanitation felling);
+Losses of wood substance due to adverse factors such (ﬁres, pests, diseases etc…);
+Forest regeneration ( forest restoration and afforestation);
+The scope of GHG absorption in the forests is projected based on two main scenarios of Ukraine's 
+midcentury forestry development - «business as usual, » scenario developed on the basis of 
+expert modiﬁcation of previous and modern trends in economic and social development, and 
+«forward looking scenario,» which envisions achievement of forestry and natures protection 
+activities targets in accordance to government strategies deﬁned priorities and programs. The 
+third, additional scenario, made it possible to estimate the scope of GHG absorption in the 
+process of forest cultivation (afforestation) in the area of million 1.4 hectare, which, given the 
+“forward looking” scenario implementation shall by 2050 ensure increase in Ukraine's forest 
+cover up to 19.4% and approximate it to optimum level. The State Forest Service of Ukraine set 
+up the above presented scope of forest cultivation and forest cover targets in the course of 
+drafting «Ukraine forests 2010-2015 State program. »
+«Forward looking scenario, » envisioned support to protection, environment protection and 
+recreations functions of forests, introduction of improved forest management regime (imple-
+mentation of close to nature forestry, changes in the ages of ﬁnal felling operations, roll out of 
+target forest calculation etc...). According to «forward looking» scenario, the forest areas 
+intended for nature protection, recreation and safeguard purposes is increased,  yet they are not 
+fully excluded  from wood usage. Final felling operations (or forest restoration fellings) shall be 
+restricted by higher felling age, conservation methods and technologies and reduced cutting 
+areas. It should be underscored, that the felling areas increase gradually.  Such a strategy is 
+justiﬁed given additional beneﬁts provided by protection, recreational and environmental 
+functions of forests. If «forward looking» scenario is implemented, because of forest cultivation 
+(afforestation) it is expected that the area of forest covered lands will gradually increase from 
+15.9% to 17%.
+Dynamics in the GHG absorption scope in Ukrainian forests was calculated in accordance to 
+above-mentioned scenarios. Calculations includes determination of carbon sequestration  in 
+forest phytomass, dead wood substance forest litter vegetation ( without including carbon in 
+forest soil, as it is assumed that under unchanged land use, the lands which are permanently 
+covered  with forest vegetation retain stable stock of carbon.)
+According to «business as usual» scenario, by 2050 a gradual decrease in phytomass growth in 
+the forests is expected mostly due to the age change in forest structure, which will bring about a 
+gradual decrease in the GHG absorption level. It is expected that by 2050 the annual GHG 
+absorption level will decrease by 26% compared to 2012, and will amount to about 44.4 million t 
+СО2 per year (Table 6.1).
+67Table 6.1
+GHG absorption projections in Ukrainian forests according to «business as usual» scenario  
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons
+60 56,4 55,3 52,8 50,3 48,8 47,4 45,9 44,4
+of СО
+«Business as usual» -equivale2nt 
+scenario 
+%
+of 1990 95 89 87 83 79 77 78 72 70
+level 
+Implementation of «forward looking» scenario will contribute to improvement in the forest age 
+structure on account of new forests creation and optimization of forestry system (differentiation 
+of felling ages, reduction in the area of clear felling operations and increase in the area of selec-
+tive and gradual felling in ﬁnal felling, improvement in forests security and protection from pests, 
+diseases and ﬁres). According to «forward looking» scenario forest cultivation will be performed 
+at the area covering around 690 thousand hectare, which will  enable to increase Ukraine's forest 
+cover up to 17%, as per the Law of Ukraine   dated 21 December 2010, № 2818-VI «On 
+Foundations (Strategy) of the State Environmental Policy of Ukraine for the Period through 
+2020.»
+Implementation of «forward looking» scenario will enable to gradually by 2030 adjust forest age 
+structure even though it may take about 50 more years to reach the optimum age structure.  
+According to this  scenario biomass growth, as is the case  of  «business as usual» scenario, will 
+also decrease due to objective reasons related to dynamics in the age structure of  forests, yet 
+the decrease will not be substantial. Decreased growth in phytomass will result in reduced 
+annual GHG absorption levels in forest phytomass by 16% compared to 2012.  In 2050, СО2 
+absorption is projected to reach 50.4 million t per annum (Table 6.2).
+Table 6.2
+GHG absorption projections in Ukrainian forests according to «business as usual» scenario  
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons
+60,0 57,6 56,4 54,6 52,8 52,2 51,6 51,0 50,4
+of СО
+2
+-equivalent 
+«Forward looking»
+scenario 
+%
+95 91 89 86 83 82 81 80 79
+of 1990
+level 
+68Additional estimates for GHG absorption level were made under the following assumptions:
+Achievement of 19.4% of forest cover in Ukraine;
+Implementation of «forward looking» scenario (forest cultivation at the area of 690 thousand 
+hectare) with parallel afforestation in the area of 1.45 million hectares, as per Forest Cultivation 
+Strategy in Ukraine, drafted in 2015 as a part to FAO Project «Consolidation of Ukraine's  Forest 
+Policy.»
+Additional forest cultivation will enable to increase GHG absorption level by 3.5 million t of СО2-
+equivalent, and further on the absorption level at forest cultivation lands will increase owing to 
+phytomass growth in the newly created forests. Given that «forward looking scenario with 
+optimum forest cover, » is implemented, the scope of GHG absorption will stabilize after 2035 at 
+the level of 85% of 1990 (Table 6.3). 
+Table 6.3
+GHG absorption projections in Ukrainian forests according to «forward looking» scenario
+with approximation to optimum forest cover scenario in forest cultivation (afforestation) in Ukraine 
+Scenario  Unit  2012* 2015* 2020 2025 2030 2035 2040 2045 2050
+Million
+tons 60 57,6 57,0 55,6 54,3 54,1 54,1 54,0 53,9
+«Forward looking» of СО
+2
+-equivalent 
+scenario with
+optimum
+%
+forest cover  of 1990 95 91 90 88 86 85 85 85 85
+level 
+Given proper implementation of other policies and measures in LULUCF sector, with quantitative 
+assessment of their impacts on GHG emissions dynamics being complicated due to uncertainty 
+of input parameters, GHG emissions absorption balance will correspond 1990 level.
+69REFERENCES 
+Адаменко Т. І. Агрокліматичне зонування території України з врахуванням зміни клімату
+[Електронний ресурс] – Режимдоступу:
+http://www.gwp.org/globalassets/global/gwp-cee_ﬁles/idmp-cee/idmp-agroclimatic.pdf
+Видобування сланцевого газу та зміна клімату [Електронний ресурс] – Режимдоступу:
+http://shalegas.in.ua/shale-gas-and-climate-change
+Махортих Д. О. Щодо тенденцій розвитку економіки України у 2014–2015 рр. Аналітична
+записка  [Електронний ресурс] – Режимдоступу: www.niss.gov.ua
+ДБН В.2.6-31:2016 «Теплова ізоляція будівель» [Електронний ресурс] – Режимдоступу:
+http://dbn.at.ua/dbn/DBN_V.2.6-31-2016_Teplova_izolyatsiya_budively.pdf
+Закон України «Про альтернативні види палива» від 14 січня 2000 р. № 1391-XIV [Елек-
+тронний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/1391-14
+Закон України «Про альтернативні джерела енергії» від 20 лютого 2003 р. № 555-IV [Елек-
+тронний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/555-15
+Закон України «Про внесення змін до деяких законів України щодо встановлення "зеленого"
+тарифу» від 25 вересня 2008 р. № 601 [Електронний ресурс] – Режимдоступу:
+http://zakon2.rada.gov.ua/laws/show/601-17
+Закон України «Про внесення змін до Закону України «Про питну воду та питне водопо-
+стачання» від 18 травня 2017 р. № 2047-VIII [Електронний ресурс] – Режимдоступу:
+http://zakon2.rada.gov.ua/laws/show/2047-19
+Закон України «Про газ (метан) вугільних родовищ» від 21 травня 2009 р. № 1392-VI (у ре-
+дакції від 22.09.2016) [Електронний ресурс] – Режимдоступу:
+http://zakon3.rada.gov.ua/laws/show/1392-17
+Закон України «Про енергетичну ефективність будівель» від 22 червня 2017 р. № 2118-VIII
+[Електронний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/2118-19
+Закон України «Про Основні засади (стратегію) державної екологічної політики України на
+період до 2020 р.» від 21 грудня 2010 р. № 2818-VI [Електронний ресурс] – Режимдоступу:
+http://zakon2.rada.gov.ua/laws/show/2818-17
+741Закон України «Про ратифікацію Кіотського протоколу до Рамкової конвенції Організації
+Об'єднаних Націй про зміну клімату» від 4 лютого 2004 р. № 1430-IV [Електронний ре-
+сурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/1430-15
+Закон України «Про ратифікацію Паризької угоди» від 14 липня 2016 р. № 1469-VIII [Елек-
+тронний ресурс] – Режимдоступу:http://zakon5.rada.gov.ua/laws/show/1469-19
+Закон України «Про ратифікацію Рамкової конвенції ООН про зміну клімату» від 29 жовтня
+1996 р. № 435/96-ВР [Електронний ресурс] – Режимдоступу:
+http://zakon3.rada.gov.ua/laws/show/435/96-%D0%B2%D1%80
+Закон України «Про ринок  електричної енергії» від 13 квітня 2017 р. № 2019-VIII [Елек-
+тронний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/2019-19
+Закон України «Про ринок природного газу» від 9 квітня 2015 р. № 329-VIII [Електронний
+ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/329-19
+Закон України «Про Фонд енергоефективності» від 8 червня 2017 р. № 2095-VIII [Елек-
+тронний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/2095-19
+Закон України «Про Основні засади (стратегію) державної екологічної політики України на
+період до 2020 року»від 21 грудня 2010 р. № 2818-VI [Електронний ресурс] – Режимдо
+ступу: http://zakon3.rada.gov.ua/laws/show/2818-17
+Земельний фонд України станом на 1 січня 2016 р. та динаміка його змін порівняно з да-
+ними на 1 січня 2015 р. [Електронний ресурс] – Режимдоступу:
+http://land.gov.ua/info/zemelnyi-fond-ukrainy-stanom-na-1-sichnia-2016-roku-ta-dynamika-
+ioho-zmin-u-porivnianni-z-danymy-na-1-sichnia-2015-roku/
+Індикатори. Статистика [Електронний ресурс] / Міжнародне енергетичне агентство –
+Режимдоступу:
+http://www.iea.org/statistics/statisticssearch/report/?country=UKRAINE&product=in-dica
+tors&year=2015
+Індикатори. Статистика [Електронний ресурс] / Міжнародне енергетичне агентство –
+Режимдоступу:
+http://www.iea.org/statistics/statisticssearch/report/?country=UKRAINE&product=in-dica
+tors&year=2015
+Лісове господарство України. Держлісагентство України. – 2017. – 48 с.
+72Національний кадастр антропогенних викидів із джерел та абсорбції поглиначами парни-
+кових газів в Україні за 1990–2015 рр. [Електронний ресурс] – Режим доступу:
+http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/item
+s/10116.php
+План заходів з імплементації Директиви Європейського парламенту та Ради 2009/28/ЄС
+від 23 квітня 2009 р. про заохочення до використання енергії, виробленої з відновлюваних
+джерел енергії, якою вносяться, а в подальшому скасовуються зміни до Директиви
+2001/77/ЄС та 2003/30/ЄС, затверджений Розпорядженням Кабінету Міністрів України від
+3 вересня 2014 р. № 791-р [Електронний ресурс] – Режимдоступу: 
+http://zakon2.rada.gov.ua/laws/show/791-2014-%D1%80
+Податковий кодекс України [Електронний ресурс] – Режимдоступу:
+http://zakon2.rada.gov.ua/laws/show/2755-17
+Подолець Р. З., Дячук О. А. Стратегічне планування у паливно-енергетичному комплексі
+на базі моделі «TIMES-Україна»: наук. доп. [Електронний ресурс]  / НАН України; Ін-т екон.
+та прогнозув. – К., 2011. – 150 с. – Режимдоступу: 
+http://www.ief.org.ua/docs/sr/NaukDop(PodoletsDiachuk)2011.pdf.
+Потери нефти и нефтепродуктов при эксплуатации резервуарных парков. [Електронний
+ресурс] – Режимдоступу: https://gazovikneft.ru/articles/poteri/
+Розпорядження Кабінету Міністрів України «Про  затвердження плану заходів щодо вико-
+нання Концепції реалізації державної політики у сфері зміни клімату на період до 2030 р.»
+від 6 грудня 2017 р. № 878-р [Електронний ресурс] – Режимдоступу:
+http://zakon3.rada.gov.ua/laws/show/878-2017-%D1%80
+Розпорядження Кабінету Міністрів України «Про Національний план дій з відновлюваної
+енергетики на період до 2020 р.» від 1 жовтня 2014 р. № 902-р [Електронний ресурс] –
+Режимдоступу:http://zakon5.rada.gov.ua/laws/show/902-2014-%D1%80
+Розпорядження Кабінету Міністрів України «Про Національний план дій з енергоефектив-
+ності на період до 2020 р.» від 25 листопада 2015 р. № 1228 [Електронний ресурс] – Режим
+доступу: http://zakon2.rada.gov.ua/laws/show/1228-2015-%D1%80
+Розпорядження Кабінету Міністрів України «Про схвалення Енергетичної стратегії України
+на період до 2035 р. “Безпека, енергоефективність, конкурентоспроможність” від 18 серпня
+2017 р. № 605-р [Електронний ресурс] – Режимдоступу:
+http://zakon2.rada.gov.ua/laws/show/605-2017-%D1%80
+73Розпорядження Кабінету Міністрів України «Про схвалення Концепції реалізації державної
+політики у сфері зміни клімату на період до 2030 р.» від 7 грудня 2016 р. № 932-р  [Елек-
+тронний ресурс] – Режимдоступу: 
+http://www.kmu.gov.ua/control/uk/cardnpd?docid=249573705
+Розпорядження Кабінету Міністрів України «Про схвалення Концепції реалізації дер-
+жавної політики у сфері теплопостачання» від 18 серпня 2017 р. № 569-р [Електронний
+ресурс] – Режимдоступу: http://zakon2.rada.gov.ua/laws/show/569-2017-%D1%80
+Розпорядження Кабінету Міністрів України «Про схвалення Національної стратегії управ-
+ління відходами в Україні до 2030 р.» від 8 листопада 2017 р. № 820-р [Електронний ре-
+сурс] – Режимдоступу: http://zakon2.rada.gov.ua/laws/show/820-2017-%D1%80
+Розпорядження Кабінету Міністрів України «Про схвалення Очікуваного національно ви-
+значеного внеску України до проекту нової глобальної кліматичної угоди» від 16 вересня
+2015 р. № 980 [Електронний ресурс] – Режимдоступу: 
+http://zakon5.rada.gov.ua/laws/show/980-2015-%D1%80
+Розпорядження Кабінету Міністрів України «Про схвалення Стратегії розвитку аграр-
+ного сектора економіки на період до 2020 р.» від 17 жовтня 2013 р. № 806-р [Елек-
+тронний ресурс] – Режимдоступу:
+http://zakon3.rada.gov.ua/laws/show/806-2013-%D1%80
+Стратегія лісорозведення в Україні, розроблена в рамках проекту ФАО «Консоліда-
+ція лісової політики в Україні» 2015 р. [Електронний ресурс] – Режимдоступу:
+http://dklg.kmu.gov.ua/forest/control/uk/archive/docview?typeId=152574&docId=152807&sear
+ch_param=%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1
+%8F+%D0%BB%D1%96%D1%81%D0%BE%D1%80%D0%BE%D0%B7%D0%B2%D0%B
+5%D0%B4%D0%B5%D0%BD%D0%BD%D1%8F&searchForum=1&searchDocarch=1&sear
+chPublishing=1
+Угода про асоціацію між Україною з однієї сторони та Європейським союзом, Європейським
+співтовариством з атомної енергії і їхніми державами-членами з іншої сторони [Електрон-
+ний ресурс] – Режимдоступу:http://zakon2.rada.gov.ua/laws/show/984_011
+Указ Президента України «Про Стратегію сталого розвитку “Україна-2020”» від 12 січня
+2015 р. № 5/2015 [Електронний ресурс] – Режимдоступу:
+http://zakon3.rada.gov.ua/laws/show/5/2015
+Чепелєв М. Г. Моделювання та оцінка економічних наслідків субсидіювання побутових спо-
+74живачів енергетичних ресурсів: дис. канд. екон. наук: 08.00.2011 / Чепелєв Максим Григо-
+рович. – Київ, 2015. – 266 с. – Бібліогр.: с. 195–230. 
+Швиденко A. З.  Вуглець, клімат та землеуправління в Україні: лісовий сектор: Монографія
+/ A. Швиденко, П. Лакида, Д. Щепащенко, Р. Василишин, Ю. Марчук. – Корсунь-Шевчен-
+ківський: ФОП Гавришенко В. М., 2014. – 283 с.
+Шосте національне повідомлення України з питань зміни клімату. [Електронний ре-
+сурс] – Режимдоступу:
+http://unfccc.int/national_reports/national_communications_and_biennial_reports/submissions/ite
+ms/7742.php
+Climate-smart agriculture [Електронний ресурс] – Режимдоступу:
+http://climate-adapt.eea.europa.eu/metadata/publications/climate-smart-agriculture
+Gert-Jan Nabuurs, Philippe Delacote, David Ellison, Marc Hanewinkel, Marcus Lindner, Martin
+Nesbit, Markku Ollikainen and Annalisa Savaresi. 2015. A new role for forests and the forest sec-
+tor in the EU post-2020 climate targets. From Science to Policy 2. European Forest Institute.
+IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to
+the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D.
+Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley
+(eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp. 
+IPCC, 2014: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and
+Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Inter-
+governmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, K.J. Mach, M.D.
+Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel,
+A.N. Levy, S. MacCracken, P.R. Mastrandrea, and L.L.White (eds.)]. Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA, 1132 pp.
+IPCC, 2014: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional As-
+pects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental
+Panel on Climate Change [Barros, V.R., C.B. Field, D.J. Dokken, M.D. Mastrandrea, K.J. Mach,
+T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C. Genova, B. Girma, E.S. Kissel, A.N. Levy,
+S. MacCracken, P.R. Mastrandrea, and L.L.White (eds.)]. Cambridge University Press, Cam-
+bridge, United Kingdom and New York, NY, USA, pp. 688. 
+IPCC, 2014: Climate Change 2014: Mitigation of Climate Change. Contribution of Working
+Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change
+75[Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler,
+I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow,
+T. Zwickel and J.C. Minx (eds.)]. Cambridge University Press, Cambridge, United Kingdom
+and New York, NY, USA.
+IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and
+III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writ-
+ing Team, R.K. Pachauri and L.A. Meyer (eds.)]. IPCC, Geneva, Switzerland, 151 pp.
+Mart-Jan Schelhaas, Martin Cerny, Igor Buksha et. all., 2004. Scenarios on Forest Management
+in the Czech Republic, Hungary, Poland and Ukraine. European Forest Institute Research Re-
+ports 17. BRILL. – 107 p.

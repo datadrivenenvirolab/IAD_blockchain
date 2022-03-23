@@ -1,0 +1,2584 @@
+ 
+ 
+Informative Report 
+Strategy of Latvia for the Achievement of Climate Neutrality by 2050 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2019 
+   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre) Table of Contents 
+ 
+Terms .......................................................................................................................................... 3 
+Abbreviations ............................................................................................................................. 5 
+Introduction ................................................................................................................................ 6 
+1. Objective, Indicators, and Directions for Action .................................................................... 9 
+1.1. Overarching Objective and Intermediate Objectives of the Strategy ........................... 9 
+1.2. Indicators .................................................................................................................... 10 
+1.3. Action Directions ....................................................................................................... 11 
+1.4. General Principles for the Implementation of LCD and the Strategy ........................ 12 
+2. Basic Assumptions ............................................................................................................... 14 
+3. Linkage of the Strategy with Existing Legal Acts and Policy Planning Documents ........... 18 
+4. Current Progress of Latvia in Advancement Towards Climate Neutrality .......................... 21 
+4.1. Structure and Dynamics of GHG Emissions (Excluding the LULUCF Sector) ........ 21 
+4.2. LULUCF Sector Net Emissions – Structure and Dynamics ...................................... 24 
+4.3. Joint Progression of Latvia Towards Climate Neutrality ........................................... 25 
+5. Most Significant Factors Affecting the Amount of Occurrence of GHG Emissions of Latvia 
+in Different Sectors of National Economy ............................................................................... 27 
+5.1. Potential of Innovations .............................................................................................. 27 
+5.2. Energy Sector ............................................................................................................. 27 
+5.3. Transport .................................................................................................................... 29 
+5.4. Agriculture and Land Use .......................................................................................... 30 
+5.5. Use of Resources ........................................................................................................ 31 
+5.6. Role of Local Governments and the Urban Environment .......................................... 34 
+6. Potential Solutions for Ensuring Low Carbon Development ............................................... 36 
+6.1. Research and Innovations in Low Carbon Technologies ........................................... 36 
+6.2. Comprehensive Energy Efficiency ............................................................................. 38 
+6.3. Sustainable Energy ..................................................................................................... 40 
+6.4. Resource-efficient and Environmentally Friendly Transport ..................................... 41 
+6.5. Sustainable Land Management and Agriculture ........................................................ 44 
+6.6. Sustainable Consumption and Manufacturing ........................................................... 46 
+6.7. Sustainable Local Governments and Urban Environment ......................................... 47 
+7. Implementation and Review of the Strategy ........................................................................ 50 
+7.1. Parties Involved in the Implementation of the Strategy ............................................. 50 
+7.2. Instruments to be Used in the Implementation of the Strategy .................................. 51 
+7.3. Review of the Strategy ............................................................................................... 54 
+8. Public Participation .............................................................................................................. 55 
+ 
+   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  2 Terms 
+ 
+Renewable energy  wind, solar, geothermal, wave, tidal, and water energy, as well as 
+sources  aerothermal  energy  (thermal  energy  accumulating  in  the  air), 
+geothermal energy (thermal energy under the surface of mainland), and 
+hydrothermal energy (thermal energy in surface waters), gases from 
+waste landfill sites and sewage treatment plants, biogas, and biomass. 
+Biomass  a resource of organic origin the energy of which is transformed into 
+mechanical  energy,  thermal  energy,  and  electricity  as  a  result  of 
+chemical transformation. 
+Infrastructure  a component of the territorial structure of national economy consisting 
+of the transport system, communications system, trade system, energy 
+system, water management system, and waste management system, as 
+well  as  dwellings,  schools,  health  protection,  cultural,  and  sports 
+objects and other residential care objects and their layout in a territory. 
+Innovation  a process where new scientific, technical, social, and cultural ideas, 
+developments,  and  technologies  or  ideas,  developments,  and 
+technologies of another field are translated into a marketable and 
+competitive product or service. 
+Kyoto Protocol  an international treaty (adopted in 1997, came into force in 2005) 
+which  has  been  adopted  within  the  scope  of  the  United  Nations 
+Framework Convention on Climate Change (UNFCCC), 1992. The 
+Protocol provides for the countries (parties to the UNFCCC) to reduce 
+greenhouse gas emissions based on the scientific consensus that (1) 
+global warming is occurring and (2) it is extremely likely that man-
+made carbon dioxide emissions have predominantly caused it. The 
+Kyoto  Protocol  and  the  Doha  Amendment  to  the  Kyoto  Protocol 
+adopted in 2012 lays down liabilities for its Parties until 2020. 
+Cluster  a cooperation network of merchants, research, educational and other 
+related institutions which operates in a specific sector of national 
+economy or in interrelated sectors, uses related technologies and labour 
+resources of similar profile, consists of legally independent merchants 
+which are competing with each other, and concurrently implements 
+mutual cooperation. 
+Climate  long-term regime of weather conditions forming as a result of solar 
+radiation, nature of the Earthʼs surface, and the atmospheric circulation 
+processes related thereto. Climate is characterised by medium-term and 
+long-term (at least 30 years) values of atmospheric physical indicators 
+inherent to the Earth as a whole or to a specific territory (country or 
+region). 
+Climate change  changes in the state of climate identified (for example, using statistical 
+tests) by changes in the average values and/or the variability of such 
+properties which are continuing for a longer period of time, usually for 
+a decade or more. Climate change can occur as a result of different 
+natural internal processes or also under the influence of external forces, 
+for  example,  exposure  to  solar  cycles,  volcanic  eruptions,  and 
+continuous anthropogenic changes in the atmospheric composition and 
+land use. 
+Climate neutrality  the state where human activity causes net zero impact on the climate 
+system. Greenhouse gas emissions need to be balanced against carbon 
+dioxide removals to achieve such state.  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  3 Climate resilience  social and ecological capacity of the systems (1) to absorb stresses and 
+maintain their functions in the face of external pressures imposed by 
+climate  change,  as  well  as  (2)  to  reorganise  their  activities  in 
+preparation for future impacts of climate change. 
+IPCC  Intergovernmental Panel on Climate Change the objective of which is 
+to ensure objective, scientific opinion on climate change, its natural, 
+political,  and  economic  impact  and  risks,  as  well  as  the  possible 
+responses. 
+Low carbon  sustainable1 economic, environmental, and social development which 
+development  is  based  on  both  low  anthropogenic  (caused  by  human  activity) 
+  greenhouse gas emissions and high level of carbon dioxide removals2 
+  and resilience against climate change, reduction of the risks caused 
+  thereby, and use of the benefits created by climate change. 
+Organic soils  Soils with high content of organic matter.  
+Paris Agreement  the first general legally binding global agreement in the field of climate 
+the objective of which is to strengthen global action for the prevention 
+of climate change and to hold global warming well below 2 °C above 
+the pre-industrial levels and to pursue efforts to limit the temperature 
+increase to 1,5 °C. The Paris Agreement was adopted in the Conference 
+of the Parties to the United Nations Framework Convention on Climate 
+Change in December 2015. 
+Park & ride  system for parking vehicles and transfer which provides for the link-up 
+of parking lots for vehicles with the public transport network in order 
+to use the public transport more fully and to relieve the transport flow 
+in the city centre. 
+Greenhouse gases  CO  (carbon dioxide), CH  (methane), N O (nitrous oxide), nitrogen 
+2 4 2
+trifluoride  (NF )  and  fluorinated  gases  or  F-gases – SF   (sulphur 
+3 6
+hexafluoride), PFC (perfluorocarbons), HFC (hydrofluorocarbons). 
+Greenhouse effect  the process of warming the atmospheric air occurring as the stratum 
+created  by  the  water  vapour  and  the  greenhouse  gases  in  the 
+atmosphere precludes the Earth from reflecting the heat received from 
+the  Sun  (in  the  form  of  infrared  radiation),  therefore  the  heat 
+accumulates  in  the  lowest  strata  of  the  atmosphere,  causing  and 
+facilitating climate change. 
+ 
+   
+ 
+1 The concept of long-term development is defined in the Report of the United Nations World Commission on 
+Environment and Development Our Common Future (also called Report of the Brundtland Commission, 1987) 
+and has been used internationally and extensively since the UN conference of 1992 in Rio de Janeiro Environment 
+and Development. Sustainable development is defined as “development that meets the needs of the present without 
+compromising the ability of future generations to meet their own needs”. Sustainable development is characterised 
+by  three  interrelated  dimensions:  environmental,  economic,  and  social  dimension.  This  means  that  strict 
+environmental protection and climate resilience requirements does not preclude high economic indicators, that 
+economic growth may not degrade the environment, and concurrently high living standard is ensured. 
+2 Carbon dioxide (CO ) removals are a process where as a result of photosynthesis organic matters, as well as 
+2 
+oxygen are synthesised from inorganic carbon dioxide and water compounds, using light energy.  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  4 Abbreviations 
+ 
+RES – renewable energy sources 
+UN – United Nations Organization 
+CCS – carbon capture and storage 
+CCU – carbon capture and use 
+CO – carbon dioxide 
+2 
+CNG – compressed natural gas 
+EC – European Commission 
+EC Communication – “A Clean Planet for all! A European strategic long-term vision for a 
+prosperous, modern, competitive and climate neutral economy” 
+EU – European Union 
+ETS – EU Emissions trading scheme 
+HPP – hydroelectric power plant 
+GDP – gross domestic product 
+IPCC – Intergovernmental Panel on Climate Change 
+CEF 2030 – The 2030 climate and energy framework 
+Convention – The UN Framework Convention on Climate Change (UNFCCC) 
+UAA – utilised agricultural area 
+Cabinet – Cabinet of the Republic of Latvia 
+NACE – EU Statistical Classification of Economic Activities 
+NDC –  Nationally  Determined  Contribution  (here:  for  the  implementation  of  the  Paris 
+Agreement) 
+OECD – Organisation for Economic Co-operation and Development 
+LCD – low carbon development 
+GHG – greenhouse gases 
+Strategy – Strategy of Latvia for the Achievement of Climate Neutrality by 2050 
+TEN-T – Trans-European Transport Network 
+MoEPRD – Ministry of Environmental Protection and Regional Development 
+WPP – wind power plant 
+LULUCF – land use, land use change and forestry sector 
+GPP – green public procurement   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  5 Introduction 
+ 
+The Strategy is a long-term policy planning document which has been developed to 
+increase the economic competitiveness of Latvian national economy, as well as to ensure a safe 
+living environment for inhabitants of Latvia concurrently with the restriction and mitigation of 
+climate change. 
+As the LCD efforts unite the majority of the most influential economies of the world, 
+the development of the Strategy at international and EU level is determined by the Paris 
+Agreement  of  The  United  Nations  Framework  Convention  on  Climate  Change,  1994 
+(hereinafter – the Convention) and Regulation 2018/19993of the European Parliament and of 
+the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, 
+whereas at national level – by the Declaration on the Intended Activities of the Cabinet Headed 
+by Arturs Krišjānis Kariņš4. 
+Within the context of the international policy, the Strategy has been developed to 
+promote: 
+•  the fulfilment of GHG emission reduction commitments in accordance with the 
+Paris Agreement in a cost-efficient manner; 
+•  monitoring in relation to the actual and expected progress towards the reduction of 
+GHG emissions5. 
+ 
+The Strategy  also  needs to  be developed because LCD directions have not  been 
+developed in the national level policy planning documents of Latvia, as well as there is a lack 
+of coherent policy for the limitation of GHG emissions. 
+Historically, in the middle of the 1750s, upon rapid development of the manufacturing 
+and substantial increase in coal consumption, the atmospheric pollution caused by human 
+activity and also GHG emissions, particularly carbon dioxide, started to increase dramatically, 
+amplifying the greenhouse effect. 
+In 2018, in comparison to the 1880s, the increase in the global average air temperature 
+was 1.1 °C6, however, in Latvia this increase has been more substantial – 1,5 °C. Nowadays, 
+the current records in terms of both the average and maximum temperature and precipitation, 
+the number and strength of storms, and other parameters are being continuously surpassed. The 
+concentration of CO  which is closely linked to the increase in the average air temperature 
+2
+keeps increasing and already reached 412 ppm7 in June 2019. 
+International  basic  conditions  of  the  climate  change  policy  are  included  in  the 
+Convention. A new significant long-term document – the Paris Agreement – was adopted in the 
+Conference of the Parties to the Convention in Paris in December 2015. The objective of the 
+Agreement is to strengthen the global action for the prevention of climate change and to hold 
+the global warming well below 2 °C in comparison with the pre-industrial level and to pursue 
+efforts to limit the temperature increase to 1.5 °C as this would significantly reduce the risks 
+and impacts of climate change. The Paris Agreement provides for promoting the allocation of 
+investments according to low-carbon and climate-resilient development. 
+ 
+3 Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the 
+Governance  of  the  Energy  Union  and  Climate  Action.  Available  online:  https://eur-lex.europa.eu/legal-
+content/LV/TXT/?uri=CELEX:32018R1999 
+4 Declaration on the Intended Activities of the Cabinet Headed by Arturs Krišjānis Kariņš. Available online: 
+https://www.mk.gov.lv/sites/default/files/editor/kk-valdibas-deklaracija_red-gala.pdf 
+5 Greenhouse gases (GHG) are carbon dioxide (CO ), methane(CH ), nitrogen oxide (N O), hydrofluorocarbons 
+2 4 2
+(HFC), perfluorocarbons (PFC), nitrogen trifluoride (NF ), and sulphur hexafluoride (SF ). The most important 
+3 6
+GHGs are CO , CH , and N O. 
+2 4 2
+6  Global  Temperature  Anomalies  from  1880  to  2018.  6 February 2019.  Available  online: 
+https://svs.gsfc.nasa.gov/4626 
+7 Ppm (parts per million) – a part per million, the relation of the mass of the substance against the whole mass of 
+air, CO  concentration in the air. Available online: http://climate.nasa.gov/vital-signs/carbon-dioxide/.  
+2
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  6 The IPCC Report8 indicates that the current commitments of the world countries within 
+the scope of the Paris Agreement for the climate change mitigation are insufficient and will not 
+ensure restriction of global warming within the limits of 1.5 °C, therefore, the countries must 
+enhance the level of ambitions in relation to the climate goals brought forward in order to land 
+on the correct trajectory to achieve the objective. 
+Scientific evidence confirms that the global warming caused by human activity has 
+already reached 1 °C above pre-industrial levels and continues to increase by approximately 
+0.2 °C per ten years. If sufficient work is not put into the field of the climate policy at 
+international level, the global increase of temperature might reach 2 °C soon after 2060 and 
+could keep rising. 
+The IPCC Report confirms that approximately 4 % of the global terrestrial land area is 
+projected to be affected by ecosystem transformations at 1 °C of global warming, but such 
+impact will affect already 13 % of the land area if global warming is to reach 2 °C. It is 
+foreseeable that, if global warming will reach 2 °C, 99 % of the world coral reefs will disappear. 
+Global warming of approximately 1.5 °C to 2 °C can initiate processes resulting in melting of 
+the Greenland ice sheet. Under certain circumstances sea-level can rise even by 7 metres, and 
+this will directly affect coastal territories throughout the world, including the low plains and 
+islands of the coast of Europe. The Arctic ice is already melting rapidly during the summer, and 
+it has a negative impact on the biological diversity of the Nordic countries and the livelihood 
+of the local inhabitants. 
+The combat against climate change caused by the increase in GHG emissions is also 
+one of the 17 UN Sustainable Development Goals. Climate change can cause problems related 
+to food availability, human health, welfare, employment, national economic development, 
+safety,  spatial  development,  natural  integrity,  biological  diversity,  and  other  fields.  The 
+implementation of LCD is not just a challenge, but at the same time an opportunity, as upon its 
+implementation benefits would arise not only in the environmental dimension, but also in the 
+social and economic dimensions (see Figure 1). 
+ 
+ 
+ 
+Figure 1. Low carbon development and dimensions of sustainable development 
+ 
+8 IPCC Special Report Global warming of 1.5°C (an IPCC Special Report on the impacts of global warming of 
+1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of 
+strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate 
+poverty). Available online: https://www.ipcc.ch/sr15/.  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  7  
+The Strategy should be implemented as comprehensively, rapidly and efficiently as 
+possible, thus both fulfilling the international goals and improving the living standard of 
+inhabitants, and also strengthening the competitiveness of Latvian economy (by implementing 
+such measures as improvement of energy efficiency, promotion of the use of local (renewable) 
+energy sources, implementation of the circular economy and bioeconomy, promoting the 
+development and manufacturing of climate technology innovations in Latvia). 
+The  Strategy  is  a  long-term  strategic  document  to  be  introduced  by  horizontal 
+integration of the GHG and climate resilience goals in all sectors of national economy. In 
+parallel with the introduction of the Strategy, a periodic evaluation of the progress of the 
+Strategy and the effectiveness of its implementation should be provided, ensuring achievement 
+of the objectives of the Strategy. 
+The  Strategy  first  sets  out  an  outline  of  the  key  assumptions  made  during  its 
+development followed by the definition of the objective and performance-based indicators of 
+the  Strategy  according  to  which  progress  could  be  determined.  Afterwards  the  current 
+information regarding the progress of Latvia in limitation of GHG emissions during the 
+development  of  the  Strategy  has  been  provided  and  expanded  in  the  following  chapter, 
+identifying the most essential factors of occurrence of GHG emissions which are specific to 
+Latvia. Afterwards the potential solutions for the implementation of LCD have been offered, as 
+well as a report on the implementation of the Strategy and indications regarding public 
+participation are provided. 
+   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  8 1. Objective, Indicators, and Directions for Action 
+ 
+1.1. Overarching Objective and Intermediate Objectives of the Strategy 
+ 
+LCD is a process that must be implemented by striving for climate neutrality. 
+The overarching objective of the Strategy: climate neutrality of Latvia in 2050. 
+As the final objective of the implementation of LCD is achieving climate neutrality of 
+Latvia, it is essential not only to reduce GHG emissions, but also to increase CO  removals. 
+2
+Therefore there are two strategic objectives: 
+1) reduction of GHG emissions in all sectors of national economy; 
+2) increase of CO  removals. 
+2
+The objective should be achieved in three stages of reduction of GHG emissions (in 
+decades). The performance-based indicators to be achieved are presented in Table 1. 
+ 
+Table 1 
+ 
+Performance-based Indicators of the Strategy (Overarching Objective and Intermediate 
+Objectives) 
+ 
+Objectives 
+  Base year  Projection 
+19909  for 202010 
+2030  2040  2050 
+GHG emissions 
+-65 % (in  -85 % (in 
+(without  the  26 299 
+-55 %  comparison  comparison 
+LULUCF  kt CO eq. 
+2 with 1990)  with 1990) 
+sector) 
+Net-zero 
+CO   removals  emissions 
+2 Climate 
+and  GHG  -9828  2094  ≤1047  (removals of 
+neutrality 
+emissions in the  kt CO eq.  kt CO eq.  kt CO eq.  the sector 
+2 2 2 (non-reducible 
+LULUCF  (removals)  (emissions)  (emissions)  compensated 
+GHG 
+sector  emissions of 
+emissions  are 
+the sector) 
+compensated 
+Transition  by removals in 
+towards  the  LULUCF 
+climate  sector) 
+neutrality  -38 %* (in  -76%* (in 
+16 471 
+(total  GHG  -16 %  comparison  comparison 
+kt CO eq. 
+emissions,  2 with 1990)  with 1990) 
+including  the 
+LULUCF 
+sector) 
+* the objective is deemed fulfilled if the deviation is ±5 % 
+ 
+The objectives for 2030 and 2040 encircled with a yellow frame in Table 1 may be 
+changed if studies (the Protocol Decision of the Strategy provides for the conducting of research 
+by sectoral ministries as to how to advance towards climate neutrality within the scope of their 
+ 
+9 According to the GHG inventory submitted to UNFCCC in 2019. 
+10 Indicative estimates regarding the advancement in the direction of achieving the objectives according to the data 
+available in 2019. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  9 liability/area) and discussions lead to an agreement on the most appropriate trajectory for 
+achieving the objective of climate neutrality in 2050. 
+The relevant tiered approach for achieving the common overarching objective (climate 
+neutrality in 2050) has been specified according to the so called innovation S-curve or Bass 
+Diffusion Model which provides a mathematical description of the manner in which new 
+innovations are adapted under the influence of interaction between the existing and potential 
+user. According to this theory, the initial section of the curve of innovations is flat because 
+initially innovations are used only by the innovators, afterwards also by imitators, whereas, in 
+the middle section the number of users rapidly increases and the majority starts using the 
+technologies. At the final section, the rate of increase in users of technology decreases once 
+again and the increase in users is slow. Considering that the implementation of LCD largely 
+depends on the speed in  which “green” technologies and innovations are spreading,  the 
+objectives of the Strategy of Latvia have also been determined according to the abovementioned 
+theory, i.e., the highest reduction of GHG emission (-38 %) must be achieved in the middle 
+section (2030-2040). 
+ 
+1.2. Indicators 
+ 
+Indicators which point to the progression trends (moving closer or further away from 
+the objective of climate neutrality) are important for the assessment of the progress made in the 
+implementation of the Strategy. 
+ 
+1)  Intensity of GHG emissions (t CO  eq. 11 per mill. EUR) 
+2
+ 
+The Strategy not only provides for the economic development of Latvia and increase in 
+GDP,  but  also  for  reduction  of  GHG  emissions  in  all  sectors  of  national  economy 
+simultaneously. The intensity of GHG emissions is an indicator based on which the extent to 
+which economic growth is “linked” to the generated amount of GHG emissions can be 
+established. Reduction in the intensity of GHG emissions points to the implementation of LCD 
+which has also contributed to economic growth in the country. 
+ 
+2)  Intensity of GHG emissions from the energy sector – GHG emissions per total 
+consumption of primary energy sources (t CO eq. per total consumption of 
+2 
+energy sources) 
+ 
+Taking into consideration that the sector of service provision is relatively developed in 
+Latvia, however, manufacturing is less developed (the sectors of Latvian national economy 
+specialising in the field of service provision generate almost 65 % of the total added value), the 
+indicator which is more related to the manufacturing processes and energy consumption is the 
+intensity of GHG emissions of the energy sector per total consumption of primary energy 
+sources. This indicator includes the consumption of energy sources in the production of thermal 
+energy and electricity (transformation sector) and in the final consumption which, in turn, 
+includes all sectors of national economy (manufacturing and construction, transport (transport 
+services form the most essential part of the service export), agriculture, forestry), as well as 
+households. 
+ 
+ 
+11 CO  – the equivalent of carbon dioxide is a unit of measurement expressed in CO  emissions to which 
+2 eq 2
+emissions of different greenhouse gases are compared on the basis of the global-warming potential created thereby. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  10 3)  Changes in the amount of GHG emissions in relation to the previous year on 
+sectoral basis (kt CO  eq.) 
+2
+ 
+In order to assess the dynamics and trends of GHG emissions in different sectors of 
+national economy, each year (starting from 1990) in Latvia GHG emissions and removals 
+within energy, transport, industrial processes and product use, agriculture, LULUCF, and waste 
+management sectors are recorded. Annual assessment of changes in the amount of GHG 
+emissions in each sector in relation to the previous period allows to ascertain that advancement 
+towards climate neutrality is continuous and takes place in all sectors of national economy. 
+ 
+4)  Total balance of emissions and removals of the land use, land-use change and 
+forestry sector 
+ 
+As the LULUCF sector has a special role in advancement towards climate neutrality, 
+this indicator shows whether/to what extent the whole LULUCF sector is able to compensate 
+its own GHG emissions in the current year. 
+ 
+1.3. Action Directions 
+ 
+•  Two basic approaches to achieving climate neutrality 
+ 
+Two basic approaches may be used to achieve climate neutrality: 
+1)  technological solutions; 
+2)  change of the lifestyle. 
+ 
+The technological solutions approach includes solutions primarily focusing on direct 
+reductions of GHG emissions (technological and process solutions). Upon implementing this 
+tactic, substantial investments should be provided: 
+o  in direct reductions of GHG emissions (in energy, transport, agriculture, waste 
+management, industrial processes, and other sectors); 
+o  in  development  and  commercialisation  of  “green”  innovations  which,  in  the 
+optimum scenario, would also provide a possibility for the export of innovative 
+technologies. 
+In turn, the approach of changing the lifestyle includes solutions primarily focusing on 
+changing the lifestyle and indirect reductions of GHG emissions by implementing: 
+o  extensive measures for informing and educating the public to ensure the awareness 
+and interest of each inhabitant in the advancement towards climate neutrality; 
+o  greening of the tax system by adapting the whole tax system so that the general 
+long-term  direction  of  the  State  would  be  clear  both  to  the  inhabitants  and 
+merchants (i.e., so that tax policy would not  give contradictory signals), and 
+economic stimuli to choose more environmentally friendly habits and technologies 
+would be created for everyone. 
+ 
+•  Solutions for the implementation of LCD in different sectors of national 
+economy 
+ 
+To implement the Strategy successfully, it is necessary to plan appropriate actions which 
+include both general (horizontal) implementation of the LCD principles and also actions in 
+sectoral policies, including all sectors of national economy: 
+o  ensure that LCD aspects are integrated in all studies, low carbon innovations and 
+technologies are commercialised and transferred to all sectors of national economy; 
+o  ensure comprehensive energy efficiency in every sector of national economy; 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  11 o  ensure that only renewable energy sources are used for energy generation in all 
+sectors (where it is technologically possible), and that local energy sources are used 
+and the energy market is completely connected and freely accessible to everyone; 
+o  ensure  optimum  transport  infrastructure,  to  change  the  travel  behaviour  of 
+inhabitants, to increase the use of resource-efficient and environmentally friendly 
+types of vehicles; 
+o  ensure sustainable land management, achieving high productivity in agriculture, as 
+well as managing the forests of Latvia in a sustainable manner; 
+o  ensure  that  inhabitants  of  Latvia  are  implementing  environmentally  friendly 
+lifestyle and companies have adapted to the tendencies of the global market and are 
+successfully implementing circular economy; 
+o  ensure sustainable development of local governments, promoting smart, climate-
+neutral, and flexible urban environment, inter alia, choosing the green infrastructure 
+in the development of urban environment. 
+ 
+More detailed description of action directions is provided further in the text (see 
+Chapter 6). 
+Specific measures and the contribution of different sectors of national economy to 
+achieving the objective of climate neutrality will be specified in subsequent NECPs, as well as 
+in sectoral planning documents of a shorter term. 
+ 
+1.4. General Principles for the Implementation of LCD and the Strategy 
+ 
+Movement towards climate neutrality must go hand in hand with ensuring the economic 
+welfare and social justice (see Figure 1). 
+General (horizontal) principles of LCD (determine what should be implemented): 
+•  restructuring of national economy, optimisation of processes in a cost-efficient 
+manner  without  reducing  competitiveness  (ensuring  stable  and  increasing 
+decoupling of GDP from GHG emissions); 
+•  increasing the resource-efficiency, including energy efficiency (principle: energy 
+efficiency first); 
+•   promoting the use of renewable energy sources; 
+•  the State does not subsidise the use of fossil energy sources; 
+•  development and commercialisation of green innovations and research; 
+•  creation of new green working places; 
+•  promotion of mutual communication, cooperation, symbiosis, and networking; 
+•  horizontal integration of the abovementioned principles into all policies of national 
+economy and investments of the public funding is ensured. 
+ 
+General principles for the implementation of the Strategy (determine how the Strategy 
+should be implemented): 
+•  measures with the lowest costs are implemented first; 
+•  impact of a particular measure is evaluated not only in short-term, but also in long-
+term; 
+•  reliance on nationally available resources; 
+•  economic  development  is  not  based  on  intense  consumption  of  energy  and 
+resources12; 
+ 
+12 Upon continuing the current development which is based on intense consumption of energy and resources, 
+resources of the planet are being depleted and its sustainability is at risk. In order to sustain ourselves in 2050, 
+taking into account the number of inhabitants and the current consumption trends, we will need the equivalent of 
+more than two planets in total. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  12 •  socially  just  transition –  social  dialogue  is  ensured,  the  specific  features  and 
+possibilities of each sector of national economy are taken into consideration; 
+•  development is not in contradiction with the objectives of biological diversity, 
+nature and environmental protection. 
+ 
+   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  13 2. Basic Assumptions 
+ 
+Upon developing the Strategy and the vision included therein, as well as choosing the 
+potential solutions, several assumptions in relation to trends in Latvia and in the world until the 
+middle of this century were made – the macro-economic situation and the number of inhabitants 
+in Latvia, climate change, economic progress of other countries of the world, the awareness of 
+inhabitants of Latvia as to climate change, the development of green technologies and price 
+trends, as well as the consequences of failure to act in relation to the reduction of climate 
+change. 
+ 
+•  Macro-economic situation of Latvia 
+ 
+GDP of Latvia will continue to increase13 and will reach EUR 42 billion in 2050 (at 
+constant prices of 2010). The number of inhabitants will decrease to 1.5 mill. 
+ 
+•  Climate change 
+ 
+The IPCC Report14 established that losses upon increase in the global air temperature 
+by 2 °C would be significantly higher than at 1.5 °C, therefore, the need both to urgently reduce 
+GHG emissions and to introduce thought-out measures for adaptation to climate change has 
+been emphasised. Scientific research shows that the risks which were previously foreseen in 
+relation to the increase of global temperature within the limits of 1.5 °C to 2 °C are much higher 
+than assumed hitherto and the spiral of irreversible climate change might set in between the 
+very limits of 1.5 °C and 2 °C. 
+According to the 2017 report of valsts sabiedrība ar ierobežotu atbildību “Latvijas 
+Vides, ģeoloģijas un meteoroloģijas centrs” [limited liability company Latvian Environment, 
+Geology and Meteorology Centre], Klimata pārmaiņu scenāriji Latvijai [Climate Change 
+Scenarios for Latvia]15, the air temperature in Latvia will increase on average by 3.5 °C to 
+5.5 °C by the end of the century. The maximum annual air temperature in Latvia might even 
+reach +35 °C by the end of the century. However, until 2100 the most significant increase will 
+be in the minimum air temperature – on average by 9.3 °C to 13.5 °C. 
+The analysis of current climate conditions, as well as future scenarios of climate change 
+graphically demonstrate that distinct climate change trends will continue throughout this 
+century. The most significant changes will affect the extreme values of climate parameters 
+indicating that weather conditions not characteristic to and extreme for Latvia will be a more 
+frequent reality in the future. 
+Such risks as changes of seasons, i.e., changes of the vegetation period, increased fire 
+hazard, proliferation of pests and pathogens, tree diseases, expulsion of local species, entering 
+of new species, spread of diseases of the respiratory system, flood caused by precipitation, wind 
+surges, extremely strong wind gusts, occurrence of disturbances in electricity supply, reduction 
+of frost, black frost, drying of soil, eutrophication, damages to infrastructures, overheating of 
+equipment, spread of infectious diseases, and heat strokes are anticipated as the most essential 
+risks caused by climate change in Latvia. Thus, climate change will cause risks in Latvia and, 
+therefore, also losses in the field of health and welfare, civil protection, agriculture and forestry, 
+ 
+13 Macro-economic forecast until 2030 of the Ministry of Economics (2018) extrapolated by the FEI until 2050. 
+14 IPCC Special Report Global warming of 1.5°C (an IPCC Special Report on the impacts of global warming of 
+1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of 
+strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate 
+poverty). Available online: https://www.ipcc.ch/sr15/. 
+15  Latvian  Environment,  Geology  and  Meteorology  Centre.  Report  Klimata  pārmaiņu  scenāriji  Latvijai 
+(2017). Available online in Latvian: http://www2.meteo.lv/klimatariks/zinojums.pdf. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  14 tourism  and  landscape  planning,  construction  and  planning  of  infrastructure,  as  well  as 
+biological diversity and diversity of ecosystem services. 
+ 
+•  International context 
+ 
+It is projected that the awareness of inhabitants regarding the need to act for the 
+mitigation of climate change in Europe, as well as in other countries of the world will increase. 
+The Communication published by the EC on 28 November 2018, A Clean Planet for 
+all! A European strategic long-term vision for a prosperous, modern, competitive and climate 
+neutral economy (EC Communication), explains that only the full implementation of the agreed 
+EU legislation will already ensure reductions of GHG emissions of around 45 % by 2030 and 
+around 60 % by 2050. However, the EU should strategically strive towards climate neutrality 
+in 2050 which, like by the majority of EU Member States, is also supported by Latvia16 
+believing that the EU must take the leadership role in the fight against climate change, as well 
+as expressing readiness to review the NDC submitted to the EU for the implementation of the 
+Paris Agreement or the goals for the reduction of GHG emissions for 2030. 
+As the Paris Agreement has been ratified by almost all countries of the world, it is 
+assumed that all of them will move towards low carbon development. Different industries are 
+already becoming aware of the advantages of circular economy, thus the demand for energy-
+intensive raw materials will decrease, while the productivity of materials will increase and the 
+amount of generated waste will decrease. 
+Associations of different sectors have also expressed support and undertaken to take 
+active measures in the field of climate change mitigation, voluntarily setting for themselves 
+goals for climate change mitigation to be achieved by 2050, for example, the European 
+Chemical Industry Council, the International Air Transport Association (IATA), and the Air 
+Transport Action Group (ATAG). 
+ 
+•  Awareness of the inhabitants of Latvia of climate change 
+ 
+Although the inhabitants of Latvia have had one of the lowest awareness of climate 
+change as a global problem among the EU states, it is, however, increasing. More and more 
+inhabitants of Latvia recognise that climate change is a very serious problem17. Convincing 
+results have also been obtained in 2017 in the survey18 organised by Kantar TNS Latvia, 
+resulting in a conclusion that 85 % of the inhabitants of Latvia (from 15 to 74 years of age) 
+recognise that climate change is occurring and can be observed in Latvia. Moreover, the 
+inhabitants have also become more socially active, the movement Fridays for Future Latvia has 
+joined the global climate strike, organising several protests related to the green policy in which 
+several hundreds of young persons19 had gathered, directing attention towards the need for more 
+ambitious actions to achieve the goals of the Paris Agreement. 
+Taking into account the amplification of the consequences caused by climate change, 
+as well as the political settings of the EU, the awareness and interest of the inhabitants of Latvia 
+in climate change mitigation will keep increasing. 
+ 
+16 Position No. 2 of the Republic of Latvia of 11 June 2019. On Communication of the European Commission: A 
+Clean Planet for all! A European strategic long-term vision for a prosperous, modern, competitive and climate 
+neutral economy 
+17  Special  Eurobarameter  Report.  Climate  change,  2017.  Available  online: 
+https://ec.europa.eu/clima/sites/clima/files/support/docs/report_2017_en.pdf 
+18 Baltic Environmental Forum, Informētība un attieksme pret klimata pārmaiņām [Awareness and Attitude 
+Towards  Climate  Change].  Results  of  the  survey  of  inhabitants  of  Latvia,  2016.  Available  online: 
+http://www.bef.lv/fileadmin/Projektu_faili/SEG_emisijas/Petijums_SKDS_27_06_2016.pdf 
+19 The climate walk of 15 March 2019 gathered 650 participants; approximately 250 persons joined the Baltic 
+Climate Road campaign of 12 April at the Cabinet, and approximately 300 persons participated in the walk of 
+24 May. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  15  
+•  Development of green technologies make them more available and common 
+ 
+In addition, extensive determination of policies for the promotion of LCD in the energy 
+sector will create new working places in the energy sector, i.e., more extensive switch towards 
+renewable energy sources will create more working places in the energy sector than working 
+places that will be liquidated for the persons employed in the industry of fossil fuel, having an 
+overall positive influence on economy at large by promoting a GDP increase20. 
+Upon referring to that indicated in the report of the International Renewable Energy 
+Agency, the Strategy assumes that energy transition will be based on a rapid price reduction for 
+renewable energy sources, the prices for solar panels and wind energy will continue to decrease 
+as it already can be seen. Also, in relation to the transport sector, it is assumed that in the future 
+renewable  electricity,  developed  biofuels,  and  different  technologies  of  electrification, 
+including electric cars, will dominate in the transport energy. 
+In order to implement LCD, it will be necessary to stimulate significant additional 
+investments within the scope of modernisation and decarbonization of the EU economy. Today 
+around 2 % of the EU GDP is invested in the EU energy system and related infrastructure 
+(except  for  the  investments  related  to  replacement  of  vehicles).  According  to  the  EU 
+Communication, the EU would have to increase this amount to 2.8 % or around EUR 520–575 
+billion per year in order to achieve a climate-neutral economy21. 
+Transformation of energy (transition from fossil energy sources to renewable ones) is 
+economically feasible because additional costs will be covered from savings from reduced air 
+pollution, health improvements, lower damages in comparison with the situation where nothing 
+is done to mitigate climate change. 
+ 
+•  Failure to act in climate change mitigation causes economic losses and requires 
+additional costs 
+ 
+The environmental impact caused by climate change may have a significant impact on 
+the productivity of the economy, infrastructure, public health, food availability, biological 
+diversity, and political stability of Europe. The economic losses caused by disasters related to 
+weather conditions in 2017 reached a record-high amount – EUR 283 billion.22 Currently such 
+disasters directly affect 5 % of inhabitants of Europe, however, by 2100 their direct impact 
+could be felt already by two thirds of Europeans.23 
+The results of economic calculations show that, for instance, the annual increase of 
+losses arising from damages to buildings caused by high tide in all towns alongside the sea 
+coast in Latvia in the time period from 2040 to 2070 might be EUR 1.5 million per year, but in 
+the time period from 2070 to 2100 it might reach EUR 3 million per year.24 
+ 
+20 According to the Eurofound study, Energy scenario: Employment implications of the Paris Climate Agreement, 
+Latvia has a very high potential for the increase of GDP upon implementation of the goals brought forward in the 
+Paris Agreement. Available online:  
+https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/fomeef18003en.pdf 
+21 European Commission. In-depth analysis in support of the commission Communication COM(2018) 773. A 
+Clean Planet for all A European long-term strategic vision for a prosperous, modern, competitive and climate 
+neutral economy, 2018. Available online: https://ec.europa.eu/clima/policies/strategies/2050_en 
+22European Commission, Communication from the Commission to the European Parliament, the European 
+Council, the Council, the European Economic and Social Committee, the Committee of the Regions, and the 
+European Investment Bank. A Clean Planet for all! A European strategic long-term vision for a prosperous, 
+modern,  competitive  and  climate  neutral  economy,  2018.  Available  online:  https://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2018:0773:FIN:LV:PDF 
+23Ibid. 
+24Centre of processes analysis and research. Risku un ievainojamības novērtējums un pielāgošanās pasākumu 
+identificēšana Civilās aizsardzības un ārkārtas palīdzības jomā 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  16 In turn, the impact of increase in flood caused by rain and melting of snow under 
+exposure to climate change on buildings in Latvia may cause annual economic losses in the 
+amount of EUR 40–50 thousand (in the time period from 2020 to 2040) and around EUR 160–
+210 thousand in the time period from 2070 to 2100. Due to the increase of overload caused by 
+snow accumulation on roofs the projected economic danger in the nearest future (until 2040) is 
+around EUR 90 thousand per year, but at the end of the century (in the time period from 2071 
+to 2100) it will be around EUR 300–700 thousand per year. 
+Upon evaluating the days of delay occurring due to the degradation of tracks, the annual 
+late losses in the time period from 2040 to 2070 will be around EUR 0.2 million with an 
+increase of EUR 0.1 million, but in the time period from 2070 to 2100 – EUR 0.4 million and 
+EUR 0.3 million accordingly. Studies show that for Latvia additional annual financial loses will 
+also be caused by increase in the damages caused by high tide to roads alongside the sea coast 
+and in towns of river estuaries, increase of damages caused by downpour flood to roads 
+(together with decrease in the freeze-up period of roads), increased melting of asphalt, and other 
+damages to the road surface, increased bending of tracks, depreciation of materials, and 
+instability of banks due to the heat, increase of damages caused by high tide to ports25. 
+ 
+   
+ 
+[Risk and Vulnerability Assessment and Identification of Adjustment Measures in the Field of Civil Protection 
+and  Emergency  Assistance].  Available  online: 
+http://petijumi.mk.gov.lv/sites/default/files/title_file/petijums_varam_2016_2017_risk_un_ievain_novert_un_pie
+lag_pasak_identific_civilas_aizsardz_arkart_palidz_joma.pdf 
+25Risku un ievainojamības novērtējums un pielāgošanās pasākumu identificēšana būvniecības un infrastruktūras 
+jomā [Risk and Vulnerability Assessment and Identification of Adjustment Measures in the Field of Civil 
+Protection and Emergency Assistance], final report, association Zaļā brīvība [Green Freedom], 2017. Available 
+online: http://www.varam.gov.lv/lat/publ/petijumi/petijumi_klimata_parmainu_joma/?doc=23668 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  17 3. Linkage of the Strategy with Existing Legal Acts and Policy Planning 
+Documents 
+ 
+The need for the development of the Strategy has been specified in several international 
+and EU level documents, and in terms of content it includes the competences included in the 
+national intersectoral policy planning documents. 
+ 
+•  International documents 
+ 
+The Convention emphasises the need for the reduction of GHG emissions to reduce 
+human impact on the climate system and to allow ecosystems to adapt to climate change. 
+The Paris Agreement which was adopted by the Conference of the Parties to the 
+Convention at its twenty-first session in Paris, France, prescribes that Parties to the Convention 
+should formulate long-term low GHG emission development strategies26. 
+In 2015, the UN General Assembly adopted the resolution Transforming our world: the 
+2030 Agenda for Sustainable Development or Agenda 2030. 17 Sustainable Development 
+Goals (SDG) are determined therein in order for poverty to be eradicated in the world and the 
+global development to be sustainable. One of them is: “Take urgent action to combat climate 
+change and its impacts.” 
+ 
+•  Documents of the European Union 
+ 
+The European Council invites the Council of the European Union and the European 
+Commission in the conclusions of 20 June 201927 to advance work on the conditions, the 
+incentives and the enabling framework to be put in place in order to ensure a transition to a 
+climate-neutral EU that will preserve European competitiveness, be just and socially balanced, 
+take account of Member States’ national circumstances and respect their right to decide on their 
+own energy mix. The  conclusions of the Foreign  Affairs Council of  18 February 201928 
+emphasize that climate change is a direct and existential threat the consequences of which the 
+world is already witnessing, yet action to stem it remains insufficient. 
+The EU has included the development of the Strategy in its policy documents according 
+to the international documents. Article 4 of Regulation (EU) No 525/2013 of the European 
+Parliament and of the Council29 already determined that EU Member States must prepare 
+national low-carbon development strategies and report on the progress of development starting 
+from 2015, in turn, the provisions of Regulation (EU) No 525/2013 are integrated in Regulation 
+No 2018/1999, as well as it is specified that each EU Member State must prepare and submit 
+its LCD strategy for 2050 to the European Commission by 1 January 2020. 
+A significant aggregate of action policies at EU level is the Policy Framework for 
+Climate and Energy from 2020 to 2030 which includes the joint objectives of the EU for 
+reduction of GHG emissions and the objectives for the reduction of GHG emissions of Member 
+States for sectors of the EU emissions trading scheme and non-ETS sectors30, as well as in the 
+total  final  energy  consumption  of  RES,  and  the  energy  efficiency  objectives.  Upon 
+ 
+26Article 4(19) of the Paris Agreement. 
+27Conclusions  of  the  European  Council  of  20 June 2019.  Available  online: 
+https://www.consilium.europa.eu/media/39953/20-21-euco-final-conclusions-lv.pdf 
+28Conclusions  of  the  Foreign  Affairs  Council  of  18 December 2019.  Available  online: 
+http://data.consilium.europa.eu/doc/document/ST-6153-2019-INIT/en/pdf 
+29Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism 
+for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union 
+level relevant to climate change and repealing Decision No 280/2004/EC. 
+30Non-ETS – processes not included in the EU ETS, for instance, minor energy sector, industrial processes not 
+included in the EU ETS (use of raw materials) and use of solvents and substances depleting the ozone layer 
+(fluorinated gases), transport, agriculture, waste management. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  18 implementation  of the Strategy, Latvia should take into consideration the EU legal  acts 
+approved within the scope of the PFCE package and the objectives specified for Latvia (for 
+ETS sectors (joint for the EU) and for non-ETS sectors (individual for each EU Member State)). 
+In addition thereto several aggregates (packages) of regulation have been developed in 
+the EU, taking into consideration the LCD principles, for example, the Mobility Package31, the 
+Circular Economy Package32, as well as the Action Plan for Sustainable Finance33, and Clean 
+Energy for All Europeans34. 
+ 
+•  National policy planning documents 
+ 
+At national level, the Sustainable Development Strategy of Latvia until 2030, as well as 
+other policy planning documents of Latvia, including sectoral planning (see Figure 2), also 
+provide for comprehensive sustainable development which is based on low GHG emissions. 
+ 
+ 
+ 
+Figure 2. Policy planning documents supporting the Strategy 
+ 
+ 
+31 Europe in movement: The Commission supplements its agenda in relation to safe and clean mobility that ensures 
+connectivity.  https://ec.europa.eu/latvia/news/eiropa-kust%C4%ABb%C4%81-komisija-papildina-savu-darba-
+k%C4%81rt%C4%ABbu-attiec%C4%ABb%C4%81-uz-dro%C5%A1u-t%C4%ABru-un_lv 
+32  On  the  Circular  Economy  Package.  Available  online:https://europa.eu/rapid/press-release_MEMO-15-
+6204_lv.htm Available online: 
+33  Sustainable  finance:  Commission’s  Action  Plan  for  a greener  and  cleaner  economy.  Available  online: 
+https://europa.eu/rapid/press-release_IP-18-1404_lv.htm 
+34  Clean  energy  for  all  Europeans  –  Realization  of  the  growth  potential  of  Europe. 
+https://ec.europa.eu/latvia/news/t%C4%ABra-ener%C4%A3ija-visiem-eiropas-iedz%C4%ABvot%C4%81jiem-
+%E2%80%94-eiropas-izaugsmes-potenci%C4%81la-realiz%C4%93%C5%A1ana-0_lv  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  19 As currently LCD directions are not sufficiently developed in the policy planning 
+documents of national level of Latvia, as well as there is a lack of a unified action policy for 
+the reduction of GHG emissions, the development directions for the promotion of LCD 
+currently included in the policy planning documents of national level, as well as the planning 
+documents of different sectors are compiled and supplemented in this Strategy.   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  20 4. Current Progress of Latvia in Advancement Towards Climate Neutrality 
+ 
+4.1. Structure and Dynamics of GHG Emissions (Excluding the LULUCF Sector) 
+ 
+GHG emissions in Latvia mainly occur in such sectors of national economy as energy, 
+transport, industrial processes and product use, agriculture and waste management (Figure 3). 
+The land use, land-use change and forestry sector s described in Chapter 4.2 as both the 
+generator of GHG emissions and the facilitator of CO  removals. 
+2
+ 
+Waste 
+management, 5%
+Agriculture, 25% Energy, 34%
+Industrial processes 
+and product use, 7%
+Transport, 29%
+ 
+ 
+Figure 3. Main sources of GHG emissions in 201735 (excluding LULUCF) 
+ 
+Each of the sectors indicated in Figure 3 also includes more detailed sub-categories 
+according  to  which  corresponding  economic  activities36  can  be  determined;  the  annual 
+international reports on GHG emissions should be provided according to such division. 
+According to the GHG inventory of Latvia37 submitted in 2019, the total emissions of 
+Latvia in 2017 (without the LULUCF sector) were 11 325 kt CO eq. Therefore, the total GHG 
+2
+emissions of the State in the time period from 1990 to 2017, excluding the LULUCF sector, 
+have decreased by approximately 57 %. The GHG projections of 2019 (hereinafter – the GHG 
+projections) show that in 2050, excluding LULUCF, the potential GHG reduction could be 
+68 %38 (in comparison with 1990). Only the current policy and measures are taken into 
+consideration in the GHG projections for 2050, and the scenario only provides for the currently 
+available commercial technologies. 
+ 
+35GHG inventory of 2019, submitted within the scope of the Convention and the Kyoto Protocol. Available online: 
+https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-
+convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019 
+36 In order for the statistics of different countries to be comparable, there are two classification system in effect in 
+Europe – the European System of Accounts 1995 (ESA 95) and the EU Statistical Classification of Economic 
+Activities (NACE) – according to which institutional units and sectors of national economy can be classified. 
+37GHG inventory of 2019, submitted within the scope of the Convention and the Kyoto Protocol. Available online: 
+https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-
+convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019 
+38GHG inventory of 2019, submitted within the scope of the Convention and the Kyoto Protocol, and expert 
+evaluation. Available online: https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-
+review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  21 The energy sector39 is the largest source of GHG emissions and generated 34 % of the 
+total emissions of 2017 (Figure 3). Emissions from the combustion processes in all sectors of 
+national economy are accounted in the energy sector. The majority of emissions is generated 
+by the energy sector (public generation of electricity and thermal energy – 40 %), followed by 
+the commercial, institutional, household, agriculture, forestry, and fisheries sectors (39 %), the 
+remaining part is formed by the manufacturing industry and construction, military transport, 
+and diffuse emissions from oil and natural gas. In comparison with 1990, the amount of 
+emissions has decreased in all sub-sectors of the energy sector, but the largest reduction is 
+observed  in  the  manufacturing  industry  and  construction  (83 %),  as  well  as  in  service, 
+household, agriculture, fisheries, and forestry sectors (74 %). Emissions of the energy sector 
+are fluctuating depending on the economic changes in the country and the significantly different 
+average temperatures of winter. An essential factor for the reduction of GHG emissions from 
+the energy sector in the total balance sheet is energy efficiency, switching of the heating fuel 
+from liquid and solid fuels to natural gas, as well as the replacement of fossil energy sources 
+with biomass and other types of RES. Important factors for the switching of energy sources are 
+their price and availability, as well as national policy and measures, including support measures. 
+The total consumption of thermal energy in Latvia from 1990 has decreased. The largest 
+decrease in consumption of thermal energy is attributable to the enterprises of industrial 
+manufacturing40, partly attributable also to the energy efficiency measures implemented in 
+households. The energy consumed in households forms up to 40 % of all energy balance, 
+therefore, the sector of buildings holds a significant potential for achieving the joint energy 
+efficiency objectives. 
+Although the consumption of electricity has decreased in comparison with 1990, it keeps 
+increasing in the time period from 2005. Changes can be explained by an improvement in the 
+welfare and living standard of inhabitants, as well as by technological developments, as the 
+number of electric and electronic appliances used in the service sector and households is 
+increasing. 
+The reduction in the amount of energy produced in the transformation sector can be 
+explained by the increase of electricity produced by HPPs and VPPS. Electricity produced by 
+HPPs in 2017 was 4 381 GWh, whereas the amount of electricity produced by VPPs in 2017 
+was 150 GWh. Transformation sector mainly uses natural gas the share of which is gradually 
+decreasing: in 2010 – 81.0 %, in 2016 – 60.1 %, and in 2017 – 53.7 %. Within five years, the 
+share of RES consumed by the transformation sector has increased by 17.2 percentage points 
+and exceeded 45.9 % in 2017. Electricity produced in biomass (woodfuel) cogeneration plants 
+and power stations within the last five years increased from 215 to 525 GWh and in biogas 
+cogeneration plants from 288 to 405 GWh. 
+According to the projections, emissions from the energy sector in the current situation 
+will decrease in 2050 by approximately 34 % when compared to 2017, and by 86 % when 
+compared to 1990. 
+ 
+39The energy sector includes sources of emissions with the NACE sectoral codes: 05, 06, 07.21, 08.92, 09.1, 19.20, 
+35, 33, 36–39, 45–47, 52–96, 99, i.e., public electricity and production of thermal energy, production of solid fuel 
+and other energy sectors, industrial sectors and construction, including manufacture of basic iron and steel, 
+manufacture of non-ferrous metals, manufacture of chemical substances, manufacture of cellulose and paper, 
+polygraphy, food processing, manufacture of beverages and tobacco, manufacture of non-ferrous minerals, 
+manufacture, of wood and products of wood and cork (except for furniture), manufacture of articles of straw and 
+plaiting materials, commercial and institutional sector, households, agriculture, forestry, fisheries, military 
+transport, and diffuse emissions from oil and natural gas. 
+40The consumption of thermal energy in industrial sectors in 2017 was only 11 % of the total consumption of 
+thermal energy in the country. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  22 Transport41 is the second largest source of GHG emissions and generated 29 % of the 
+total emissions in 2017. In comparison with 1990, the amount of emissions in the transport 
+sector has increased by 9.4 %. 
+The majority of GHG emissions from the transport sector in 2017 were generated from 
+road transport (93.88 %), whereas the largest generator of emissions in the road transport sub-
+sector according to the groups of vehicles was passenger cars followed by freight vehicles and 
+buses. Railway generates only 5.5 % of the total transport sector emissions, maritime transport 
+– 0.48 %, and aviation – 0.14 %. 
+Although the number of motorised vehicles is lower than on average in OECD countries, 
+as well as the number of inhabitants will most likely decrease in the future, it is projected that 
+the number of motorised vehicles will increase in Latvia concurrently with the increase in the 
+living standard of inhabitants, as well as increasing suburbanisation tendencies. According to 
+the projections, it is anticipated that in 2050 transport sector emissions will decrease in total in 
+relation to 2017 and 1990 (by 53 % and 47 % accordingly). 
+Such emissions are accounted in the sector of industrial processes and product use42 
+which are generated from industrial processes, use of raw materials in industrial production, 
+use of chemical substances and use of heating fuel for non-energy needs. In 2017, 6.5 % of the 
+total GHG emissions of Latvia were generated in this sector. Although the amount of emissions 
+is relatively small, it has an increasing trend starting from 2009. In total, the largest amount of 
+GHG emissions is generated from the manufacture of cement, glass, and bricks, forming 61 % 
+of  the  total  industrial  process  emissions  in  2017.  Although  the  quantity  of  fluorinated 
+greenhouse gases (fluorinated gases43) in the country and the amount of emissions therefrom 
+are not high (in 2017 – 32 % of the total GHG emissions in the sector of industrial processes 
+and product use and 2.1 % of the total GHG emissions of Latvia), they have a high global-
+warming potential which exceeds the CO  global-warming potential even several thousand 
+2
+times. Emissions of fluorinated gases have significantly increased since 1995 as their use for 
+the replacement of ozone-depleting substances was commenced. Use of fluorinated gases also 
+increases in relation to the increasing demand for air conditioning equipment in premises and 
+vehicles, as well as upon increase in welfare and living standard of inhabitants. Taking into 
+account the foreseeable trend of industrial development, it is currently projected that increase 
+of GHG emissions from industrial processes will continue, generating 9 % increase of GHG 
+emissions in 2050 in comparison with 2017 and 22 % increase in comparison with 1990. 
+Agriculture44 is the third largest source of GHG emissions, generating 24.6 % of the 
+total GHG emissions of Latvia in 2017. The most significant GHG emissions in this sector are 
+generated by cultivation of agricultural land (60.8 %) and farming (31.2 %). Since 1990, the 
+amount of GHG emissions in the agriculture sector has decreased by 50.5 % mainly as a result 
+of restructuration of national economy, decrease of the rate of production in rural farms, as well 
+as division of large-scale farms into smaller farms. The quantity of emissions is significantly 
+affected by fluctuations in the number of farm animals and the quantity of mineral nitrogen 
+ 
+41The transport sector includes sources of emissions with the NACE sectoral codes:49, 50, 51, 52, 53, i.e., inland 
+aviation, road transport, railway, inland shipping. 
+42The sector of industrial processes and product use includes sources of emissions with the NACE sectoral codes: 
+23, 24,27, 28, 35, 43, 45, i.e., manufacture of minerals (includes manufacture of cement, lime, glass, bricks, and 
+ceramic tiles), chemical manufacture, manufacture of metals (includes manufacture of iron and steel), use of 
+heating fuel for non-energy needs (includes use of lubricants, paraffin wax, urea, covering of roads with asphalt 
+and tar coating of roofs), use of solvents, manufacture of electronics, products used for replacement of ozone-
+depleting substances (includes use of fluorinated gases in cooling and air conditioning equipment, foam, fire safety 
+articles, sprays, and solvents containing fluorinated gases), manufacture and use of other products (includes the 
+use of sulphur hexafluoride in electric devices and the use of nitrogen oxide in medicine). 
+43Fluorinated  greenhouse  gases  –  hydrofluorocarbons,  perfluorocarbons,  sulphur  hexafluoride,  and  other 
+greenhouse gases containing fluorine or mixtures containing any of the abovementioned substances. 
+44The agriculture sector includes sources of emissions with the NACE sectoral code: 0.1, i.e., emissions generated 
+by farm animals (including fermentation in the alimentary tract, manure management), cultivation of agricultural 
+soil, liming, and use of urea. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  23 fertilisers applied. Increase of emissions from the agriculture sector has been observed during 
+the last years, mainly from cultivation of agricultural land, upon increase in the use of mineral 
+fertilisers containing nitrogen. 
+The main types of use of UAA are arable land, as well as grassland and pasture land. 
+The majority of fields in Latvia (ha) are occupied by growing crops, green forage for fodder, as 
+well as agro-industrial cropping. 
+The largest amount of uncultivated UAA territories is in Pierīga and Eastern Latgale, 
+the smallest – in Zemgale. In 2017, the total yield of crops in Latvia was 2.6 million tonnes 
+which is 42 % more than ten years ago. The significant increase in the total yield of crops was 
+mainly influenced by the increase in areas sown with crops. 
+The total surface area under cultivation of agricultural crops treated with mineral 
+fertilisers increased by 51 % in 2008, by 55 % in 2010, and 60 % of all surface areas under 
+cultivation were fertilised in 2017. 
+The  projections  show  that  emissions  from  the  agriculture  sector  will  increase. 
+Respectively, in 2050 they will increase by 15 % in comparison with 2017 and by 43 % – with 
+1990. 
+The waste management sector45 generated approximately 5 % of the total emissions in 
+2017. The majority of emissions occurred from waste disposal at landfills (71 %) and from 
+wastewater (20 %), the remaining part – from composting and incineration of waste (8 %). In 
+comparison with 1990, GHG emissions from the waste sector have decreased by 19.2 %. 
+Fluctuations of emissions are observed in the sector which may be explained by changes in the 
+economic situation in the country. 
+The projections show that by 2050 GHG emissions from the waste management sector 
+will reach a reduction of approximately 58 % when compared to 2017 and a reduction of 66 % 
+when comparison with 1990. 
+ 
+4.2. LULUCF Sector Net Emissions – Structure and Dynamics 
+ 
+Unlike other sectors, the LULUCF sector generates not only GHG emissions, but also 
+forms CO  removals (the carbon from the atmosphere is sequestrated in the living woody 
+2
+biomass as a result of photosynthesis process). The LULUCF sector includes six categories of 
+land: forest land, cropland, grassland, settlements, wetlands, and other land. The scope of the 
+Strategy applies to the whole LULUCF sector, not just individual categories. 
+The total GHG balance is formed by the sum of GHG emissions of the abovementioned 
+LULUCF sector categories. In the time period between 1990 and 2013, the total GHG emissions 
+in the LULUCF sector were lower than CO  removals. However, starting from 2010 an increase 
+2
+of GHG emissions in the LULUCF sector has been observed, moreover, it is being projected 
+henceforth (until 2050) that GHG emissions in the LULUCF sector will exceed removals. The 
+largest changes in GHG emissions and CO  removals are in the category “Forest land” (see 
+2
+Figure 4). 
+The main cause for the decline in CO  removals and increase in GHG emissions in the 
+2
+LULUCF sector is the increase in the proportion of stands that have attained or surpassed the 
+falling age which has promoted increase in the amount of exploitation of the forest and increase 
+in emissions related to the natural mortality of trees. Another significant factor is deforestation 
+occurring upon construction of new infrastructure objects. In the last decades, the proportion of 
+forest stands which have attained and surpassed the age of economic use has increased in the 
+age structure of forest stands for all main tree species in Latvia, particularly in stands of 
+deciduous trees. Carbon sequestration in the live biomass is slowing down and CO  emissions 
+2
+increase in such forest stands upon mineralisation of the carbon accumulated in the dead wood 
+as a result of which GHG emissions may exceed carbon removals in biomass of woody plants. 
+ 
+45The waste sector includes sources of emissions with the NACE sectoral code: 38, i.e., disposal of solid waste, 
+biological treatment of solid waste, incineration of waste, purification and discharge of wastewater. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  24  
+ 
+ 
+Figure 4. GHG emissions and removals of the LULUCF sector of Latvia (kt CO  eq.)46 
+2
+ 
+GHG emissions from cropland and grassland have been decreasing since 1990. The 
+decrease in GHG emissions from cropland is mainly related to the mineralisation of organic 
+soils, transformation of cropland into grassland, and afforestation. 
+The largest amount of GHG emissions from grassland is forming in organic soil. 
+Substantial CO  and N O emissions in organic soil from cropland and grassland is forming 
+2 2
+regardless of the method of management, whereas the carbon stock in mineral soil is increasing 
+or decreasing as a result of changing the type of land use or the method of management. 
+GHG emissions forming in the territories of peat extraction and emissions forming upon 
+use of peat in horticulture are evaluated in the category of wetlands. According to the GHG 
+inventory of 2019, emissions from wetlands in the time period from 1990 to 2017 have 
+increased and GHG projections show an increase in GHG emissions also in the future the 
+amount and area of peat extraction is projected to increase. 
+ 
+4.3. Joint Progression of Latvia Towards Climate Neutrality 
+ 
+The previous sub-chapters provides an overview of the current situation in relation to 
+the first two objectives of the Strategy, applying to the reduction of GHG emissions (excluding 
+the LULUCF sector) and the net emissions in the LULUCF sector only. However, as the 
+objective of climate neutrality  includes the joint  performance of  all sectors, information 
+ 
+46GHG inventory of 2019, submitted within the scope of the Convention and the Kyoto Protocol, and expert 
+evaluation.  The  GHG  objectives  reflected  include  both  ETS  and  non-ETS  emissions.  Available  online: 
+https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-
+convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019;  the  report  on 
+policies,  measures,  and  GHG  projections  submitted  to  the  EC  in  2017.  Available  online: 
+https://cdr.eionet.europa.eu/lv/eu/mmr/art04-13-14_lcds_pams_projections/projections/envws0bea/. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  25 regarding the balance of the current annual net GHG emissions, as well as projections if only 
+the measures provided for currently are to be implemented, including all sectors, also the 
+LULUCF sector, is aggregated in this sub-chapter. 
+The total GHG emissions of Latvia (including the LULUCF sector) in 2017 were 9 618 
+kt CO  eq.47. The total GHG emissions of the country in the time period from 1990 to 2017 
+2
+have decreased by approximately 42 %. In 2050, the projected (only with the current policy and 
+measures for the reduction of GHG emissions) reduction of GHG emissions is approximately 
+17 %48 in comparison with 1990 (Figure 5). 
+ 
+ 
+ 
+Figure 5. Total amount of GHG emissions of Latvia (until 2017) and projection (for 
+2018–2050) under the scenario “with the current measures” (1990–2050)49 
+ 
+In Figure 5, a vertical line separates information regarding the current situation from 
+future projections. 
+According  to  the  initial  indicative  projections50,  the  specified  quantity  of  GHG 
+emissions which will have to be compensated with removals in 2050 is approximately 3.6 
+million t CO  eq. 
+2
+   
+ 
+47GHG inventory of 2019, submitted within the scope of the Convention and the Kyoto Protocol. Available online: 
+https://unfccc.int/documents/194812 
+48The report on policies, measures, and GHG projections submitted to the EC in 2019. Available online: 
+https://cdr.eionet.europa.eu/lv/eu/mmr/art04-13-14_lcds_pams_projections/projections/envxk3aeq/  and  expert 
+evaluation. 
+49The report on policies, measures, and GHG projections submitted to the EC in 2019. Available online: 
+https://cdr.eionet.europa.eu/lv/eu/mmr/art04-13-14_lcds_pams_projections/projections/envxk3aeq/  and  expert 
+evaluation. 
+50Initial evaluation of the study of the Institute of Physical Energetics Latvijas tautsaimniecības attīstības 
+iespējamo scenāriju līdz 2050.gadam izstrāde atbilstoši Eiropas Savienības ilgtermiņa attīstības redzējumam 
+[Drawing-up of the Potential Scenarios for the Development of National Economy of Latvia until 2050 according 
+to the Long-term Development Vision of the European Union], November 2019.  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  26 5. Most Significant Factors Affecting the Amount of Occurrence of GHG 
+Emissions of Latvia in Different Sectors of National Economy 
+ 
+The current structure of national economy of Latvia is characterised by the fact that non-
+ETS emissions of Latvia form a very high share (approximately 80 % of the total emissions of 
+the country). As the proportion of non-ETS on average in the EU countries forms 60 %, the 
+proportion of non-ETS emissions in Latvia is the second highest among the EU countries. This 
+means that in Latvia the share of such emissions for the reduction of which more active national 
+policy and involvement is necessary as they are not regulated by EU ETS is significantly higher. 
+ 
+5.1. Potential of Innovations 
+ 
+The development of innovations is one of the priorities of the national economy which 
+will ensure a more rapid growth of Latvian national economy and will be the basis for the 
+increase in productivity and products with added value both in medium-term and in longer term. 
+Currently, the level of the development of innovations in Latvia is low, however, growth 
+caused by innovations in environmental development resulting from the initiative carried out in 
+Latvia  has  been  observed,  particularly  by  supporting  enterprises  upon  introduction  of 
+innovative goods and services, as well as upon acquisition of new manufacturing infrastructure. 
+Latvia has been included in the group of countries of “moderate innovators” in the 
+reports on the European innovation scoreboards and regional innovation scoreboards, holding 
+the 24th place in the competition amongst 28 countries, retaining an invariable position in 
+comparison with the results of the scoreboards of 2017 and 2018. However, the third highest 
+growth in the EU has been observed in Latvia with an increase in the performance in the 
+scoreboard51 by  17.7 percentage  points.  There  are  comparatively  low  investments  in  the 
+research and development activities of the private sector, as well as a low number of new 
+graduates of post-graduate studies in Latvia. 
+ 
+5.2. Energy Sector 
+ 
+Energy efficiency indicators of buildings, energy security in the context of the use of 
+local energy sources are essential factors affecting GHG emissions. Also, upon implementing 
+LCD in the energy sector, such challenges as non-deterioration of air quality in the use of solid 
+biomass in local solutions of heat supply, the potential of the use of non-emission types of RES 
+technologies, as well as the assessment of the introduction of new technologies in relation to 
+carbon capture and storage should be taken into consideration. 
+ 
+•  Energy efficiency in buildings 
+ 
+In total, the fund of buildings52 in Latvia includes 1.37 million buildings with the total 
+area of 204.7 million  m2 – in  residential  buildings (their area 45 %) and non-residential 
+buildings, including manufacturing buildings (their area 55 %). 
+The majority of the residential fund of Latvia surpasses the age of 25 years (only 10–
+15 % of all residential buildings have been built during the last 10–15 years), moreover, the 
+largest  proportion of inhabitants  are living  in  multiapartment  buildings with  low energy 
+efficiency  (the  majority  of  buildings  not  restored  according  to  the  requirements  for  the 
+classification of buildings currently conform to Classes E and F). Improvement of the energy 
+ 
+51The European Innovation Scoreboard created by the European Commission includes 10 dimensions, taking into 
+consideration 27 indicators affecting innovations in such areas as human resources, attractive research system, 
+innovation-friendly environment, finance and support, firm investments, innovators, linkage between science and 
+entrepreneurship, intellectual assets, impact of innovation on employment, and impact of innovation on sale. 
+52 Data of the State Immovable Property Cadastre Information System provided by the State as of 1 January 2017. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  27 efficiency indicators of residential buildings will also reduce the poverty risk, for example, 
+7.5 % of households were not provided with sufficient heat supply in 2018 (the indicator is 
+twice higher than in other countries of the Northern Europe). 
+In State buildings, the most significant consumption of thermal energy is observed in 
+the security and social area, particularly in regions where a higher number of prisons and social 
+institutions are amassed in comparison with other regions. 
+Buildings that have been built before World War II are mainly located in the territory 
+of urban construction monuments or also in the territory of architectural monuments, larger 
+financial investments should be estimated for the implementation of energy efficiency measures 
+in such buildings. 
+ 
+•  Energy security 
+ 
+The indicator of energy dependence of Latvia was approximately 89 % in 1990, but it 
+already was significantly lower in 2017 – 43 %. 
+The local energy sources ensuring the primary consumption of energy sources of Latvia 
+are also concurrently RES – biomass (including wood and straws), water, wind, sun, gases from 
+landfill sites and wastewater treatment facilities, biogas, as well as geothermal energy and 
+hydrothermal energy, in turn, the energy resources imported – petroleum products, natural gas, 
+coal – are fossil energy resources. Therefore, promotion of the use of RES will continue to 
+reduce the dependence of Latvia on import of fossil energy resources, as well as increase the 
+energy security of the country. 
+ 
+•  Air quality aspect 
+ 
+Since Latvia joined the EU, the use of solid biomass in combustion installations has 
+increased significantly. Starting from 2012, the proportion of the use of biomass in total 
+consumption surpasses the use of natural gas. Currently one of the main LCD providers of the 
+energy sector is biomass – wood, timber residues, wood briquettes, chips, granules, as well as 
+bioethanol, biodiesel fuel, gases from landfill sites and wastewater treatment facilities, and 
+biogas. 
+As increased air pollution has already been detected in individual zones of Riga, a 
+challenge, particularly in urban environment, is caused by the use of such RES in local solutions 
+of heat supply which do not have an adverse effect on air quality, for example, by using non-
+emission technologies or fuel gas purification filters (particularly in relation to emissions of 
+solid dispersed particles). 
+ 
+•  Use of the types of non-emission RES technologies 
+ 
+An additional solution for such challenge is an increase of the share of non-emission 
+RES (sun, wind, water, geothermal energy, and hydrothermal energy). 
+The share of manufacture and use of RES in electricity has an increasing trend – 54.58 % 
+(in 2017), however, such RES as water or wind energy formed only 8.5 % of the consumption 
+of total primary energy resources in 2017, but this share has increased (in comparison with 1990 
+– by 5.2 %). 
+Theoretical acquisition of hydroenergy resources from medium and small rivers of 
+Latvia is 900 GWh of electricity per year. Hitherto the hydroenergy resources of small rivers 
+were claimed only in the amount of 70 GWh which is 23 % to 28 % from the potential capacity 
+of  past  watermills  and  former  small  HPPs.  Concurrently  it  should  also  be  taken  into 
+consideration that claiming of the potential hydroenergy resources is permissible, only taking 
+into account the objectives of environmental and nature protection, assessing and eliminating 
+or reducing the potential negative impact on natural ecosystems, migrating fish, and biological 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  28 diversity. The quantity of the production of electricity in Latvia depends, to a large extent, on 
+the flow of the River Daugava which depends on the precipitation volume in the relevant year. 
+Cascade of the River Daugava – Riga HPP, Ķegums HPP, and Pļaviņas HPP – ensures on 
+average 40 % of electricity consumed in Latvia. 
+The division of energy resources from wind in Latvia is distinctly uneven. Such areas 
+inside the territory of Latvia are favourable for wind energy where the wind develops as a result 
+of an elevation. The highest wind speed in Latvia is at the coast of the Baltic Sea and at the 
+western coast of the Gulf of Riga, its northern part. 
+In 2017, approximately 330 MWh of electricity were generated from the sun which is 
+almost 0.002 % of the total electricity supplied to end-users. 
+Implementation of national level RES projects, for example, construction of wind parks 
+or switching from fossil energy resources to RES in heat supply enterprises of the large cities, 
+is particularly important. 
+ 
+5.3. Transport 
+ 
+As regards the GHG emissions in the transport sector, the structure of the vehicle fleet, 
+the choice of cars, and the habits of their use are factors characteristic to Latvia. 
+ 
+•  Structure of the existing vehicle fleet 
+ 
+In Latvia, almost 80 % of the vehicles are older than ten years. 
+In the time period from 2010 to 2017, the number of diesel cars has increased from one 
+third to more than half of all vehicles. Heavy traffic in which fossil energy sources are the 
+dominating fuel is generating not only GHG emissions, but also has a negative impact on air 
+quality, particularly in urban environment where increased concentration of NO  is an indicator 
+2
+attesting to pollution caused by vehicles. Although the new cars registered in Latvia generate 
+less emissions, Latvia still is in the second place in the EU in relation to the use of most carbon-
+intensive cars. 
+During the last years a trend has been observed that carriage of passengers in public 
+transport has decreased and people choose their personal vehicles instead. 
+ 
+•  Availability of the infrastructure for the refuelling of alternative vehicles 
+ 
+The first stage of public fast charging network of national scale in Latvia was completed 
+in 2018 and the second stage is planned in 2020. In total, it is planned53 to install 150 fast 
+charging stations for electric vehicles by the end of 2021, installing them on regional roads 
+connecting TEN-T roads and in populated areas where the number of inhabitants exceeds 5000. 
+There was no passenger vehicle using hydrogen as fuel registered in Latvia (as of 2019), 
+as well as there are no public hydrogen filling sites accessible in Latvia. 
+One CNG filling station (in Jēkabpils) accessible to the public has been opened (in 
+2019), and another two stations are planned to be opened in Riga. Biomethane can be introduced 
+in the CNG infrastructure instead of natural gas. 
+ 
+•  Choice of cars and habits of their use 
+ 
+GHG emissions can also be reduced by choosing a type of car which is appropriate for 
+the planned type of use, for example, by not choosing cars with large engine capacity (cross-
+country vehicle) for driving in urban environment. In addition, GHG emissions and emissions 
+of polluting substances in air occur due to the chosen driving style and also due to incomplete 
+ 
+53Within the scope of the project co-financed by ERAF. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  29 technical maintenance of vehicles (for example, whether the exhaust pipe has been equipped 
+with a diesel particulate filter and whether it is being appropriately maintained and operated). 
+ 
+5.4. Agriculture and Land Use 
+ 
+Significant factors in the land and land use, land-use change and forestry sector in 
+relation to GHG emissions and CO  removals are the use of mineral fertilisers, high proportion 
+2
+of organic soil in the territory of Latvia, as well as forestry coverage. 
+ 
+•  Use of mineral nitrogen fertilisers in treatment of agricultural land 
+ 
+The total surface area under cultivation of agricultural crops treated with mineral 
+fertilisers keeps increasing (in 2008 – 51 %, in 2010 – 55 %, and in 2017 – 60 % of all surface 
+areas under cultivation were fertilised). In the last decade mineral fertilisation per 1 ha of areas 
+under cultivation for all agricultural crops (recalculating in 100 % plant-based nutrients) has 
+increased from 74 kg/ha to 110 kg/ha. The elementary nitrogenous fertilisers are still being used 
+extensively as their prices are significantly lower than the prices of complex mineral fertilisers. 
+The largest amount of mineral fertilisers per ha of area under cultivation was used for areas 
+under cultivation for agro-industrial crops and cereal crops, but significantly less – in growing 
+of open-field vegetables and potatoes. 
+ 
+•  Soil structure/composition – organic soils 
+ 
+Organic soils have formed in Latvia mainly in soils with high level of humidity. Upon 
+transforming wetland containing a thick layer of organic matter into utilised agricultural area, 
+emissions of dinitrogen oxide (N O) increase under the influence of increase mineralisation of 
+2
+soil. 
+Such soil is found in smaller areas throughout the territory of Latvia and, to a larger or 
+lesser effect, affects 48 % of households. In total, the quality assessment of organic soil in points 
+is lower than on average in the country, thus affecting the indicators of productivity. 1 ha of 
+unused organic soil to be used in agriculture generates as much GHG emissions as currently on 
+average 10 ha of mineral soil producing agricultural products54. 
+ 
+•  Forest area 
+ 
+In comparison with the first half of the 20th century when 23 % of Latvia were covered 
+in forests, this coverage has doubled over time until nowadays55 and reaches almost 53 % 
+(covers 92 % of the total forest land56, 3 575 thousand ha from which forest area without 
+restrictions of economic activity – 2 193 thousand ha). It is projected that the forest area will 
+keep increasing because natural overgrowing of land not utilised in agriculture, as well as its 
+reafforestation is continuing. According to the current estimates, the annual total forest growth 
+is approximately 26 million m3 per year. The cleared area in the last decade from 2007 to 2017 
+has decreased from 138 thousand ha to 94 thousand ha. 
+Wood resources in Latvia are acquired in order to produce and export different wood 
+products (wood and its articles, wood furniture, structural timber products, paper and cardboard 
+articles), in turn, wood by-products from wood processing and forestry processes are used as 
+an energy source. 
+ 
+ 
+54INTERREG EUROPE has the results of the BIO4ECO project of the interregional cooperation programme. 
+55Data of the National Forest Monitoring 2018. 
+56Also part of wetland (for example, a swamp with trees reaching the height of at least 5 m) and shrub land or 
+heathland is considered forest land. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  30 5.5. Use of Resources 
+ 
+Essential factors in relation to the use of resources are the potential of bioeconomy, the 
+efficiency of the use of resources, the consumption habits of households, the use of industrial 
+raw materials of manufacturing, as well as waste management. 
+ 
+•  Development of the potential of bioeconomy 
+ 
+Bioeconomy  ensures  integrated  approach  towards  inclusion  of  knowledge-based 
+economic growth, social welfare, and environmental protection into agriculture, forestry, and 
+fisheries, conforming to the basic principles of circular economy, more efficient use of natural 
+resources. Some of the potential directions of the development of bioeconomy are reduction of 
+the amount of waste in processing and replacement of fossil resources with bioresources, inter 
+alia the use of biodegradable materials. Economy of Latvia depends, to a large extent, on non-
+renewable  fossil  resources  and  it  affects  not  only  the  economic  aspect,  but  also  the 
+environmental and national security aspects. 
+One of the principles in the development of sectors of bioeconomy is decoupling of 
+manufacturing and GHG emissions in long-term (GHG emissions per unit of production 
+manufactured decrease). Long-term actions for the optimisation of GHG emissions and CO  
+2
+removals in the future is of significance in forest management. 
+Latvia is rich in wood resources. Wood production is one of the categories of the 
+LULUCF sector which sequestrates CO  emissions. Concurrently with striving for climate 
+2
+neutrality, the fulfilment of bioeconomy objectives can be promoted and achieved, for example, 
+by developing the use of wood resources for the manufacturing of products with high added 
+value, including for export needs. 
+ 
+•  Consumption habits of households 
+ 
+Consumption habits of households promote increase of GHG emissions to a large extent 
+because, with the improvement of economic welfare, the demands of inhabitants for comfort 
+also increases. Upon continuing the implementation of conventional economic development 
+(i.e.,  without  conforming  to  the  LCD  principles  and  striving  for  climate  neutrality),  the 
+consumption  of  energy  resources,  the  amount  of  fluorinated  gases  which  are  used  as  a 
+refrigerant in cooling and air conditioning equipment, as well as the amount of waste generated 
+will also increase concurrently with increase in economic welfare of inhabitants. 
+ 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  31  
+ 
+Figure 6. Consumption of inland resources57 (in total) in Latvia58, thous. t 
+ 
+The consumption level of households experienced the most rapid increase after joining 
+the EU in 2004, reaching the highest level in 2008. Increase of consumption expenses was 
+discontinued by the economic crisis when economic resources of households rapidly decreased 
+in 2009 and 2010. Starting from 2011, consumption expenses gradually increased again, and it 
+was related to both increase in the level of income of inhabitants and rapid increase in the level 
+of consumer prices. 
+ Not only the amount of consumption expenses is increasing, but also their structure is 
+changing, gradually approaching the structure in countries with a higher living standard. This 
+has been largely promoted by both the increase in remuneration and the extensive offer of 
+leasing goods and credit resources as a result of which many households undertook credit 
+liabilities for the purchase of consumer goods and services. 
+ 
+•  Efficiency of the use of resources 
+ 
+The amount of manufacturing in the manufacturing industry have increased since the 
+second half of 2009. Upon restoration of economic growth, the increase rates of manufacturing 
+industry have become more rapid than the growth of joint national economy and currently it is 
+the main driver of growth of national economy. 
+The increasing consumption of materials is affecting climate change, mainly via the 
+increasing energy consumption which is necessary for the acquisition, use, transportation, and 
+storage of such materials. Concurrently the amount of material resources and raw materials 
+available keeps decreasing and becomes increasingly expensive. In turn, manufacturing and 
+everyday life generates increasingly more waste the management of which requires more and 
+more investments. 
+Trends of increase in consumption of materials are also observed in Latvia, and they are 
+closely related to the indicators of economic welfare. Also the total flow of resources entering 
+national economy – domestic consumption (see Figure 6) formed not only by the resources 
+acquired inland (except for export), but also by imported resources (their amount is fluctuating 
+in the amount of approximately 10 % in the total flow) – has increased 
+ 
+ 
+57Materials/carriers of fossil energy – coal, lignite (brown coal), hard coal, oil shale and bituminous sand, peat, oil, 
+and natural gas. 
+Non-metallic mineral products – marble, granite, sandstone, porphyry, basalt, other ornamental or construction 
+rocks (except for slate), chalk and dolomite, slate, chemical mineral products and mineral fertilisers, salt, limestone 
+and gypsum, clay and kaolin, sand and gravel, and other non-metallic mineral products not elsewhere classified. 
+Biomass and biomass products (here) – cultivated species, residues of cultivated species (used), wood and wood 
+products, fishing and other water animals, other animals and animal products (meat, milk, eggs, honey). 
+58Databases of the Central Statistical Bureau. Accounts of material flow – indicators (thous. of tons). Available 
+online: https://data1.csb.gov.lv/pxweb/lv/vide/vide__vide__ikgad/VIG100.px/chart/chartViewLine/ 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  32 •  Use of raw materials of industrial manufacturing 
+ 
+The number of large industrial manufacturing enterprises is relatively small in Latvia. 
+Large part of GHG emissions in the balance of Latvia is formed by incineration or 
+melting of raw materials that are rich in carbon (carbonates) in the manufacture of cement, 
+limestone, brick, steel, and glass products. Such local raw materials as dolomite, limestone, or 
+clay from incineration of which the necessary industrial production is obtained are used in the 
+manufacturing of such products. Metal scrap and carburizers (raw materials of carbonate origin 
+for improving the quality of metal articles) are also used in manufacturing of steel products for 
+the enrichment of final products with carbon. 
+Part of Latvian enterprises which are using carbonates in their manufacturing have 
+changed the technologies and raw materials used to more energy- and emission-efficient 
+technologies, thus providing their contribution to advancement towards climate neutrality. 
+Latvia holds one of the last places in the whole space of the EU economy according to 
+its manufacturing efficiency indicators both in the primary production of agriculture and fish 
+and in the subsequent processing chain until the product reaches the final consumer. 
+Decrease in the use of resources the use of which generates GHG emissions in the last 
+decades has occurred because of the very discontinuation of industrial manufacturing. 
+ 
+•  Introduction of technologies for the storage and use of CO  emissions 
+2
+ 
+Upon advancing towards complete decarbonisation it is possible to develop carbon 
+capture and storage (CCS), as well as carbon capture and utilisation (CCU) technologies in the 
+future in addition to natural carbon capture systems and storage systems in the manufacturing 
+sector (particularly in the sectors of manufacturing cement and chemical substances where 
+direct methods for the reduction of emissions are not available or it is not possible to replace 
+fossil energy resources due to special features of technologies). 
+Hitherto,  upon  determining  the  potential  geological  storage  sites  in  Latvia  and 
+modelling prices, it was concluded that the efficiency of the creation of CO  storage sites (CCS) 
+2
+is too low and such solution would not be economically feasible at the moment. However, it is 
+necessary  to  continue  the  research  of  the  suitability  and  economic  feasibility  of  CCS 
+technologies in different industrial processes. 
+In turn, CCU technologies provide for the processing of the captured carbon for further 
+use, for example, in manufacture of plastic, concrete, or fuel. The CCU potential in reduction 
+of carbon should be evaluated throughout the life cycle. 
+ 
+•  Consumption of chemical substances and freezing agents 
+ 
+Although the quantity of freezing agents (fluorinated gases) in the country and the 
+amount of GHG emissions is not large, these gases have a very high global-warming potential. 
+Upon increase in the living standard and welfare of inhabitants, as well as upon increase 
+of the significance of the service sector in the State economy (particularly for wholesale trade 
+and retail trade), it is foreseeable that the consumption of freezing agents will also increase (the 
+household consumption tendencies show that the number of refrigerators, air conditioners, as 
+well as private cars undergoes a stable increase in households). 
+ 
+•  Waste management 
+ 
+Waste generation is closely linked to the scale of consumption. The waste management 
+policy should be viewed only in context of resource-efficiency and circular economy because 
+the preclusion of materials from turning into waste (achieving the status of waste) will preclude 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  33 the necessity to consume new resources. Therefore, waste is not just an environmental problem, 
+but also a loss for economy. 
+Each inhabitant of Latvia generated on average 438 kg of household waste in 2017 
+which is by 49 kg less than generated on average by an EU-28 inhabitant. However, the average 
+quantity of household waste generated in comparison with 1995 per inhabitant in Latvia has 
+increased by 65.7 % which is the largest increase in the EU in this period of time. The amount 
+of the disposed household waste has a stable tendency to decrease as the amount of processed 
+waste increases. 
+ 
+5.6. Role of Local Governments and the Urban Environment 
+ 
+Local  governments,  upon  fulfilling  the  duties  laid  down  in  the  current  laws  and 
+regulations, have a key role in advancement of the country towards climate neutrality. The 
+majority (68 % in 2018) of inhabitants in Latvia live in cities, however, an even larger 
+proportion of inhabitants work in cities. 
+ 
+•  City as “superconsumer” 
+ 
+As cities are characterised by a higher density of inhabitants and higher economic 
+activity, inhabitants of cities are also the largest consumers – the majority of transport is used 
+in cities, the majority of energy is consumed in cities, the majority of goods and services are 
+purchased and/or consumed in cities, also the majority of waste is generated in cities. 
+ 
+•  Local governments include all inhabitants and the current functions of local 
+governments include a significant potential for the achievement of climate 
+neutrality 
+ 
+Local governments have a high potential for influencing the contribution of the energy 
+sector and transport sector to climate change mitigation because the autonomous functions 
+specified for local governments already include such duties as management of heat supply, 
+water supply, sewerage, and household waste, organisation of the public transport, spatial 
+development planning, and determination of the procedures for land use and building, as well 
+as lighting of the territories provided for public use, arrangement and maintaining of green 
+zones. 
+The role of local governments as energy consumers is related to the management of 
+local government buildings and provision of public utility services (lighting of streets, water 
+supply,  sewerage,  etc.).  In  relation  to  the  transport  sector,  local  governments  carry  out 
+coordination and provision of the public transport, service vehicles, public services. Local 
+governments  develop  spatial  development  planning  documents,  including  the  sustainable 
+development strategy, spatial plan, development programme. Within the scope of spatial 
+planning the local government is planning the infrastructure of the building territory, public 
+outdoor spaces, and transport, including street and road network, sidewalks and pathways, 
+bicycle lanes. Measures promoting improvement of the level of awareness of inhabitants, as 
+well as involvement of the society in the development of the energy and climate policy and 
+continuous informing of inhabitants of the objectives to be achieved and the progress attained 
+in achievement thereof are activities creating a motivating impact. 
+ 
+•  Level of local governments – significant for measures for the promotion of 
+renewable energy sources 
+ 
+Decisions made at the level of local governments can influence all sectors of final energy 
+consumption, including ensure the most direct link with individual households which is one of 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  34 the largest priority target groups in achievement of energy efficiency and climate objectives. 
+Issues of heat supply and electricity supply are topical for every household. The level of local 
+governments is the very level where local challenges and specific nature, for example, the 
+public sentiments, can be taken into consideration in the best way possible and it is possible to 
+choose the most suitable ways and strategy for problem-solving and to promote the reduction 
+of GHG emissions in an integrated manner. 
+ 
+•  Urban environment – most subject to the risks of climate change 
+ 
+The urban environment is more subject to the risks of climate change than rural areas. 
+Cities are more often subject to such risks of climate change as flood, sea-level rise, heat waves, 
+insufficiency of drinking water, drought, extreme precipitation, and storms.59 
+ 
+•  Cooperation between local governments 
+ 
+Such  cooperation  between  local  governments  which  is  offered  by  different  local 
+(national) and international initiatives based on the concept “local governments learn from local 
+governments”, for example, Covenant of Mayors for Climate & Energy, is essential. This 
+initiative was commenced 10 years ago and has turned out to be successful. It is rapidly 
+expanding both geographically (it is not only within the scope of the EU anymore) and also 
+topically  (initially  was  oriented  towards  the  development  of  energy  strategies  of  local 
+governments, however, over time the concept of adaptation to climate change, as well as the 
+concept of a compact city has been added). 
+   
+ 
+59European Commission. In-depth analysis in support of the commission Communication COM(2018) 773. A 
+Clean Planet for all A European long-term strategic vision for a prosperous, modern, competitive and climate 
+neutral economy, 2018. Available online: https://ec.europa.eu/clima/policies/strategies/2050_en 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  35 6. Potential Solutions for Ensuring Low Carbon Development 
+ 
+Below a vision as to what development will have occurred in each sector in Latvia in 
+2050  is  provided.  In  order  to  include  fields  and  sectors  where  changes  and  significant 
+improvements can potentially be made in order to achieve climate neutrality and sustainable 
+sectoral development, the Strategy provides for the following division – energy, transport, land 
+management,  consumption,  and  manufacturing.  In  turn,  research  and  innovations, 
+comprehensive energy efficiency and solutions for local governments and urban environment 
+are general and provide for horizontal inclusion in all sectors of national economy. 
+ 
+6.1. Research and Innovations in Low Carbon Technologies 
+ 
+The development of research and innovations has provided a significant contribution to 
+the implementation of the Strategy. The necessary funding has been mobilised, a stable, 
+globally competitive human capital employed in research has been established, including a 
+system for knowledge and technology transfer to all sectors of national economy has been 
+developed. The LCD principles are being integrated into all studies, particularly in relation to 
+the development of new technologies. 
+Ambitious objectives have been brought forward for the promotion of innovations and 
+extensive intersectoral cooperation is taking place, solutions existing in one sector can serve for 
+the development of another sector. 
+Research and LCD initiatives are able to attract large investments from the private 
+sector. 
+ 
+•  Principles of low carbon development are integrated into all State-funded 
+studies 
+ 
+Stable  funding  for  studies,  for  the  search  and  commercialisation  of  low  carbon 
+technological  solutions  is  being  ensured  to  achieve  climate  neutrality  in  Latvia.  Upon 
+implementing studies, the joint knowledge base of Latvia is being enriched, knowledge-
+intensive, innovative goods and services with high added value and export potential are being 
+created. All sectors of national economy are proactively participating in and providing a 
+contribution to the search for the most efficient solutions for the reduction of GHG emissions 
+and energy consumption, as well as increasing the efficiency. State programmes for support to 
+research provide for the defining of advancement of research development in priority sectors 
+with the potential benefit in relation to achieving climate neutrality. Innovative ideas for 
+increasing the use of new, alternative materials and technologies for the consumption of 
+resources are being developed, working places are being created, goods and services with 
+higher  economic,  ecological,  and  social  added  value  are  being  created,  ensuring  the 
+achievement of objectives of the Strategy as soon as possible. 
+ 
+•  Investments are being successfully attracted for the development of research 
+and innovation, for the development of new and improved technologies and 
+processes 
+ 
+Sufficient funding is ensured not only from the State budget, but also external funding 
+from the EU and another international scope for studies and scientific development, as well as 
+private funding is being regularly attracted and efficiently utilised. Action policy measures of 
+different sectors for the development of research and innovation are mutually integrated. 
+Representatives of Latvia are active and trustworthy cooperation partners in international 
+consortia and regularly participate, with excellent results, in implementation of programmes of 
+different international studies. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  36 Latvia has a high potential and mechanisms for the commercialisation of research results 
+– innovative ideas, methods, and technologies which promote the implementation of objectives 
+of the Strategy, are being tested and put into practice already at an early development phase 
+thereof, promoting the manufacturing of sustainable products and technologies that can be 
+exported, developing internationally competitive services. 
+ 
+•  High level of commercialisation and competitiveness of research results is 
+attained 
+ 
+After researching the technology market and assessing market perspectives, research 
+and innovations are developed in prospective niches and results are commercialised to a wide 
+extent and reach the market, stimulating rise in productivity in all sectors of national economy, 
+concurrently providing a contribution to reduction of the amount of GHG emissions. Business 
+incubators which promote achievement of the  objectives of the Strategy are particularly 
+supported. 
+Enterprises of Latvia have adapted to the trends of the world market and are successfully 
+operating in niches of the development and manufacturing of technologies, ensuring stable 
+increase in export volume. 
+ 
+•  Improvements  in  resource  efficiency  provide  an  opportunity  for  growth 
+through eco-innovations and green working places 
+ 
+More efficient use of resources and reduction of pollution is a significant driving force 
+for economic growth. 
+LCD also provides an opportunity for new directions of economic development as it 
+potentially allows to create new sectors of employment engaged in introduction and servicing 
+of environmentally friendly technologies (the so called green working places). 
+Enterprises of Latvia are successfully using the opportunities provided by globalisation 
+on the market of green technologies and innovations. 
+ 
+•  Well-developed  research  human  capital,  culture  of  shared  use  of  the 
+infrastructure and cooperation 
+ 
+Stable and globally competitive research human capital with sufficient capacity and 
+competitive  remuneration  is  established.  The  infrastructure  of  research  and  innovations, 
+including  a  network  of  laboratories  with  modern  equipment  for  the  implementation  of 
+technologically oriented projects, and mechanisms for the shared use thereof at national and 
+international scale are well developed. Scientific institutions (higher education institutions and 
+scientific institutes) are operating as centres for the creation of new ideas and knowledge and 
+centres for the transfer of knowledge, skills, and competencies. At the same time, scientific 
+institutions offer access to the infrastructure of research and innovations in the form of different 
+research, technical, or advisory services. 
+Research objectives of scientific institutions, State administration, and local government 
+authorities and the sector of entrepreneurship are coordinated among them and are being 
+implemented in close cooperation between all parties, including the society. Cooperation in 
+research and innovation is developed on the scale of Latvia, the Baltic States, and the countries 
+of the Baltic Sea Region. 
+The  contribution  of  research  and  innovation  to  achieving  the  objectives  for  the 
+development  of  action  policies,  the  society,  and  the  joint  objectives  for  the  national 
+development  of  Latvia  in  all  sectors  of  national  economy  is  mutually  integrated  and 
+supplementary. Strong technology transfer centres are forming in research and development, 
+promoting communication and stimulating joint investments and investments of the private 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  37 sector  into  research  and  development.  The  system  for  the  transfer  of  knowledge  and 
+technologies which promotes the commercialisation of the results of both public and private 
+research is well developed. 
+The State provides a significant contribution to the development of the skills and 
+competencies of inhabitants for work with innovative technologies and ability to adapt to the 
+requirements of the labour market and social environment. Introduction of and support to new 
+technologies is paired with renewal and adjustment of the content of learning materials to the 
+current situation. 
+Scientific organisations are working in close cooperation with the industry, the demand 
+of the industry for studies and services of scientific organisations is high. The possibilities for 
+mutual cooperation by forming clusters, as well as possibilities for industrial symbiosis among 
+manufacturing enterprises are being researched. 
+ 
+•  Extensive and conveniently accessible base of practically applicable knowledge 
+which promotes reduction of GHG emissions and ensures CO  removals is 
+2
+created 
+ 
+Open science platforms which ensure open access both to the research data and results 
+that can be used for the promotion and development of studies and innovations and monitoring 
+of their success, as well as for the development of action policies and in political decision-
+making process have been established and are operating efficiently. Information and data are 
+easy to find, view, are mutually compatible and usable. A convenient database or several 
+mutually  coordinated  databases  with  regular  synchronisation,  updating,  and  exchange  of 
+information have been established where information regarding good practice in introduction 
+of technologies, studies, methods, and other valuable information is being aggregated. The 
+information and skills acquired are successfully transferred to sectors of national economy. The 
+research and innovation results (goods, services, novelties and methods of processes) are 
+quickly and efficiently made popular in the society and absorption of the new knowledge and 
+technologies is being promoted. 
+ 
+6.2. Comprehensive Energy Efficiency 
+ 
+Increasing of energy efficiency and implementation of the horizontal principle “energy 
+efficiency first” is one of the main factors of sustainable energy sector in Latvia as it reduces 
+the demand for energy generation in different sectors of national economy, as well as in 
+households. 
+Taking into consideration that one of the largest final energy consumers in Latvia is 
+households,  the  most  significant  energy  savings  can  be  achieved  in  this  very  sector  by 
+improving  energy  efficiency  of  existing  buildings,  introducing  new,  stronger  technical 
+requirements for the construction of new buildings, and using energy-efficient equipment. 
+One of the solutions applied is energy marking (visual method for informing the public) 
+and ecodesign (development of goods and services, taking into consideration their sustainability 
+and reduction of environmental impact). The conditions for energy marking and ecodesign limit 
+the manufacturing and placing on the market of products and equipment that are not energy 
+efficient. 
+ 
+•  Principle  “energy  efficiency  first”  is  introduced  and  implemented 
+comprehensively 
+ 
+Before planning the sectoral development of national economy, determining policies, 
+and approving decisions on investments, evaluation whether the most efficient alternative for 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  38 the implementation of the particular policy which will bring the highest savings of final energy 
+consumption has been selected is made. 
+The principle “energy efficiency first” is also being applied in the conditions for using 
+the funding from the EU and public funds. 
+ 
+•  Construction of all new buildings conforms to the requirements for zero60 
+energy consumption buildings 
+ 
+Awareness of inhabitants regarding advantages of zero energy consumption buildings 
+in terms of both energy savings and ensuring favourable microclimate of the interior premises 
+has been raised. 
+Strict energy efficiency requirements are being applied in the construction of new 
+buildings. It has been ensured until 2050 that all new buildings are constructed as zero energy 
+consumption buildings. 
+In construction of zero energy consumption buildings attention is also paid to planning 
+in relation to the placement of the buildings, the materials used, and internal engineering 
+networks of the building. 
+ 
+•  Renovation and reconstruction of all buildings conforms to the requirements 
+of zero energy consumption or almost zero energy consumption 
+ 
+Reduction of emissions cannot happen without improvements in energy efficiency of 
+existing  buildings,  concurrently  also  retaining  the  historic  values.  Renovation  and 
+reconstruction of buildings is carried out in good quality, using sustainable materials and 
+efficient technologies and methods. All existing buildings are renovated or reconstructed 
+according to the energy efficiency standards. As limited funding is one of the major current 
+challenges for comprehensive restoration of buildings, additional financial instruments have 
+been found (for example, see Chapter 7.2). 
+ 
+•  Manufacturing processes are energy efficient 
+ 
+Energy-efficient  and  resource-efficient  manufacturing  processes  ensure  the 
+competitiveness of Latvia in the world, offering goods and services for competitive prices, 
+concurrently creating additional work places and promoting growth. 
+ 
+•  Only  energy-efficient  and  resource-efficient  products  and  equipment  are 
+available to the society 
+ 
+Upon designing products and equipment, it is being taken into account that as less 
+energy as possible would be used in the manufacture of products and equipment, as well as 
+energy of another type would be obtained from the manufacturing process. Ecodesign is widely 
+conformed to and developed, it promotes introduction of innovative and sustainable solutions. 
+According to the ecodesign requirements, products provide for convenient and efficient 
+utilisation thereof which is accessible to everyone. The system is sustainable and conforms to 
+the principles of circular economy. 
+The field of energy-efficient lighting is dominated by systems and solutions of a new 
+generation which can be managed from distance, have a long term of service and high efficiency 
+in consumption of resources – during both the product development and the use thereof. 
+ 
+60In accordance with Paragraph 8 of and Table 1 of Annex to Cabinet Regulation No. 280, Regulations Regarding 
+the Latvian Construction Standard LBN 002-19 “Heat Engineering of Divisions of Buildings” all new buildings 
+must conform to the requirements of almost zero energy consumption from 2021. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  39 Control and adaptation of energy consumption to particular needs is a service available 
+to everyone and it is implemented from distance, using information  and communication 
+technologies. 
+ 
+6.3. Sustainable Energy 
+ 
+According to the initial indicative projections61 the total consumption of primary energy 
+in Latvia in 2050 will be approximately 118 PJ. 
+Integration of RES and energy efficiency are the main fields for the achievement of the 
+set objectives and undisturbed operation of internal market. Creation of suitable infrastructure 
+ensures competitiveness, sustainability, and security of energy supply. Fossil energy sources 
+have been replaced with renewable energy sources. In order to reduce emissions from the 
+energy sector, a policy promoting sustainable and low carbon technology, including the use of 
+RES,  and  introducing  the  most  efficient  technologies  available  on  the  market  has  been 
+introduced.  LCD  is  topical  not  only  for  climate  change  mitigation  and  environmental 
+conservation, but also for diversification of energy sources and promotion of energy security. 
+Low carbon technologies reduce the negative impact of price fluctuations of petroleum and gas 
+products on economy and allow the development of green employment. 
+ 
+•  Use of renewable energy sources in the energy sector 
+ 
+The  share  of  fossil  energy  sources  has  decreased  to  the  minimum  (as  low  as 
+technologically possible) and the use of technologies with renewable and innovative energy 
+sources has developed at an increasing rate. 
+The use of RES in the energy sector has been promoted by supporting the obtaining of 
+solar  and  wind  energy.  The  most  significant  types  of  RES  in  Latvia  are  solar  energy, 
+hydroenergy, wind energy, and biomass, however, a significant amount of energy is also 
+obtained from geothermal/hydrothermal energy. Upon increase in investments into innovative 
+energy sources which reduce GHG emissions and the load on the environment at large, it is 
+foreseeable that the use of RES in the energy sector will increase and they will replace fossil 
+energy sources by 2050. 
+Sufficiently extensive use of liquid biological heating fuel in energy generation and use 
+of bio-oils in equipment in the agricultural and forestry sectors is ensured. Such raw materials 
+as residues of felling areas, wood residues, and straw, but not specially grown energy cultures 
+are being used for the generation of such energy sources, first-generation biofuel is not being 
+manufactured. 
+Solutions for concurrent use of several RES technologies have an essential role where, 
+for example, electricity generated from RES is used for the ensuring of generation of thermal 
+energy by RES technologies. 
+Hydrogen as energy carrier which has been manufactured using electricity obtained 
+from different types of RES, different solutions for the storage of hydrogen, has an increasingly 
+important role. 
+New technologies and  methods for heat  supply systems  which ensure the use of 
+innovative technologies and solutions for efficient operation of the heat supply system have 
+been introduced in the centralised and local heat supply system. Private residences are mainly 
+self-sufficient  in  terms  of  energy  because  decentralised  zero-emission  heat  supply  and 
+electricity supply solutions are being used. 
+ 
+ 
+61Initial evaluation of the study of the Institute of Physical Energetics Latvijas tautsaimniecības attīstības 
+iespējamo scenāriju līdz 2050.gadam izstrāde atbilstoši Eiropas Savienības ilgtermiņa attīstības redzējumam 
+[Drawing-up of the Potential Scenarios for the Development of National Economy of Latvia until 2050 according 
+to the Long-term Development Vision of the European Union], November 2019.  
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  40 •  Completely connected energy market that is freely accessible to everyone 
+ 
+Within the scope of progressing towards the Energy Union, the EU has paid more 
+attention to integration of the countries into a joint energy network which allows to optimise 
+the generation, supply, and use of energy, as well as increases the security and stability of 
+energy. 
+Safe, flexible, efficient, and integrated approach to energy networks has been ensured, 
+providing users with free access to energy generated from RES. 
+Biomass and other RES, including geothermal energy, ensure stability in the energy 
+market and energy security, taking into consideration that the amount of energy generated from 
+variable RES will have significantly increased and there is a potential necessity for reserve 
+power. 
+The  consumption  of  electricity  has  increased,  and  it  is  mainly  related  to  the 
+electrification of the transport system, the use of electricity in heat supply, and the increase of 
+the living standard of inhabitants, i.e., an increased number of electric appliances. Taking into 
+consideration the high-capacity technologies of variable RES (solar and wind energy) installed, 
+electricity accumulation technologies are commercially developed and introduced. 
+ 
+6.4. Resource-efficient and Environmentally Friendly Transport 
+ 
+In 2050, the transport sector is decarbonised which is mainly achieved owing to different 
+initiatives and innovations in the transport infrastructure and vehicle technologies, as well as 
+owing to changes in everyday habits of the society. 
+ 
+•  Road transport is mainly electrified and charging infrastructure is widely 
+accessible 
+ 
+Convenient, fast, economically advantageous, environment-friendly vehicles, as well as 
+safe transport connections among the countries and inside them are accessible to the society. 
+Promotion of the use of non-fossil fuels is one of the main measures for reducing the negative 
+environmental impact of the transport sector. In order to reduce the impact of the transport 
+sector on climate change, as well as to reduce environmental pollution and consumption of 
+fossil energy resources, transition of the private road transport to electric drive, the use of 
+synthetic fuel, biofuel (not first-generation biofuel), biomethane, hydrogen, and other non-fossil 
+fuels has taken place. 
+Upon advancing the country towards climate neutrality, the environmental, social, and 
+economic interests are balanced. 
+Electric vehicles have become the dominating mode of transportation because they do 
+not generate GHG emissions when operated and, owing to the development of technologies, 
+allow covering of greater distances without charging. 
+The infrastructure for the charging of electric vehicles is available on TEN-T62 roads 
+and in cities, allowing for the convenient and fast charging of electric vehicles. Fast charging 
+stations are widely accessible, thus not causing inconveniences in relation to the length of 
+charging to users of cars. Electricity generated from RES is used for the charging of electric 
+vehicles. 
+The spread of electric vehicles has also promoted the development of the service 
+infrastructure, ensuring accessible and developed service, profitable financial solutions for the 
+purchase of electric vehicles, and link-up with the intelligent transport systems63. The tax 
+ 
+62TEN-T – European Transport Network 
+63Intelligent transport systems – transport systems where information and communication technologies are used 
+for improvement of efficiency and safety of the transport. For example, by using the Global Navigation Satellite 
+Systems (GNSS), the Geographical Information System (GIS), data processing, wireless data transmission and 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  41 system completely conforms to the principle “polluter pays” which has reduced the use of 
+vehicles operated with fossil fuel to the minimum. 
+State administration and local government authorities have renewed their fleet with 
+environment-friendly vehicles, thus setting an example for the society. 
+ 
+•  Air transport efficiently uses modern biofuels and energy-efficient solutions 
+are integrated into aircraft and airports 
+ 
+High-performance fuels and biofuels have reduced GHG emissions from air transport. 
+Owing to technological innovations and improvements of efficiency, the aviation sector has 
+become more efficient and is using RES fuels (biopetrol and e-fuel). Air transport is efficiently 
+using biofuels other than first-generation biofuels and alternative fuels, including possibilities 
+of  electric  mobility,  particularly  in  small-scale  aviation  and  domestic  aerial  transport. 
+Improvements of efficiency have been introduced both on aircraft and also at airports, allowing 
+to reduce GHG emissions generated by the machinery servicing aircraft and airports. Efficiency 
+and technological innovations have also reduced the noise caused by air transport, making the 
+vicinity of airports more friendly to inhabitants and the environment. 
+ 
+•  Rail transport is mainly electrified and/or other alternative fuels are used for 
+the performance of carriage 
+ 
+The majority of rail lines are electrified. Electric trains and trains which can be operated 
+using other alternative fuels are used for the carriage of both passengers and freights. Hydrogen 
+or biofuel is mainly used on the non-electrified lines. Part of the rail lines are high-speed lines, 
+ensuring fast, efficient, and environmentally friendly carriage of freights and passengers. 
+ 
+•  Alternative  fuels  and  energy-efficient  solutions  for  the  reduction  of  fuel 
+consumption are used in water transport 
+ 
+GHG emissions in water transport are significantly reduced by using such tools as the 
+hull design (which improves energy efficiency), different economies of scale resulting from 
+capacity  and  drive  solutions,  optimum  speed,  determination  of  weather  conditions  and 
+planning, alternative energy sources, and RES. E-fuel, hydrogen, biofuel in pure form or mixed 
+with fossil fuel are used from RES, thus reducing both GHG emissions and environmental load. 
+Electrification of ports reduces emissions from ships standing in ports, thus decreasing the 
+negative impact of ports on the surrounding environment and climate. 
+ 
+•  Sustainable and environmentally friendly mobility of inhabitants has been 
+ensured 
+ 
+The public transport system is efficient and sustainable, thus successfully competing 
+with the private transport. The public transport is co-modal64 and sustainable, thus successfully 
+competing with the private transport. It has reduced traffic jams and GHG emissions generated 
+by road transport, significantly improved air quality in cities and the attractiveness of urban 
+environment. The park and ride system has significantly expanded, the use of bicycles, scooters, 
+segways, and other inventory has increased, and attractive circumstances for pedestrians have 
+ 
+sensors (road weather stations, video cameras, traffic counters, etc.), the intelligent transport systems are able to 
+distribute traffic information (driving conditions, traffic restrictions and obstacles), as well as to perform adaptive 
+traffic management (traffic lights, electronic road signs) and control. Global trends in the development of 
+intelligent transport systems are moving towards introduction of autonomous vehicles.  
+64Co-modality – combining of one or several modes of transport in order to use resources in an optimum and 
+sustainable manner. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  42 been created, introducing green infrastructure solutions in urban environment. Mainly railway 
+is used in intercity carriage because it uses less energy per passenger-kilometre than road 
+transport. 
+The public transport is conveniently linked to the international transport (connections 
+with airports and ports). 
+The sharing culture has been developed, allowing to use vehicles individually or jointly 
+for a specific fee. 
+ 
+•  Freight  carriage  is  performed  using  an  interlinked,  efficient,  and  smart 
+transport system, as well as multi-modal carriage 
+ 
+The link-up of road transport with the rail and port infrastructures has reduced the fuel 
+consumption and GHG emissions from road transport. Electric trains allow for faster and 
+cheaper delivery of freights to logistics centres which are connected to carriers of the local 
+government level. A developed port infrastructure allows for efficient servicing of the incoming 
+freight ships. Logistics algorithms are widely used for planning of routes. The use of multi-
+modal carriage65 allows to choose the most optimal and environmentally friendly mode of 
+transport in individual distances. 
+ 
+•  Road infrastructure corresponds to the latest transport trends, integrating 
+intelligent transport systems 
+ 
+A unified and modern road network is ensured, allowing for safe and fast movement in 
+the territory of Latvia and equipped with such charging/filling infrastructure of vehicles which 
+has been integrated into the European transport system and conveniently allows continuation 
+of the travel outside the country. 
+The  use  of  intelligent  transport  systems  both  in  the  infrastructure  and  vehicles 
+themselves allows for the reduction of GHG emissions, concurrently improving traffic safety. 
+The data of such systems are available for re-use with the intermediation of the national access 
+point of transport of traffic information. 
+ 
+•  The development of the road network is planned in a sustainable manner, 
+taking  into  consideration  the  transport  development  trends,  inter  alia 
+conforming  to  the  safety  of  less  protected  road  traffic  participants  and 
+reducing the impact of road building on the environment and climate 
+ 
+The road infrastructure is planned so that inhabitants can conveniently and safely arrive 
+at their final destination using public transport, shared transport, bicycle, or on foot. Safety of 
+less protected traffic participants is ensured, as well as attention is paid to reduction of the 
+impact of road building on the environment and climate, including by introducing green 
+infrastructure solutions. 
+Different new, sustainable, and environmentally friendly mobility solutions allow to 
+increase  efficiency  and  safety  of  transportation,  concurrently  without  reducing  economic 
+attraction. The development of innovations allows the export of new technological solutions 
+also in the field of transport, for example, the development of unmanned aircraft, etc. 
+ 
+ 
+65Carriage of the same freight batch with different types of transport according to one joint bill of lading. Freight 
+is reloaded from one type of transport to another, transport chains at different points, for example, consignor – 
+road transport – warehouse – rail transport – warehouse – container – container ship – consignee. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  43 •  Extensive  use  of  digital  solutions  has  reduced  the  necessity  for  business 
+movement for inhabitants 
+ 
+Movement of inhabitants has been optimised owing to the possibilities of remote work, 
+studies, shopping, etc. High performance and safe Internet network throughout the territory of 
+Latvia allows the inhabitants to fulfil their work duties fully also remotely. Comprehensive 
+introduction of e-services has allowed to reduce the necessity for inhabitants to visit authorities 
+for the receipt of services. 
+ 
+6.5. Sustainable Land Management and Agriculture 
+ 
+Sustainable land management policy has been developed and successfully introduced in 
+Latvia. It is ensured that land management, including the LULUCF and agriculture sectors, 
+provide  contribution  to  achieving  climate  neutrality  by  using  the  newest  technologies, 
+sustainable management practice, and efficient planning, without restricting the development 
+of national economy. 
+ 
+•  Sustainable balance among different types of land use has been achieved in 
+conformity with the climate, nature protection, economic, and social aspects 
+ 
+Sustainable land management is planned at both national and regional level, assessing 
+and taking into consideration the special regional features. Local governments and other parties 
+involved are participating in the planning and implementation process, using the integrated 
+planning approach and assessing the joint benefits (ecosystem services) to the environment and 
+society. The decisions are taken on the grounds of data-based information which has been 
+obtained from the State monitoring programme regarding the type of land use, including soil 
+monitoring. 
+The necessity for land transformation from one type of use to another is under serious 
+evaluation. For example, a non-sustainable arrangement of crop plantations, expansion of 
+agricultural land for the growing of bioenergy crops which are deemed as a serious threat to 
+biological diversity and the ability of ecosystems to withstand climate change is limited. 
+Similarly use of land that hitherto has been irrational is limited. 
+Support is provided to reafforestation of degraded land and renaturalisation of deposits 
+from which mineral resources have been extracted. The development of the infrastructure and 
+building is being carefully planned in a long-term manner, reducing the foreseeable impact on 
+environment and facilitating progression towards climate neutrality as much as possible. The 
+aspect of adaptation to climate change is also taken into consideration in the use of land 
+resources. 
+The amount of support and the procedures for granting it are carefully evaluated in 
+agriculture and forestry, taking into consideration all aspects of sustainability, including impact 
+on the achievement of the objectives of the Strategy. 
+ 
+•  All forests of Latvia are managed in a sustainable manner 
+ 
+Forest and its products and services are a significant source of public welfare, as well as 
+a significant strategic resource of Latvia for sustainable rural and joint national development. 
+State forests, as well as private forests are managed in a sustainable manner. 
+Forest productivity, its resilience against different natural disturbances, including spread 
+of pests, has been increased and sustainable age structure of the forest has been established. 
+The forest ensures timber for construction and furniture, residues of its processing – 
+heating fuel for the generation of energy, moreover, forest is a recreational resource. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  44 Timber  industry  is  oriented  towards  more  diverse  processing  of  timber  and 
+manufacturing of internationally competitive final products with high added value. 
+Optimum proportion of protected areas has been evaluated and ensured, achieving a 
+balance between environmental protection, economic, and social needs. 
+ 
+•  Agriculture and forestry provides a significant contribution to bioenergy, 
+concurrently not endangering provision of food and CO  removals 
+2
+ 
+Timber from forests of Latvia is obtained in a sustainable manner, carefully planning 
+the amount of acquisition thereof. Balance between deforestation and afforestation is ensured. 
+It is ensured that forests of Latvia have sustainable age structure66. The total amount of timber 
+resources in the country does not decrease. Biomass is primarily obtained in order to sell it on 
+the local market, thus ensuring achievement of the national objective of the proportion of 
+renewable energy. Concurrently, upon implementing the forest management, it is also taken 
+into  account  that  forest  stands  that  have  been  purposefully  renewed  with  high-quality 
+reproductive material are more resistant towards extreme weather conditions arising from 
+climate change. 
+Without endangering the biological diversity, new varieties which are more resistant 
+towards climate change and ensure optimum CO  removals are being bred and used. 
+2
+Biofuels of the newest generation which reduce the risks that the crops to be used in 
+food and the soil fit for growing food is being used for the acquisition of bioenergy have been 
+developed. 
+The cleanest technologies and methods are used in agriculture and forestry in all stages 
+of the management process, choosing sustainability, impact on the environment, climate, and 
+health as the essential criteria. 
+ 
+•  Agriculture and forestry of Latvia is resource-efficient – high productivity has 
+been achieved, products with high added value are produced 
+ 
+Land is used efficiently, in conformity with sustainability of the use of bioresources and 
+giving preference to such types of use in the use of bioresources which results in higher added 
+value (i.e., in conformity with the principle of cascading). Timber industry is oriented towards 
+diverse processing of timber and manufacturing of internationally competitive final products 
+with high added value. 
+Good agronomy and livestock husbandry practice is implemented in agriculture, thus 
+ensuring the preservation of land resources for the next generations. Improved varieties and 
+accurate use of fertiliser dosage are selected for increasing the productivity, as well as rotation 
+of crops is conformed to, involving perennial crops and leguminous plants therein, as well as 
+maintaining the soil cover throughout the year in places where erosion is possible. The use of 
+mineral fertilisers is being carefully planned – the use of leguminous plants in the crop rotation 
+has allowed to reduce the dosage of the synthetic nitrogen fertiliser and the growing of catch 
+crops ensures that the nitrogen not used by the cover crops does not reach the environment. 
+Innovative technologies are used for precise drainage of the fertiliser to plants, allowing to 
+reduce the consumption of the fertiliser and its negative environmental impact. Maintaining of 
+the soil fertility – increase of the carbon supply in the soil – is essential. The use of manure, 
+ensuring the fastest possible application thereof to the soil, helps avoiding the soil compaction 
+and deep ploughing. 
+Livestock farming is planned, taking into account the latest scientific knowledge. Only 
+such fodder is used which ensures optimum digestion processes for animals, without harming 
+their health. Manure depositories are established, their use is efficiently controlled. Biogas from 
+ 
+66Sustainable forest age structure – levelled age structure when the proportion of adult stands, stands of medium 
+age, and young stands in the cut of economically most significant species is equivalent. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  45 the processing of manure and other organic waste is obtained in households where it is 
+economically feasible. Health and welfare of farm animals is ensured. 
+Innovations have been successfully introduced in agriculture and forestry, as well as in 
+other sectors of national economy. The newest scientific knowledge is used. Decisions on the 
+introduction of new policies and measures are taken sustainably by analysing the benefits and 
+losses, as well as their impact on other policies. Thus emissions from the agricultural production 
+unit are reduced. 
+ 
+•  Research of organic soil has been conducted and corresponding use is applied 
+thereto 
+ 
+Awareness of the processes taking place in organic soil, their impact on and relation to 
+the surrounding environment is developed. The current situation has been surveyed, including 
+areas of organic soil have been surveyed, information regarding soil is regularly updated. 
+Suitable choice of the type of land use for the areas of UUA organic soil which are not 
+actively used for the production of agricultural products due to different reasons (for example, 
+low qualitative value of soil, extensive resources for the renewal of amelioration systems are 
+necessary, non-existence of access roads, configuration and location of fields) is ensured. 
+ 
+6.6. Sustainable Consumption and Manufacturing 
+ 
+The acquisition and use of material resources are sustainable, ensuring high resource-
+efficiency in Latvia. This allows to achieve better and higher results using less resources. 
+Economic development is not based on intense consumption of energy and resources. 
+Upon implementation of LCD, such action policy and support mechanisms, including product 
+policy and tax mechanisms, are ensured in Latvia which ensure that the use of natural resources 
+is  economic  and  sustainable  as  a  result  of  which  continuous  increase  of  manufacturing 
+efficiency and resource productivity is achieved, reaching the average indicators of the EU 
+states in long-term and persistently striving towards even higher result. 
+The society has reached such level of maturity and environmental awareness that it 
+understands the idea of sustainable development and is participating in its implementation. The 
+buying and consumption habits of the society are sustainable, environmentally friendly and 
+prudent in terms of natural resources. Efficient models of sharing economy are operating, and 
+they are supplemented with forms of diverse social entrepreneurship and community economy. 
+Economic development is shaped in a way to use the raw materials, as well as any 
+manufacturing by-products and residues as much and completely as possible. The objective is 
+achieved not only by using the technologies, but also non-economic manufacturing and non-
+sustainable lifestyle of the society (in relation to consumption habits) both in the public and 
+private sectors is prevented. More thought-out design solutions and efficient processing of 
+materials  have  improved  re-use  of  resources  and  has  reduced  the  total  consumption  of 
+resources. 
+ 
+•  Only climate and environmentally friendly alternatives of chemical substances 
+are used 
+ 
+The  chemical  substances  which  are  harmful  to  the  climate  and  are  used  both  in 
+manufacturing and provision or services, as well as in everyday life have been substituted with 
+friendlier alternatives. 
+The amount of household chemical substance use in households has been reduced as 
+much as possible. 
+ 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  46 •  No waste, just raw materials 
+ 
+The manufacturing models implemented by enterprises are based on innovations, they 
+are directed towards efficient use of resources throughout the life cycle of the product, ensuring 
+that resources return into economic circulation. Enterprises implement mutual cooperation in 
+the use of resources (the solutions of industrial symbiosis have been developed, as well as 
+industrial clusters are being formed). 
+ 
+•  The society has changed its habits, the demand of inhabitants promotes more 
+extensive offer of environmentally friendly goods and services on the market 
+ 
+Not just the manufacturers, but also the society at large are responsible for sustainable 
+development because the latter creates the demand for the relevant goods or services. 
+Each individual, collective (school, institution, office, etc.), family, and household are 
+aware of the impact of their choices on the climate, environment, and consumption of resources, 
+thus they have evaluated their attitude towards consumption of resources – how they use water 
+and energy, how much and what waste is generated by them and where does such waste end 
+up, how they consume food, what their movement and buying habits are, what goods they 
+purchase and how they use them, what services they use. 
+Households, upon using tools accessible to the public, have specified their “carbon 
+footprint”67 – the amount of CO  emissions generated by each individual or product within a 
+2
+year and diligently follows this indication in order to prevent its increase. 
+Changing the consumption habits (behaviour) of private and public buyers helps to 
+achieve resource-efficiency and also provides fiscal benefits. This, in turn, promotes demand 
+for services and goods which are more efficient in terms of resources. Consumers can save costs 
+by precluding the occurrence of waste themselves and by buying goods that can be used for a 
+more extended period of time or which are easier to repair or recycle. Such services which offer 
+repair, service, and lease are extensively available and used. 
+Social movements, information and education campaigns, as well as civic initiative have 
+a large significance. There are many mechanisms for the transfer of private initiatives/skills 
+where people share their personal experience regarding the possibilities of re-use of materials 
+(textile, etc.) by recycling them into household products with their own hands. 
+Taking into consideration the latest scientific studies, a database of the laws and 
+regulations, as well as guidelines and other methodological materials for the application of GPP 
+and green procurement have been developed. The GPP component is applied in all public 
+procurements. 
+ 
+6.7. Sustainable Local Governments and Urban Environment 
+ 
+Without  initiatives  and  active  actions  of  local  governments  for  climate  change 
+mitigation at regional level, the achievement of the national objectives is endangered. Upon 
+performing the mandatory functions specified in the laws and regulations, local governments 
+have many opportunities for the promotion of achievement of the national objectives for the 
+reduction of GHG emissions. 
+ 
+ 
+67For the purposes of nature balance, undisturbed renewal of resources, and prevention of climate change 
+(assuming that stabilisation of the average increase of global temperature must be ensured within the limits of 2 °C 
+with a far-reaching goal within the limits of 1.5 °C) the “carbon footprint” per inhabitant may not exceed 3 t CO
+2 
+. 
+eq
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  47 •  Cities and municipalities provide a contribution to climate change mitigation, 
+being aware of their actual impact on climate change, as well as their key role 
+in achieving the national objectives for GHG emissions 
+ 
+Each local government, upon using the tools accessible to the public for the evaluation 
+of GHG emissions, has specified the quantity thereof generated in its administrative territory. 
+Local governments are aware of the potential of reducing GHG emissions and are implementing 
+it, as well as regularly make evaluation compare their performance with the (benchmark) 
+indicators of other local governments on the basis of the information obtained. 
+ 
+•  Local  governments  are  taking  an  active  part  in  different  local  and 
+international initiatives “local governments learn from local governments”, 
+being aware of their possibilities in climate change mitigation, as well as 
+bringing  forward  ambitious  GHG  objectives  and  mutually  exchanging 
+experience in the achievement thereof 
+ 
+By participating in voluntary international initiatives for climate change mitigation68, 
+local governments gain access to an extensive network for the exchange of information, receive 
+current information, including regarding the planned measures, funding opportunities, good 
+practice  and  examples,  as  well  as  the  results  of  initiatives  implemented  by  other  local 
+governments. The capacity of local governments is strengthened in mutual cooperation, as well 
+as assistance is received and provided for the monitoring, evaluation, and reporting on meeting 
+the objectives brought forward. Cooperation initiatives are supported in planning documents of 
+local governments. 
+Upon cooperation between the local governments and the State, the local governments 
+develop a coordinated approach in the field of climate change mitigation and prevention, 
+introducing solutions for climate change mitigation and climate resilience in their development 
+planning documents. 
+ 
+•  Local governments plan and implement such spatial planning measures which 
+promote  the  creation  of  comprehensively  organised  and  complex  urban 
+surroundings 
+ 
+Local governments, upon developing and reviewing the spatial planning which includes 
+both the determination of the functional zoning and the development of the conditions for the 
+use and building of the territory, integrate complex solutions therein for the availability of 
+services in conformity with the technological development and changes in habits of inhabitants, 
+promoting that more extensive range of the goods and services necessary in everyday life is 
+offered in the vicinity of cities, thus reducing the distance covered due to movement of 
+transactions. 
+ 
+•  Transport infrastructure in cities and municipalities is smart and optimised 
+ 
+A developed park and ride infrastructure, as well as multi-modal centres provide an 
+opportunity to choose the mode of transportation that is most appropriate for the distance and 
+route  necessary.  The  route  network  of  the  public  transport  system  is  extensive  and 
+comprehensive, it offers the necessary level of comfort to the customers and is extensively used. 
+Streets in cities are planned so that people have convenient and safe alternatives for 
+reaching the final destination with public transport, shared vehicle, bicycle, on foot, leaving the 
+private vehicle at a conveniently available site in case of necessity. 
+ 
+68For example, Compact of Mayors, Covenant of Mayors, Non-state Actor Zone for Climate Change (NAZCA). 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  48 The infrastructure of non-motorised vehicles is being developed and pedestrian zones 
+are being expanded. The infrastructure of bicycle routes is available and extensively used. 
+ 
+•  The urban environment is smart, digital solutions are used 
+ 
+The  use  of  the  Internet  of  things  (IoT),  concurrently  taking  into  consideration 
+cybersecurity and without violating the privacy of inhabitants, allows to supervise and control 
+different systems (energy supply, public utilities, transport, security, etc.) efficiently and with 
+a reduced consumption of resources in a remote manner, as well as to respond adequately to 
+changes therein without delay. The concept of smart local government, i.e. complex solutions, 
+combining investments into infrastructure with ICT, environmentally and climate friendly 
+solutions, is also being extensively implemented for efficient provision of services. 
+ 
+•  The urban environment is flexible, the city as a system has high capacity of 
+resistance in case of different anthropogenic and natural shocks 
+ 
+Local governments are aware that the urban environment is more subjected to climate 
+change risks  (flood,  sea-level  rise, heat  waves, insufficiency of drinking water, drought, 
+extreme precipitation, and storms) than rural areas and are ready for successful overcoming 
+thereof, are able to implement positive adaptation because they have surveyed their strengths, 
+weaknesses, opportunities and threats, for example, the solutions of the green infrastructure are 
+extensively used for the prevention and mitigation of the urban “heat island” effect. 
+In order to take decisions in relation to the measures for climate change mitigation and 
+adaptation to climate change, local governments are using the current publicly available 
+meteorological  data  characterising  the  micro-climate  and  its  changes  in  the  relevant 
+administrative territory. Local governments attract different interested parties from amongst 
+scientific, entrepreneurial non-governmental organisations in order to assess and develop both 
+short-term and long-term solutions for climate change mitigation and adaptation thereto which 
+are suitable for the particular administrative territory. Local governments have performed a 
+vulnerability risk assessment to climate impact, the planning and introduction, as well as 
+monitoring and assessment of measures for adaptation to climate change. 
+ 
+•  The use of local RES non-emission technologies in urban environment has been 
+developed 
+ 
+Local governments are aware that increasing the proportion of RES non-emission 
+technologies is not just a liability, but also a possibility to optimise energy supply, to use the 
+lowest cost price of local energy resources and to reduce dependence on energy import, to 
+improve the environmental quality, and to increase self-assurance of inhabitants. 
+Smart  RES  technologies  of  urban  environment  are  increasingly  used  for  energy 
+generation in urban environment, combining cultural and historical elements of the architecture 
+and innovative building solutions and materials, promoting autonomous energy generation 
+using non-emission technologies. The use of low-capacity, economically feasible, and visually 
+attractive RES technologies is an integral part of every city. 
+A constant informative support provided by the local government to households in 
+relation to the solutions and possibilities of energy efficiency and use of RES encourages and 
+motivates the households to choose the solutions of energy supply which are individually most 
+suitable to them and most friendly to the environment. 
+   
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  49 7. Implementation and Review of the Strategy 
+ 
+Implementation  of  the  Strategy  is  a  long-term  challenge  to  every  socially  and 
+economically active inhabitant. The Strategy is the first policy planning document for such a 
+long period of time in Latvia. Successful implementation thereof will require understanding 
+and involvement, as well as consistent actions not only from the State, but also from local 
+governments, non-governmental organisations, merchants, researchers, and every inhabitant of 
+the State. In order to evaluate the introduction of the Strategy, a periodic report on the progress 
+of the Strategy and evaluation of the efficiency of introduction thereof must be ensured. 
+ 
+7.1. Parties Involved in the Implementation of the Strategy 
+ 
+•  State administration (each ministry within the scope of its competence) has 
+improved and developed policy planning documents and laws and regulations 
+of each sector of national economy so that they conform to the objectives 
+declared in the Strategy 
+ 
+The Strategy is implemented by preparing and introducing national climate and energy 
+plans (the first of them by 2030, taking into consideration the objectives of 2050 and the vision 
+for 2050 laid out in the Strategy) the necessity of which is determined by the Energy Union. 
+These plans consist of 5 dimensions: energy security, solidarity, and trust; fully-integrated 
+European internal energy market; energy efficiency (including in transport); decarbonising the 
+economy; research, innovation, and competitiveness. 
+As extensive involvement of the society as possible is necessary for the achievement of 
+the objectives of the Strategy. Education has an essential role in shaping the awareness of the 
+society regarding climate change processes and the actions necessary for their mitigation. The 
+principles of low carbon development are included in the content of the education system. All 
+educational institutions also implement the LCD principles in their everyday work, providing a 
+contribution to reduction of energy consumption, resources, and waste amount and increase of 
+energy efficiency. 
+Research-based higher education ensures integration of the newest scientific knowledge 
+in the study process and in the preparation of new specialists. 
+Inhabitants of Latvia at large are aware of the climate change processes and the logic of 
+climate  policy  measures  and  make  their  individual  choices  and  actions,  taking  into 
+consideration the principles of low carbon development. Every inhabitant of Latvia is aware of 
+the activities of the global market and the mechanisms for the circulation of resources, and 
+chooses to adapt his or her consumption habits to the principles of sustainable development. 
+Every inhabitant of Latvia has access to clearly understandable and justified information 
+regarding objectives of the Strategy. 
+ 
+•  Local governments develop in a sustainable manner and have reduced GHG 
+emissions in regions, as well as have promoted the development of low carbon 
+enterprises (green employment) 
+ 
+Local governments set their objectives for the reduction of GHG emissions and show 
+progress in achievement of such objectives by regularly informing the inhabitants thereof. 
+Local governments, upon organising their work, set an example to the private sector, as 
+well as inform and educate the society of solutions for climate change mitigation. 
+Planning regions also have a significant role as they develop long-term and medium-
+term  development  planning  documents,  including  taking  into  consideration  the  national 
+objectives for the reduction of GHG emissions, in cooperation with local governments and State 
+administration institutions. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  50  
+•  Merchants have actively engaged in the development of new, innovative, and 
+sustainable products and establish environment-friendly enterprises 
+ 
+The Strategy must promote reduction of GHG emissions of Latvia, without reducing 
+economic competitiveness of Latvia. The Strategy creates an environment for the stability and 
+growth of existing enterprises, as well as promotes the establishment of new, innovative, 
+sustainable, and environment-friendly enterprises. An increasing number of inhabitants is 
+employed in green work places which are producing climate and environmentally friendly 
+goods and services. An increasing number of private enterprises applies GP in their activity in 
+order to reduce their environmental impact. The State and local governments provide an 
+enhanced support to new entrepreneurs in order to promote LCD and advancement towards 
+climate neutrality. Funding from different State, EU, and private financial authorities and 
+mechanisms is available for the support to sustainable entrepreneurship. 
+Stable and sustainable development of entrepreneurship is a pre-condition for the 
+welfare of inhabitants of Latvia and arranged environment. 
+ 
+•  Households are actively applying the LCD principles for the achievement of 
+climate neutrality 
+ 
+The joint advancement of the State towards climate neutrality is shaped by everyday 
+choices of each inhabitant. Each household is responsible for energy efficiency of the dwelling, 
+the technologies and devices used, as well as the habits of use of the selected energy resources, 
+reducing the negative impact on climate and environment. Households mutually exchange good 
+practice and experience in attempts of changing their environmental impact. 
+ 
+7.2. Instruments to be Used in the Implementation of the Strategy 
+ 
+The instruments to be used for implementation of the Strategy may be divided into 
+groups according to both their essence and the objective to be achieved. On the basis of the 
+current experience it is useful to distinguish five groups of instruments: public information, 
+legal acts and regulatory framework, market mechanisms, fiscal instruments, and financial 
+instruments. 
+ 
+•  Public information and raising of awareness 
+ 
+Regardless of conclusive evidence69 of climate change and its negative impact on the 
+environment and human health, many inhabitants of Latvia are still not sufficiently informed 
+of climate change, the risks caused thereby, as well as actions to be taken for the mitigation 
+thereof. Public information and raising of awareness regarding climate change processes is one 
+of the most significant measures for increasing interest and motivation of inhabitants to become 
+involved in solving of the issues related to climate change, therefore, it should be provided for 
+in the development of new documents of action policy what measures for raising awareness of 
+the society will be implemented. 
+ 
+•  Legal acts and regulatory framework 
+ 
+Legal acts and regulatory framework should include all other instruments to be used in 
+the implementation of the Strategy. Legal acts are one of the ways of governing the operation 
+ 
+69IPCC, Climate Change 2014: Synthesis Report, 2014. Available online: https://www.ipcc.ch/pdf/assessment-
+report/ar5/syr/SYR_AR5_FINAL_full.pdf 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  51 of all other instruments and characteristics of different elements thereof may be specified in 
+such legal acts. In addition such conditions, standards, requirements, and processes may be 
+specified in legal acts which are not included in the instruments referred to in this Sub-chapter. 
+Legal acts and regulatory framework may be based not only on laws and regulations developed 
+and approved by the public sector, but it may also be created based upon the voluntary 
+agreement principle between different parties. 
+ 
+•  Market mechanisms 
+ 
+Introduction  of  different  new  market  mechanisms,  as  well  as  development  and 
+improvement  of  market  mechanisms  already  existing  have  a  significant  importance  in 
+advancement towards climate neutrality. Participation in the EU ETS is currently topical for 
+Latvia. The existing system has been established, however, work on further improvement 
+thereof must be continued in order to be able to help to achieve the climate objectives in a 
+wholesome manner. The EU ETS is able to carry out its task – to stimulate operators to take 
+measures reducing GHG emissions – only if the emission quota is relatively high. Taking into 
+consideration that the amount of allowances to be traded and their price on the market have an 
+essential role in planning new market mechanisms, the amount of allowances in circulation and 
+their impact on other market mechanisms should be planned in detail. In addition to the EU 
+ETS, several emissions trading schemes are operating in the world, for example, in China, USA, 
+Korea, Switzerland, New Zealand, Canada, and Japan. Therefore, a national emissions trading 
+scheme could also be established in Latvia by 2050 according to the national interests, for 
+example,  in  the  forestry  sector.  Furthermore,  there  is  a  high  probability  that  a  single 
+international market mechanism will be established in the nearest future within the scope of the 
+Paris Agreement. 
+ 
+•  Fiscal instruments 
+ 
+The main fiscal instruments for the introduction of the Strategy are taxes and subsidies. 
+Tax groups of two types may be distinguished: taxes having direct impact on the reduction of 
+GHG emissions and taxes which indirectly promote the reduction of GHG emissions. Taxes 
+reducing GHG emissions or taxes in which, for example, CO  is a tax component with direct 
+2
+impact are the best means for the introduction of the polluter pays principle. The tax system as 
+a whole should be restructured by 2050 so that the promotion of climate change mitigation and 
+adaptation to climate change would become an integral part of objectives of the taxes of the 
+relevant categories. In turn, taxes with indirect impact promote reduction of GHG emissions by 
+having an effect on resources, goods, and services which are used in the processes of significant 
+importance to the generation of GHG emissions. In such a way their consumption is reduced, 
+concurrently stimulating the use of RES. 
+Subsidies, reliefs, tax refunds should also be used to achieve the climate neutrality. 
+Subsidies to fossil heating fuels should be denounced completely, focusing on and shifting 
+towards support to RES. 
+ 
+•  Financial instruments 
+ 
+Financial instruments are loans, funds, securities, risk capital, etc. Financial instruments 
+are an efficient resource through the use of which the maximum extent of private capital can be 
+attracted and activated with public funding. From the perspective of the beneficiary, traditional 
+grants where the public funding is allocated for a programme or project are attractive, however, 
+in such a way part of the public funding is withdrawn from circulation. In the future, greater 
+focus should be put on different friendly types of loans, for example, by creating a national 
+energy efficiency fund which will provide long-term and low-interest loans, ensuring special 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  52 insurance against the failure to fulfil loan obligations or offering a specific rebate for the 
+repayment of the common costs if energy savings have been proven, or also by providing 
+interest-free loans to low-income households. Potentially, the blending financial instrument 
+which includes both the grant and the loan part could be an efficient way for the attraction of 
+private investments. 
+The principle of rotation funds which is becoming increasingly popular in the financing 
+of energy efficiency projects may also be used. Loans and rotation funds ensure the return of 
+the public capital into circulation as a result of which new projects can be funded. Development 
+of the financing of third parties should also be continued, for example, by attracting energy 
+service companies (ESCO) or local government energy service enterprises (LGESCO) which 
+invest into energy-saving measures and recovers the made investments from the energy savings 
+achieved in long-term. 
+The  development  of  public-private  partnership  (PPP)  should  be  continued  in  a 
+purposeful manner for successful and sustainable provision of public services, development and 
+maintenance of the infrastructure by joining and jointly using the resources available thereto in 
+a  long-term  cooperation  –  the  property,  financial  resources,  knowledge,  and  experience, 
+dividing  also  the  risks,  investments,  and  benefits  related  to  the  implementation  of  PPP. 
+Moreover, the public sector should closely link the planned activities with the inventory of 
+GHG emissions when working on planning the budget of financial instruments. 
+The development of green obligations also has an essential role in combat against 
+climate change as through them funding can be attracted for projects which contribute to the 
+combat against climate change or such projects can be re-financed. The way in which the 
+financial resources obtained from obligations are used is becoming increasingly important for 
+investors, and green obligations is the way of making sustainable investments. 
+In order to advance towards climate neutrality in 2050, the funding available within the 
+scope of the multiannual financial framework for the implementation of climate activities will 
+have a significant role, taking into consideration the priorities specified in the policy planning 
+documents. The LCD principles as a horizontal issue should be taken into account when making 
+contributions in introduction of the funding from EU funds. 
+The costs of energy systems consist of the costs of the maintenance and operation of 
+systems, investments in technologies and energy efficiency, as well as the costs for the heating 
+fuel consumed. As costs are foreseeable also in the base scenario because in any case for the 
+system to be able to ensure consumers with the necessary services it is necessary to maintain 
+and update it continuously,  additional investments  and additional  costs are  used for the 
+characterisation  of  the  costs  of  the  climate  neutrality  scenario  in  comparison  with  the 
+implementation of the base scenario. 
+According to  the initial  indicative projections70 the additional investments  for the 
+implementation of the target scenario (achievement of climate neutrality) in comparison with 
+the base scenario in the time period up to 2050 are approximately EUR 16 billion (in constant 
+prices of 2010) or 1.35 % on average per year from GDP in the time period (2020–2050). 
+However, owing to these investments, benefits also arise, for example, from reduction 
+of the costs for heating fuel (also due to the increase in efficiency of the use of resources) and 
+other savings of operation costs. Therefore, the total additional costs for the implementation of 
+the target scenario in the time period until 2050 in comparison with the total costs of the base 
+scenario according to the initial indicative projections71 are EUR 13.5 billion (in constant prices 
+of 2010) or 1.1 % on average per year from GDP in the time period (2020–2050). 
+ 
+70Initial evaluation of the study of the Institute of Physical Energetics Latvijas tautsaimniecības attīstības 
+iespējamo scenāriju līdz 2050.gadam izstrāde atbilstoši Eiropas Savienības ilgtermiņa attīstības redzējumam 
+[Drawing-up of the Potential Scenarios for the Development of National Economy of Latvia until 2050 according 
+to the Long-term Development Vision of the European Union], December 2019. 
+71Initial evaluation of the study of the Institute of Physical Energetics Latvijas tautsaimniecības attīstības 
+iespējamo scenāriju līdz 2050.gadam izstrāde atbilstoši Eiropas Savienības ilgtermiņa attīstības redzējumam 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  53 The funding necessary for the implementation of the objectives specified in the Strategy 
+will be evaluated upon development of new sectoral planning documents. 
+ 
+7.3. Review of the Strategy 
+ 
+The Strategy shall be reviewed by 1 January 2029 and later after every 10 years72. The 
+Strategy may be reviewed more often by submitting a justification (informative report) to the 
+Cabinet. 
+The MoEPRD shall submit an informative report on the progress of the implementation 
+and achieving of the performance-based results of the Strategy to the Cabinet for the evaluation 
+of the Strategy. 
+   
+ 
+[Drawing-up of the Potential Scenarios for the Development of National Economy of Latvia until 2050 according 
+to the Long-term Development Vision of the European Union], December 2019. 
+72The next review of the Strategy must be submitted to the European Commission by 1 January 2029. 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  54 8. Public Participation 
+ 
+In order to promote public awareness of LCD and to ensure public participation in the 
+creation of the Strategy, the MoEPRD has been actively implementing different publicity 
+measures and measures for shaping public opinion since 2016 – public consultations, public 
+discussions (several of them could also be watched online), publications on the website of the 
+MoEPRD were also prepared, as well as brochures (electronically and in paper form) in order 
+to distribute them at general secondary institutions and higher education institutions and at non-
+governmental organisations working on climate issues. 
+A public discussion organised by the MoEPRD regarding the future of Latvia in the new 
+climate  reality  also  took  place  in  Riga  at  the  time  of  signing  the  Paris  Agreement  (on 
+22 April 2016), and high-level officials of the OECD also participated therein amongst others. 
+In order to involve local governments, regional branches of State institutions, leaders of 
+local public groups and merchants, academic staff, as well as other interested persons, five 
+interactive seminars regarding climate change mitigation and LCD by 2050 were implemented 
+in all planning regions of Latvia in autumn 2016 and at the beginning of 2017. 
+In summer of 2019, the MoEPRD organised the visit of the Director of Climate Strategy 
+of the EC Directorate-General for Climate Action in Latvia in order to discuss achieving of 
+climate neutrality within the context of the EC Communication. Meetings with the social 
+partners (representatives of the Employers’ Confederation of Latvia, the Association of Large 
+Cities  of  Latvia,  the  Latvian  Agricultural  Organisation  Cooperation  Council,  and  youth 
+movement Fridays for Future), as well as representatives from sectoral ministries and the 
+Saeima were held during the visit. 
+During the development stage, the draft Strategy was published on the website of the 
+MoEPRD for public consultation, and it was also announced in the meeting of State Secretaries. 
+ 
+ 
+Minister for Environmental Protection and Regional Development     J. Pūce 
+ 
+ 
+Translation © 2020 Valsts valodas centrs (State Language Centre)  55 

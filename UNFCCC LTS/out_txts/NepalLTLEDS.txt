@@ -1,0 +1,1793 @@
+ 
+ 
+ 
+Nepal's 
+ Long-term Strategy for Net-zero 
+Emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Government of Nepal 
+Kathmandu 
+ 
+October 2021
+ 
+   OFFICIAL 
+ 
+ 
+Table of Contents 
+ACRONYMS ......................................................................................................................... iii 
+Executive Summary .............................................................................................................. iv 
+List of Figures and Tables ..................................................................................................... vi 
+Chapter One: Background and Context ................................................................................ 1 
+1.1.  International context ............................................................................................................. 1 
+1.2.  National context .................................................................................................................... 1 
+1.3.  National policy initiatives ..................................................................................................... 2 
+1.3.1.  National Climate Change Policy 2019....................................................................... 2 
+1.3.2.  Second Nationally Determined Contributions .......................................................... 2 
+1.3.3.  Third National Communication ................................................................................... 3 
+1.4.  Process for the LTS preparation ........................................................................................ 4 
+Chapter Two: Nepal's Long-term Strategy for Net-zero Emissions ........................................ 7 
+2.1. Vision .......................................................................................................................................... 7 
+2.2. Sustainable development and other considerations ........................................................... 7 
+2.3. Mitigation elements .................................................................................................................. 9 
+2.3.1.  Current inventory of GHG emissions in Nepal ............................................................. 9 
+2.2.1.  Reference scenarios ...................................................................................................... 10 
+2.2.2.  Mitigation scenarios ....................................................................................................... 11 
+2.2.3.  Comparison of scenarios .............................................................................................. 12 
+2.2.4.  Implications of Nepal’s Clean Energy Trade Potential on Global Emissions ..................... 13 
+2.3.  Adaptation elements .......................................................................................................... 15 
+2.4.  Sectoral strategies ............................................................................................................. 15 
+Chapter Three: Means of Implementation ........................................................................... 23 
+3.1. Legal and institutional measures.......................................................................................... 23 
+3.2.  Means of implementation .................................................................................................. 23 
+3.3.  Coordination mechanism .................................................................................................. 25 
+Chapter Four: Investment and Finance ............................................................................... 26 
+4.1. Total yearly costs in 2030, 2040 and 2050 ................................................................................. 26 
+4.2.  Investment costs for the power sector ................................................................................. 26 
+4.3.  Cost savings due to decrease in fuel imports ....................................................................... 27 
+4.4.  Cumulative costs over the decades ...................................................................................... 29 
+4.5.  Sourcing of Investment and Finance ..................................................................................... 29 
+Annex 1: Co2 Emissions data under various scenarios ....................................................... 31 
+ 
+ 
+ 
+ii 
+ OFFICIAL 
+ 
+ACRONYMS  
+$    U.S. dollars 
+AFOLU   Agriculture, Forestry, and Other Land Use   
+AR5     Fifth Assessment Report   
+CCUS    carbon dioxide capture, utilization and storage  
+CH4    methane 
+CO    carbon monooxide 
+CO2    carbon dioxide  
+COP     Conference of the Parties 
+CSO    civil society organisations   
+GDP     gross domestic product  
+GHG     greenhouse gas  
+GON    Government of Nepal 
+GRID    green, resilient, and inclusive development 
+HFCs    hydrofluorocarbons 
+IMCCCC   Inter-Ministerial Climate Change Coordination Committee  
+INC    Initial National Communication 
+IPCC     Intergovernmental Panel on Climate Change   
+IPPU     industrial processes and product use  
+LDC     Least Developed Countries  
+LULUCF  land use, land use change, and forestry   
+LEAP     Low Emissions Analysis Platform  
+LPG     liquified petroleum gas  
+LTS     Long-term Strategy   
+MoEWRI  Ministry of Energy, Water Resources and Irrigation  
+MOFE    Ministry of Forests and Environment 
+mMt     million metric tonnes 
+MRV    monitoring, reporting and verification 
+N20    nitrous oxide 
+NAP    National Adaptation Plan 
+NAPA   National Adaptation Programme of Action  
+NOx     nitrous oxides  
+NMVOC   non-methane volatile organic compound 
+NCCP    National Climate Change Policy 
+NDC     Nationally Determined Contribution 
+NPC    National Planning Comission  
+PFCs    perfluorocarbons  
+PA     Paris Agreement  
+PIF    Policy and Institutions Facility 
+REDD    Reducing Emissions from Deforestation and Forest Degradation   
+SDGs    Sustainable Development Goals 
+SF6    sulphur hexafluoride  
+SNC    Second National Communication 
+SO2     organic compound  
+TNC    Third National Communication  
+UN     United Nations  
+UNDP   United Nations Development Programme  
+UNFCCC   United Nations Framework Convention on Climate Change 
+VRE    variable renewable energy 
+WAM    with additional measures  
+WEM    with existing measures  
+   
+iii 
+ OFFICIAL 
+ 
+Executive Summary  
+Nepal is committed to accelerating climate action whilst adhering to the principle of shared but 
+differentiated responsibilities and respective capabilities towards the implementation of the 
+Paris Agreement as per national circumstances. Nepal's goal is to achieve net zero emissions 
+from 2020-2030 and after a period of very low emissions to full net zero by 2045. Nepal would 
+also like to gain recognition for its mitigation contributions beyond its border through clean 
+energy trade. Nepal’s Long Term Strategy envisions bold policymaking, social transformation, 
+and technological advancements that will lead to a carbon-neutral, inclusive, and climate-
+resilient future. 
+Nepal’s total carbon dioxide (CO2) emissions in 2019 was 23 mMtCO2 in the reference 
+scenario. This figure is expected to rise to 34 mMtCO2 in 2030 and 79 mMtCO2 in 2050. While 
+non-energy-related emissions accounted for 46 per cent of net CO2 emissions in 2019 the 
+energy sector accounted for 54 per cent. In the reference scenario, non-energy emissions 
+would gradually decrease to 32 per cent of total emissions by 2050. Land Use, Land Use 
+Change, and Forestry (LULUCF) CO2 emissions were estimated to be 8 mMtCO2 in 2019 
+and are expected to rise to 17 mMtCO2 by 2050. 
+In the with existing measures (WEM) scenario, the net CO2 emissions will be reduced by 
+30 mMtCO2 in 2030 and 50 mMtCO2 in 2050. In this scenario, the energy sector will be one 
+of the most important contributors to emission reductions. LULUCF will contribute significantly 
+to carbon removal in the first 10 years. However, the sink potential of LULUCF will decrease 
+overtime per the assumptions used in this scenario. As a result, after 2030, net carbon 
+emissions will rise at an annual rate of 11 per cent.  
+In the additional measures (WAM) scenario ambitious interventions in the energy sector 
+combined with ongoing and additional carbon removal interventions indicate that Nepal’s net 
+CO  emissions will be lower than ‘zero’ in the period 2020 to 2030, then hovering around ‘zero’ 
+2
+throughout 2035 to 2045. Sequestration increases from 2045 onwards reaching -5.7 mMT in 
+2050. 
+Comparison  of  different  scenarios  shows  that  the  country's  carbon  emission  reduction 
+potential is very high, and with interventions of strategic measures, it is capable of maintaining 
+very low emissions levels. It is even possible, with ambitious, conditional targets, to achieve 
+negative carbon emissions by 2050, whilst reaching net-zero before or by 2045. 
+The sectoral strategy includes the following:  
+1.  Energy: Nepal uses energy in agriculture, transportation, industry, and commercial 
+and  residential  sectors.  As  per  the  2019  baseline  assessment,  residential, 
+transportation,  industrial,  commercial,  and  agricultural  energy  use  contributes  to 
+emissions in descending order. Thus, to reduce carbon emissions in the residential 
+sector the use of liquified petroleum gas (LPG) must be reduced and more electrical 
+appliances e.g. electric cooking and biogas must be used. The transportation sector 
+will need to transition to zero-emission transportation for intercity, intracity, and freight 
+travel across public and private modes. The brick sector needs to shift to zig-zag and 
+tunnel kilns technologies, and then full electric heating. The use of energy-efficient 
+technologies will also help in reducing emissions in the agriculture sector. The main 
+strategy is to power the industrial, commercial, and agricultural sectors with renewable 
+energy and hydrogen technologies, which Nepal has in abundance. Furthermore, in 
+the power generation sector, all electricity will be generated from renewable sources, 
+primarily hydropower plants, as well as solar PV. Refer to Table 2 for the strategy in 
+the energy sector.  
+ 
+2.  IPPU: Nepal's emissions from industrial processes and product uses are currently low. 
+But with the expected growth forecast, Nepal will switch to renewable energy and 
+waste-related fuel, and raw materials such as limestone for the cement industry. 
+iv 
+ OFFICIAL 
+ 
+Additionally, Nepal will explore the potential for carbon capture and storage, beyond 
+that possible through the forest sector. 
+ 
+3.  Agriculutre, Forestry, and Other Land Use (AFOLU): In the agriculture sector, Nepal 
+must switch to better cultivation practices, rice intensification system, better manure 
+management, soil organic matter enrichment, soil management practices such as low 
+soil  tillage,  adaptive  and  resilient  varieties,  and  breeds,  expanded  adoption  of 
+controlled release of stabilized fertilizers, better enteric fermentation processes, and 
+promote agroforestry and other sustainable agriculture systems.  
+ 
+4.  For Forestry and Other and Land use: Nepal must increase and maintain its forest 
+cover, increase afforestation and achieve net-zero deforestation, adopt measures to 
+decrease  forest  fire  incidents,  scale-up  sustainable  forest  management,  and 
+agroforestry, and private forestry practices, promote energy-efficient technologies and 
+improve the monitoring and database systems. Refer to Table 4 for a strategy for the 
+forestry sector.  
+ 
+5.  Waste: To reduce waste emissions from solid waste disposal, open burning of waste, 
+and waste-water treatments technologies like methane gas recovery, incineration of 
+waste for heat and power generation, and methane generation from anaerobic digester 
+in wastewater treatment must be promoted. 
+ 
+6.  Energy Trade: Significant emissions reductions can be achieved outside of Nepal 
+through Hydro and Solar power exports. These have been included to illustrate the 
+potential, whilst acknowledging that this does not form part of the current National 
+emissions regime.  
+Nepal’s Long-Term Strategy setups up ambitious sector strategies and its implementation will 
+be guided by transformative policy and legal strategies identified for each sector, clear 
+institutional mechanisms, clarity in roles and responsibilities of all three spheres of Nepal’s 
+governments, engagement of the private sector, and other agencies, enhanced stakeholder 
+collaboration,  adequate  financial  resources,  and  a  robust  Monitoring,  Reporting,  and 
+Verification  (MRV)  mechanism.  Nepal's  ambition-related  actions  necessitate  significant 
+financial resources, upon which its ambition is conditional. 
+Investments:  Significant  investment  will  be  required  to  achieve  these  ambitious  GHG 
+mitigations  and  net  abatement  targets  over  the  implementation  period.  Demand-side 
+investment, transformative investments, and non-energy sector investment, such as forestry, 
+are all included, (production costs of green hydrogen are excluded). 
+The required costs are estimated in constant US Dollar prices (2000 AD) for all scenarios. The 
+total costs of the sectors considered in the Reference scenario are estimated to be 4.2 billion 
+dollars from 2021 to 2030, 7 billion dollars from 2031 to 2040, and 17.5 billion dollars from 
+2041 to 2050. In the WEM scenario, the total costs of the sectors considered are estimated to 
+be 42.8 billion USD from 2021 to 2030, 34.4 billion USD from 2031 to 2040, and 56.2 billion 
+USD from 2041 to 2050. In the WAM scenario, the total costs of the sectors considered are 
+estimated to be 46.4 billion USD from 2021 to 2030, 53.4 billion USD from 2031 to 2040, and 
+96.3 billion USD from 2041 to 2050.  
+Linkages with other sectors: The ambition of Nepal to minimise emissions and achieve net-
+zero emissions by 2045 has clear links to the achievement of the Sustainable Development 
+Goals (SDGs) by 2030, and implementation of Nepal’s Climate Change Policy (2019), REDD 
++ strategy, and NAP for 2030 & 2050. The SDGs include both direct and indirect targets and 
+indicators aimed at achieving low-carbon, climate-resilient development in Nepal. Climate 
+action has been fully integrated into the SDGs as a key means of achieving its sectoral goals 
+of sustainable development. Another important aspect is to consider the gender and inclusion 
+issues whilst designing and implementing the mitigation strategies.  
+v 
+ OFFICIAL 
+ 
+List of Figures and Tables  
+ 
+Figure 1: LTS preparation and approval process ...................................................................... 5 
+Figure 2: Sustainable development considerations in Nepal’s LTS .................................... 8 
+Figure 3: Carbon dioxide emissions in the reference scenario ........................................... 10 
+Figure 4: Carbon dioxide emissions in WEM scenario .......................................................... 11 
+Figure 5: Carbon dioxide emissions in WAM scenario .......................................................... 12 
+Figure 6: Carbon dioxide emissions in REF, WEM, and WAM scenarios ......................... 13 
+Figure 7: Emission reduction from energy trade..................................................................... 14 
+Figure 8: Impact of avoided emissions from energy trade on Nepal’s carbon budget . 14 
+Figure 9: Proposed MRV system for the LTS ........................................................................... 24 
+Figure 10: Framework for coordination ..................................................................................... 25 
+Figure 11: Investment requirements for mitigation measures of Reference, WEM, and 
+WAM scenarios compated to GDP .............................................................................................. 26 
+Figure 12: Cost of imported fuels under WEM and WAM scenarios .................................. 27 
+Figure 13: Cost savings from decrease in fossil fuel imports ............................................. 28 
+Figure 14: Cumulative costs and comparison to cumulative GDP over the decades ... 29 
+ 
+ 
+Table 1: Emissions in 2019 (in million Metric tons carbon dioxide equivalent, mMtCO e
+2
+ ................................................................................................................................................................ 9 
+Table 2: Strategy for the energy sector ...................................................................................... 16 
+Table 3: Strategy for the agriculture sector .............................................................................. 19 
+Table 4: Strategy for the forestry sector .................................................................................... 20 
+Table 5: Power capacity and investment requirement under WEM and WAM ................ 27 
+ 
+vi 
+ OFFICIAL 
+ 
+ 
+Chapter One: Background and Context 
+1.1.  International context  
+At the Rio Earth Summit in 1992, world leaders agreed to establish international environmental 
+and development activities that would guide international cooperation and development policy 
+for all countries1. Since then, developed and developing countries have actively engaged in 
+environmental discussions and dialogue. At the global level, it was shown that human activity 
+had altered the composition of the global atmosphere, resulting in extreme climatic variability 
+which alerted countries to act on reducing anthropogenic GHG emissions after the post-
+industrial phase. Climate change is now regarded as one of the existential crises that human 
+civilization is confronted with. The United Nations Framework Convention on Climate Change 
+(UNFCCC) recognizes these global contexts and urges countries to take responsibility to 
+combat  dangerous  human  interference  with  the  climate  system  by  stabilizing  GHG 
+concentrations in the atmosphere. 
+The Paris Agreement, signed in 2015, established legally binding international climate goals 
+to keep global temperature rises to 1.5 degrees Celsius above pre-industrial levels. All Parties 
+should strive to formulate and communicate long-term low GHG development strategies, 
+mindful of Article 2, taking into account their common but differentiated responsibilities and 
+respective capabilities, in light of different national circumstances, as outlined in Article 4, 
+paragraph 19, of the Paris Agreement. By decision 1/CP 21, paragraph 35, the Conference of 
+the  Parties  (COP)  invited  Parties  to  submit  long-term  low  greenhouse  gas  emission 
+development strategies to the UNFCCC secretariat by 2020. Countries will determine the 
+scope of the long-term strategy (LTS) in terms of sectoral greenhouse gas (GHG) emissions 
+by formulating appropriate policies, measures, and financial pathways that can lead to meeting 
+emission  reduction  targets.  Nationally  Determined  Contributions  (NDCs)  are  short-term 
+national climate action plans that serve as the foundation for countries to achieve the long-
+term mitigation and adaptation goals envisioned on the LTS.  
+1.2.  National context  
+Nepal is among the most vulnerable countries to climate change and is at high risk due to the 
+country’s fragile topography, climate-sensitive and subsistence livelihoods of the people, and 
+their low adaptive capacity. Nepal’s gross domestic product (GDP) is highly dependent on 
+climate-sensitive sectors such as agriculture, water, energy, and tourism. With these ongoing 
+climate change impacts, the national GDP is likely to suffer in the future. The economy of 
+Nepal is experiencing uneven GDP growth, hovering between 1 %and 8 % per year. Currently, 
+the agriculture sector contributes significantly to the national GDP (27 per cent of total 
+contribution). With a 7.3 % GDP growth rate over the last three years (2017 to 2019), Nepal 
+has made significant progress. However, due to the ongoing COVID-19 pandemic, which has 
+a widespread impact on the national economy, GDP growth is has slowed dramatically in 2020 
+and 2021. 
+Despite its negligible emissions, Nepal is committed to accelerating climate action while 
+adhering to the Paris Agreement's common but differentiated responsibilities and respective 
+capabilities. Nepal submitted its first NDC to the UNFCCC Secretariat in 2016 and the second 
+one in 2020 comprising targets up to 2030, both with a clear national climate action plan. As 
+a result, based on recent reports from the Intergovernmental Panel on Climate Change (IPCC) 
+and other scientific evidence, the country is committed to its long-term climate goals. Nepal is 
+                                                           
+1.  1 United Nations Conference on Environment and Development, Rio de Janeiro, Brazil, 3-14 June 1992 | 
+United Nations 
+ 
+1 
+ OFFICIAL 
+ 
+systematically  addressing  the  issue  of  climate  change,  with  a  commitment  to  keeping 
+emissions to a very low/zero level until achieving sustainable net-zero emissions in 2045. 
+1.3.  National policy initiatives 
+The government of Nepal has developed legal and institutional mechanisms to implement 
+long-term goals as agreed in the Paris Agreements. The Environment Protection Act (2019), 
+National Climate Change Policy (2019), Climate Resilient Planning and Budgeting Guideline 
+(2019), Disaster Risk Reduction and Management Act (2017) and Regulation (2019), GESI 
+and Climate Change Strategy and Action Plan (2019), National Adaptation Programme of 
+Action (NAPA), National Reducing Emissions from Deforestation and Forest Degradation  
+(REDD+) Strategy (2018), Sectoral Policies (forestry, energy, industry, transport, agriculture), 
+the  first  and  second  NDCs,  national  communications,  Sustainable  Development  Goals 
+Strategy, Nepal Energy Strategy (2013), National Energy Efficiency Strategy (2018), sectoral 
+long-term strategies, white papers, and the 15th five-year plan provide policy directives for 
+Nepal to enhance resilience and adopt low-carbon development pathways. Some of the 
+specific documents are explained below.  
+1.3.1. National Climate Change Policy 2019 
+Nepal’s  National  Climate  Change  Policy  (NCCP)  aims  to  contribute  to  socio-economic 
+prosperity by building climate resilient society. One of the major objectives of the policy is to 
+promote a green economy by adopting the concept of low carbon emission development. It 
+has developed policies, strategies, and guidelines in eight major sectors and four cross-cutting 
+sectors.  
+The thematic areas are: 
+  Agriculture and Food Security 
+  Forests, Biodiversity, and Watershed Conservation  
+  Water Resources and Energy  
+  Rural and Urban Settlements 
+  Industry, Transport and Physical Infrastructure  
+  Tourism, Natural and Cultural Heritage 
+  Health, Drinking Water, and Sanitation  
+  Disaster Risk Reduction and Management.  
+ 
+The cross-cutting areas are:  
+  Gender Equality and Social Inclusion (GESI), Livelihoods and Good Governance  
+  Awareness Raising and Capacity Building  
+  Research, Technology Development, and Extension  
+  Climate Finance Management  
+ 
+1.3.2. Second Nationally Determined Contributions 
+In December 2020, the Government of Nepal (GON) submitted its second NDC for the period 
+2021-2030, in accordance with Articles 4.2 and 4.11 of the Paris Agreement, as well as 
+Decision 1/CP.21 paragraphs 23 and 24, and other relevant Paris Agreement (PA)  provisions. 
+The 2020 NDC for the first time sets a vision to achieve net zero greenhouse emission by 
+2050. The NDC considers the principle of common but differentiated responsibilities and 
+respective capabilities in light of national circumstances. The NDC has also established 
+quantifiable activity targets as well as policy targets in key sectors. The second NDC has set 
+the following targets on key sectors. 
+2 
+ OFFICIAL 
+ 
+a)  Energy:  By 2030, increase clean energy generation to 15,000 MW, with 5-10 per cent 
+coming from mini- and micro-hydropower plants, solar panels, wind, and bio-energy, 
+ensuring 15 per cent of total energy demand is met by clean energy sources. The 
+unconditional target is 5,000 MW. 
+b)  Transport: i)  In 2025, electric vehicles (e-vehicles) will account for 25 per cent of all 
+private passenger vehicle sales (including two-wheelers) and 20 per cent of all four-
+wheeler public passenger vehicle sales (excluding electric rickshaws and electric 
+three-wheelers). ii) Increase e-vehicle sales to 90 percent of all private passenger 
+vehicle  sales  (including  two-wheelers)  and  60  percent  of  all  four-wheeler  public 
+passenger vehicle sales by 2030. (excluding electric-rickshaws and electric three-
+wheelers). iii) Develop a 200-kilometer electric rail network by 2030 to support public 
+transportation and mass transportation of goods. 
+c)  Clean cooking/Residential cooking: The goal is to install 500,000 improved cooking 
+stoves, primarily in rural areas, and an additional 200,000 household biogas plants and 
+500 large scale biogas plants (institutional/industrial/municipal/community) by 2025. ii) 
+By 2030, ensure that electric stoves are used as the primary mode of cooking in 25 
+per cent of households. 
+d)  AFLOU: i) By 2030, 45 per cent of the total area of the country will be under forest 
+cover (including other wooded lands, which will be limited to less than 4 per cent); ii) 
+Half (50 per cent) of the Terai and Inner Terai forests, as well as 25 per cent of the 
+middle hills and mountain forests, will be managed sustainably, including through the 
+use of REDD+ funding. 
+e)  Waste: By 2025, 380 million litres of wastewater will be treated per day and 60,000 
+cubic metres of faecal sludge will be managed. When compared to BAU, these two 
+activities will save approximately 258 Gg CO2 eq. 
+The second NDC includes policy targets in each section that are well aligned with GON’s 15th 
+five-year plan, relevant sectoral policies and strategies, climate change policy, and other 
+national documents. GESI has also been incorporated into Nepal's second NDC, ensuring 
+meaningful participation of women, indigenous communities, and youths throughout the NDC 
+implementation process. 
+It is estimated that meeting Nepal's NDC conditional mitigation targets will cost U.S. dollars 
+($) 25 billion. The cost of meeting the NDC's unconditional targets is estimated to be $3.4 
+billion. This estimate includes only activity-based targets. The cost of implementing the 
+adaptation component will be specified in the upcoming National Adaptation Plan (NAP).   
+1.3.3. Third National Communication 
+Nepal has submitted its Third National Communication (TNC) to the UNFCCC. This TNC 
+builds on Nepal's previous national communications, the Initial National Communication (INC) 
+in 2004 and the Second National Communication (SNC) in 2014. It includes the most recent 
+information on the country's national situation, GHG inventory (for the base year 2010/11), 
+GHG mitigation assessment, vulnerability and adaptation assessment, and policies, plans, 
+programs, and activities designed or implemented to address these issues. 
+For the base year 2010/2011, Nepal's GHG inventory accounts for emissions by source and 
+removal by sinks. The inventory takes into account direct GHGs [carbon dioxide (CO2), 
+methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), 
+and sulphur hexafluoride (SF6)] as well as indirect GHGs [carbon monoxide (CO), Nitrous 
+oxides (NOx), Non-Methane Volatile Organic Compound (NMVOC), Sulfur Dioxide (SO ).  
+2
+The inventory was conducted in accordance with the 2006 IPCC Guidelines for Reporting 
+National Communications from Non-Annex 1 Parties and other relevant documents, primarily 
+using the Tier 1 approach. The inventory tracked emissions and removals from four sectors: 
+energy, IPPU, AFOLU, and waste. According to the TNC report, Nepal's net GHG emissions 
+in 2011 were estimated to be 28,166 MtCO2-eq. This represents a significant increase over 
+3 
+ OFFICIAL 
+ 
+the baseline year's emissions (13,447 MtCO2-eq). The inventory results were also used to 
+develop trends in emissions dating back to 1990 and projecting to 2030. 
+ 
+1.3.4. National Adaptation Plan (NAP) 
+According to Articles 7.10 and 7.11 of the Paris Agreement, Nepal will submit an adaptation 
+communication containing its priorities, implementation and support needs, plans, and actions 
+via the NAP. The government is currently developing a NAP to identify medium- and long-term 
+climate-sensitive sectoral adaptation options for 2030 and 2050. The NAP will outline Nepal's 
+contribution to meeting the Paris Agreement's adaptation goals and the necessary means of 
+implementation and financing. The NAP is being developed to strengthen a country-led, 
+gender-sensitive, participatory, and fully transparent approach to reducing climate risks and 
+vulnerabilities of communities, livelihood resources, natural and physical assets. The NAP will 
+define the medium- to long-term adaptation needs and actions based on the VRA. 
+Generally, vulnerabilities and risks are rising in Nepal and are expected to rise even faster in 
+the future. In terms of vulnerability, Karnali and Sudurpaschim provinces are extremely 
+vulnerable.  Provinces  one  and  two,  Bagmati  Province,  Gandaki  Province,  and  Lumbini 
+Province,  on  the  other hand,  have  experienced  higher risks  of  climate  change  impact. 
+Similarly, COVID-19 increased risk and vulnerability and exacerbated socioeconomic and 
+health crises, such as the annual loss and damage caused by climate-related disasters which 
+will hit hard poor people, women, indigenous peoples, the marginalized, and smallholder 
+households and communities2. 
+Nepal's NAP will prioritize short-term adaptation options aimed at improving adaptive capacity 
+and  addressing  physical,  socioeconomic,  and  structural  issues,  taking  into  account  the 
+population's sensitivity and the livelihood resources on which they rely. Furthermore, through 
+improved forecasting, risk communication, risk transfer, and other disaster risk reduction 
+activities, an integrated vulnerability risk-based approach to adaptation will be focused on 
+reducing the impact of climate-induced extreme events and hazards. 
+1.4.  Process for the LTS preparation   
+ 
+The Ministry of Forests and Environment (MOFE) developed the LTS through a participatory 
+and consultative process with assistance from United Nations Development Programme 
+(UNDP), the NDC Partnership, and the Policy and Institutions Facility (PIF). A technical 
+committee was formed to provide oversight and technical guidance to the LTS process. The 
+LTS  was  created  in  collaboration  with  several  governments,  international  and  national 
+organizations, and government line agencies. A series of consultations were held at the 
+national and provincial levels. It was also based on a review of the best available data, as well 
+as a scenario analysis of the existing sector emission datasets, and national and sectoral 
+plans and policies to determine when to achieve net-zero emissions per the IPCC 2006 
+guidelines for the GHG inventory. A group of experts reviewed the overarching and sectoral 
+policies, strategies and programmes, and the data collection and analysis processes. These 
+assessments were substantiated at the national and provincial levels through in-person and 
+online  consultations  with  line  ministries  and  experts.  Figure  1  shows  the  overall  LTS 
+preparation and approval process. 
+Nepal’s LTS was developed using scenario-based planning. It is a technique for envisioning 
+and planning potential future states based on a variety of scenarios (Schoemaker, 1995). 
+There are numerous tools and software available for scenario analysis and for developing an 
+                                                           
+2 MoFE. 2021. Vulnerability and Risk Assessment and Identification of Adaptation options: summary for policy 
+makers. Ministry of Forests and Environment.  
+4 
+ OFFICIAL 
+ 
+analysis modeling framework. Most of them, however, serve a specific purpose and have 
+limitations – most are either tied to the energy or non-energy sectors. The low emission 
+analysis platform (LEAP) modeling tool enables the integration of both energy and non-energy 
+emissions into a single model. It includes a provision for incorporating the emission of GHGs 
+and other environmental pollutants’ emission factors per the IPCC guideline for national GHG 
+inventory estimation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: LTS preparation and approval process 
+The LEAP model developed for this study categorizes the Energy and Non-Energy sectors 
+(agriculture, LULUCF, waste, and IPPU) with macroeconomic and demographic indicators. In 
+addition, the system draws on technological and resource databases, which are used to build 
+a base model and then develop future scenarios. The study covers the period  2019 to 2050. 
+The  energy  and  non-energy  sectors  are  subdivided  into  sub-sectors,  which  are  further 
+subdivided based on sectoral activities. Three different sets of possible future energy demands 
+were considered when developing the scenarios, each of which corresponds to a different 
+level of future economic growth. 
+The  energy  sector  includes  emissions  from  five  economic  sectors  namely  residential, 
+industrial,  commercial  transport,  and  agriculture.  In  the  reference  scenario,  the  major 
+assumption is that the future trend will follow the current emissions trend. In this scenario, a 
+GDP growth rate of 7% is assumed and there are no technological interventions thus the share 
+of each demand technology remains the same in the future years. 
+The  non-energy  sector  includes  agriculture,  LULUCF,  waste,  and  IPPU  sectors.  In  the 
+agriculture and waste sectors, non-CO2 greenhouse gases (i.e., methane and nitrous oxides) 
+are the major sources of emissions. In the agriculture sector, mitigation measures can be 
+categorized into five emission sub-sectors: enteric fermentation, manure management, rice 
+cultivation, biomass (agri-residue) burning, and soil management. The sources of emissions 
+in the waste sector are categorized into solid waste disposal, waste incineration and open 
+burning, and wastewater treatment and discharge. In the IPPU sector, carbon dioxide is the 
+major source of emissions which is attributed to the calcination process in the cement industry. 
+The emissions in LULUCF is assumed to follow the historical trend up to 2050. The LULUCF 
+sector would remain as a net emitter in the reference scenario. The reference scenario 
+assumes that there is no technological intervention in the non-energy sub-sectors up to 2050.  
+5 
+ OFFICIAL 
+ 
+Scenarios with low (4.5%), medium (7%), and high (10.3%) economic growth rates were 
+evaluated. The reference scenario was analyzed at the medium economic growth rate. 
+Furthermore, two mitigation scenarios were also investigated at the medium economic growth 
+rate:  
+  With the Existing Measures (WEM) scenario is estimated using the same methodology as 
+the reference scenario, but with a focus on the intervention measures specified in the plans 
+and policies implemented and adopted up to 2020. The year 2019 serves as the reference 
+year in this scenario. It assumes the GDP growth rate to be the same as that of the 
+reference scenario. The mitigation measures in the WEM sector were assumed for the 
+implementation of low carbon technologies that were taken into consideration of the NDC 
+2020, the NPC’s roadmap for achieving the SDGs by 2030, and other government’s 
+existing plans and policies. Mitigations in the energy sector included electrification in major 
+end-uses in all economic sectors such as efficiency improvement and alternative clean 
+fuel intervention in the industrial process heat, substituting traditional brick kilns with 100% 
+Zigzag brick kilns and biomass fuel mix in the brick industry, fuel switching to modern fuels- 
+electricity, LPG, and renewable energy technologies like solar, and biogas, and modal shift 
+to mass electric mobility in the transport sector. In the agriculture and waste sectors, the 
+strategic action includes measures that reduce both CO  and non-CO  greenhouse gases.  
+2 2
+The mitigation measures considered in the agriculture sector include biogas digester in 
+manure management, improved water management in rice cultivation, and low- or no-
+tillage practices in soil management. In the waste sector, the mitigation options include 
+implementation of methane recovery, anaerobic digester, and waste incinerator, however, 
+the WEM scenario assumes that the implementation level is low. In LULUCF, mitigation 
+measures include reduction in forest degradation and deforestation along with increased 
+plantation and sustainable management of forests. There are no interventions in the IPPU 
+sector  in  the  WEM  scenario. 
+ 
+  With the Additional Measures (WAM) scenario, on the other hand, includes the impact of 
+additional mitigation actions that are feasible for the country. These additional mitigation 
+actions are based on an analysis of the country's current GHG emissions profile. this 
+scenario assumes the GDP growth rate is the same as that of the reference scenario. The 
+WAM  scenario  assumed  the  implementation  of  all  the  proven  technologies  to  the 
+maximum technical feasibility to achieve net-zero CO  emissions before or by 2050. 
+2
+Mitigation measures assumed for the energy sector in this scenario included electrification 
+in major end-uses in all the economic sectors. In the industrial sector, mitigation measures 
+assumed were electrification in motive power, boilers, and process heat, and switching to 
+alternative fuel mix and hydrogen technology in the cement industry, and adoption of 
+electric tunnel kilns in the brick industry. To reduce CO  emissions in the transport sector, 
+2
+the mitigation measures assumed were the introduction of fuel cells for the passenger as 
+well as freight vehicles, and the use of electric vehicles, synthetic fuel mix in aviation and 
+modal shift to mass electric transportation.  In the non-energy agriculture sector, over 20 
+mitigation measures have been considered, and the mitigation technologies are based on 
+the most recent findings as of 2021 and the implementation potential is assumed to be the 
+maximum technically feasible. Similarly, in the waste sectors, the mitigation measures are 
+implemented at full technical feasibility by 2050. In IPPU sector, carbon capture utilization 
+and storage is considered as the mitigation measure to reduce CO  emission in the cement 
+2
+industry. The mitigation measures in LULUCF are similar to the WEM scenario but the 
+level of implementation is more stringent. It is assumed that agri-residue burning on fields 
+would be completely stopped by 2050.  
+GHG emissions in the WEM and the WAM have been analyzed and compared at the sectoral 
+and the national levels to the reference scenario. Furthermore, carbon neutrality in terms of 
+carbon dioxide only has been assessed until 2050.  
+   
+6 
+ OFFICIAL 
+ 
+Chapter Two: Nepal's Long-term Strategy for Net-zero 
+Emissions 
+2.1. Vision 
+“Nepal aspires to minimize emissions and  
+sustainably achieve net-zero emissions by the year 2045.” 
+Key elements of the 2045 Vision  
+The LTS envisions bold policymaking, social transformation, and technological innovations 
+that will lead to a carbon-neutral, inclusive, and climate-resilient path. The following are the 
+key elements of the LTS: 
+  Increase the use of clean/renewable power in all sectors, including fuel switching to 
+clean and modern energy in all economic sectors.  
+  Improve energy efficiency and maximize benefits by utilizing clean energy efficiently in 
+the residential, industrial, and transportation sectors. 
+  Adopt  clean,  secure,  and  connected  mobility.  This  includes  decarbonizing  the 
+transportation sector through the use of alternative modes of transportation, shifting to 
+electric mass transportation, and increasing the use of clean fuels.  
+  Increase carbon sinks by managing forests and natural resources in a sustainable 
+manner.  
+  Encourage sustainable agriculture and land use management to maximize co-benefits.  
+  Expand the circular economy to improve industrial sustainability, promote industrial 
+sector modernization through installations, and invest in new carbon-neutral and 
+circular-economy compatible technologies and systems. 
+  Deploy carbon removal technologies in all economic sectors.  
+  Maximise the benefits of the mitigation of clean energy trade where appropriate 
+mechanisms for recognition are in place 
+  Enhance international cooperation and support (technical and financial) for climate 
+actions (Mitigation and Adaptation)    
+2.2. Sustainable development and other considerations 
+The  ambition  of  Nepal  to  achieve  net-zero  emissions  by  2045  has  clear  links  to  the 
+achievement of the Sustainable Development Goals (SDGs) by 2030 and beyond. Nepal has 
+charted its economic, social, and environmental development course by endorsing the use of 
+169 targets and 479 indicators to achieve its SDGs by 2030. Climate action is a central cross-
+cutting policy goal in achieving many of the goals outlined in Nepal's SDG roadmap. The SDGs 
+include both direct and indirect targets and indicators aimed at achieving low-carbon, climate-
+resilient development in Nepal. Climate action has been fully integrated into the SDGs as a 
+key means of achieving its sectoral goals of sustainable development. Figure 2 depicts the 
+key theme of Nepal's long-term low GHG emission development strategy with ten of the 
+country's SDG goals and key climate objectives. 
+ 
+7 
+ OFFICIAL 
+ 
+Figure 2: Sustainable development considerations in Nepal’s LTS 
+ 
+At its core, Nepal's LTS and SDGs promote win-win actions for climate and socioeconomic 
+development,  providing  Nepal  with  a  critical  opportunity  to  transition  to  climate-smart 
+development and meet the PA goals and SDGs. Nepal is committed to implementing inclusive 
+and transparent policies to transition its economy to carbon-neutral, climate-resilient, and 
+sustainable development. By addressing climate action and SDGs in integrated ways, the LTS 
+provides a clear vision with co-benefits for achieving socio-economic prosperity and the kind 
+of future Nepal desires. Based on the most recent scientific, technological, and societal 
+developments, Nepal's current and future NDCs will provide a clear pathway for reflection and 
+adjustment to achieve the country's climate and sustainable development goals and provide 
+opportunities for creating jobs for and increasing the income and standard-of-living of the poor 
+people in Nepal.    
+8 
+ OFFICIAL 
+ 
+2.3. Mitigation elements   
+ 
+2.3.1. Current inventory of GHG emissions in Nepal 
+ 
+The Nepal-LEAP modeling framework was used to determine the current status of GHG 
+emissions. The model's starting year was set to 2010, but because 2019 has already passed, 
+the  year  2019  was  chosen  as  the  base  year  for  developing  the  GHG  inventory.  The 
+demographic and economic data, as well as data on various energy and non-energy activities, 
+were obtained from a statistical database available from government documents.  
+Table 1 shows the emissions of various GHGs from different sectors in 2019. The carbon 
+dioxide from biomass is also included in the table because, in the case of a country like Nepal 
+where biomass is used at an unsustainable rate, the emissions from biomass combustion may 
+not represent renewable energy resources sectors. 
+Table 1: Emissions in 2019 (in million Metric tons carbon dioxide equivalent, mMtCO e  
+2
+Nitrous  Carbon  CO -equivalent 
+Methane  2
+Oxide  dioxide  (100-year GWP) 3  
+Sectors   in mMtCO e 
+2
+Energy Sectors 
+Residential  0.41  3.57  2.09  6.07 
+Transport  0.40  0.01  4.73  5.15 
+Industrial  0.02  0.02  4.45  4.49 
+Commercial  0.01  0.13  0.54  0.69 
+Agriculture  0.00  0.00  0.78  0.78 
+Sub-total Energy sector GHG  0.85  3.74  12.59 
+Emissions  17.18 
+Non-Energy Sectors 
+Industrial Processes and Product Use 
+      1.87  1.87 
+(IPPU) 
+Agriculture  1.39  26.3  0.17  27.86 
+LULUCF (emissions)        21.93  21.93 
+Waste     4.73  0.00  4.73 
+Sub-total Non-energy sector GHG 
+1.39  31.03  23.97  56.39 
+Emissions (excluding removals) 
+Total (energy and non-energy) 
+GHG emissions (excluding        36.56  73.57 
+removals) 
+LULUCF (removals)        -13.50  -13.50 
+Net emissions from LULUCF         8.43  8.43 
+Total GHG emissions (excluding 
+2.24  30.04  36.56  68.84 
+LULUCF) 
+Net GHG emissions  2.24  34.77  23.07  60.07 
+ 
+A scenario analysis was performed to investigate potential intervention strategies over the 
+years  until  2050.  This  analysis  provides  information  on  the  implications  of  policies 
+                                                           
+3 CO2 equivalent based on 100-year global warming potential (GWP). The GWP for Carbon Dioxide, Methane and 
+Nitrous Oxide are adopted from Fifth Assessment Report (AR5)  
+9 
+ OFFICIAL 
+ 
+implemented in the energy and non-energy sectors, as well as their impacts on net carbon 
+emissions  reduction.  It  should  be  noted  that  the  analysis  excludes  livestock  emissions 
+because livestock husbandry in the country is based on subsistence agricultural activity and 
+has not been commercialized on a large scale. 
+2.2.1. Reference scenarios  
+Figure 3 shows CO2 emissions from the energy and non-energy sectors over the period 2019-
+2050. Total CO2 emissions in 2019 were 23 mMtCO2. This figure is expected to rise to 34 
+mMtCO2 in 2030 and 79 mMtCO2 in 2050. In 2019, non-energy-related emissions accounted 
+for 46 per cent of net CO2 emissions, while the energy sector accounted for 54 per cent. 
+90
+Energy
+80
+79
+70
+2 Agriculture
+0
+C 63
+ s 60
+e
+n
+no 50 51 LULUCF
+t
+ c
+irte 40 42
+M IPPU
+ n 34
+o 30
+illiM 23 27 Waste
+20
+10
+Net Emission
+0
+2020 2025 2030 2035 2040 2045 2050
+ 
+Figure 3: Carbon dioxide emissions in the reference scenario 
+Non-energy-related emissions would gradually decline to 32 per cent of total emissions by 
+2050. The CO2 emissions from LULUCF were estimated to be 8 mMtCO2 in 2019, rising to 
+17 mMtCO2 by 2050. 
+   
+10 
+ OFFICIAL 
+ 
+2.2.2. Mitigation scenarios  
+Nepal’s pathway for Net Zero Emission,  two alternative GHG mitigation scenarios is 
+assessed using With Existing Measures (WEM) and With Additional Measures (WAM) have 
+assumed to compare with the reference scenarios. The assumed scenarios include; 
+WEM: The scenario with the existing measures is estimated using the same methodology 
+as the reference scenario, but taking into account the target of the intervention measures 
+mentioned in the plans and policies implemented and adopted up to 2020, as well as 
+potential adoption with a milestone. The year 2019 serves as the reference year for this 
+scenario. 
+WAM: The impact of additional mitigation actions that are feasible for the country is 
+estimated using the same methodology as the reference scenario, taking into account the 
+intervention measures mentioned in the plans and policies implemented and adopted up to 
+2020, as well as the impact of additional mitigation actions that are feasible for the country. 
+The working team identified additional mitigation actions based on an analysis of the 
+country's  current  GHG  emission  profile,  assumptions  about  potential  technological 
+advancement, and investments. 
+a.  With Existing Measures  
+Net CO2 emissions will be reduced by 30 mMtCO2 in 2030 and 50 mMtCO2 in 2050 under 
+the WEM scenario (Figures 4 and 5). In this scenario, the energy sector will be one of the 
+most important contributors to emissions reductions, while LULUCF will contribute significantly 
+to carbon removal in the earlier period. However, the sink potential of LULUCF will decrease 
+overtime per the assumptions used in this scenario. As a result, after 2030, net carbon 
+emissions will rise at an annual rate of 11%. Under the low intervention carbon reduction 
+measures  (described  in  Section  2.4),  it  is  clear  that  net-zero  emission  targets  will  be 
+impossible to achieve without additional and conditional efforts in carbon removal and 
+sequestration. 
+40.0
+Energy
+30.0 29.5
+Agricultu
+24.0
+re
+20.0
+2 18.8
+0
+C
+ s 14.6
+e LULUCF
+n
+n 10.0
+o
+t
+ c
+ir 3.9
+teM 0.0 1.7 IPPU
+ n 2020 2025 2030 2035 2040 2045 2050
+o
+illiM -10.0 -7.8
+Waste
+-20.0
+Net
+Emission
+-30.0
+ 
+Figure 4: Carbon dioxide emissions in WEM scenario   
+11 
+ OFFICIAL 
+ 
+b) With Additional Measures  
+The WAM scenario includes very ambitious and conditional targets, which are detailed in 
+Section 2.4 below. This scenario includes new interventions such as fuel cells and biofuels in 
+transportation,  green  hydrogen  for  thermal  purposes  in  industry,  and  carbon  capture, 
+utilization,  and  storage  (CCUS).  Highly  determined  interventions  in  the  energy  sector, 
+combined with ongoing and additional carbon removal interventions, can pave the way to net 
+zero emissions by 2045, with carbon sequestration potential reaching 5.7 mMtCO2 in 2050. 
+(Figure 5). By 2050, emissions from the energy sector will be significantly reduced to a 
+nominal level of less than 2 mMtCO2.  LULUCF, on the other hand, will act as a carbon sink, 
+contributing to net negative carbon emissions by 2050. 
+20.0
+Energy
+15.0
+10.0
+Agriculture
+5.0
+2
+0
+C 2.1 1.6
+ sen 0.0 -0.4 LULUCF
+n 2020 2025 2030 2035 2040 2045 2050
+o
+t
+ c -5.0
+ir -5.8 -5.7
+t
+e
+M -8.2
+ n -10.0 IPPU
+o
+illiM -12.9
+-15.0
+Waste
+-20.0
+-25.0
+Net Emission
+-30.0
+ 
+Figure 5: Carbon dioxide emissions in WAM scenario 
+Due to the limited capacity of current technologies, there are still emissions from energy and 
+IPPU. However, with future technological advancements, this can be avoided and reduced. 
+2.2.3. Comparison of scenarios  
+ 
+Figure 6 clearly shows that the country's carbon emissions and reduction potential are very 
+high. With current emissions largely mitigated by carbon capture in the forestry sector and 
+future  emissions  reduce  by  aggressive  development  of  clean  energy  resources. 
+Implementation of strategic measures are capable of reducing emissions to zero to the 
+reference scenario and with ambitious and conditional targets, make net carbon emissions 
+negative, representing net-zero, before or by 2045. 
+ The comparative graphs for emissions for all three scenarios show that Nepal has a high 
+potential for reducing carbon emissions at the national level. With advanced technological and 
+policy interventions, as well as conditional targets, emissions can be reduced while also 
+increasing total carbon sequestration. The WAM scenario indicates that Nepal’s net CO  
+2
+12 
+ OFFICIAL 
+ 
+emissions will be lower than ‘zero’ in the period 2020 to 2030, then hovering around ‘zero’ 
+level throughout 2035 to 2045, and the sequestration increases from 2045 onwards reaching 
+-5.7 mMT in 2050. These measures can achieve net carbon neutrality immediately and then 
+sustainably by 2045, with increasing levels of carbon capture possible. This carbon sink can 
+help with regional carbon reductions.  
+ 
+Figure 6: Carbon dioxide emissions in REF, WEM, and WAM scenarios 
+ 
+2.2.4. Implications of Nepal’s Clean Energy Trade Potential on Global Emissions 
+ 
+In addition to its domestic emissions reduction, potential Nepal has significant clean energy 
+resources that can be exported to offset emissions in neighboring countries. The graph below, 
+based  on  preliminary  analysis  shows  the  potential for  ‘carbon  offsetting’  by  developing 
+Hydropower generation capacity of 37 GW - 45 GW by 2050 and accompanying 7 - 9 GW of 
+solar generation capacity. These estimates include meeting rising domestic demand for clean 
+electricity in the national WEM and WAM scenarios and decreasing emissions factors in 
+neighboring countries. 
+   
+13 
+ OFFICIAL 
+ 
+Figure 7: Emission reduction from energy trade  
+ 
+ 
+Clean energy trade potential is not accounted for in Nepal's national LTS due to a lack of 
+clarity under the UNFCCC regime. They have however been included here just to illustrate 
+their significance and their potential contribution to Global Emissions Reductions. This can 
+serve discussion agenda to explore flexible mechanisms of enhancing ambitions through 
+regional collaboration.  
+Figure 8: Impact of avoided emissions from energy trade on Nepal’s carbon budget 
+ 
+14 
+ OFFICIAL 
+ 
+Figure 8 above shows the relative significance of clean energy trade (the WEM/WAM+ trade 
+scenarios) in reducing emissions relative to the purely domestic WEM and WAM scenarios. 
+This implies that if recognized Nepal would be substantially carbon-negative far earlier and to 
+a far greater extent. 
+This remains true under conservative assumptions. For example, even if only 50% of the 
+emissions reductions are achieved or ‘emissions reduction sharing’ agreed with recipients 
+(WEM/WAM + Trade 50%) power trade would allow Nepal’s emissions to offset significantly 
+become negative by 2030 in both WEM and WAM scenarios even if conservative assumptions 
+on the speed of implementation are adopted. This analysis has therefore been included to 
+ensure recognition of the importance of this issue for Nepal’s emissions scenarios and 
+emissions in the region. In particular, it highlights the need for the Article 6 agreement on 
+carbon accounting to take into account the actions of countries like Nepal, who can play a 
+significant role in reducing global emissions, if the right incentives and investment support are 
+put in place. 
+2.3.  Adaptation elements 
+Mitigation interventions in the energy, agriculture, land use, and forestry sectors will result in 
+adaptation co-benefits that are critical for building resilience at the community, local, provincial, 
+and national levels. Achieving energy security, sustainable forest management, and climate-
+smart agriculture technologies not only aid mitigation but also develop adaptive capacity and 
+strengthen the livelihood systems of poor people and vulnerable households. 
+In terms of adaptation and resilience building, Nepal has clearly articulated the country's 
+priority for vulnerable households and livelihood resources. The government has set up a goal 
+of becoming a climate-resilient nation, and it has incorporated the green, resilient, and 
+inclusive development (GRID) agenda into its development policies and plans. 
+Adaptation is a priority of the country. The government is planning to approve NAP, which will 
+include  the government's  priorities,  implementation  plans,  and  support  requirements for 
+medium-term (2030) and long-term (2050) scenarios, plans, and actions. The NAP will outline 
+Nepal's contribution and the means in implementing the contribution to meeting the adaptation 
+goals of the Paris Agreement. 
+There are limits to adaptation. The adaptation policy and plan alone will not be able to reduce 
+the risk and vulnerability of climate change, particularly the massive loss and damage that can 
+occur as a result of unprecedented events. GON has already prepared a National framework 
+on Loss and Damage (L&D). This framework defined L&D in the context of the country and 
+provided a framework for assessing economic and non-economic L&D caused by climate-
+related events. The framework is expected to help strengthen governance to address climate 
+risks and vulnerabilities, build the resilience of the water, energy, and agriculture sectors, and 
+reduce disaster risks for people. 
+ 
+2.4.  Sectoral strategies  
+ 
+Energy: Nepal uses energy in agriculture, transportation, industry, and commercial and 
+residential sectors. Per the 2019 baseline assessment, residential, transportation, industrial, 
+commercial, and agricultural energy uses contribute to emissions in descending order. Thus, 
+to reduce carbon emissions in the residential sector the use of LPG must be reduced and 
+more electrical appliances, ICS, and biogas must be used. The transportation sector will need 
+to transition to zero-emission transportation for intercity, intracity, and freight travel across 
+public and private modes. The idea is to power the industrial, commercial, and agricultural 
+sectors  with  renewable  energy  and  hydrogen  technologies.  Furthermore,  in  the  power 
+15 
+ OFFICIAL 
+ 
+generation  sector,  all  electricity  will  be  generated  from  renewable  sources,  primarily 
+hydropower plants, as well as solar PV. Refer to Table 2 for the strategy in the energy sector.  
+Table 2: Strategy for the energy sector  
+ 
+Overall  sectoral  Sectors  Strategic action  Milestones 
+strategies  WEM  WAM 
+Enhance and  Power  Required  Required 
+ Development of 
+maximize  Power  generation   power plant  power plant 
+hydropower 
+generation from  capacity in  capacity in 
+plants  
+renewable energy   2050 will be  2050 will be 
+   Development and  34 GW –  50 GW – 
+integration of  Hydropower  Hydropower 
+variable  2.1 GW –  2.1 GW – 
+renewable energy  grid- grid-
+(VRE) into power  connected  connected 
+systems  Solar PV  Solar PV 
+power  power plants, 
+ Scale-up of 
+plants, and   and  
+distributed energy 
+1.1 GW of  1.1 GW of Off-
+resources (mini-
+Off-grid and  grid and 
+grid, off-grid 
+isolated  isolated 
+isolated wind, 
+renewable  renewable 
+solar, micro-
+energy  energy power 
+hydro, and 
+power  systems 
+biogas) 
+systems   
+ Development of   
+policy on regional 
+power sector 
+integration, VRE 
+integration, and 
+grid flexibility 
+ 
+Promote electrification  Residential  1.7 mMtCO e 
+ Electrification in  0.3  2
+and shift to clean  emissions 
+all end-use  mMtCO e 
+technologies in the  2 reduction in 
+services in urban  emissions 
+residential  2030 and 4.45 
+areas  reduction in 
+transportation,  mMtCO e in 
+2030 and  2
+industrial and   Promotion of  2050, i.e. 53 
+2.1 
+commercial sectors:  clean cooking  per cent and 
+mMtCO e 
+  technologies with  2 100 per cent 
+reduction in 
+  Enhancement of  high efficiency  reduction in 
+2050, i.e. 9 
+clean fuel access  and low  2030 and 
+per cent 
+  Efficiency  emissions in rural  2050 
+and 47 per 
+improvement  areas  respectively 
+cent 
+  Modal shift and e- compared to 
+ Electrification in  reduction in 
+mobility in  the REF 
+cooking, space  2030 and 
+transport  scenario 
+heating, water  2050 
+  Adoption of New   
+heating, and  respectively 
+technology in  lighting in rural  from the 
+decarbonization 
+areas 
+16 
+ OFFICIAL 
+ 
+  REF 
+ Promotion of 
+scenario 
+efficient 
+technologies in all 
+ 
+end-use services 
+Industry 
+ Expansion of  3 mMtCO e  3.3 mMtCO e 
+2 2
+efficient and  emissions  emission 
+clean production  reduction in  reduction in 
+technologies   2030 and  2030 and 19.8 
+14  mMtCO e in 
+2
+ Electrification in 
+mMtCO e  2050, i.e., 47 
+2
+process heat, 
+reduction in  per cent and 
+boilers, and in 
+2050, i.e.,  95 per cent 
+motive power in 
+43 per cent  reduction in 
+all industries 
+and 70 per  2030 and 
+ Replacement of  cent  2050 
+traditional brick  reduction in  respectively 
+kilns (FCBTK)  2030 and  compared to 
+with modern  2050  the REF 
+improved brick  respectively  scenario 
+kilns (zigzag  compared 
+kilns, and electric  to the REF   
+tunnel kilns)  scenario 
+ The intervention 
+ 
+of CCUS in the 
+cement industry 
+ The intervention 
+of green fuels 
+(electricity, waste, 
+and hydrogen) for 
+thermal 
+processes in the 
+industries 
+ Introduction of 
+electric 
+technology for 
+process heat in 
+heavy industries 
+(metals, cement, 
+and brick) 
+Transport  1.9 
+ Promotion of  2.1 mMtCO e 
+mMtCO e  2
+electric mass  2 emission 
+reduction in 
+passenger  reduction in 
+2030 and 
+transport   2030 and 19.5 
+8.2 
+mMtCO e in 
+ Switching fuel to  mMtCO e  2
+2 2050, i.e., 30 
+clean energy  reduction in 
+per cent and 
+(electricity, fuel  2050, i.e., 
+97 per cent 
+cells, synthetic  26 per cent 
+reduction in 
+fuels/biofuels in  and 41 per 
+2030 and 
+aviation)   cent 
+2050 
+17 
+ OFFICIAL 
+ 
+reduction in  respectively 
+ Electrification in 
+2030 and  compared to 
+freight transport 
+2050  the REF 
+ Installation and  respectively  scenario 
+expansion of  compared 
+charging stations   to the REF   
+scenario 
+Commercia
+Achieve total  1.2  1.2 mMtCO e 
+l  2
+Electrification in  mMtCO e  emissions 
+2
+all commercial  reduction in  reduction in 
+sector  2030, i.e.,  2030, i.e., 100 
+100 per  per cent 
+cent  reduction in 
+reduction in  2030 
+2030  compared to 
+compared  the REF 
+to the REF  scenario 
+scenario 
+ 
+ 
+Agriculture  0.3 
+ Electrification in  0.4 mMtCO e 
+mMtCO e  2
+farm machinery  2 emission 
+emissions 
+and water  reduction in 
+reduction in 
+pumping  2030 and 2.8 
+2030 and 
+mMtCO e in 
+ Promotion of  1.1  2
+2050, i.e., 33 
+Solar PV  mMtCO e 
+2 per cent and 
+pumping  reduction in 
+100 per cent 
+2050, i.e., 
+reduction in 
+29 per cent 
+2030 and 
+and 38 per 
+2050 
+cent 
+respectively 
+reduction in 
+compared to 
+2030 and 
+the REF 
+2050 
+scenario 
+respectively 
+compared 
+ 
+to the REF 
+scenario 
+ 
+IPPU: Nepal's emissions from industrial products and processing units are currently low. 
+However, with the growth forecast and the recommended switch to renewable energy, it will 
+be critical for Nepal to adopt energy-efficient technologies such as zig-zag waste related to 
+fuel and raw materials such as limestone for the cement industry. Nepal must also explore the 
+potential for carbon capture and storage. 
+AFOLU: For the agricultural sector, Nepal must switch to better cultivation practices, a rice 
+intensification  system,  better  manure  management,  soil  organic  matter  enrichment,  soil 
+management practices such as low soil tillage, use of adaptive and resilient varieties, and 
+breeds,  expanded  adoption  of  controlled  release  of  stabilized  fertilizers,  better  enteric 
+fermentation processes, and promote agroforestry and other sustainable agriculture systems. 
+Refer to Table 3 for the strategy on the agriculture sector.  
+ 
+18 
+ OFFICIAL 
+ 
+Table 3: Strategy for the agriculture sector  
+Overall  Strategic actions  WEM  WAM 
+strategies  milestone  milestone 
+Promote agriculture    Employ GHG-focused 
+GHG emissions  GHG emissions 
+fermentation  genetic selection and 
+management  breeding 
+0.3 mMtCO e  0.4 mMtCO e 
+practices and    Promote animal feeds  2 2
+emissions reduction  emission 
+technologies   mix optimization 
+in 2030 and 1.1  reduction in 2010 
+  Expand use of animal 
+mMtCO e reduction  and 2.8 
+2
+feed additives 
+in 2050, i.e., 29 per  mMtCO e in 
+2
+  Expand use of feed-
+cent and 38 per  2050, i.e., 34 per 
+grain processing for 
+cent reduction in  cent and 100 per 
+improved digestibility 
+2030 and 2050  cent reduction in 
+  Improve animal health 
+respectively  2030 and 2050 
+monitoring and illness 
+compared to REF  respectively 
+prevention 
+compared to REF 
+  Improve technologies 
+CO  emissions 
+2
+that increase livestock 
+CO  emissions 
+2
+production efficiencies 
+0.3 mMtCO e 
+2
+emissions reduction  .4 mMtCO e 
+2
+in 2030 and 1.1  emission 
+mMtCO e reduction  reduction in 2010 
+2
+in 2050, i.e., 29 per  and 2.8 
+cent and 38 per  mMtCO e in 
+2
+cent reduction in  2050, i.e., 33 per 
+2030 and 2050  cent and 100 per 
+respectively  cent reduction in 
+compared to REF  2030 and 2050 
+respectively 
+compared to REF 
+ 
+Improve soil   Expand use of     
+carbon, soil  anaerobic manure  34 kMtCO e  0.12 mMtCO e 
+2 2
+health, and  digestion  emissions reduction  emissions 
+soil fertility   Make efficient use of  in 2030 and 133  reduction in 2030 
+under  livestock nutrients  kMtCO2e reduction  and 0.5 
+grassland   Apply Nitrification  in 2050, i.e., 6.2 per  mMtCO2e 
+and cropland   inhibitors on pasture  cent and 19.5 per  reduction in 
+ Promote technologies  cent reduction in  2050, i.e., 21.5 
+that increase livestock  2030 and 2050  per cent and 67.1 
+production efficiencies  respectively  per cent 
+compared to REF  reduction in 2030 
+and 2050 
+respectively 
+compared to REF 
+Improve   Improve rice paddy  0.6 mMtCO e  0.8 mMtCO e 
+2 2
+nutrient use  water management  emissions reduction  emissions 
+and manure   Expand adoption of  in 2030 and 2.5  reduction in 2030 
+management  dry direct seeding in  mMtCO2e reduction  and 3.6 
+towards  rice cultivation  in 2050 i.e., 15.2  mMtCO2e 
+sustainable   Improved rice straw  per cent and 47.4  reduction in 2050 
+and resilient  management  per cent reduction  i.e., 21.6 per cent 
+in 2030 and 2050  and 67.3 per cent 
+19 
+ OFFICIAL 
+ 
+agricultural   Promote optimal rice  respectively  reduction in 2030 
+systems  varietal selection  compared to REF  and 2050 
+ Improve fertilization of  respectively 
+rice  compared to REF 
+ Scale low- and no-    
+tillage practices  0.1 mMtCO e  0.7 mMtCO e 
+2 2
+ Reduce nitrogen over- emissions reduction  emissions 
+application  in 2030 and 0.6  reduction in 2030 
+ Promote Variable-rate  mMtCO2e reduction  and 2.9 
+fertilization  in 2050, i.e., 4.2 per  mMtCO2e 
+ Adopt Nitrogen-fixing  cent and 13.2 per  reduction in 
+rotations  cent  reduction in  2050, i.e., 20.2 
+2030 and 2050  per cent  and 
+ Improve fertilization 
+respectively  63.2 per cent  
+timing 
+compared to REF  reduction in 2030 
+ Expand adoption of 
+and 2050 
+controlled-release and 
+respectively 
+stabilized fertilizers 
+compared to REF 
+Improve   Methane recovery    1.4 mMtCO e 
+2
+livestock   Increase incineration  emissions 
+management  reduction in 2030 
+systems,  and 6.4 
+including  mMtCO e 
+2
+agro- reduction in 
+pastoral  2050, i.e., 5.8 per 
+production  cent  and 18.0 
+systems and  per cent  
+others  reduction in 2030 
+and 2050 
+respectively 
+compared to REF 
+ 
+For Forestry and Other and Land Use: Nepal must increase and maintain its forest cover, 
+adopt afforestation efforts and achieve net-zero deforestation, adopt measures to decrease 
+forest fire incidents, scale-up sustainable forest management practices, agroforestry, and 
+private forestry practices, promote energy-efficient technologies, and improve the monitoring 
+and database systems. Refer to Table 4 for the strategy for the forestry sector.  
+Table 4: Strategy for the forestry sector  
+Overall strategies  Strategic actions  Milestone 
+WEM  WAM 
+20 
+ OFFICIAL 
+ 
+Reduction of forest    Reduce forest loss  Loss: Half of  By 2030, net zero 
+loss (deforestation)  and stop land cover  Business As  Forest Degradation  
+and achieve forest  conversion  Usual (BAU)   
+area gain by    Increase forest gain    Gain: As per WEM 
+plantation activities  through plantation  25 per cent  of   
+in an open area  plantation and  Plantation: 
+  Promote private  additional to meet  Contribution of 
+forestry  45 per cent   plantations in 
+target by 2030  removal is doubled, 
+i.e., 50 per cent of 
+plantation area 
+assumed to fall 
+under the definition 
+of forest 
+Reduce forest    Reduce degradation  Half of BAU,  By 2030, 90 per 
+degradation and  from fire,  deduct area  cent reduction in 
+promote forest  illegal/unsustainable  under sustainable  deforestation 
+health  timbering, fuelwood  forest   
+extraction  management  Fire: By 2030, 75 
+  Reduce    per cent reduction in 
+unsustainable  Fire: Half of BAU  forest fire due to 
+grazing  different projects for 
+  Promote alternative  forest fire 
+domestic energy  management and 
+sources for cooking  control 
+and heating (e-
+cooking, ICS, 
+biogas, etc.) 
+Enhance/Improve    Promote the use of  Reduce timber  Self-sufficiency of 
+harvested wood  harvested wood  import by half of  harvested wood 
+products and avoid  products in housing  BAU  products. 
+carbon loss from  and other 
+forest product/wood  infrastructure 
+products  development and 
+construction 
+  Promote farm 
+forestry/agroforestry 
+for the production of 
+wood products 
+  Improve harvesting 
+technology for 
+efficient forest 
+production  
+  Promotion of wood 
+technology 
+(composite wood, 
+particle boards, 
+etc.) 
+ 
+Adopt an integrated    Balance  Complement  Complement forest 
+system while using  development and  forest loss and  loss and gain 
+forests for physical  physical  gain targets  targets 
+infrastructure  infrastructure 
+development and  development  
+have integrated 
+21 
+ OFFICIAL 
+ 
+thinking in its    Provide 
+conservation and  compensation for 
+development (15TH  forest land lost in 
+Plan)  infrastructure 
+development when 
+forest cover change 
+is unavoidable  
+Implement    Development of  By 2030, 50 per  Between 2030 and 
+sustainable forest  sustainable forest  cent  of Terai and  2050, 75 per cent  of 
+management  management  Inner-Terai  Terai and Inner-
+directives/guidelines  forests, and 25  Terai forests, and 75 
+  Implementation of  per cent of middle  per cent  of middle 
+silviculture systems  hills and mountain  hills and mountain 
+to enhance growth  forests (GoN,  forests 
+in forest growing  2020) 
+stock 
+  Promote 
+sustainable forest 
+management  
+ 
+Enhance forest    Capacity building    Generation of 
+information,  for information  annual average 
+research, and  generation on forest  landcover change 
+technology  statistics and other  statistics. 
+development  forestry-related   
+research  Other emission-
+  Establishment of  related forest 
+systematic  information (i.e., 
+observation of  emission/sink factor 
+forest areas from an  of various forest 
+emission point of  types, emission 
+view  forest fires, etc.) 
+  Strengthening and 
+generation of 
+baseline data. 
+ 
+Waste: Under waste emissions from solid waste disposal, open burning of waste, and waste-
+water treatment technologies like methane gas recovery, incineration of waste for heat and 
+power generation, and methane generation from anaerobic digester in wastewater treatment 
+must be promoted. Refer to Table 5 for the strategy for the waste sector 
+Table 5: Sectoral strategy, strategic action, and a milestone in the waste sector  
+Overall  Strategic  Milestone 
+strategies  actions   WEM  WAM 
+Implementation   Methane recovery  1.6 mMtCO2e 
+0.7 mMtCO2e 
+of Energy  from landfills  emissions reduction 
+emissions reduction 
+recovery from  Incineration of waste  in 2030 and 5.7 
+in 2030 and 2.9 
+waste  for heat and power  mMtCO2e reduction 
+mMtCO2e reduction 
+generation  in 2050, i.e., 26 per 
+in 2050, i.e., 11 per 
+Methane generation  cent  and 66 per cent  
+cent  and 34 per cent 
+from anaerobic  reduction in 2030 
+reduction in 2030 and 
+digester in  and 2050 
+2050 respectively 
+wastewater  respectively 
+compared to REF 
+treatment  compared to REF 
+22 
+ OFFICIAL 
+ 
+Chapter Three: Means of Implementation 
+ 
+3.1. Legal and institutional measures 
+Legal framework: The second enhanced NDC and its future revisions provide a legal basis 
+for the GON to plan and pursue its Long-term Strategy to align its efforts to be very low 
+emissions before and carbon neutrality on or before 2045. In addition, sectoral policies should 
+also mainstream climate change to integrate the targets set in the NDC and the aspirations in 
+the Long-term Strategy. Coordinated efforts across the ministries and line agencies, local 
+governments,  stakeholders,  and  rights  holders,  access  to  capacity  building,  technology 
+transfer, and finance will be key to meet targets set under WEM and WAM scenarios.  
+Institutional mechanism: 
+  Implement the LTS through federal, provincial, and local governments, in collaboration 
+with other relevant stakeholders including youth, women, indigenous people, private sector 
+as well as international bodies as it covers multidisciplinary areas.  
+  Coordinate LTS implementation through the Environment Protection and Climate Change 
+Management National Council, Inter-Ministerial Climate Change Coordination Committee 
+(IMCCCC), Thematic and Cross-Cutting Working Groups, and Provincial Climate Change 
+Coordination Committees. 
+  Partner with the private sector, development partners, bilateral and multilateral agencies, 
+and international and national non-government organizations to implement LTS. 
+Stakeholder mapping: Government/Non-government  organizations,  financial  institutions, 
+women groups, youth, children, indigenous people, disabled people, LGBTQ, marginalized 
+groups, civil society organizations (CSOs), private sector, media will be major stakeholders of 
+LTS implementation.  
+GESI and Leave no One behind (LNOB): Include the principles of equity, ensuring equal 
+access to women, children, youth, indigenous people, disabled people; lesbian, gay, bisexual 
+transgender and queer (LGBTQ), and marginalized groups during participation, decision-
+making, and benefit-sharing from LTS implementation. 
+3.2.  Means of implementation 
+Capacity building: Based on the draft capacity need assessment for the NDC, capacity will 
+be built for (i) institutional capacity for governance and coordination; (ii) technical capacity, 
+including sectoral expertise; (iii) relational capacity to build partnerships and invest time in 
+processes; and (iv) strategic capacity for systemic policy design and implementation.  
+Technology transfer: To meet Nepal’s aspirations to be carbon neutral by or before 2045, 
+technology transfer will play a primary role. Moreover, easy access to technology transfer and 
+its affordability will be key incentives in the implementation of long-term strategies. Some 
+technologies will be homegrown for the energy and transport sector, agriculture, IPPU, and 
+waster sector while many will need to be imported.   
+Finance: The cost of achieving unconditional targets outlined in the NDC is estimated to be 
+USD 25 million. This estimate only covers activity-based targets and does not include the cost 
+of policies, measures, and actions. The cost of achieving the adaptation component will be 
+detailed in the upcoming NAP.   
+To achieve the conditional targets, Nepal anticipates easy access to finance from multilateral 
+climate  financing  such  as  the  Green  Climate  Fund,  Global  Environment  Facility,  and 
+Adaptation Fund, Least Developed Countries (LDC) Fund, including from bilateral/multilateral 
+agencies and development partners and the private sector. These funds will be utilized to 
+bolster limited national resources and technical capacities for scaling up climate action. 
+23 
+ OFFICIAL 
+ 
+Market mechanism: The carbon market will also play a key role for Nepal to support and 
+implement various GHG mitigation measures across the sectors. Currently given the potential 
+energy generation forecast, cross-border energy trade provides Nepal the opportunity to 
+engage  in  market  mechanisms  under  Internationally  Transferred  Mitigation  Outcomes 
+(ITMOs) as refereed on Article 6 of the PA. Similarly, engaging in the non-market mechanism 
+under Article 6.8 for potentially the AFOLU sector will also help Nepal meet carbon neutrality 
+by 2045. International public support in a form of a grant will be needed in this regard. 
+Monitoring, reporting, and verification (MRV): Nepal's LTS 2050 reflects the most recent 
+data and information, analysis, and scenario for possible future to contribute to the global 
+climate actions in achieving PA goal. As a developing country, Nepal will likely experience 
+dynamic changes due to national and global changes as well as the current COVID-19 
+pandemic. In this regard, Nepal’s LTS 2050 will be monitored, reviewed, and updated, as 
+necessary, taking into consideration national circumstances, capacity and capability, and the 
+provision under the Paris Agreement. 
+A robust MRV plan will ensure transparency, accuracy, and comparability of information with 
+regards to GHG emissions for each of the five-year periods of the NDC leading towards 2050. 
+The MRV plan, and supporting activities, will strengthen both national and sectoral data and 
+methodologies required to determine GHG emissions across the defined sectors. As MRV is 
+implemented, lessons learned should create a positive feedback loop, strengthening data 
+collection processes and enabling greater accuracy in GHG emission calculations in each 
+sector. The MRV plan for the LTS should underpin the national and sectoral GHG data quality 
+and assist in identifying downstream national and sectoral priorities and strengthen policy 
+planning and prioritization towards a low carbon future. 
+The  MRV  process  should  incorporate  assessing  existing  data,  data  needs  and  gap 
+assessment, institutional arrangement, data management along with developing standards 
+and procedures, and finally building and improving the MRV system over time (Figure 9). 
+ 
+Figure 9: Proposed MRV system for the LTS 
+ 
+24 
+ OFFICIAL 
+ 
+To monitor the national long-term strategy, a set of following indicators should be developed 
+during the monitoring stage. These indicators should be specific and elaborated in each 
+specific project. 
+  Performance indicators are directly comparable to national targets and they illustrate 
+the results of the strategy as a whole. 
+  Contextual indicators to help put the results into perspective. 
+  Indicators relating to the implementation of each cross-cutting and sectoral guidelines  
+  Indicators of the level of integration of the strategy’s guidelines into public policies. 
+  Additional environmental indicators are provided as part of the strategic environmental 
+assessment. 
+The results indicators will be updated biennially following the publication of the GHG emission 
+inventories. This biennial monitoring makes it possible to progressively assess the progress 
+of the targets.  
+ 
+3.3.  Coordination mechanism  
+ 
+For  improved  communication  and  coordination,  Nepal  will  develop  clear  lines  of 
+communication  between  different  levels  of  governance  (local,  provincial,  national,  and 
+international)  and  across  different  sectors  and  stakeholders  (Figure  10).  It  includes 
+coordination not only among the government bodies but also among different stakeholders 
+including women, indigenous peoples, youth, private sector, international actors, and CSOs.  
+ 
+ Figure 10: Framework for coordination 
+   
+25 
+ OFFICIAL 
+ 
+Chapter Four: Investment and Finance 
+According to the cost analysis, significant investment will be required to deliver in GHG 
+mitigation, net abatement costs over the implementation period. Demand-side investment, 
+transformation investment, and non-energy sector investment, such as in forestry, are all 
+included in the investment. It excludes the cost of production of green hydrogen. 
+4.1. Total yearly costs in 2030, 2040 and 2050 
+Figure 11 depicts GDP and required costs in 2000 constant US Dollar prices for all scenarios. 
+The investment required under the Reference scenario will be 2.19 percent of the national 
+GDP in 2030, 1.74 percent in 2040, and 6.42 percent in 2050. The investment required under 
+the WEM scenario is 21.39 percent of the national GDP in 2030, 8.03 percent in 2040, and 
+10.52 percent in 2050. Similarly, the annual investment requirement under the WAM scenario 
+will be 22.05 percent of national GDP in 2030, 14.07 percent in 2040, and 16 percent in 2050. 
+ 
+100 95.1
+90
+80
+70
+D 60
+S
+U 48.3
+ n 50
+o
+illiB 40
+30 24.6
+20 15.2
+10.0
+10 5.3 5.4 3.9 6.8 6.1
+0.5 0.8
+0
+2030 2040 2050
+GDP Reference WEM WAM
+ 
+Figure 11: Investment requirements for mitigation measures of Reference, WEM, and 
+WAM scenarios compared to GDP 
+4.2.  Investment costs for the power sector 
+The installed capacity of power generation would be 4 GW in 2030 and 10.1 GW in 2050 under 
+the reference scenario. In 2030, 14.9 TWh of electricity would be generated, rising to 37.7 
+TWh in 2050. Under the WEM scenario, electrification measures will result in an additional 
+power generation capacity requirement of 14.3 GW in 2030 and 35.9 GW by 2050, with a 30% 
+reserve margin, mostly through hydropower generation. In 2030, an additional 53 TWh of 
+electricity will be required, rising to 131 TWh by 2050. The required investment in the power 
+sector under the WEM scenario is estimated to be 5.18 billion USD in 2030, 3.78 billion USD 
+in 2040, and 9.85 billion USD in 2050. Similarly, the electrification measures will result in a 
+power generation capacity requirement of 15.2 GW in 2030 and 52 GW by 2050 under the 
+WAM scenario.  
+In 2030, the electricity demand will be 56.2 TWh, and in 2050, it will be 189.5 TWh. The 
+required investment in the power sector under the WAM scenario is estimated to be 5.34 billion 
+dollars in 2030, 6.69 billion dollars in 2040, and 15.05 billion dollars in 2050. The enormous 
+26 
+ OFFICIAL 
+ 
+capital requirement for electricity generation exceeds the country's capacity. In the South Asia 
+Region, unconditional capital investments for electricity production should be kept within the 
+range of 6% of GDP4. The magnitude of investment necessitates comprehensive investment 
+planning in the power sector, as well as the review and formulation of fiscal and sectoral 
+policies, rules, and regulations to attract domestic and international investment. Because 
+hydro and solar power generation is a cleaner source of energy and is frequently used to 
+replace fossil fuels, it is also necessary to investigate the possibility of generating carbon 
+revenue from downstream electrification and power trade to improve the competitiveness of 
+climate change mitigation measures. 
+Table 5: Power capacity and investment requirement under WEM and WAM 
+2030  2040  2050 
+Investment areas   WEM  WAM  WEM  WAM  WEM  WAM 
+Electricity Generation 
+(TWh)  53  56  84  104  131.8  189.5 
+Power Capacity (GW)  14.3  15.2  22.8  28.5  35.9  52 
+Investment (billion USD)  5.18  5.34  3.78  6.69  9.85  15.05 
+ 
+Nepal's hydropower development potential is estimated to be around 83,000 MW (Shrestha, 
+1966), and it can export clean power to its neighbors. Nepal could achieve net zero emissions 
+even sooner than 2045 if it receives carbon offset benefits, provided that Nepal's cross-border 
+power prices are competitive, neighboring countries purchase power from Nepal, and they 
+agree to share the carbon offset benefits with Nepal. 
+4.3.  Cost savings due to decrease in fuel imports 
+The significant reduction in imported fossil fuels such as diesel, gasoline, kerosene, aviation 
+fuel, coal, and LPG is one of the major co-benefits of implementing GHG mitigation 
+measures identified in the current study. This will eventually help to reduce the country's 
+economic vulnerability, as most of its foreign currency reserves are currently being used to 
+import these fossil fuels, widening the trade deficit. 
+100 95.1
+90
+80
+70
+D 60
+S
+U 48.3
+ n 50
+o
+illiB 40
+30 24.6
+19.0
+20
+8.0 7.9
+10 3.9 2.7 2.2 4.4 2.4
+0.3
+0
+2030 2040 2050
+GDP Reference WEM WAM
+ 
+Figure 12: Cost of imported fuels under WEM and WAM scenarios 
+                                                           
+4 World Bank policy research working paper (WB, 2015). 
+27 
+ OFFICIAL 
+ 
+Imported fossil fuel costs would be cut by 1.2 billion dollars in 2030, 3.6 billion dollars in 2040, 
+and 11.1 billion dollars in 2050 under the WEM scenario. As shown in Figure 13, this saving 
+amounts to 4.7 percent of the national GDP in 2030, 7.4 percent in 2040, and 11.6 percent in 
+2050. Similarly, the annual cost savings from imported fossil fuels under the WAM scenario 
+have been estimated at 1.7 billion USD in 2030, 5.6 billion USD in 2040, and 18.7 billion USD 
+in 2050. As shown in Figure 11, this saving amounts to 6.7 percent of the national GDP in 
+2030, 11.5 percent in 2040, and 19.6 percent in 2050. 
+25%
+19.6%
+20%
+P 15%
+D
+G 11.5% 11.6%
+ f
+o
+ % 10%
+7.4%
+6.7%
+4.7%
+5%
+0%
+2030 2040 2050
+WEM WAM
+ 
+Figure 13: Cost savings from the decrease in fossil fuel imports  
+   
+28 
+ OFFICIAL 
+ 
+4.4.  Cumulative costs over the decades 
+ 
+According to Figure 14, the total costs of the sectors considered in the Reference scenario 
+are estimated to be 4.2 billion dollars from 2021 to 2030, 7 billion dollars from 2031 to 2040, 
+and 17.5 billion dollars from 2041 to 2050. For the years 2021-2030, 2031-2040, and 2041-
+2050, this equates to 2.3 percent, 1.9 percent, and 2.4 percent of total GDP, respectively. 
+In the WEM scenario, the total costs of the sectors considered are estimated to be 42.8 billion 
+USD from 2021 to 2030, 34.4 billion USD from 2031 to 2040, and 56.2 billion USD from 2041 
+to 2050. For the years 2021-2030, 2031-2040, and 2041-2050, this equates to 23.2 percent, 
+9.5 percent, and 7.9 percent of total GDP, respectively. 
+In the WAM scenario, the total costs of the sectors considered are estimated to be 46.4 billion 
+USD from 2021 to 2030, 53.4 billion USD from 2031 to 2040, and 96.3 billion USD from 2041 
+to 2050. For the years 2021-2030, 2031-2040, and 2041-2050, this equates to 25.1 percent, 
+14.7 percent, and 13.5 percent of total GDP, respectively. 
+800
+714.6
+700
+600
+D 500
+S
+U
+ n 400 363.3
+o
+illiB 300
+184.7
+200
+96.3
+100 42.8 46.4 34.4 53.4 56.2
+4.2 7.0 17.5
+0
+2021-2030 2031-2040 2041-2050
+GDP Reference WEM WAM
+ 
+Figure 14: Cumulative costs and comparison to cumulative GDP over the decades 
+ 
+ 
+4.5.  Sourcing of Investment and Finance 
+ 
+Considerable investment and finance are required to achieve WEM and WAM scenarios. For 
+finance deployed from international sources, the strategy will be to pursue bilateral and 
+multilateral funding sources while utilizing a diverse set of international financing instruments 
+such as grants, private sector investments, soft loans, bonds, etc. supported by the necessary 
+public institutions and mechanisms such as fast-track climate change investment boards and 
+foreign currency hedging funds. These will require further strengthening of climate and 
+financial risk analysis tools such as the development of climate impact forecasting tools as 
+well as international credit ratings of public institutions. Further, the development of climate 
+change-based projects could be supported by income from the sale of carbon credits being 
+discussed  under  Article  6  of  the  Paris  Agreement,  depending  on  the  outcome  of  the 
+negotiations. 
+29 
+ OFFICIAL 
+ 
+Apart from international funding, it is important to have a sustainable funding mechanism 
+through domestic sources. In addition to the public sector, the domestic private sector along 
+with the commercial banking sector will play a major role in mobilizing a large amount of 
+investments. Incentivizing the private sector has multiple benefits from the perspective of the 
+public sector such as sharing of large upfront capital costs required for the financing of climate 
+change projects, smooth operation of projects by private sector companies over the long 
+operation phase of projects, retention of technical knowledge in the market, and sharing of 
+financial liabilities and various risks. Some projects can also be developed under a Public-
+Private-Partnership (PPP) model to ensure investments and best practices from both the 
+public and private sectors.  Thus, the private sector and the commercial banking sector will be 
+engaged as the major stakeholders to achieve net-zero emissions. 
+Adequate measures will be undertaken to ensure incentives for the adoption of climate-friendly 
+technologies for the end-user, and promotion of these technologies by investors. The custom 
+duties and taxes by the government levied on climate change-related projects and high debt 
+interest rates levied by local commercial banks are major barriers to domestic investment. 
+Thus, adequate measures will be undertaken to verify projects related to climate change and 
+ensure adequate incentives such as a decrease in the duties and taxes, service-based 
+subsidies or government rebates on sales, and public financing of a substantial portion of 
+interest rates from commercial banks. Similarly, deterrents such as taxes and fines on the use 
+of fossil fuels and fossil-fuel-based technologies will be strengthened further, and the income 
+from such deterrents will be invested into climate change projects at the national level. The 
+strategy  will  be  to  push  the  climate  change  projects  towards  financial  viability  through 
+adequate  market-based  incentives  and  deterrents  to  ensure  the  sustainability  of  these 
+projects. 
+These measures to  increase  domestic  investment  in  the  climate  change  sector  will  be 
+strengthened through the enactment of necessary Acts and Regulations such that they can 
+be institutionalized over the long run to adequately signal private sector investors and ensure 
+the safeguarding of investments. As climate change projects are multi-disciplinary, adequate 
+measures will be taken to increase awareness and sensitize government institutions at the 
+federal, provincial, and local levels towards the urgent nature of implementing climate change-
+based projects. The scale of investment required for climate change projects is immediate and 
+large, thus adequate institutional measures will be undertaken to ensure fast-tracking of both 
+domestic and international climate change-based investments, with a supporting framework 
+for categorization, tracking, monitoring, reporting, verification, and evaluation promptly. By 
+following the aforementioned international and domestic financing strategy, Nepal will aim to 
+achieve net-zero emissions resulting in maximum net socio-economic benefits while ensuring 
+financial feasibility and environmental sustainability.   
+30 
+ OFFICIAL 
+ 
+Annex 1: Co2 Emissions data under various scenarios  
+ 
+Million metric tons co2 emissions 
+ Scenarios    
+WAM                            
+   2019  2020  2025  2030  2035  2040  2045  2050 
+Energy  12.5  12.4  12.0  11.0  10.2  9.1  6.5  1.7 
+Agriculture  0.2  0.2  0.2  0.2  0.2  0.2  0.2  0.2 
+LULUCF  8.4  -27.2  -22.6  -19.9  -12.1  -11.2  -10.0  -9.2 
+IPPU  1.9  1.8  2.3  2.9  3.7  3.5  2.8  1.6 
+Waste  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00 
+Net 
+Emission   23.0  -12.9  -8.2  -5.8  2.1  1.6  -0.4  -5.7 
+WEM                            
+     2019  2020  2025  2030  2035  2040  2045  2050 
+  Energy  12.4  12.5  12.9  12.9  14.3  16.5  19.2  22.3 
+ 
+Agriculture  0.2  0.2  0.2  0.2  0.2  0.2  0.2  0.2 
+ 
+LULUCF  8.3  -22.3  -13.6  -12.1  -3.6  -2.7  -1.5  -0.7 
+ 
+  IPPU  1.9  1.8  2.3  2.9  3.7  4.8  6.1  7.7 
+  Waste  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0 
+  Net 
+   Emission   23  -7.8  1.7  3.9  14.6  18.8  24.0  29.5 
+REF                            
+   2019  2020  2025  2030  2035  2040  2045  2050 
+Energy  12.5  12.5  15.2  19.6  25.1  32.2  41.4  53.8 
+Agriculture  0.2  0.2  0.2  0.2  0.2  0.2  0.2  0.2 
+LULUCF  8.4  8.7  9.3  11.1  12.7  14.1  15.5  16.9 
+IPPU  1.9  1.8  2.3  2.9  3.7  4.8  6.1  7.7 
+Waste  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.00 
+Net 
+Emission   23  23  27  34  42  51  63  79 
+ 
+ 
+31 
+ 

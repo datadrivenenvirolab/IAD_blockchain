@@ -1,0 +1,1088 @@
+REIMPRESIÓN 2021
+MINISTERIO DE AMBIENTE Y RECURSOS NATURALES
+www.marn.gob.gtREIMPRESIÓN 2021Pág
+ 
+ESTRATEGIA 4 Cartas de presentación
+ 
+ DE
+NACIONAL
+13 1.  Resumen Ejecutivo
+ CON  
+DESARROLLO
+14 2.  Introducción 
+BAJAS EMISIONES  
+17 3.  El Proceso
+DE GASES DE EFECTO
+   
+INVERNADERO 20 4.  Línea Base
+ 
+22 5.  Resumen Sectorial
+22   1.  Sector Energía:  Generación y consumo
+29   2.  Sector Transporte y Urbanismo
+34   3.  Sector Industria
+40   4.  Sector Agricultura y Ganadería
+45   5.  Sector Bosques y otros usos de la tierra
+50   6.  Desechos sólidos y líquidos
+   
+55 6.  Integración de Opciones de Política
+ 
+56 7.  Impacto de la Estrategia
+ 
+57 8.  Ruta a Seguir
+ 
+62 9.  Anexos
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 34 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero(Transcripción)
+Prólogo
+Guatemala es un país consicente de la importancia de la acción cli- mo; y, Desechos, determinádose una línea base de emisiones GEI y, 
+mática; por ello, en el Ministerio de Ambiente y Recursos Natura- la preparación de opciones de mitigación, con su respectivo análi-
+les (MARN) nos hemos comprometido a velar por la protección del  sis micro y macroeconómico; y la estimación de costos. También se 
+medio ambiente, la gestión sostenible de los recursos naturales y la  realizaron talleres participativos, distribuyendo el trabajo en ocho 
+lucha contra los efectos adversos del cambio climático, esto como eje  mesas sectoriales con más de 200 participantes provenientes del sec-
+prioritario de la Política de Gobierno y con el fin de enfocar nuestros  tor público, sector privado, sociedad civil, cooperación internacional 
+esfuerzos a nivel nacional y cumplir con los compromisos internacio- y academia con el acompañamiento y validación del proceso por 
+nales.  parte del MARN, con el apoyo de la cooperación técnica de la Agen-
+cia de Estados Unidos de América para el Desarrollo Internacional 
+Guatemala es un país multiétnico, pluricultural, multilingüe y megadi- (USAID), mediante el proyecto LEDS Guatemala. 
+verso, con una gran variedad de especies endémicas y servicios eco-
+sistémicos diversos; es uno de los países más vulnerables a los efectos  La ENDBE es una guía de lineamientos técnicos, económicos y con 
+del cambio climático a nivel mundial; su contribución en cuanto a las  potencial para la reducción de emisiones de GEI y los costos asocia-
+emisiones mundiales de gases invernadero -GEI-, es mínima; sin em- dos de estos sectores priorizados, contribuyendo de esta manera, 
+bargo, se adhiere a los esfuerzos globales para contribuir a alcanzar  a la lucha contra los efectos de cambio climático, además de hacer 
+la meta establecida de limitar el incremento de la temperatura del  más competitivos y eficientes los sistemas productivos del país. 
+planeta por debajo de los 2 grados centigrados (Celsius) con rela-
+ción a la etapa preindustrial, comprometiéndose ante la Convención  La ENDBE constituye una ruta clara para impulsar el crecimiento eco-
+Marco de las Naciones Unidas sobre el Cambio Climático, a reafir- nómico con bajas emisiones, con una proyección hacia un desarrollo 
+mar la meta asumida en el Acuerdo de París.  más limpio, más incluyente y más resilente ante los efectos del cam-
+bio climático, que permitirá al país, alcanzar el cumplimiento de los 
+Considerando estos compromisos, Guatemala formuló la Estrategia  marcos legales nacionales y cormpomisos internacionales, como la 
+Nacional de Desarrollo con Bajas Emisiones -ENDBE-(LEDS, por sus  Ley Marco de Cambio Climático, el Plan de Desarrollo Katún Nues-
+siglas en inglés), como un instrumento de planificación para las ac- tra Guatemala 2032, el Acuerdo de París, la Contribución Nacio-
+ciones climática fundamental en el logro de las metas de reducción  nalmente Determinada; y, el Plan de Acción Nacional de Cambio 
+de emisiones del GEI. Durante el proceso de formulación de la EN- Climático. 
+DBE, con duración de cinco años (2014-2018), a través de las fases 
+de diganóstico e identificación de actores de todos los sectores del 
+país, se identificaron 43 opciones de mitigación para la reducción de 
+emisiones de GEI, establecidos en ocho sectores priorizados.  Lic. Mario Roberto Rojas Espino
+Ministro
+Los sectores priorizados son: Agricultura; Ganadería; Bosque; Uso  Ministerio de Ambiente y Recursos Naturales
+y Cambio de Uso del Suelo; Energía; Transporte; Industria; Urbanis-
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 56 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero(Transcripción)
+Ministerio de Ambiente y Recursos naturales Guatemala, C.A.
+El Gobierno de Guatemala ha suscrito y ratificado diversos convenios  Como complemento a este esfuerzo y con el objeto de cumplir con los 
+en materia de ambiente y cambio climático, entre los cuales desta- compromisos del Acuerdo de Paris, el MARN ha liderado y apoyado 
+can la Convención Marco de las Naciones Unidas Sobre el Cambio  activamente en el proceso de formulación de la Estrategia de Desa-
+Climático (CMNUCC), el Protocolo de Kyoto y el Acuerdo de Paris.  rrollo con Bajas Emisiones para Guatemala. Esta Estrategia, se cons-
+A través de dichos convenios el país promueve la implementación de  tituye en un instrumento de planificación coherente con las políticas 
+acciones de adaptación y mitigación del cambio climático a través  públicas del país y que articula la implementación de instrumentos 
+de las contribuciones determinadas a nivel nacional bajo el principio  para el logro de los siguientes resultados: a) un crecimiento económi-
+de responsabilidades comunes pero diferenciadas y de acuerdo con  co bajo en emisiones, b) mejora de la gestión ambiental, c) aumento 
+sus actuales capacidades. de la competitividad, d) cumplimiento de los objetivos de desarrollo 
+sostenible, e) reducción de la vulnerabilidad y f) aumento de la capa-
+Bajo este principio, Guatemala presentó ante la convención Marco  cidad de resiliencia y adaptación al cambio climático. 
+de las Naciones Unidas sobre el Cambio Climático, su propuesta de 
+Contribución Determinada a Nivel Nacional1 (NDC, por sus siglas  El MARN agradece a todas las contrapartes que participaron en el 
+en inglés), en la cual el país planifica lograr con sus propios recursos  proceso de formulación de la Estrategia de Desarrollo con Bajas Emi-
+al 2030 una reducción del 11% en sus emisiones de gases de efecto  siones a lo largo de dos años, asegurando que el proceso se llevara 
+invernadero (GEI) respecto a su tendencia de emisiones basada en  a cabo de manera abierta y participativa, reflejando las prioridades 
+un crecimiento constante entre los años 1990 a 2005. Este esfuerzo  de desarrollo del país y apoyando el cumplimiento de los objetivos 
+implica una reducción de hasta 6 millones de toneladas de dióxido  particulares de cada sector presente.
+de carbono (CO ) equivalente anuales para el 2030. 
+2
+En ese sentido, se alienta a todos los sectores de la sociedad gua-
+En el marco de estos compromisos, el Ministerio de Ambiente y Re- temalteca para implementar las opciones de mitigación descritas en 
+cursos Naturales -MARN- desde su creación ha promovido políticas  esta estrategia para el mejoramiento de los procesos productivos, 
+e instrumentos para la adaptación y mitigación del cambio climático  la competitividad y para el logro del desarrollo sostenible bajo en 
+a nivel nacional, entre estos esfuerzos destaca la creación de la Po- emisiones del país.
+lítica Nacional de Cambio Climático, la Ley de Cambio Climático2 y 
+el Plan de Acción Nacional de Adaptación y Mitigación al Cambio 
+Climático. Adicionalmente, ha impulsado la implementación de otras 
+políticas e instrumentos relacionadas con la gestión ambiental y el  Ing. Agr. Carlos  Walberto Ramos Salguero
+manejo integral de los recursos naturales cuyos impactos ayudarán a  Vice Ministro de Recursos Naturales y Cambio Climático
+mejorar los esfuerzos que el país actualmente promueve para adap- Ministerio de Ambiente y Recursos Naturales
+tarse y mitigar el cambio climático.
+1 Intended Nationally Determined Contributions (INDC)
+2 Ley marco para regular la reducción de la vulnerabilidad, la adaptación obligatoria ante los efectos del cambio climático y la mitigación de gases de efecto invernadero.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 78 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero(Transcripción)
+Ministerio de Economía Guatemala, C.A.
+Estimados guatemaltecos, Por lo anteriormente expuesto, el Ministerio de Economía se suma al 
+esfuerzo que realiza el Ministerio de Ambiente y  Recursos Naturales, 
+En el marco de la política económica 2016-2021, Guatemala debe  así como la Secretaría de Planificación y Programación de la Presi-
+atender los desafíos que le permitan un crecimiento económico inclu- dencia, que bajo una perspectiva local e internacional, presentamos la 
+yente y sostenible, aprovechando las oportunidades que se presentan  Estrategia de Desarrollo con Bajas Emisiones para Gua-
+en un mundo cada vez más globalizado y tecnificado.   temala, desarrollado con el apoyo de la Agencia de los Estados 
+  Unidos para el Desarrollo Internacional (USAID), que representa una 
+Es en este contexto en donde Guatemala ha desarrollado políticas y  oportunidad para mejorar la competitividad, identificando con la par-
+estrategias para promover la productividad y competitividad en un  ticipación de diferentes actores de la sociedad guatemalteca, aquellas 
+mercado global, entre las que cabe mencionar la Política Nacional  actividades económicas que generan mayores emisiones de gases de 
+de Competitividad 2018-2032, como un esfuerzo concertado entre  efecto invernadero a fin de determinar y priorizar opciones de miti-
+el sector productivo, el sector público, la academia y la sociedad ci- gación de acuerdo con el nivel de impacto en la reducción de dichas 
+vil,  que busca contribuir a mejorar la calidad de vida, a aumentar la  emisiones, coadyuvando así, no solo en términos económicos, sino en 
+calificación del capital humano, y a generar mayores oportunidades  la protección del ambiente y los recursos naturales de nuestro planeta.
+de desarrollo para todos los guatemaltecos.
+Aprovecho la oportunidad para invitar a todos los sectores a que 
+Aunado a lo anterior, el Ministerio de Economía también está im- nos unamos en estos esfuerzos, que tienen un objetivo común, que 
+pulsando la Política Nacional de la Calidad, que tiene por objetivo  Guatemala sea un mejor país.
+mejorar las condiciones del comercio nacional e internacional, coad-
+yuvando a la competitividad de las empresas y a la protección de los  Atentamente, 
+consumidores, a través de herramientas y mecanismos en materia de 
+normalización, acreditación, metrología, reglamentación técnica y 
+procedimientos de evaluación de la conformidad. José Ramón Lam Ortiz
+Vice Ministro Inversión y Competencia
+Ministerio de Economía
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 9Siglas y Acrónimos
+BID GEI PANCC
+Banco Interamericano de Desarrollo Gases de efecto invernadero Plan de Acción Nacional de Adaptación y 
+Mitigación al Cambio Climático
+CMNUCC LED
+Convención Marco de las Naciones Diodo emisor de luz PIB
+Unidas sobre el Cambio Climático Producto Interno Bruto
+MAGA
+CH4 Ministerio de Agricultura, Ganadería  PNUD
+Metano y Alimentación Programa de las Naciones Unidas para el 
+Desarrollo
+CO MARN
+2
+Dióxido de carbono Ministerio de Ambiente y Recursos Naturales PRONACOM 
+Programa Nacional de Competitividad
+CO e MEM
+2
+Dióxido de carbono equivalente Ministerio de Energía y Minas SEGEPLAN
+Secretaría de Planificación y
+CNCC MICIVI Programación de la Presidencia
+Consejo Nacional de Cambio Climático Ministerio de Comunicaciones, 
+Infraestructura y Vivienda TGCO2e, 
+CONAP Teragramos de dióxido de carbono equivalente
+Consejo Nacional de Áreas Protegidas MINECO
+Ministerio de Economía USAID
+INAB Agencia de los Estados Unidos para el
+Instituto Nacional de Bosques MINFIN Desarrollo Internacional
+Ministerio de Finanzas
+INB
+producto interno bruto N O
+2
+Óxido nitroso
+INDC
+Contribuciones Previstas y Determinadas
+a Nivel Nacional
+10 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero12 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoEmisiones se construyera sobre los marcos políticos existentes y de 
+1.  
+Resumen Ejecutivo acuerdo a las prioridades de desarrollo de los distintos sectores eco-
+nómicos. La participación activa de representantes públicos y priva-
+La Estrategia de Desarrollo con Bajos Emisiones para Guatemala se  dos de cada sector se convirtió en la fortaleza principal del proceso 
+formuló con el liderazgo del Gobierno de Guatemala y la partici- de formulación de la Estrategia, al permitir que las iniciativas existen-
+pación y articulación efectiva de representantes del sector público,  tes del país sirvieran como punto de partida y que las experiencias 
+sector privado, sociedad civil, academia, organizaciones indígenas,  propias fortalecieran las propuestas de acciones complementarias a 
+cooperativas y grupos organizados. Durante dos años de planifica- las ya encaminadas.
+ción, diálogo y consenso multisectorial en temas de energía, agricul-
+tura y ganadería, transporte, desarrollo urbano, desechos, industria  Con siete mesas de trabajo, una por cada sector económico y una 
+y bosques, el país estableció la ruta conjunta orientada a mejorar la  adicional para temas de desarrollo urbano, el proceso de planifica-
+calidad de vida de la población, promoviendo el crecimiento econó- ción empezó con el análisis de la línea base del país en su crecimien-
+mico, el desarrollo social y la responsabilidad ambiental con bajas  to económico y sus emisiones asociadas de GEI al año 2050. Sobre 
+emisiones de gases de efecto invernadero (GEI). este escenario, cada sector realizó un proceso de selección de las ac-
+ciones, medidas, políticas e iniciativas que fortalecerían el crecimien-
+La Estrategia, en el marco de la planificación nacional, impulsa la  to económico a largo plazo, pero de tal manera que se reduzcan las 
+construcción de herramientas de aplicación individual, sectorial y na- emisiones de GEI. A estas acciones y medidas, 43 en total a través 
+cional, orientadas al desarrollo con bajas emisiones, que fortalecen  de los seis sectores y desarrollo urbano, se les denomina opciones de 
+la economía, mejoran la eficiencia y aumentan la rentabilidad de la  mitigación en este documento y representan las iniciativas sectoriales 
+producción a pequeña, mediana y gran escala, además de facilitar  que, en su conjunto, conforman la Estrategia de Desarrollo con Bajas 
+el acceso a mercados internacionales y nuevas fuentes y mecanismos  Emisiones para Guatemala.
+de financiamiento. Con ello, contribuye de forma directa a la miti-
+gación del cambio climático y el cumplimiento con los compromisos  Este documento resume la Estrategia de Desarrollo con Bajas Emisio-
+del país adquiridos ante la Convención Marco de Naciones Unidas  nes y de sus componentes, incluyendo la línea base de emisiones de 
+sobre el Cambio Climático (CMNUCC), en donde Guatemala esta- GEI y proyección al año 2050, las líneas base sectoriales, las  opcio-
+blece la meta de reducir sus emisiones de GEI en un 11% para el año  nes de mitigación por sector y los resultados de los análisis econó-
+2030 con recursos propios y un 11% adicional con asistencia de la  micos realizados sobre las 43 opciones–un componente importante 
+cooperación internacional. de la Estrategia que proporciona información sobre cuánto reduce 
+cada opción en emisiones de GEI, cuáles son los costos y ahorros 
+Con el liderazgo del Ministerio de Ambiente y Recursos Naturales  monetarios relacionados a su implementación y de qué manera cada 
+(MARN), el Ministerio de Economía (MINECO) y la Secretaría de Pla- opción afecta la economía de Guatemala en cuanto a la generación 
+nificación y Programación de la Presidencia (SEGEPLAN), en coor- de empleo, cadenas de suministro locales y otras variables. 
+dinación con el Ministerio de Energía y Minas (MEM), el Ministerio 
+de Agricultura, Ganadería y Alimentación (MAGA), el Ministerio  Las opciones de mitigación se complementan entre sectores. Por 
+de Comunicaciones, Infraestructura y Vivienda (MICIVI), el Consejo  ejemplo, acciones propuestas en el sector energético para reducir 
+Nacional de Áreas Protegidas (CONAP) y el Instituto Nacional de  el consumo de leña y dentro del sector agrícola con sistemas agro-
+Bosques (INAB), se aseguró que la Estrategia de Desarrollo con Bajas  forestales tienen un fuerte vínculo a los objetivos del país en temas 
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 13forestales. Los resultados de los análisis aquí resumidos ya toman en  lación de la Estrategia de Desarrollo con Bajas Emisiones inicia en 
+cuenta cualquier traslape dentro y entre sectores, y eliminan la do- julio de 2016, y busca responder a este marco legal y fortalecer a 
+ble contabilidad tanto de emisiones como de flujos económicos. Los  las iniciativas encaminadas, para que las acciones planteadas en la 
+diseños completos de cada una de las 43 opciones de mitigación se  estrategia avancen de manera coordinada en cumplimiento de los 
+presentan dentro del documento técnico de la Estrategia, en donde se  objetivos ambientales, económicos y sociales del país. En muchos ca-
+describe en mayor detalle los co-beneficios de cada iniciativa, inclu- sos, la estrategia de desarrollo con bajas emisiones aquí presentada 
+yendo en relación a la adaptación al cambio climático y la reducción  brinda mayores insumos para los esfuerzos existentes, por medio de 
+de la vulnerabilidad. los análisis micro y macroeconómicos que se realizan y con una eva-
+luación de su potencial de reducción de emisiones de gases de efecto 
+El Gobierno de Guatemala agradece el tiempo, esfuerzo y colabora- invernadero. En este sentido, la planificación nacional se beneficia 
+ción de todos los participantes de los distintos sectores en el proceso  con mayor respaldo técnico para la toma de decisiones en el marco 
+de formulación de la Estrategia de Desarrollo con Bajas Emisiones  del desarrollo del país.
+que, con una visión conjunta, apoyaron a construir una ruta para 
+una Guatemala más competitiva, eficiente y próspera. El desarrollo con bajas emisiones refleja un modelo socioeconómico 
+en donde las actividades económicas se hacen más eficientes, dina-
+mizando la economía del país. El modelo propuesto para Guatemala 
+tiene la característica de reducir las emisiones de GEI generadas por 
+2.  
+Introducción distintas actividades, representando un aporte importante a la miti-
+gación del cambio climático. El objetivo principal de una estrategia 
+En el año 2015, Guatemala presenta ante la Convención Marco  de desarrollo con bajas emisiones es desacoplar el crecimiento eco-
+de las Naciones Unidas sobre el Cambio Climático (CMNUCC), la  nómico del crecimiento de las emisiones de GEI, como se ilustra en 
+propuesta de Contribución Prevista y Determinada a Nivel Nacional  la Figura 1.
+(INDC por sus siglas en inglés), en la cual el país proyecta reducir 
+con sus propios medios en 11% sus emisiones totales al año 2030,  El marco legal y de planificación para la Estrategia de Desarrollo con 
+y de contar con apoyo de la comunidad internacional, lograr una  Bajas Emisiones para Guatemala parte del Plan Nacional de Desa-
+reducción de un 22% respecto a su tendencia de emisiones basada  rrollo: K’atun Nuestra Guatemala 2032, el cual establece la visión 
+en un crecimiento constante entre los años de 1990 a 2005. Con  de desarrollo bajo cinco ejes prioritarios, incluyendo acciones en la 
+la firma y ratificación del Acuerdo de París por parte del Estado de  gestión ambiental y en temas de cambio climático para promover el 
+Guatemala, mediante el decreto 48-2016, esta contribución pasa a  crecimiento económico sostenible. En el 2013, el Congreso decreta 
+ser un compromiso del país ante la comunidad internacional en los  la Ley de Cambio Climático, la cual establece un marco institucional 
+esfuerzos mundiales para mitigar el cambio climático y combatir sus  entre el gobierno, el sector privado, la academia y la sociedad civil 
+impactos negativos. para adoptar prácticas que propicien condiciones para reducir la 
+vulnerabilidad y permitan desarrollar propuestas de mitigación. Tam-
+Guatemala no empieza de cero para cumplir con este compromiso,  bién estipula una planificación sectorial por medio de instrumentos 
+debido a un marco político-legal existente y muchas iniciativas ya  de política como el Plan de Acción Nacional de Cambio Climático 
+encaminadas en el tema de cambio climático. El proceso de formu- (PANCC) y el Plan Nacional de Energía.
+14 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 1  Desacople del crecimiento económico de las emisiones de GEI.
+Una estrategia de desarrollo con bajas emisiones es una oportunidad para contribuir al desarrollo, respondiendo a las necesidades y circunstancias del país, en un 
+entorno ambiental y climáticamente amigable.
+La Estrategia de Desarrollo con Bajas Emisiones, responde no solo 
+a este marco político-legal, amplio en materia de cambio climático;  Guatemala es un país altamente vulnerable a los efectos 
+también complementa los marcos de planificación de los seis secto- del cambio climático, por lo que las opciones de mitiga-
+res principales que se abarcan en ella (Figura 2). Este documento  ción priorizadas responden también a los grandes ejes de 
+presenta una descripción del proceso de formulación de dicha es- adaptación planteados en el Plan de Acción Nacional de 
+trategia, construida a partir de la identificación y priorización de 
+Adaptación y Mitigación al Cambio Climático. Las op-
+opciones de mitigación a nivel sectorial, y el análisis de impactos 
+ciones de mitigación permitirán abordar metas de adap-
+económicos y en materia de reducción de emisiones de GEI, que 
+tación en zonas marino-costeras, seguridad alimentaria, 
+favorecerán la toma de decisiones en base a información analizada, 
+agricultura, recursos forestales y gestión de recursos hídri-
+discutida y consensuada participativamente y a nivel multisectorial.
+cos, reduciendo la vulnerabilidad del país y fortaleciendo 
+la resiliencia de una economía baja en emisiones de GEI.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 15Figura 2  Marco político-legal para la Estrategia de Desarrollo con Bajas Emisiones
+El presente documento constituye una 
+herramienta de divulgación sobre el 
+proceso y sus resultados, en comple-
+mento al documento técnico más de-
+tallado de la Estrategia de Desarro-
+llo con Bajas Emisiones que contiene 
+mayor información sobre  las líneas 
+base de cada sector y sus fuentes de 
+información, los diseños de opciones 
+de mitigación, la cuantificación de 
+beneficios directos y la descripción 
+de co-beneficios en temas sociales, 
+económicos y ambientales, como la 
+adaptación al cambio climático y la 
+reducción de la vulnerabilidad.
+16 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 3
+3.  
+Proceso de formulación de la Estrategia de Desarrollo con Bajas Emisiones El Proceso
+El proceso de formulación de la Estrategia de Desarrollo con Ba-
+jas Emisiones para Guatemala es un ejercicio de planificación con 
+visión a largo plazo (20-30 años), elaborado a nivel nacional por 
+actores locales. A través de este proceso se establece la ruta para 
+alcanzar los objetivos y metas de desarrollo planteados por cada 
+sector, priorizando acciones de mitigación enfocadas a fomentar la 
+inversión, reducir costos de operación, crear nuevos empleos, gene-
+rar ingresos y, sobre todo, establecer una economía preparada para 
+hacer frente al cambio climático.
+El proceso de formulación de la Estrategia parte del liderazgo y di-
+rección del Ministerio de Ambiente y Recursos Naturales (MARN), el 
+Ministerio de Economía (MINECO) y la Secretaría de Planificación y 
+Programación de la Presidencia (SEGEPLAN). El MARN y la SEGE-
+PLAN como secretaría del Consejo Nacional de Cambio Climático, 
+son los encargados del seguimiento de los planes y programas de 
+acción en mitigación y adaptación al cambio climático, y el MINE-
+CO como ente rector en materia económica, impulsa los cambios 
+en los sistemas de producción y tecnologías, incluyendo mercados y 
+negocios verdes compatibles con el ambiente y con las políticas de 
+cambio climático.  
+Para la construcción de esta Estrategia, se establecieron seis grupos 
+de trabajo de acuerdo con las actividades económicas que generan 
+emisiones de GEI siendo estos:
+1.  Sector Energía: Generación y consumo
+2.  Sector Transporte
+3.  Sector Industria
+5.  Sector Agricultura y Ganadería 
+4.  Sector Bosques y Otros Usos de la Tierra
+6.  Sector Desechos sólidos y líquidos
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 17Cada grupo de trabajo fue liderado por las instancias de gobierno  El tema de desarrollo urbano es importante en Guatemala por el cre-
+que regulan las actividades en el sector, por lo que se contó con la  cimiento de las áreas urbanas del país y la oportunidad de fortalecer 
+participación del Ministerio de Energía y Minas (MEM), Ministerio  la planificación transversal en este contexto. Las opciones, acciones e 
+de Comunicaciones, Infraestructura y Vivienda (MICIVI), Ministerio  iniciativas priorizadas para el desarrollo urbano se incluyen dentro de 
+de Agricultura, Ganadería y Alimentación (MAGA), Instituto Nacio- los resultados sectoriales de acuerdo con la temática correspondiente.
+nal de Bosques (INAB) y el Consejo Nacional de Áreas Protegidas 
+(CONAP), además de la participación activa e incluyente del sector 
+privado, gremiales, cámaras y asociaciones de productores y pro- Figura 4
+ductoras agropecuarias, academia, Gobiernos locales, organizacio- Objetivos de las seis sesiones de trabajo para cada sector
+nes campesinas y Pueblos Indígenas.  
+Sesión Objetivo
+Bajo la premisa de los principios aplicados al proceso: transpa-
+rencia, inclusión, consenso, democracia y participación, 
+1 •  Conformación de grupos de trabajo.
+se realizaron seis sesiones de trabajo para cada grupo sectorial, 
+•  Introducción al proceso, metodología y 
+siguiendo una metodología que estableció objetivos claros y metas a 
+  resultados esperados.
+alcanzar en cada sesión.
+•  Revisión de línea base preliminar (inventario y    
+  proyecciones de emisiones).
+Los grupos de trabajo establecieron la línea base de emisiones de 
+GEI de su sector a través de un ejercicio participativo de retroali- •  Elaboración de la visión del sector.
+mentación y ajuste, que permitió elaborar proyecciones y delinear 
+2 •  Análisis del catálogo preliminar de las opciones
+escenarios. A partir de esta línea base se definieron las metas, op-
+  de mitigación.
+ciones, estrategias y acciones para promover el desarrollo sectorial 
+•  Análisis y validación de la matriz de criterios de 
+y reducir las emisiones de GEI. Después de cada sesión, los parti-
+  selección y priorización de las opciones de mitigación.
+cipantes tuvieron un periodo de retroalimentación para enviar sus 
+aportes a la información presentada durante la sesión. Además de 
+3 •  Presentación y revisión del listado de las opciones 
+los mecanismos de consulta establecidos dentro de la metodología de 
+  de mitigación priorizados por el sector.
+los grupos de trabajo, se abrieron espacios de retroalimentación con 
+•  Revisión del índice de contenidos para el diseño de  
+contrapartes y grupos interesados en los distintos temas, asegurando 
+  las opciones de mitigación.
+que las consideraciones de estos actores se tomaran en cuenta dentro 
+de las opciones de mitigación. 
+4 •  Revisión y validación de las opciones de mitigación    
+  diseñadas.
+Se incluyeron sesiones intermedias, reuniones técnicas sectoriales y 
+consultas públicas regionales coordinadas con mesas departamenta- 5 •  Revisión y validación del análisis microeconómico de 
+les de cambio climático, y delegaciones regionales de las institucio-   cada opción de mitigación priorizada.
+nes participantes. El proceso incluyó también un grupo de trabajo en 
+donde se analizaron temas transversales de energía, uso de tierra y  6 •  Revisión y validación del análisis macroeconómico.
+transporte en un contexto de desarrollo urbano.  
+18 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 5 Modelo de participación del proceso
+Como resultado del proceso de formulación de la Estrategia se genera- -  43 opciones de mitigación diseñadas, en donde se presentan ob-
+ron distintas herramientas valiosas para la planificación e implementa- jetivos, metas, y articulación con políticas y programas existentes.
+ción de acciones que promuevan un desarrollo económico más limpio 
+y resiliente ante el cambio climático. Para algunas de las opciones  -  Análisis económicos de las 43 opciones de mitigación, en donde 
+propuestas se realizó un análisis de género e inclusión social, para ga- se evalúa el costo de implementación de cada opción, el poten-
+rantizar que las propuestas presentadas sean de beneficio para toda  cial de reducción de GEI y el impacto esperado sobre la econo-
+la población. mía guatemalteca.
+-  Línea base de emisiones de GEI, para los sectores energía, trans- -  Estrategia de Desarrollo con Bajas Emisiones, que integra las 
+porte, industria, agricultura y ganadería, bosques y otros usos  opciones de mitigación sectoriales e intersectoriales.
+de la tierra, y desechos sólidos y líquidos.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 19con Bajas Emisiones, en complemento de otros estudios, análisis y eva-
+4.  
+Linea base luaciones utilizadas para la planificación sectorial y nacional.
+ 
+Durante la fase inicial del proceso se construyó la línea base de emi- El Instituto Nacional de Estadística proyecta que para el año 2050 la 
+siones de GEI para el país, de acuerdo a los sectores establecidos en  población de Guatemala será de casi 28 millones de habitantes; esta 
+el inventario nacional de emisiones. Esta línea base fue desarrolla- es una variable importante para proyectar las emisiones de GEI, pues 
+da utilizando la metodología de estimación de GEI planteada por el  es un impulsor en los usos energéticos y de recursos. De acuerdo con 
+Panel Intergubernamental de Expertos sobre Cambio Climático (IPCC  información del Banco de Guatemala, la tasa de crecimiento del PIB de 
+por sus siglas en inglés), utilizando la información disponible a nivel  Guatemala se ha promediado en aproximadamente 3.7% desde me-
+local y fuentes secundarias para complementar vacíos de información.  diados de los 2000 y se espera que continúe aumentando. Se proyecta 
+Asimismo, se realizó una proyección al año 2050 con los patrones  que el PIB y el ingreso nacional bruto (INB) incrementen continuamente 
+actuales de comportamiento y acciones ya planificadas sin hacer nin- hasta 2050. 
+guna modificación, comúnmente conocido como “business as usual” 
+(BAU). Se consideraron factores como el crecimiento poblacional y el  Según los datos utilizados, se estima que actualmente por cada habi-
+crecimiento del Producto Interno Bruto (PIB) como impulsores clave de  tante, el país emite 6 toneladas CO e y se espera que, bajo las condi-
+2
+las emisiones; se utilizaron también los planes existentes en actividades  ciones actuales, se incremente a 8 toneladas CO e por habitante para 
+2
+que generan emisiones, o tendencias históricas de las actividades. Esta  el año 2050. La línea base muestra que el sector Bosques y Otros Usos 
+línea base y proyección al año 2050 es una modelación que ofrece  de la Tierra es el que más emisiones genera en el país, especialmente, 
+un punto de partida para la formulación de la Estrategia de Desarrollo  por la deforestación y cambio de uso de la tierra (Figura 6).
+Figura 6 Línea base multisectorial de emisiones de GEI, 1990 al 2050
+20 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoLas emisiones en el sector Bosques y Otros Usos de la Tierra 
+provienen principalmente de las pérdidas de bosques natura-
+les y expansiones de pastizales, plantaciones, cultivos perma-
+nentes y anuales, así como la transición de bosques a bosques 
+degradados. En el período 1990-2010 se observaron cam-
+bios drásticos en este sector; para el año 2050 se proyec-
+ta una pérdida del 40% de la cobertura boscosa remanente, 
+mientras que se incrementan las tierras para cultivos anuales, 
+zonas con árboles dispersos y territorios urbanizados. La pér-
+dida de bosques no solamente implica un incremento en emi-
+siones por la liberación del carbono almacenado en árboles y 
+otra biomasa, también representa que se pierde la capacidad 
+de capturar el carbono de la atmósfera.
+El uso de combustibles también es fundamental para proyectar 
+el comportamiento de las emisiones de GEI. En Guatemala 
+hay una alta dependencia de combustibles líquidos importa-
+dos, utilizados principalmente para el transporte, el uso ex-
+cesivo de de leña como combustible utilizado para cocción y 
+calefacción a nivel rural. Las emisiones de GEI por el uso de 
+combustibles se ven reflejadas en el suministro energético, la 
+demanda residencial, comercial e institucional, en la industria 
+y en el transporte. 
+La línea base proporciona información de las principales 
+fuentes de emisión e identifica en qué sectores se tienen 
+mayores oportunidades para la mitigación. En los resúme-
+nes sectoriales a continuación, se presentan líneas base con 
+mayor detalle de las actividades económicos y las emisio-
+nes asociadas en cada sector. Esta información también está 
+disponible con mayor detalle en el documento técnico de la 
+Estrategia. Este proceso fue diseñado para promover cam-
+bios en las actividades que generan mayores emisiones, a 
+través de opciones que reduzcan las emisiones de GEI y que 
+aporten significativamente a mejorar las condiciones socioe-
+conómicas y ambientales del país.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 215.
+  Resumen sectorial
+Sector
+EnergíaLas emisiones de gases de efecto invernadero del sector energía, se generan principalmente a partir de la quema de combustibles. En el proceso de 
+formulación de la Estrategia de Desarrollo con Bajas Emisiones, el Ministerio de Energía y Minas (MEM) coordinó este sector subdividiéndolo en dos 
+subsectores: suministro energético (SE) que incluye la generación eléctrica y la refinería de petróleo y demanda a nivel residencial, comercial e institu-
+cional (RCI), que incluye el uso de combustibles y electricidad.
+Para la generación de electricidad, que abastece a distintos sectores de la economía, actualmente se utiliza carbón, búnker, diesel y biomasa; además, 
+se proyecta que a partir de 2030 también se utilizará gas natural.   Estos combustibles emiten dióxido de carbono (CO ), metano (CH ) y óxido nitroso 
+2 4
+(N O), con excepción de la biomasa, en la que no se contabiliza el CO , pues se asume que este ha sido capturado biológicamente. Se estima que para 
+2 2
+el año 2015, las emisiones de GEI de este subsector fueron de 3.6 millones de toneladas de CO  equivalente, y se proyecta que esta cifra aumente a 
+2
+más de 12 millones de toneladas al año 2050 (un aumento del 6.5%), debido a la mayor demanda de energía relacionada al crecimiento económico 
+y poblacional. 
+Figura 7  Línea base de emisiones de GEI del subsector Suministro Eléctrico
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 23A nivel RCI, las emisiones directas se generan al quemar combustibles en equipos de calefacción, calentadores de agua, cocina y otros usos de energía.  
+El subsector RCI también demanda energía eléctrica para iluminación, uso de equipo de oficina, aparatos comerciales o electrodomésticos, por lo que 
+a estas actividades de forma indirecta se les atribuye parte de las emisiones de la generación eléctrica. Los principales combustibles utilizados a nivel 
+RCI son:  gasolina, diésel, gas licuado de petróleo (GLP, comúnmente conocido como gas propano), keroseno y leña; todos estos combustibles emiten 
+CO , CH  y N O.   En el país la demanda de leña es mayor a la capacidad de los bosques de regenerarla, por lo que las emisiones de CO  generadas 
+2 4 2 2
+por este combustible se contabilizan en el sector bosques y otros usos de la tierra.
+Las emisiones totales del subsector RCI en el año 2015 se estiman en casi 4 millones de toneladas de CO  equivalente. Para el año 2050, se proyecta 
+2
+que las emisiones de GEI asciendan a más de 9 millones de toneladas de CO  equivalente, representando un crecimiento de más del 100%.   La figura 
+2
+8 muestra que el mayor crecimiento ocurre en el consumo de energía eléctrica, principalmente en el área residencial urbano.
+Figura 8
+Resumen de emisiones de GEI basadas en consumo del subsector Residencial, Comercial e Institucional (RCI)
+24 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoHidroeléctrica Oxec.
+El grupo de trabajo del sector energía, priorizó once opciones de 
+mitigación distribuidas de la siguiente manera: cinco opciones de 
+mitigación para el subsector generación eléctrica, cuatro opciones  •  SE-9/E-1. Incrementar el potencial de las hidroeléctricas existentes
+de mitigación para el subsector demanda RCI; y posteriormente, se 
+•  SE-10/E-2. Incrementar la generación solar
+incorporaron dos opciones de mitigación priorizadas por el grupo 
+de urbanismo que tienen injerencia directa para el sector. El análisis  •  SE-13/E-3. Incrementar la generación de energía geotérmica
+de impacto microeconómico indica que si todas estas opciones se 
+•  SE-16/E-4. Reducción de pérdidas a través de energía renovable 
+implementaran en el período 2019-2050, se evitaría la emisión de 
+374 millones de toneladas de CO e, generando ahorros  •  SE-21/E-5. Desarrollo de mini y micro hidroeléctricas
+2
+de 26,440 millones de Quetzales a la sociedad guatemalteca 
+•  RCI-7/E-6. Eficiencia energética en edificaciones existentes
+durante el mismo período.
+•  RCI-3/E-7. Estándares de etiquetado para electrodomésticos
+•  RCI-10/E-8. Auditorías energéticas
+•  RCI-15/E-9. Estufas de bajo consumo de leña
+El plan Nacional de Energía 2017 – 2032 promueve 
+una matriz energética que prioriza la utilización de los  •  U-3. Cambio a tecnología LED del sistema de alumbrado público 
+recursos naturales, lo cual permitirá que el país evolucione 
+•  U-4. Eficiencia energética en nuevas construcciones
+su matriz energética de un 54% de uso de recursos reno-
+vables en el 2016 a un 64 % en el 2032. 
+Para la facilidad de comprensión del documento, se simplificaron los nombres de 
+las opciones de mitigación, versión original en anexos.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 25Figura 9 Curva de costos marginales de abatimiento para el Sector Energía | período 2019- 2050
+De las 11 opciones priorizadas, ocho de ellas representan ahorros netos para la sociedad en su implementación, mientras que la ampliación del 
+aprovechamiento del potencial de generación solar (E-2), el desarrollo de mini y micro hidroeléctricas (E-5) y las nuevas generadoras renovables para 
+apoyar el sistema de transmisión y reducir las pérdidas en generación (E-4), representan un costo neto de implementación para la sociedad. Las opcio-
+nes de estándares de etiquetado de productos de bajo consumo (E-7) y las auditorías energéticas (E-8), junto con la opción de cambio de tecnología 
+LED en sistema de alumbrado público (U-3) son las que muestran la mayor rentabilidad, ya que su implementación generaría un ahorro de más de 
+Q.200.00 por tonelada de CO e reducida. 
+2
+26 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoEl potencial de abatimiento por el uso de estufas de bajo consumo de 
+El plan Nacional de Eficiencia Energética 2019 –  leña (E-9) es la medida que más reducciones presenta para el sector, 
+2032 oficializado en el 2017, promueve el uso de  con aproximadamente 11 millones de toneladas de CO e reducidas 
+2
+tecnologías para la eficiencia y el ahorro energético,  en el año 2050; aunque esta opción se presenta en el sector ener-
+esfuerzos que permitirán optimizar la intensidad de  gía, sus impactos están estrechamente relacionados con las metas de 
+consumo de energía, así como la reducción de gases  reducción de deforestación y degradación de bosques, al reducir la 
+demanda de leña en 100,00 hogares.  Los estándares de etiquetado 
+de efecto de invernadero.  
+en productos de bajo consumo energético (E-7) y el incremento del 
+potencial de las hidroeléctricas existentes (E-1) también presentan un 
+alto potencial de abatimiento, con más de dos millones de toneladas 
+de CO e reducidas en ambos casos.
+2
+Figura 10  Análisis de impactos macroeconómicos del Sector Suministro de Energía 
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 27A nivel macroeconómico, la generación eléctrica con fuentes renova- Todas las opciones orientadas a eficientizar el consumo energético 
+bles sustituye el uso de combustibles fósiles.  La mayoría de las opcio- tienen impactos positivos reduciendo gastos en energía con ren-
+nes de mitigación priorizadas en este sector, tienen un impacto positivo  dimientos mejores que las tendencias actuales.   Las opciones de 
+en la sustitución de importaciones; sin embargo, en algunos casos el  mitigación presentadas para el sector energía, estimulan prácticas 
+impacto en el flujo de divisas puede ser reducido al hacerse necesaria  intensivas de mano de obra, por lo que tienen un impacto positivo en 
+la importación de insumos (como paneles solares) que no se fabrican  la generación de empleo.
+localmente. En términos de costo, cuatro de las cinco opciones de ge-
+neración de energía renovable tienen un balance de costos y benefi-
+cios con mayor rendimiento que la continuidad de prácticas actuales.
+Figura 11  Análisis de impactos macroeconómicos del Sector Demanda de Energía
+28 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoSector
+TransporteEl proceso de formulación del sector transporte, fue liderado por el Ministerio de Comunicaciones, Infraestructura y Vivienda (MICIVI). Las emisiones 
+de GEI del sector transporte se generan por la quema de combustibles utilizado en vehículos, buses, camiones, navegación y aviación. En Guatemala, 
+se utiliza gasolina, diésel, gas licuado de petróleo (GLP) y keroseno.  La quema de estos combustibles genera dióxido de carbono (CO ), metano (CH ) 
+2 4
+y óxido nitroso (N O).
+2
+La estimación de emisiones del sector transporte al año 2015 es aproximadamente de 9.5 millones de toneladas de CO e; siguiendo los patrones actua-
+2
+les, para el año 2050 las emisiones del sector superarían los 15 millones de toneladas de CO e, incrementando en un 60%. Las principales emisiones 
+2
+del sector provienen del transporte terrestre, seguidas por las emisiones del transporte aéreo y marítimo.
+Figura 12  Línea base de emisiones de GEI directas para el Sector Transporte 
+30 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoEl grupo de trabajo priorizó seis opciones de mitigación, con base 
+en criterios sobre aceptación social, viabilidad técnica, política y am-
+•  T-1. MetroRiel biental. De las seis opciones priorizadas, cinco están orientadas a 
+cambios tecnológicos y una a modificaciones en los combustibles. 
+•  T-2. Transporte público extraurbano.
+Asimismo, se incluyeron en este sector dos opciones priorizadas en 
+•  T-3. Transporte público urbano  el grupo de urbanismo, que promueven cambios en los patrones ac-
+tuales del transporte. El impacto de la implementación de estas ocho 
+•  T-4. Libramientos de Chimaltenango y Barberena.
+opciones llevaría a una reducción de 80 millones de tonela-
+•  T-5. Vehículos eléctricos das de CO e en el período 2019-2050, generando ahorros 
+2
+netos a la sociedad guatemalteca equivalentes a 27,613 millo-
+•  T-6. Uso del etanol en la gasolina 
+nes de quetzales.
+•  U-1. Política Nacional de Desarrollo Urbano
+De las ocho opciones de mitigación priorizadas, la implementación de 
+•  U-2. Movilidad metropolitana sostenible
+la Política Nacional de Desarrollo Urbano (U-1) es la que presenta ma-
+yor oportunidad de reducción de emisiones, además de mayor ahorro 
+para la sociedad.  Los vehículos eléctricos (T-5) y el tren de cercanía 
+Para la facilidad de comprensión del documento, se simplificaron los nombres 
+MetroRiel (T-1), también representan ahorros netos. 
+de las opciones de mitigación, versión original en anexos.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 31Figura 13 Curva de costos marginales de abatimiento para el Sector Transporte  |  período 2019- 2050
+Las opciones priorizadas en este sector muestran variabilidad de im-
+El plan 2020 de la Municipalidad de Guatemala 
+pactos macroeconómicos, aunque se identifica que en su mayoría 
+impactan de forma positiva en ahorros por el uso de energía. La  promueve el desarrollo de corredores habitaciona-
+opción para de vehículos eléctricos (T-5), presenta impactos positivos  les y comerciales articulados a nodos de transporte, 
+en costo respecto a la tendencia, gastos evitados en energía, cambio  buscando con ello promover formas alternativas de 
+hacia combustibles locales, fortalecimiento de cadenas de suministro  movilidad (caminata y bicicleta) y reducir el número 
+locales y generación de empleo.  de kilómetros viajados, la contaminación del aire y 
+las emisiones.
+Otras opciones como la implementación del Plan de Movilidad Me-
+tropolitana (U-2), representa un incremento en costo respecto a la 
+tendencia actual, aunque con impactos positivos al reducir la canti-
+dad de capital para importaciones, los gastos en energía, impulsan 
+la generación de empleo y estimula las cadenas de suministro locales.
+32 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 14  Análisis de impactos macroeconómicos del Sector Transporte
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 33Sector
+IndustriaFoto:  Russ Ward - Unsplash.com
+El proceso de formulación de la EDBE en el sector industria fue lide- durante la producción de cemento, acero, cal y vidrio.  También hay 
+rado por el Ministerio de Economía (MINECO). Las emisiones de GEI  emisiones de otros gases de efecto invernadero provenientes de los 
+del sector industria se generan de tres fuentes principales:  hidrofluorocarburos (HFCs) utilizados en refrigerantes; sin embargo, 
+para este ejercicio, no se encontraron datos sobre estas emisiones.  
+1)  Emisiones directas por la quema de combustibles en hornos, ca- Las emisiones indirectas son las que se producen en las instalacio-
+lentadores de proceso, calderas, generadores de energía eléctri- nes de generación de electricidad, incluyendo pérdidas durante la 
+ca y otros usos finales de la energía transmisión y la distribución. La figura 15 presenta las emisiones del 
+sector industrial y con una transparencia, presenta las emisiones in-
+2)  Emisiones directas por procesos industriales, en donde hay una  directas relacionadas a la extracción, procesamiento y transporte de 
+transformación química o física de materias primas a metales,  combustibles que se consumen en este sector.
+químicos, u otros minerales
+Para el año 2015, las emisiones de GEI del sector industria ascendie-
+3)  Emisiones indirectas por el consumo de energía eléctrica en ins- ron a 4.7 millones de toneladas de CO  equivalente. Se proyecta que 
+2
+talaciones y equipos industriales esta cifra aumente a casi 9.5 millones de toneladas al año 2030 (au-
+mentando más del 100% en relación al 2015) y a 16.7 millones de 
+Las emisiones directas de gases de efecto invernadero de este sector  toneladas al 2050 (con un aumento del 200% en relación al 2015), 
+provienen del dióxido de carbono (CO ), metano (CH ), y óxido ni- debido al crecimiento económico esperado para los próximos años y 
+2 4
+troso (N O) por el consumo y quema de coque de petróleo, diésel,  el aumento del producto interno bruto.
+2
+bunker, gas licuado de petróleo, biomasa y otros combustibles en la 
+industria. Las emisiones de CO  de procesos industriales, se generan 
+2
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 35Figura 15  Línea base de emisiones de GEI del Sector Industria
+El grupo de trabajo del sector industria priorizó seis opciones de mitigación basándose en los posibles impactos a la competitividad, cambios tecnoló-
+gicos, crecimiento y viabilidad económica. La implementación de las seis opciones de mitigación reduciría 103 millones de toneladas de CO e 
+2
+en el período 2019-2050, generando ahorros a la sociedad guatemalteca por 12,603 millones de quetzales.  
+36 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero•  I-1. Hornos eficientes •  I-4. Mejora de eficiencia energética eléctrica
+•  I-2. Calderas, quemadores y otros equipos eficientes  •  I-5. Incremento de reciclaje y o sustitución de materiales
+•  I-3. Uso de energía renovable para autoconsumo •  I-6. Mejora de recuperación de calor
+Para la facilidad de comprensión del documento, se simplificaron los nombres de las opciones de mitigación, versión original en anexos.
+Figura 16  Curva de costos marginales de abatimiento para el Sector Industria  |  período 2019- 2050
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 37La figura 16 presenta los impactos de la implementación de estas 
+En el 2017, el Sistema Nacional de Calidad del 
+opciones en términos de rentabilidad hacia la sociedad guatemal-
+teca, expresada en quetzales por tonelada de CO e reducido. De  MINECO presentó la Norma Técnica Guatemalteca 
+2
+las seis opciones consideradas, tres de ellas presentan un ahorro  NTG ISO 14064-1. Esta norma detalla los principios 
+neto para lo sociedad en su implementación, mientras que la eficien- y requisitos para el diseño, desarrollo y gestión de los 
+cia energética en hornos (I-1) y otros equipos (I-2), junto con mayor  inventarios de GEI para compañías y organizaciones, 
+recuperación de calor (I-6), representan una inversión neta social.  así como los mecanismos de reporte, validación y veri-
+Las opciones de generación de energía renovable para autoconsu- ficación con el respaldo de estándares internacionales.
+mo (I-3) y la de mayor eficiencia en energía eléctrica (I-4) son las 
+que muestran la mayor rentabilidad. En el caso de la generación de 
+energía renovable resultaría en un ahorro de Q.190.00 por tonelada 
+de CO e reducida (I-3), mientras que implementación de eficiencia 
+2
+en energía eléctrica (I-4) generaría un ahorro de aproximadamente 
+Q.110.00 por tonelada de CO e reducida.
+2
+El Ministerio de Economía, a través de la Dirección 
+del Sistema Nacional de la Calidad, está impulsando 
+la Política Nacional de la Calidad que tiene por ob-
+jetivo mejorar las condiciones del comercio nacional 
+e internacional, coadyuvando a la competitividad de 
+las empresas y a la protección de los consumidores.
+Todas las opciones de este sector muestran impactos positivos en la 
+generación de empleo, así como en la reducción de gastos de ener-
+gía en forma de electricidad o de combustibles. Se identifica que tres 
+de las seis opciones representan un costo menor a mantener el curso 
+actual; sin embargo, en la mayoría de las opciones de mitigación se 
+orienta el flujo de divisas hacia importaciones dado que es necesario 
+adquirir nuevos equipos de fabricación extranjera.
+Foto: Ministerio de Energía y Minas
+38 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 17  Análisis de impactos macroeconómicos del Sector Industria
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 39Sector
+Agricultura
+y Ganadería
+Foto: Gerson QuevedoLas emisiones de gases de efecto invernadero del sector agricultura/ganadería se generan por la aplicación de nitrógeno (N O) a los suelos, que 
+2
+proviene de los fertilizantes para cultivos o bien por el estiércol depositado por los animales en pastoreo.  Otra fuente de emisiones en este sector es 
+el metano (CH ) que se genera por la fermentación entérica, especialmente del ganado; además de la gestión del estiércol de ganado o animales de 
+4
+granja.  Las emisiones de CH  y N O provenientes de la quema de residuos agrícolas se contabilizan, aunque las emisiones de dióxido de carbono 
+4 2
+(CO ) del proceso de quema se asume que fueron capturadas en un ciclo neutral, por lo que no se contabilizan. El sector también puede conservar 
+2
+carbono o remover dióxido de carbono (CO ) de la atmósfera, a través de la introducción o el cultivo de especies perennes.  En el proceso de formula-
+2
+ción de la Estrategia de Desarrollo con Bajas Emisiones para Guatemala, el sector agricultura/ganadería fue liderado por el Ministerio de Agricultura, 
+Ganadería y Alimentación (MAGA). 
+Figura 18  Línea base de emisiones de GEI del Sector Agricultura
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 41Para el año 2015 las emisiones del sector sumaron 10 millones de  Foto: Luis Ríos
+toneladas de CO e, proyectando un incremento al 2030 de 12 mi-
+2
+llones de toneladas y al 2050 de 15 millones de toneladas princi-
+palmente por el crecimiento de la población que demanda mayor 
+cantidad de alimentos.
+A través de un proceso de consulta y discusión con los participantes 
+de la mesa de trabajo sectorial, se priorizaron siete opciones de miti-
+gación, de las que cuatro están enfocadas en prácticas agrícolas y tres 
+van orientadas a la ganadería. La implementación de estas siete op-
+ciones representaría la reducción de 753 millones de toneladas 
+de CO e en el período 2019-2050, con un costo de 4,184 
+2
+millones de quetzales para la sociedad guatemalteca.
+•  AG-1. Conservación de suelos
+•  AG-2. Sistemas agroforestales
+•  AG-3. Plantaciones frutícolas leñosas
+•  AG-4. Uso eficiente de fertilizantes nitrogenados
+•  GAN-1. Pasturas mejoradas y pastoreo racional
+•  GAN-2. Sistemas silvopastoriles
+•  GAN-3. Gestión integral del estiércol
+Para la facilidad de comprensión del documento, se simplificaron los nombres 
+de las opciones de mitigación, versión original en anexos.
+42 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 19  Curva de costos marginales de abatimiento para el Sector Agricultura y Ganadería  |  período 2019- 2050
+La principal oportunidad de reducción de emisiones en este sector 
+está en la remoción de carbono a través de introducción de árboles  La Estrategia Nacional de Ganadería Bovina Soste-
+a sistemas silvopastoriles (GAN-2) y el establecimiento de planta- nible con Bajas Emisiones oficializada en el 2018, 
+ciones frutícolas leñosas (AG-3).  Con la implementación de estas  es un instrumento de la Política de Ganadería Bovi-
+dos opciones, se reducirían a lo largo de 30 años 555 millones de  na Nacional (MAGA, 2013), que busca Innovar y 
+toneladas de CO e. En términos de ahorros, el establecimiento de  modernizar los sistemas tradicionales de producción 
+2
+pasturas mejoradas (GAN-1), proporcionaría ahorros de 15,589 
+de ganadería bovina a nivel nacional con el fin de 
+millones de quetzales, en el período 2019-2050, lo que implica un 
+lograr una ganadería productiva, rentable, competiti-
+ahorro Q241.00 por cada tonelada de CO e evitada.
+2 va, sostenible y baja en emisiones de GEI.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 43Los impactos macroeconómicos más notorios en este sector están en la generación de empleo; ya que todas las opciones tienen impactos positivos en 
+esta variable.   La mayoría de las opciones del sector fortalecen las cadenas locales de suministro y reducen los flujos de capital hacia el exterior al 
+requerir menores importaciones. La implementación de las opciones de mitigación del subsector ganadero, muestran un balance de costos y beneficios 
+positivo, en relación con las prácticas implementadas actualmente.
+Figura 20  Análisis de impactos macroeconómicos del Sector Agricultura y Ganadería
+44 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFoto: Xiomara Lima
+Sector
+Bosques y otros 
+usos de la tierra
+Foto: Liz AlburezBosque natural, Todos Santos Cuchumatán, Huehuetenango
+Las emisiones de GEI en el sector bosques y otros usos de la tierra provienen de la deforestación de los bosques, la extracción de madera y leña y el 
+cambio de uso de la tierra. Los bosques son sumideros que almacenan carbono en los árboles y otras especies, en la materia orgánica y en el suelo, 
+por lo que la pérdida de bosques o su degradación implica que el carbono retenido se libera a la atmósfera a través de emisiones de GEI, mientras 
+que el crecimiento de los bosques implica remociones de carbono. Se estima que para el año 2015 las emisiones del sector sumaron 71 millones de 
+toneladas de CO e, proyectando un incremento al 2030 de 98 millones de toneladas y al 2050 de 146 millones de toneladas.
+2
+Las mesas de trabajo de este sector fueron lideradas por el Instituto Nacional de Bosques (INAB) y el Consejo Nacional de Áreas Protegidas (CONAP), 
+debido a que las tierras forestales en Guatemala están ubicadas dentro y fuera de áreas protegidas. 
+46 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFigura 21  Línea base de emisiones de GEI del Sector Bosques y otros usos de la tierra
+El grupo de trabajo del sector bosques y otros usos de la tierra, prio- mentación de estas opciones conlleva costos netos para la sociedad, 
+rizó cinco opciones de mitigación de acuerdo a su viabilidad técnica,  equivalentes a 29,923 millones de quetzales, Q24.00 por 
+viabilidad política, impacto ambiental y aceptación social. El análisis  tonelada de CO e evitada o removida. La opción que mayores re-
+2
+de impactos microeconómicos refleja que la implementación de las  ducciones de emisiones de GEI presenta es la conservación y manejo 
+cinco opciones de mitigación permitiría reducir 1,236 millones  de bosques (B-2), reduciendo 918 millones de toneladas de 
+de toneladas de CO e en el período 2019-2050, con una  CO e en el período 2019-2050.
+2 2
+combinación de emisiones evitadas y remociones directas. La imple-
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 47Los Programas de incentivos PROBOSQUE Decre-
+•  B-1. Plantaciones forestales
+to 2-2015 y PINPEP Decreto 51-2010, fomentan 
+la actividad forestal en el país, contribuyen con la  •  B-2. Conservación y manejo de bosques 
+protección y restauración de la base natural,  estimu-
+•  B-3. Restauración de áreas degradadas
+lan la participación social, impulsan el crecimiento 
+económico,  apoyan la seguridad alimentaria y la  •  B-4. Control y prevención de incendios
+mitigación y adaptación a los efectos del cambio cli-
+•  U-5. Plantaciones forestales urbanas
+mático, la gestión de recursos hídricos, la reducción 
+de riesgos a desastres naturales y  la gobernanza de 
+los bosques. Para la facilidad de comprensión del documento, se simplificaron los nombres 
+de las opciones de mitigación, versión original en anexos.
+Figura 22  Curva de costos marginales de abatimiento para el sector Bosques y otros usos de la tierra  |  período 2019- 2050
+48 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoEl análisis macroeconómico en este sector identificó que la implementación de las opciones de mitigación priorizadas conlleva costos superiores en com-
+paración con las prácticas actuales. Sin embargo, también muestra impacto positivo en la generación de empleo y en las cadenas locales de suministros.
+Figura 23  Análisis de impactos macroeconómicos del Sector Bosques y otros usos de la tierra
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 49Sector
+Desechos 
+sólidos y líquidosLas emisiones de gases de efecto invernadero del sector desechos provienen principalmente de la descomposición de la materia orgánica en los vertederos, 
+por la incineración de desechos y por el tratamiento de aguas residuales municipales e industriales. El proceso para este sector fue liderado por el Ministerio 
+de Ambiente y Recursos Naturales (MARN), subdividiéndolo en dos grandes grupos: manejo de desechos sólidos y tratamiento de aguas residuales. 
+Las emisiones directas del sector provienen de la descomposición de residuos sólidos urbanos (RSU) en vertederos y de las aguas residuales municipales. Se 
+estima que para el año 2015 el sector emitió 2 millones de toneladas de CO e y de seguir el patrón de manejo actual para el año 2050 este monto se du-
+2
+plicará.  Las emisiones en este sector se incrementan a medida que crece la cantidad de desechos sólidos y líquidos gestionados sin los procesos adecuados. 
+Con el objetivo de promover mejoras a la gestión ambiental de los residuos y de estabilizar el incremento de emisiones de GEI, el grupo de trabajo 
+del sector priorizó seis opciones de mitigación que de acuerdo al análisis microeconómico realizado, indican que con la implementación de estas 
+opciones se reducirían 186 millones de toneladas de CO e en el período 2019-2050, representando un ahorro para la sociedad de 
+2
+8,616 millones de quetzales.
+Figura 24  Línea base de emisiones de GEI del Sector Desechos sólidos y líquidos
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 51•  D-1. Ampliación y eficiencia en recolección de desechos solidos •  D-4. Aprovechamiento de metano en vertederos
+•  D-2. Reutilización y reciclaje de residuos •  DL-1. Ahorro de agua
+•  D-3. Compostaje •  DL-2. Tratamiento de aguas residuales
+Para la facilidad de comprensión del documento, se simplificaron los nombres de las opciones de mitigación, versión original en anexos.
+Figura 25  Curva de costos marginales de abatimiento para el Sector Desechos sólidos y líquidos  |  período 2019- 2050
+52 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoFoto: Xiomara Lima La principal reducción de emisiones de este sector se 
+detalla directamente en el sector de transporte, pues 
+se enfoca en generar mejoras en la eficiencia de los 
+servicios de recolección (D-1), así como la reducción, 
+reutilización y reciclaje de desechos inorgánicos (D-
+2). La implementación de medidas de ahorro de agua 
+residuales implica altos costos, dado que incluye cam-
+bios para el ahorro del uso de un recurso con un costo 
+aún no definido en Guatemala.
+Cinco de las seis opciones de mitigación priorizadas 
+tienen  impactos  económicos  menores  al  comporta-
+miento actual, con excepción de la implementación 
+de medidas de ahorro de agua residual, que también 
+tiene un impacto positivo en la generación de empleo.  
+La implementación de la opción de mitigación para el 
+aprovechamiento de energía de metano en vertederos 
+(D-4), tiene un costo menor que la tendencia actual, 
+reduce gastos en energía, estimula las cadenas locales 
+de suministro e intensifica la demanda de mano de 
+obra, constituyéndose en una fuente de empleo. 
+La política Nacional para la Gestión de 
+Residuos y Desechos Sólidos, Acuerdo Gu-
+bernativo 281-2015, contempla un enfo-
+que integral en el manejo de desechos só-
+lidos, desde la colecta, el transporte hasta 
+su disposición final, proponiendo también 
+abordar cambios de conducta en la pro-
+ducción de estos desechos, acciones que 
+repercutirán en minimizar los impactos ne-
+gativos a la salud y medio ambiente.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 53Figura 26  Análisis de impactos macroeconómicos del Sector Desechos sólidos y líquidos
+54 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero6.  
+Integración de opciones de Política
+La figura 27 presenta la curva de costos marginales de abatimiento (curva MAC, por sus siglas en inglés) que integra  las 43 opciones de mi-
+tigación incluidas en la Estrategia de Desarrollo con Bajas Emisiones. La curva MAC facilita la comparación de cada una de las 43 opciones de 
+acuerdo a su potencial de reducción de emisiones de GEI y el costo efectividad, que se presenta en quetzales por tonelada reducida de dióxido de 
+carbono equivalente. A diferencia de las curvas MAC sectoriales presentadas en el capítulo anterior, en esta gráfica se consideró cualquier traslape 
+que pudiera existir entre las opciones de mitigación de los diferentes sectores. Es decir, si alguna opción de mitigación del sector transporte también 
+tiene impacto sobre las opciones de mitigación del sector energía, el impacto está considerado como parte del análisis intersectorial. Es importante 
+resaltar que esta curva MAC presenta información sobre dos variables para cada opción de mitigación. A pesar de que algunas opciones de miti-
+gación implican un costo de inversión, puede tener un mayor potencial de co-beneficios como salud, impacto social y otros aspectos económicos y 
+ambientales que se deben considerar.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 557.  
+Impactos de la estrategia
+La implementación de las opciones de mitigación de la estrategia 
+de desarrollo con bajas emisiones permitirá al país continuar en su 
+ruta de desarrollo y a la vez reducir la intensidad de sus emisio-
+nes de gases de efecto invernadero. Se estima que en el período 
+2019-2050 se reducirían 2,454 Millones de Toneladas de CO e a 
+2
+través de la reducción del uso de combustibles fósiles, conservación 
+de bosques, mejoras en la agricultura y una adecuada gestión de 
+desechos. Asímismo, se estima que los beneficios económicos para la 
+sociedad serían de 41,166 millones de quetzales, los cuales pueden 
+ser destinados a acciones que beneficien las condiciones de vida de 
+los guatemaltecos.
+•  Deforestación evitada a 2030: 595,000 hectáreas (equivale a 
+dos veces el tamaño del departamento de Guatemala)
+•  Deforestación evitada a 2050: 1.2 Millones de hectáreas (equi-
+vale a el tamaño de los departamentos de Retalhuleu, Suchitepé-
+quez, Escuintla y Santa Rosa juntos)
+•  Bosque plantado al 2030: 227,000 ha equivalente al tamaño 
+del departamento de Guatemala
+•  Bosque plantado al 2050: 715,000 ha equivalente a dos veces 
+el tamaño de San Marcos
+•  Uso evitado de gasolina a 2030 – 58.6 Millones de Galones
+•  Uso evitado de gasolina a 2050 - 65.1 Millones de Galones
+•  Al año 2030 el uso combustible evitado equivale a 685 Millones 
+de galones de gasolina
+•  Al año 2050 el uso combustible evitado equivale a 1,474 Millo-
+nes de galones de gasolina
+56 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoLa implementación de la Estrategia Nacional de Desarrollo con Bajas 
+Emisiones apoyará a Guatemala a alcanzar objetivos ambientales, 
+sociales, económicos, energéticos y climáticos. Algunas opciones 
+de mitigación, principalmente en los sectores energía, agricultura 
+y bosques y otros usos de la tierra, generan co-beneficios para la 
+adaptación al cambio climático, la seguridad alimentaria, la seguri-
+dad energética, la salud, la conservación de la biodiversidad, el uso 
+eficiente de los recursos naturales y las condiciones ambientales en 
+general; además, mejoran la calidad del aire y aportan a la conser-
+vación de suelos. La estrategia contribuirá a mediano y largo plazo 
+a disminuir la vulnerabilidad del país, dando como resultado una 
+sociedad más adaptada a la variabilidad climática inducida por el 
+cambio climático. 
+8.  
+Ruta a seguir
+Las 43 opciones de mitigación presentadas en esta estrategia pro-
+porcionan insumos para orientar la toma de decisiones en dirección 
+de una economía más eficiente, competitiva y preparada para en-
+frentar los retos del cambio climático.
+El análisis detallado de cada opción de mitigación permite visua-
+lizar el impacto de la implementación de la Estrategia sobre cada 
+sector productivo del país en cuestión de emisiones de GEI. Este im-
+pacto se presenta en la Figura 28 a continuación. La proyección de 
+emisiones de GEI al año 2050 en un escenario BAU (siguiendo el 
+comportamiento actual) las emisiones crecerían aproximadamente 
+en 203 millones de toneladas de CO e por año. Bajo la línea pun-
+2
+teada, se presenta con  diferentes colores el aporte en la reducción 
+de emisiones por sector bajo el escenario de implementación de las 
+43 opciones de mitigación de la Estrategia de Desarrollo con Bajas 
+Emisiones, este escenario de emisiones de GEI cambia significativa-
+mente, reduciendo las emisiones a 83 millones de toneladas de CO e 
+2
+al año 2050.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 57Figura 28  Impacto de la Estrategia de Desarrollo con Bajas Emisiones sobre la línea base de emisiones de GEI
+Estos resultados también permiten analizar de qué manera y en qué  bajo la línea punteada, se presenta con  diferentes colores el aporte 
+magnitud la Estrategia de Desarrollo con Bajas Emisiones contribuye  en la reducción de emisiones bajo el escenario de implementación de 
+al cumplimiento de los compromisos internacionales del país en re- la Estrategia de Desarrollo con Bajas Emisiones.  Una reducción del 
+lación a las metas de la Contribución Nacionalmente Determinada  11% de acuerdo a esta proyección, implicaría reducir  las emisiones 
+(reducir las emisiones de gases de efecto invernadero en un 11%  del país de  140 millones de toneladas de CO e en el escenario 
+2
+con fondos propios y 22% con apoyo de la cooperación). La Figura  BAU a 125 millones de toneladas de CO e en el año 2030. Para 
+2
+29 presenta la proyección de emisiones de GEI al año 2050 bajo el  alcanzar el  22% de reducción, tendrían que bajar a 109 millones de 
+escenario BAU (siguiendo los patrones de comportamiento actuales),  toneladas de CO e en el mismo año. Con la implementación de las 
+2
+58 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero43 opciones de mitigación priorizadas en la Estrategia de Desarrollo  En la introducción de este documento, se presenta el objetivo principal 
+con Bajas Emisiones, se proyecta una reducción de 75 millones de  del desarrollo con bajas emisiones como el desacople del crecimiento 
+toneladas de CO e en el año 2030, lo que representa una reducción  económico de las emisiones de GEI. Con una línea base sólida de 
+2
+del 44%, duplicando las metas de las NDC establecidas por el país. emisiones al año 2050, 43 opciones de mitigación priorizada por me-
+sas sectoriales, análisis microeconómicos de las 43 opciones y una 
+Para el año 2050 una reducción del 11%  de las emisiones del país  evaluación de su impacto sobre la economía, Guatemala ahora cuenta 
+implicaría bajar de 203 a 181 millones de toneladas de CO e. La  con las herramientas para encaminan al país en la ruta del desacople.
+2
+reducción del 22% al 2050, implicaría bajar de 203 a 125 millones   
+de toneladas de CO e. La implementación de la Estrategia de Desa- Los resultados de los análisis técnicos y económicos dentro de la Es-
+2
+rrollo con Bajas Emisiones al año 2050, implicaría una reducción del  trategia de Desarrollo con Bajas Emisiones demuestran que su imple-
+59% de las emisiones proyectadas,  bajando de 203 a 83 millones  mentación tiene un impacto positivo sobre la economía del país, en la 
+de toneladas de CO e. reducción de emisiones de GEI y en los muchos co-beneficios,  sociales 
+2
+Figura 29  Contribución de la Estrategia de Desarrollo con Bajas Emisiones con las metas de la NDC de Guatemala y el Acuerdo de París
+200 
+e
+2
+O
+C
+ 
+e
+d 150 
+ 
+s
+a
+d
+a
+el
+n
+o 100 
+T
+ 
+e
+d
+ 
+s
+e
+n
+o 50 
+ill
+M
+0 
+1990  2000  2010  2020  2030  2040  2050 
+ESCENARIO TENDENCIAL NDC 11%  NDC 22%  IMPLEMENTANDO LAS OPCIONES
+ (BAU) DE TODOS LOS SECTORES 
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 59y ambientales que se obtendrían por medio de las 43 opciones de miti-
+gación. La implementación de la estrategia requerirá una coordinación 
+multisectorial, participativa y representativa, que refleje el alto nivel de 
+colaboración dentro de las mesas de trabajo. Aunque las 43 opciones 
+de mitigación varían mucho entre y dentro de sectores, los elementos 
+necesarios para su implementación son similares en su mayoría: un 
+marco facilitador, sea en temas legales o comerciales, proporciona-
+do principalmente por el Gobierno de Guatemala con participación 
+de los sectores correspondientes; una inversión por parte de fuentes 
+públicas, privadas o mixta para promover la adopción de tecnología 
+y prácticas; una participación de la sociedad civil para asegurar que 
+los beneficios y co-beneficios de las acciones sean maximizados y dis-
+tribuidos de manera equitativa; y un fortalecimiento de capacidades, 
+investigación y formación por medio de las universidades del país.
+ 
+A esta coordinación se suma la banca, cooperativas y organizacio-
+nes financieras del país, motivadas por iniciar o ampliar su cartera 
+de financiamiento de productos verdes, impulsando mecanismos que 
+benefician la implementación de prácticas y tecnologías de mitigación 
+priorizadas en la estrategia. 
+La banca privada guatemalteca y algunas cooperativas de crédito tie-
+nen mecanismos empresariales, comunitarios e individuales orientados 
+a la implementación de la estrategia, como el manejo forestal sosteni-
+ble, los sistemas agroforestales y silvopastoriles, la energía renovable y 
+la eficiencia energética. En la mayoría de casos, se trata de préstamos 
+con plazos de financiamiento de 1–5 años, aunque también existen 
+arrendamientos con opción a compra para paneles solares y maqui-
+naria de alta eficiencia. En el sector público, existen programas de 
+incentivos como el Programa de incentivos forestales para poseedores 
+de pequeñas extensiones de tierra de vocación forestal o agroforestal 
+(PINPEP) y los que estipula la Ley de fomento al establecimiento, recu-
+peración, restauración, manejo, producción y protección de bosques 
+en Guatemala (Ley PROBOSQUE), ambos del INAB, los cuales ya re-
+presentan mecanismos de implementación para las opciones de miti-
+gación en los sectores Bosques y Otros Usos de la Tierra, y Agricultura. 
+La Estrategia de Desarrollo con Bajas Emisiones, es una herramien-
+60 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernaderota que permite expandir aún más los mecanismos  de financiamiento 
+disponibles, ya que establece una ruta priorizada, analizada y apro-
+bada por los mismos sectores que impactará de forma positiva en el 
+desarrollo del país.
+A dos años de haber iniciado este proceso participativo y multisec-
+torial, Guatemala cuenta con una ruta clara para impulsar un cre-
+cimiento económico con bajas emisiones – una ruta hacia un desa-
+rrollo más limpio, más incluyente, más resiliente ante los efectos del 
+cambio climático y que apoya al país en su cumplimiento con marcos 
+legales nacionales y compromisos internacionales. Se agradece nue-
+vamente la participación de los participantes del sector público, sec-
+tor privado, academia y sociedad civil que ayudaron a construir esta 
+ruta y a establecer una visión conjunta para un país más competitivo, 
+eficiente y próspero.
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 619.   Opciones de mitigación para la reducción de emisiones de GEI de los Sectores: Energía, Transporte, 
+Anexos
+Industria, Agricultura y Ganadería, Bosques y otros usos de la tierra y Desechos sólidos y líquidos
+SECTOR ENERGÍA
+Ministerio líder Opciones priorizadas Nombre simplificado
+SE-9/E-1. Gestión de permisos y ubicaciones para incremen- SE-9/E-1. Incrementar el potencial de las hidroeléctri-
+tar el potencial de las hidroeléctricas existentes cas existentes
+SE-10/E-2. Ampliar el aprovechamiento del potencial de ge-
+SE-10/E-2. Incrementar la generación solar
+neración solar
+SE-13/E-3. Expandir el uso del potencial de generación por  SE-13/E-3. Incrementar la generación de energía geo-
+geotermia y desarrollo de la energía geotérmica térmica
+SE-16/E-4. Nuevas generadoras renovables para apoyar el  SE-16/E-4. Reducción de pérdidas a través de ener-
+sistema de transmisión y reducir las pérdidas en generación gía renovable
+SE-21/E-5. Desarrollo de mini y micro hidroeléctricas SE-21/E-5. Desarrollo de mini y micro hidroeléctricas
+Ministerio de Energía 
+RCI-7/E-6. Guías de conservación energética en edificacio- RCI-7/E-6. Eficiencia energética en edificaciones exis-
+y Minas (MEM) nes existentes tentes
+RCI-3/E-7. Estándares de etiquetado en productos de bajo  RCI-3/E-7. Estándares de etiquetado para electrodo-
+consumo energético mésticos
+RCI-10/E-8. Auditorías energéticas RCI-10/E-8. Auditorías energéticas
+RCI-15/E-9. Uso de estufas de bajo consumo de leña RCI-15/E-9. Estufas de bajo consumo de leña
+U-3. Cambio a tecnología LED del sistema de alumbrado pú- U-3. Cambio a tecnología LED del sistema de alum-
+blico en el marco de una visión de Smart City del AMCG brado público
+U-4. Incorporar parámetros de eficiencia energética en el 
+U-4. Eficiencia energética en nuevas construcciones
+Código Nacional de Construcción
+62 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoSECTOR TRANSPORTE
+Ministerio líder Opciones priorizadas Nombre simplificado
+T-1. Expandir la infraestructura de transporte público del AMCG 
+T-1. MetroRiel
+mediante la construcción del tren de cercanía MetroRiel
+T-2. Mejorar el equipamiento de transporte público extraurbano. T-2. Transporte público extraurbano.
+T-3. Incrementar el nivel de servicio del transporte público urba-
+T-3. Transporte público urbano 
+no BRT del municipio de Guatemala
+Ministerio de 
+T-4. Mejoramiento de la infraestructura vial del país en los libra-
+T-4. Libramientos de Chimaltenango y Barberena.
+Comunicaciones,  mientos de Chimaltenango y Barberena.
+Infraestructura y  T-5. Renovación del parque vehicular privado automóvil hacia 
+T-5. Vehículos eléctricos
+alternativas más eficientes
+Vivienda (MICIVI)
+T-6. Promover el uso del etanol en la gasolina en Guatemala T-6. Uso del etanol en la gasolina 
+U-1. Plantear un modelo de Estructura Urbana Territorial con ba-
+U-1. Política Nacional de Desarrollo Urbano
+jas emisiones en la Política Nacional de Desarrollo Urbano
+U-2. Plan de movilidad metropolitana sostenible de la ciudad 
+U-2. Movilidad metropolitana sostenible 
+de Guatemala
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 63SECTOR INDUSTRIA
+Ministerio líder Opciones priorizadas Nombre simplificado
+I-1. Eficiencia energética en hornos I-1. Hornos eficientes
+I-2. Programas de eficiencia energética para el sector industrial I-2. Calderas, quemadores y otros equipos eficientes 
+I-3. Incentivos a energía renovable para el sector industrial I-3. Uso de energía renovable para autoconsumo
+Ministerio de 
+Economía (MINECO) I-4. Mejora de eficiencia energética eléctrica en el sector 
+I-4. Mejora de eficiencia energética eléctrica
+industrial
+I-5. Mitigación de emisiones en el sector industrial a través de 
+I-5. Incremento de reciclaje y o sustitución de materiales
+incremento de reciclaje y o sustitución de materiales
+I-6. Mejora de recuperación de calor en el sector industrial I-6. Mejora de recuperación de calor 
+64 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoSECTOR BOSQUES Y OTROS USOS DE LA TIERRA
+Instituciones líderes Opciones priorizadas Nombre simplificado
+FOLU-1. Establecimiento, manejo sostenible y eficiente de 
+FOLU-1. plantaciones forestales
+plantaciones forestales
+Instituto Nacional  FOLU-2. Fomentar conservación y manejo sostenible de
+FOLU-2. Conservación y manejo de bosques 
+bosques naturales
+de Bosques (INAB) y 
+FOLU-3. Reforestación de zonas degradadas con
+el Consejo Nacional  FOLU-3. Restauración de áreas degradadas
+especies nativas
+de Áreas Protegidas 
+FOLU-4. Fortalecer capacidad de respuesta institucional en 
+FOLU-4. Control y prevención de incendios
+(CONAP) prevención y control de los incendios forestales
+U-5. Sistema de áreas verdes metropolitano U-5. Plantaciones forestales urbanas
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 65SECTOR AGRICULTURA Y GANADERÍA
+Ministerio líder Opciones priorizadas Nombre simplificado
+AG-1. Manejo sostenible de suelos AG-1. Conservación de suelos
+AG-2. Establecimiento y mejoramiento de sistemas
+AG-2. Sistemas agroforestales
+agroforestales
+Ministerio de
+AG-3. Establecimiento de plantaciones con potencial frutíco-
+Agricultura, la, principalmente a través de especies que tengan un alto  AG-3. Plantaciones frutícolas leñosas
+Ganadería y potencial para incrementar el stock de carbono.
+Alimentación  AG-4. Uso eficiente de fertilizantes nitrogenados AG-4. Uso eficiente de fertilizantes nitrogenados
+(MAGA) 
+GAN-1. Promover el establecimiento de pasturas mejoradas y 
+GAN-1. Pasturas mejoradas y pastoreo racional
+su manejo bajo pastoreo racional
+GAN-2. Promover el establecimiento de sistemas silvopastoriles GAN-2. Sistemas silvopastoriles
+GAN-3. Fomentar la gestión integral del estiércol en sistemas 
+GAN-3. Gestión integral del estiércol
+intensivos de producción animal
+66 Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto InvernaderoSECTOR DESECHOS SÓLIDOS Y LÍQUIDOS
+Ministerio líder Opciones priorizadas Nombre simplificado
+D-1. Establecimiento y ampliación de servicios de recolección y                         D-1. Ampliación de servicios de recolección de desechos 
+eficiencia de rutas de transporte de desechos solidos solidos
+D-2. Reutilización y reciclaje de residuos sólidos inorgánicos D-2. Reutilización y reciclaje de residuos
+Ministerio de  D-3. Compostaje D-3. Compostaje
+Ambiente y Recursos 
+Naturales (MARN) D-4. Programas de energía de metano en vertederos D-4. Aprovechamiento de metano en vertederos
+DL-1. Medidas para los sectores industrial, comercial y 
+DL-1. Ahorro de agua 
+residencial 
+DL-2. Tecnologías para el tratamiento de aguas DL-2. Tratamiento de aguas residuales
+Estrategia Nacional de Desarrollo con Bajas Emisiones de Gases de Efecto Invernadero 67MINISTERIO DE AMBIENTE Y RECURSOS NATURALES
+www.marn.gob.gt

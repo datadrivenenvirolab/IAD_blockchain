@@ -1,0 +1,2522 @@
+ 
+ 
+  
+Table of Contents 
+Foreword ..................................................................................................................................................................................... ii 
+Abbreviations ........................................................................................................................................................................... iv 
+Executive Summary ................................................................................................................................................................ 1 
+1.  Introduction and Background ............................................................................................................................. 6 
+1.1.  Global and local context of climate change .............................................................................................. 6 
+1.2.  Developing Cambodia’s long-term strategy ............................................................................................. 6 
+2.  Cambodia’s Vision for Carbon Neutrality ....................................................................................................... 8 
+2.1.  LTS4CN objectives and scenarios ................................................................................................................. 8 
+2.1.1.  The BAU scenario ................................................................................................................................ 8 
+2.1.2.  The LTS4CN scenario ......................................................................................................................... 9 
+2.2.  Economic costs and benefits ....................................................................................................................... 15 
+2.2.1.  Public sector costs ........................................................................................................................... 16 
+2.2.2.  Public financing plan....................................................................................................................... 16 
+2.3.  Technology and capacity needs ................................................................................................................. 17 
+2.3.1.  Agriculture sector ............................................................................................................................ 17 
+2.3.2.  Energy sector ..................................................................................................................................... 18 
+2.3.3.  FOLU sector ........................................................................................................................................ 21 
+2.3.4.  IPPU sector .......................................................................................................................................... 23 
+2.3.5.  Waste sector ....................................................................................................................................... 24 
+3.  Socioeconomic Benefits ...................................................................................................................................... 26 
+3.1.  Costs and benefits of LTS4CN actions ..................................................................................................... 26 
+3.2.  Total economic costs and benefits ............................................................................................................ 29 
+3.3.  Public sector costs ........................................................................................................................................... 31 
+3.4.  Implications for investment, economic growth, gender and jobs................................................ 33 
+3.5.  Adaptation and wider social and environmental benefits .............................................................. 36 
+3.6.  Benefits of adaptation for economic growth ........................................................................................ 37 
+3.6.1.  Sector adaptation co-benefits analysis .................................................................................... 37 
+4.  Governance, Measurement, Reporting and Verification ....................................................................... 45 
+4.1.  Governance structure ..................................................................................................................................... 45 
+4.2.  MRV indicators and tracking ....................................................................................................................... 46 
+4.2.1.  MRV framework ................................................................................................................................ 46 
+4.2.2.  Reporting responsibility ............................................................................................................... 47 
+ 
+i 
+  
+Foreword 
+The Kingdom of Cambodia, as a country vulnerable to the impacts of climate change, understands the 
+urgency of ambitious climate action. Although Cambodia bears very little responsibility for the 
+historical and current climate crisis, we have consistently responded to international calls for action 
+on climate change and contributed to the efforts, in line with our capacities and responsibilities under 
+the United Nations Framework Convention on Climate Change. 
+As announced by Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister of the Kingdom 
+of Cambodia, during the 2020 United Nations Climate Ambition Summit, this “Long-Term Strategy 
+for Carbon Neutrality (LTS4CN)” is yet another testament to our consistent, strong commitment and 
+political will to address climate change.  
+We are proud to be among the very first members of the Least Developed Country group to submit 
+this long-term strategy. This is a highly significant step for a developing country like Cambodia. This 
+also reflects leading by example on climate change action on the part of Cambodia, a strong supporter 
+of multilateral action on climate change. 
+This LTS4CN essentially aims to serve as a roadmap or vision document based on a comprehensive 
+analysis and modelling of all relevant economic sectors, and it looks several decades ahead. It outlines 
+priority mitigation actions for each sector to achieve the country’s goal of a carbon neutral economy 
+in 2050.  The strategy largely builds on existing commitments of the Royal Government and proposes 
+a  trajectory  consistent  with  the  Updated  Nationally  Determined  Contribution.  It  takes  into 
+consideration the balance between emissions reductions, economic growth, social justice, and 
+climate resilience. Economic analysis shows that the investments to be made under this strategy have 
+the potential to create 449,000 additional jobs, and deliver an additional 2.8% of annual GDP growth 
+by 2050 for Cambodia. We can achieve carbon neutrality by 2050 through continued efforts to 
+address the forest sustainability and land use; decarbonize our power sector and pursue higher 
+energy efficiency; as well as promote low-carbon agriculture, industrial processes, and waste 
+management. 
+The vision set out in this document will be regularly updated and may be amended as needed to 
+reflect any evolving trends or unforeseen events. It provides an overall policy direction, while the 
+exact commitments and programmes of the Royal Government will continue to be articulated in our 
+Five-Year National Strategic Development Plans and corresponding sector plans. 
+We believe that this LTS4CN will help Cambodia to achieve carbon neutrality, which will be our major 
+contribution to the sustainable development in Cambodia and the world. 
+It is worth acknowledging here our inter-ministerial team who diligently took up the challenge to 
+develop this LTS4CN through a year-long process of intensive discussion and consultations among 
+international and national experts, concerned ministries, and key relevant stakeholders. 
+Our acknowledgement also goes to all our valued partners who have contributed to the development 
+of this important document, including, but not limited to, the Cambodia Climate Change Alliance 
+programme  (funded  by  the  European  Union,  Sweden,  and  the  United  Nations  Development 
+Programme), the United Kingdom, the World Bank, the Food and Agriculture Organization of the 
+United Nations, Global Green Growth Institute, and Agence Française de Développement. 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    ii 
+ It is imperative that the implementation of this LTS4CN requires strong cooperation and supportsJ 
+and we look forward to working with all stakeholders to make this long-term vision a realityr  ,()l/~ 
+( j  
+-~  ' 
+Cha r of the National Council for Sustainable Development 
+Minister of Environment 
+Cambodia's Long-Term Strategy for Carbon Neutrality  iii  
+Abbreviations 
+BAU  Business as Usual 
+CCGT  Combined-Cycle Gas Turbine 
+CEGIM  Climate Economic Growth Impact Model 
+CNG  Compressed Natural Gas 
+FOLU  Forestry and Other Land Use 
+GDP  Gross Domestic Product 
+GHG  Greenhouse Gas 
+ILO  International Labour Organization 
+IPCC  Intergovernmental Panel on Climate Change 
+IPPU  Industrial Processes and Product Use 
+LTS4CN  Long-Term Strategy for Carbon Neutrality 
+LNG  Liquified Natural Gas 
+MAC  Marginal Abatement Cost 
+MRV  Measurement, Reporting and Verification 
+MtCO e  Megatons of Carbon Dioxide Equivalent 
+2
+NDC  Nationally Determined Contribution 
+REDD+  Reducing  Emissions  from  Deforestation  and  Forest  Degradation, 
+fostering conservation and sustainable management of forests, and 
+enhancing forest carbon stocks 
+SAM  Social Accounting Matrix 
+tCO e  Tons of Carbon Dioxide Equivalent 
+2
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    iv 
+  
+Executive Summary 
+An innovative visioning exercise for Cambodia 
+By presenting this Long-Term Strategy for Carbon Neutrality (LTS4CN)1, Cambodia demonstrates 
+her commitment to the Paris Agreement on Climate Change and presents a policy scenario to realize 
+a vision of a carbon neutral and resilient society within the next 30 years. The LTS4CN is a new type 
+of policy tool for Cambodia. As a visioning exercise, it is not meant to replace or supersede existing 
+national and sectoral strategies of the Government but rather to guide future policy and investment 
+decisions by all concerned stakeholders. 
+The LTS4CN will possibly be reviewed every five years, in line with the framework for updating 
+Nationally Determined Contributions (NDCs) under the Paris Agreement. This will provide an 
+opportunity to refresh the LTS4CN and reflect the latest trends in policy, technology, and financing 
+as well as any unforeseen external events. 
+Developing the strategy was a collective effort that included contributions from relevant ministries 
+and agencies as well as technical experts. A two-stage greenhouse gas (GHG) emissions modelling 
+approach applied sector models to the agriculture, forestry and other land use (FOLU), industrial 
+processes and product use (IPPU), energy, and waste sectors. A combined pathway model indicated 
+the socioeconomic impacts of proposed measures.  
+The process started with defining relevant existing policy targets and action plans in national and 
+sectoral strategies as well as in the Updated NDC issued in 2020. An intensive round of consultations 
+led to the identification of priority mitigation actions for each sector. Different scenarios were 
+developed to explore how these actions can reduce emissions and help achieve carbon neutrality, 
+compared to business as usual (BAU). An economic modelling estimated the socioeconomic costs 
+using the marginal abatement cost model.  Adaptation benefits were elaborated for suggested 
+mitigation actions. 
+A credible scenario for carbon neutrality by 2050 
+The LTS4CN modelling suggests that Cambodia could achieve carbon neutrality in 2050 with the 
+FOLU sector providing a total carbon sink of 50 megatons of carbon dioxide equivalent (MtCO e). The 
+2
+energy sector is expected to be the highest emitter in 2050 at 28 MtCO e, followed by the agriculture 
+2
+sector at 19 MtCO e. The waste and IPPU sectors are projected to emit 1.6 and 1.2 MtCO e, 
+2 2
+respectively (Table 1).  
+   
+                                                             
+1 Carbon neutrality for this strategy is considered as Net Zero Greenhouse Gas Emissions. 
+1 
+  
+Table 1: GHG emissions projection by sector in 2050, BAU and LTS4CN scenarios 
+Emissions reduction in  Emissions balance in 
+Sector  BAU scenario, MtCO e 
+2 LTS4CN scenario, MtCO e  LTS4CN scenario, MtCO e 
+2 2
+Agriculture  34.9  -15.6  19.3 
+Energy  82.7  -54.3  28.2 
+FOLU  21.2  -71.4  (-50.2) 
+IPPU  10.7  -9.1  1.6 
+Waste  6.5  -5.3  1.2 
+Total  156.0  155.6  0,3 
+*The FOLU sector uses the national forest definition and soils have been included into the calculations. 
+ 
+The LTS4CN proposes a trajectory for decarbonization that is largely aligned with the updated NDC 
+trajectory. It incorporates some carbon sinks not previously considered in the NDC, however, 
+including an updated sink factor for forests remaining forests (in line with the second Forest 
+Reference Level Report), and for plantations and forest soils. This leads to a lower estimate of total 
+GHG emissions, at around 35 MtCO e less in 2020 compared to the NDC. 
+2
+Cambodia’s vision for carbon neutrality is largely founded on the continued implementation of 
+existing commitments in the FOLU sector. Execution of the REDD+ Investment Plan2 will drive 
+reduced rates of deforestation as well as an expansion of afforestation and reforestation activities. 
+The FOLU sector is expected to provide a significant carbon sink leaving room for other sectors to 
+incrementally transition towards carbon neutrality.  
+180.0
+160.0
+e
+2
+O 140.0
+C
+t
+M 120.0
+ n
+i s 100.0
+n
+o
+is 80.0
+s
+im 60.0
+e
+ G 40.0
+H
+G
+20.0
+0.0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
+2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+BAU Balance LTS4CN Balance
+ 
+Figure 1: GHG emission projections, BAU and LTS4CN scenarios  
+During the first decade of the strategy, emissions reductions are achieved in the FOLU sector by 
+starting implementation of the REDD+ Investment Plan. Once it is fully financed, it is expected to 
+reduce the deforestation rate by 50 percent in 2030 compared to the REDD+ baseline specified in the 
+updated NDC (reduce 50percent of historical emission). From 2030 onwards, reforestation and 
+afforestation efforts will continue with a raised level of ambition to ensure that the carbon sink from 
+                                                             
+2 REDD+ refers to reducing emissions from deforestation and forest degradation, fostering conservation and 
+sustainable management of forests, and enhancing forest carbon stocks. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    2 
+  
+forests continues to grow. The FOLU sector is expected to be carbon neutral from 2031. Afforestation 
+and reforestation efforts will be compatible with growth in the agricultural sector because of 
+expected gains in productivity and climate resilience. Deforestation is assumed to stop by 2045, with 
+the  FOLU  sector  becoming  both  resilient  and  sustainable,  transformed  by  agroforestry  and 
+reforestation as two dynamic mitigation actions. Land dedicated to sustainable plantations and 
+agroforestry is assumed to constantly increase to reach 1.6 million hectares under afforestation and 
+reforestation  mitigation  actions  and  1.1  million  hectares  of  native  forest  restoration.3 These 
+combined actions will result in a carbon sink of 50 MtCO e in 2050. 
+2
+In the energy sector, emissions reductions until 2030 come from energy efficiency and conservation 
+through the implementation of the National Energy Efficiency Policy4 in buildings, industry, and 
+public services. This will limit growth in energy demand even as demand for energy services rises 
+rapidly. Additionally, policies will be developed and put into place to incentivize switching to 
+electricity for cooking and passenger vehicles, and to coal alternatives in the industrial sector. Major 
+long-term infrastructural changes in the energy sector will be studied and prepared in this first 
+decade. After 2030, energy sector emissions reductions will come from more stringent energy 
+efficiency standards and continued fuel switching to low-carbon sources. Initial steps to decarbonize 
+the electricity supply will be taken, with some investments in renewable energy and gas. With natural 
+gas used as a transition fuel in the power sector, investments in infrastructure for imports, storage 
+and transportation will be necessary. In the last decade of the LTS4CN scenario, between 2040 and 
+2050, the power sector will start a deeper decarbonization journey by adding more renewable 
+energy in the generation mix, reaching a share of 35 percent in 2050. Within the renewable energy 
+share, 12 percent is assumed to come from solar. Investments in grid modernization, flexibility and 
+storage will be required during this transition. 
+In the transportation sector, urban public transportation will become more widespread and electric 
+vehicle penetration will grow in the passenger vehicle fleet. Investments in rail development will 
+start after 2030. Emissions will be also reduced by more moderate use of electric vehicles, increased 
+fuel efficiency for internal combustion engine vehicles and higher penetration of compressed natural 
+gas (CNG) for interregional buses and for trucks. Under the LTS4CN scenario, 70 percent of 
+motorcycles and 40 percent of cars and urban buses are expected to be electric vehicles by 2050. 
+The waste sector will achieve half of its emission savings in the first decade through mitigation 
+measures  in  solid  waste  disposal,  for  example,  by  diverting  organic  waste  from  landfills  or 
+introducing the effective management of landfill gas. Other important mitigation measures are linked 
+to reducing open burning and domestic wastewater. A small but increasing share of emissions 
+savings will be achieved through introducing good practices in the biological treatment of solid waste. 
+In 2050, the waste sector is expected to realize nationwide waste collection coverage of 85 percent 
+and will be almost fully decarbonized. The recycling rate will increase to 35 percent; 50 percent of 
+organic waste will be composted or treated. Most urban dwellings will have access to proper 
+wastewater treatment. And the principle of reduce, reuse, and recycle will be mainstreamed into the 
+national development agenda, including through environmental, social and economic plans, policies, 
+strategies, and programmes. 
+Mitigation actions in the agriculture sector are expected to be implemented gradually over the 30-
+year period. Major reductions will be achieved by reducing methane-intensive rice and livestock 
+production, and promoting composting and producing biogas in livestock management, organic 
+fertilizer, and deep fertilizer technology.  
+Major mitigation actions for the IPPU sector will start in the first decade of the LTS4CN scenario, with 
+emissions projected to peak in the early 2030s before dropping steeply until 2040. Between 2040 
+and 2050, emissions will fall gradually. Key mitigation actions in the sector are clinker substitution 
+                                                             
+3 A total of 2.7 million hectares is aligned with the target in the REDD+ Investment Plan. 
+4 Prepared by the Ministry of Mines and Energy for 2021 to 2030. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    3 
+  
+and carbon capture and storage in cement production, recycling of aggregate concrete, increased use 
+of refrigerants with low global warming potential and regular inspection of refrigeration and air-
+conditioning equipment as well as recovery of spent refrigerants. 
+The LTS4CN pathway delivers net economic benefits reaching 2.8 percent of GDP by 2050 
+Economic analysis of the LTS4CN suggests net economic benefits for the public and private sectors, 
+in addition to adaptation and wider social and environmental benefits. These net benefits start from 
+the first year of LTS4CN implementation and reach more than US $4.2 billion in 2050, over 2.8 
+percent of projected GDP. Wider social and environmental benefits including adaptation co-benefits 
+from LTS4CN actions are estimated to be worth more than the economic benefits, at nearly $7 billion 
+in 2050. 
+By 2050, the private sector is projected to invest nearly $1.4 billion each year, mostly in energy, 
+transportation, and the forestry sectors, with some significant investment in the IPPU sector. Benefits 
+in terms of private sector operating expenses are over six times the investment and come from a wide 
+range of actions. Significant benefits come from energy efficiency ($3.4 billion), vehicle electrification 
+($1.1 billion) and rail and freight haulage ($1.1 billion). These are reduced by $800 million in 
+opportunity costs from protecting forests from conversion to agriculture. Public capital expenditures 
+are relatively small, with some ongoing investment in renewable energy, buses, trains, and forestry, 
+in line with the REDD+ Implementation Plan. There are significant ongoing public operating expenses, 
+dominated by rail and haulage ($500 million) and the loss of a fuel tax from the electrification of 
+vehicles ($200 million). These costs are offset by operating profits from renewable energy. The net 
+contribution of agriculture, waste, and IPPU sectors is small.  
+Implementing the LTS4CN will require substantial public investment over 30 years (Figure 2). A 
+proposed public financing plan suggests devoting 1 percent of new public borrowing to the LTS4CN 
+and making a small shift to divert 3 percent of public spending on economic services to LTS4CN 
+actions. These two measures provide 40-50 percent of financing needs. The financing plan assumes 
+that pricing policies and taxation reform in the transportation sector will be introduced gradually 
+and cover 90 percent of transportation sector costs by 2050. 
+The financing plan also assumes that international climate finance will meet the remainder of public 
+finance needs. This will cover major investment in public transportation and rail freight, support in 
+the forestry sector, and financing for carbon capture and storage, and grid flexibility. International 
+climate finance is essential for Cambodia to implement the LTS4CN scenario. 
+700
+ S
+U Gap for climate finance
+(
+ g 600
+n
+ic Policy reform in transport
+n
+an)sr 500 2% of Economic Services spend
+if dallo
+nd 1% of new borrowing
+a s fo 400
+tso sn Total needs
+co 300
+ rotillim
+c
+es 200
+ c
+ilb
+u 100
+P
+0
+2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
+2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 
+Figure 2: Public financing needs and financing plan  
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    4 
+  
+Achieving Cambodia’s LTS4CN scenario is an ambitious but feasible goal. Realizing it depends on a 
+comprehensive enabling environment, sufficient access to technology and climate financing, and 
+extensive capacity building, and education.  
+With reducing emissions to net zero by 2050 critical to meeting the Paris Agreement goal of keeping 
+the global average temperature increase below 1.5°C, Cambodia is committed to leading the way. The 
+LTS4CN is an important starting point in providing guidance on how it can reach carbon neutrality 
+by 2050.  
+•  Less methane-intensive rice cultivars 
+•  Direct seeding practices 
+•  Alternate wetting and drying practices 
+Agriculture  •  Promotion of organic fertilizer and deep fertilizer technology 
+•  Feed additives for cattle 
+•  Improved fodder management  
+ 
+•  Introduction of composting technology 
+•  Reducing the deforestation rate by 50 percent in 2030 
+•  Stopping deforestation by 2045 
+Forestry and  •  Afforestation, improved forest management and forest 
+other land uses  restoration 
+•  Agroforestry and commercial tree plantation 
+ 
+•  Full implementation of the REDD+ Investment Plan by 2050 
+•  No  new  coal  generation  capacity  beyond  already  committed 
+projects 
+•  Use of natural gas as a dispatchable transition fuel 
+•  Investments in liquified natural gas (LNG) import, storage and 
+infrastructure 
+•  Increase in solar, hydro, biomass and other renewables to 35 
+Energy 
+percent of the generation mix by 2050, of which 12 percent is 
+from solar 
+  •  Investments in grid modernization, flexibility and storage Energy 
+efficiency measures in buildings and industry  
+•  Fuel switching to electricity for cooking 
+•  Substitution of coal in the industrial and power sector 
+•  More use of public transportation – 30 percent modal share in 
+urban areas by 2050 
+•  Moderate  penetration  of  electric  vehicles  –  70  percent  for 
+motorcycles and 40 percent for cars and urban buses by 2050 
+Transportation 
+•  Increased fuel efficiency for internal combustion engine vehicles 
+•  Rail for freight and passengers  
+  •  CNG penetration of 80 percent for interregional buses and 80 
+percent for trucks until 2050 
+•  Clinker substitution in cement production 
+Industrial  •  Carbon capture and storage for cement kilns 
+•  Use of recycled aggregate concrete 
+processes  and 
+•  Increasing use of refrigerants with low global warming potential 
+product use 
+•  Regular inspection of refrigeration and air-conditioning 
+ 
+equipment and recovery of spent refrigerants 
+•  Reducing open burning by expanding waste collection coverage 
+to 85 percent in 2050 
+•  Implementing a reduce, reuse, and recycle strategy 
+Waste 
+•  Landfill gas management 
+•  Organic composting 
+  •  Anaerobic digestion and wastewater treatment  
+ 
+Figure 3: Summary of key mitigation actions by sector 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    5 
+  
+1. Introduction and Background 
+1.1.  Global and local context of climate change 
+Science has made it clear that the Earth’s climate is changing, in every region and across the global 
+climate system. Most of these changes are unprecedented. According to the latest report from the 
+Intergovernmental Panel on Climate Change (IPCC), climate action in the next decades is crucial to 
+limit global warming. Staying below a temperature rise of 1.5°C or even 2°C will be nearly impossible 
+if immediate, rapid and large-scale reductions in GHG emissions do not take place.5 Improved 
+observational data sets to assess historical warming and better scientific understanding of the 
+response of the climate system have affirmed that human activities are responsible for the majority 
+of global warming since 1850. 
+The Royal Government of Cambodia is committed to combating climate change and accelerating the 
+transition to a climate-resilient, low-carbon, sustainable mode of development. Cambodia has been a 
+party to the United Nations Framework Convention on Climate Change since 1996, the Kyoto 
+Protocol  since  2002,  and  the  Paris  Climate  Agreement  since  2017.  Accordingly,  the  country 
+submitted her first NDC in 2015 and the Updated NDC in 2020, highlighting ambitious targets to 
+reduce emissions and strengthen adaptive capacity in line with Cambodia’s national policies and 
+strategies. 
+In the Updated NDC, Cambodia aims to reduce emissions by around 42 percent from 155 MtCO2e 
+under BAU to 90.5 MtCO e by 2030.6 The first national Biennial Update Report was submitted in 2020, 
+2
+which includes emissions from 1994 to 2016. Total emissions in 2016 reached 163.6 MtCO e. The 
+2
+FOLU sector is the largest source of emissions in Cambodia.7 
+1.2.  Developing Cambodia’s long-term strategy 
+Development of the Long-Term Strategy for Carbon Neutrality (LTS4CN) concluded in 2021. It 
+provides a detailed, evidence-driven guide to help Cambodia take long-term climate actions aligned 
+with the Paris Agreement commitment to limiting global warming to 1.5°C. It includes institutional 
+arrangements for long-term planning, development of a monitoring and evaluation framework, and 
+analysis of financial options and socioeconomic impacts of selected priority actions.  
+Developing the LTS4CN included planning (Phase 1) and strategy development (Phase 2). The 
+planning phase encompassed a literature review of key documentation and data sets and a vision-
+setting exercise based on desk research. The collection of baseline emissions information in five key 
+sectors, namely FOLU, energy, agriculture, IPPU, and waste, was accompanied by an exploration of 
+decarbonization pathways used or proposed in Cambodia so far. Phase 1 involved the development 
+of a plan for the strategy development. 
+The outcomes of Phase 1 were consistent with a vision of reaching carbon neutrality by 2050 through 
+upscaling existing mitigation activities and adding new activities. The study concluded that the main 
+contributors to emissions in Cambodia are the FOLU, agriculture, and energy sectors. Reaching net 
+zero by 2050, therefore, requires more focus on decarbonizing these sectors. In the FOLU sector, the 
+main driver of emissions is the expansion of industrial agriculture, while in agriculture, a key source 
+                                                             
+5 IPCC, 2021, Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment 
+Report of the Intergovernmental Panel on Climate Change. 
+6 General Secretariat of the National Council for Sustainable Development, 2020, Cambodia’s Updated Nationally 
+Determined Contribution. Phnom Penh. 
+7 General Secretariat of the National Council for Sustainable Development, 2020, First Biennial Update Report of the 
+Kingdom of Cambodia. Phnom Penh. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    6 
+  
+of emissions is rice cultivation. Energy sector emissions are largely determined by the power mix, 
+road transportation and the level of vehicle electrification.8 
+In Phase 2, all key stakeholders, under the leadership of the National Council for Sustainable 
+Development, contributed to strategy development as illustrated in Figure 4. 
+Sector analysis  Net-zero vision  Full scenario  Second round of 
+Finalize scenarios 
+identification of  meetings with line  development and  consultations and 
+and report writing
+key actions ministries modelling validation
+ 
+Figure 4: Overall methodology for Phase 2 of developing the LTS4CN  
+The Department of Climate Change of the General Secretariat of the National Council for Sustainable 
+Development/Ministry of Environment and Cambodia Climate Change Alliance Phase 3 coordinated 
+the development of the LTS4CN with support from development partners such as the United Nations 
+Development Programme, Agence Française de Développement, Global Green Growth Institute, the 
+Food and Agriculture Organization of the United Nations, Sweden, the United Kingdom, the European 
+Union, and the World Bank. 
+A two-stage GHG emissions modelling exercise was employed, consisting of sector models for the 
+agriculture, FOLU, IPPU, energy, and waste sectors, and a combined pathway model including a 
+socioeconomic cost and benefit analysis. Intensive consultation with all relevant stakeholders from 
+line ministries and other key institutions discussed priority mitigation actions and validated data, 
+assumptions, and approaches. This ensured that suggested LTS4CN actions would be feasible and 
+aligned with Cambodia’s development priorities and at the same time targeted to the goal of carbon 
+neutrality by 2050.  
+ 
+                                                             
+8 Carbon Trust, 2021, A Long-Term Low Emissions Development Strategy (LT-LEDS) for Cambodia: Literature Review and 
+Vision-Setting Report.  
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    7 
+  
+2. Cambodia’s Vision for Carbon Neutrality 
+2.1.  LTS4CN objectives and scenarios 
+The LTS4CN outlines a vision of a carbon neutral economy and provides long-term policy direction 
+on how to reduce emissions in the next few decades. The overall goal of the strategy is to describe a 
+pathway towards a country-wide carbon neutral economy by 2050.  
+2.1.1.  The BAU scenario 
+Summarizing findings from sector analysis and modelling, under a BAU scenario, emissions are 
+expected to increase at an annual rate of 1.9 percent up to 156 MtCO e. Figure 5 illustrates this 
+2
+emissions pathway. The FOLU sector has the highest share of total emissions, at 63percent in the 
+base year of 2016. In 2050, 53 percent of total emissions is expected to come from the energy sector, 
+followed by agriculture at 22 percent and FOLU at 14 percent. The smallest emitters are estimated 
+to be the IPPU and waste sectors, with shares of 7 percent and 4 percent, respectively. The BAU 
+scenario for the LTS4CN differs from the NDC BAU scenario primarily because additional carbon 
+sinks have been incorporated in the analysis. The carbon sink factor for forests remaining forests has 
+been aligned with the second Forest Reference Level Report recently submitted by Cambodia, and 
+the carbon sink from forest soils has been added along with the sink from plantations included in the 
+national forest definition. 
+ 
+180.0
+160.0
+e
+2140.0
+O
+C
+tM 120.0
+ n
+i s 100.0
+n
+o
+is 80.0
+s
+im
+60.0
+e
+ G
+H 40.0
+G
+20.0
+0.0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
+2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ Agriculture  Energy  FOLU  IPPU  Waste BAU Balance
+ 
+Figure 5: GHG emissions projections in the BAU scenario by sector 
+In the agriculture sector, rice cultivation, livestock management (enteric fermentation and manure 
+management), nitrous oxide emissions from managed soils and fertilizer are the main contributors 
+to emissions. Total emissions in the agriculture sector in the base year of 2016, amounted to 18 
+MtCO e. Emissions are estimated to almost double to 35 MtCO e in 2050 assuming current trends 
+2 2
+continue and no major mitigation actions occur. The main drivers of the agriculture sector are 
+population  and  economic  growth,  which  lead  to  increased  rice  and  meat  production  and 
+consumption.  
+The energy sector was responsible for roughly 8 MtCO e in 2016. It is the third largest emitting sector 
+2
+after FOLU and agriculture. Emissions are expected to grow exponentially, however, up to 83 MtCO e 
+2
+under the BAU scenario by 2050, driven by population and economic growth leading to increased 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    8 
+  
+energy  demand.  As  the  BAU  scenario  follows  a  conventional,  primarily  fossil  fuel-based  and 
+emissions-intensive development path, emissions are expected to increase by a factor of 10. 
+The FOLU sector was responsible for 51 MtCO e of emissions in 2016, the largest share of emissions 
+2
+in Cambodia. Deforestation is the major cause of emissions. Under the BAU scenario, emissions would 
+decrease to 21 MtCO e by 2050, with an annual decline by 2.6 percent between 2016 and 2050. 
+2
+The waste sector is the second smallest emitter at 2.8 MtCO e in 2016. Under BAU conditions, 
+2
+emissions are expected to grow to up to 6.5 MtCO e by 2050, which includes emissions from solid 
+2
+waste disposal, biological treatment, burning, and wastewater.  
+In the IPPU sector, the mineral industry (cement and glass), pulp and paper, lubricants, substitutes 
+for ozone-depleting substances (refrigeration and air conditioning, and fire protection) as well as the 
+food and beverage industry are the main contributors to emissions. Emissions totaled 1.8 MtCO e in 
+2
+2016,  mainly  from  the  cement  industry  (1.4  MtCO e,  74  percent)  and  refrigeration  and  air 
+2
+conditioning (0.4 MtCO e, 21 percent). According to BAU projections, emissions in 2050 is expected 
+2
+to  increase  to  11  MtCO e,  with  55  percent  from  the  cement  industry  and  39  percent  from 
+2
+refrigeration and air conditioning.  
+2.1.2.  The LTS4CN scenario 
+Reaching carbon neutrality requires both reducing sources of emissions, such as the combustion of 
+fossil fuels, and increasing carbon sinks, such as by expanding forests, since trees capture carbon 
+from the atmosphere as they grow. Cambodia’s vision for carbon neutrality is founded on the 
+country’s  strong  political  commitment  in  the  FOLU  sector.  Under  the  LTS4CN  scenario,  full 
+implementation of the REDD+ Investment Plan will drive afforestation and reforestation activities. 
+The FOLU sector is expected to become a significant carbon sink in 2050, leaving room for other 
+sectors to incrementally transition towards carbon neutrality. 
+180.0
+160.0
+e
+2140.0
+O
+C
+tM 120.0
+ n
+i s 100.0
+n
+o
+is 80.0
+s
+im
+60.0
+e
+ G
+H 40.0
+G
+20.0
+0.0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
+2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+BAU Balance LTS4CN Balance
+ 
+Figure 6: GHG emissions projections in the BAU and LTS4CN scenarios 
+The LTS4CN scenario suggests that Cambodia could achieve overall carbon neutrality in 2050 with 
+the FOLU sector providing a total carbon sink of about 50 MtCO e. The waste and IPPU sectors will 
+2
+be the least emitting sectors in 2050 with 1.6 and 1.2 MtCO e, respectively. The energy sector is 
+2
+expected to be the highest emitter at 28 MtCO e, followed by agriculture at 19 MtCO e (Figure 6).  
+2 2
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    9 
+  
+Table 2: GHG emissions projection by sector in 2050, BAU and LTS4CN scenarios 
+Emissions reduction in  Emissions balance in 
+Sector  BAU scenario, MtCO e 
+2 LTS4CN scenario, MtCO e  LTS4CN scenario, MtCO e 
+2 2
+Agriculture  34.9  -15.6  19.3 
+Energy  82.7  -54.3  28.2 
+FOLU  21.2  -71.4  (-50.2) 
+IPPU  10.7  -9.1  1.6 
+Waste  6.5  -5.3  1.2 
+Total  156.0  155.6  0,3 
+ 
+Compared to the BAU scenario, where carbon emissions are expected to increase to up to 156 MtCO e 
+2
+in 2050, the LTS4CN scenario would cumulatively avoid about 1,400 MtCO e of emissions over 30 
+2
+years (Figure 6). Reaching carbon neutrality is possible if the FOLU sector can develop a significant 
+carbon sink and all other sectors gradually reduce their emissions to the levels suggested in Table 2. 
+Total emissions in the LTS4CN scenario are projected to decline gradually until 2040, with the 
+decrease slowing between 2040 and 2050, as summarized in Figure 7. Figure 13 summarizes major 
+mitigation actions and targets for each sector. 
+100.0
+80.0
+e
+O2 60.0
+C
+t
+M
+40.0
+ n
+i s
+n 20.0
+o
+is
+s
+im 0.0
+e
+ G
+-20.0
+H
+G
+-40.0
+-60.0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0
+2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ Agriculture  Energy  FOLU  IPPU  Waste LTS4CN Balance
+ 
+Figure 7: GHG emissions projections in the LTS4CN scenario with sectoral shares 
+The LTS4CN scenario introduces eight mitigation actions for the agriculture sector to avoid a total of 
+16 MtCO e in 2050. That corresponds to an emissions reduction of 45 percent compared to the BAU 
+2
+scenario. Major decreases of emissions in crop cultivation can be achieved by using less methane-
+intensive rice cultivars, direct seeding practices, alternate wetting and drying practices, and organic 
+fertilizer and, deep fertilizer technology. In livestock management, mitigation measures are feed 
+additives  for  cattle,  improved  fodder  management  and  the  wide  application  of  composting 
+technology. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    10 
+  
+40.0
+35.0
+e
+2
+O 30.0 Savings from fertiliser
+C
+t
+M
+25.0
+ n Savings from livestock
+i s
+n 20.0
+o
+iss Savings from rice
+im 15.0
+e
+ GH 10.0 LTS4CN net emissions
+G
+5.0
+BAU emissions
+0.0
+ 
+Figure 8: GHG emissions projections for the agriculture sector in the LTS4CN scenario 
+The FOLU sector consultation and modelling process suggested a “green highway” scenario where 
+forests provide a carbon sink of 50 MtCO e in 2050 and are the main driver of carbon neutrality 
+2
+(Figure 9). This can be achieved through implementing ambitious sector policies and strategies 
+starting from the early 2020s, including the full implementation of the existing REDD+ Investment 
+Plan until 2050. Five key sectoral mitigation actions under the LTS4CN scenario are reducing 
+deforestation,  afforestation  and  reforestation,  improved  forest  management,  assisted  natural 
+regeneration9 of native forests and riparian landscapes, and agroforestry.  
+60.0
+40.0
+e
+2 LTS agroforestry
+O
+C
+t 20.0 LTS restoration
+M
+ ni s LTS forest management
+n 0.0
+o LTS plantation growth
+is
+s
+im LTS re/aforestation
+e -20.0
+ G LTS deforestation
+H
+G
+-40.0 BAU emissions
+-60.0
+ 
+Figure 9: GHG emissions projections for the FOLU sector in the LTS4CN scenario 
+Cambodia’s LTS4CN scenario for the energy sector can lead to significant emissions reductions by 
+progressively prioritizing three main actions: energy efficiency and conservation, shifts to low-
+carbon sources and decarbonization of electricity production. The scenario projects the energy 
+sector would emit only 28 MtCO e by 2050 (Figure 10), an emissions reduction of 66 percent 
+2
+compared to the BAU scenario. 
+Major emissions saving comes from energy efficiency in buildings and industry, the switch to 
+electricity for domestic cooking, and coal substitution and abatement in the industrial, and power 
+sectors. Incremental decarbonization of the power sector is suggested through a moderate share of 
+                                                             
+9 Assisted natural regeneration is the human protection and preservation of natural tree seedlings in forested areas. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    11 
+  
+renewable energy in the generation mix until 2050, while using natural gas as a transitional fuel. That 
+requires substantial investment in combined-cycle gas turbine (CCGT) power plants and LNG import 
+capacity. In the transportation sector, emissions savings can be achieved by developing rail for 
+passengers and freight, urban public transportation, and the electrification of the passenger and, 
+light-duty vehicle fleet. 
+90.0
+80.0
+e
+270.0 Savings from power genmix
+O
+C
+tM 60.0
+ n Savings from transport
+i s 50.0
+n
+o
+iss 40.0 Savings from industry
+im
+30.0
+e
+ G
+H 20.0 Savings from buildings/cooking
+G
+10.0
+LTS4CN net emissions
+0.0
+BAU emissions
+ 
+Figure 10: GHG emissions projections for the energy sector in the LTS4CN scenario 
+The LTS4CN scenario suggests five mitigation actions for the IPPU sector that could avoid a total of 
+9.1 MtCO e of emissions compared to 10.7 MtCO e under BAU. These priority actions aim to reduce 
+2 2
+emissions in cement production and use as well as the climate impact of refrigerants. They include 
+promoting clinker substitution and carbon capture and storage in cement production as well as the 
+recycling of aggregate concrete. The refrigeration and air-conditioning market would need to 
+implement use of refrigerants with low global warming potential, accompanied by regular inspection 
+of equipment and recovery of spent refrigerants (Figure 11). 
+12.0
+10.0
+e
+2
+O
+C
+tM 8.0
+ n Savings from low GWP refrigerants
+i s
+n 6.0
+o Savings from cement
+is
+s
+im LTS4CN net emissions
+4.0
+e
+ G BAU emissions
+H
+G
+2.0
+0.0
+2020202220242026202820302032203420362038204020422044204620482050
+ 
+Figure 11: GHG emissions projections for the IPPU sector in the LTS4CN scenario 
+The waste sector would reduce its emissions to 1.2 MtCO e in 2050 in the LTS4CN scenario (Figure 
+2
+12). This can be achieved by improving waste collection rates; implementing reduce, reuse, and 
+recycle principles; producing biogas and compost from organic waste; eliminating open burning; 
+extracting landfill gas and producing refuse derived fuel; and improving treatment of wastewater. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    12 
+  
+7.0
+6.0
+Savings from waste water
+e
+O2 5.0
+C Savings from open burning
+t
+M
+4.0
+ n
+i s Savings from biological treatment
+n 3.0
+o
+iss Savings from landfill
+im 2.0
+management
+e
+ GH 1.0 LTS4CN net emissions
+G
+0.0 BAU emissions
+-1.0
+ 
+Figure 12: GHG emissions projections for the waste sector in the LTS4CN scenario 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    13 
+  
+•  Less methane-intensive rice cultivars 
+•  Direct seeding practices 
+•  Alternate wetting and drying practices 
+•  Promotion of organic fertilizer and deep 
+Agriculture 
+fertilizer technology  
+•  Feed additives for cattle 
+  •  Improved fodder management  
+•  Introduction of composting technology  
+•  Reducing the deforestation rate by 50 percent in 
+2030 
+•  Stopping deforestation by 2045 
+Forestry and other land  •  Afforestation, improved forest management and 
+uses  forest restoration 
+•  Agroforestry and commercial tree plantation 
+ 
+•  Full implementation of the REDD+ Investment 
+Plan by 2050 
+•  No new coal generation capacity beyond already 
+committed projects 
+•  Use of natural gas as a dispatchable transition 
+fuel 
+•  Investments in LNG import, storage and 
+infrastructure 
+•  Increase  in  solar,  hydro,  biomass  and  other 
+renewables to 35 percent of the generation mix 
+Energy 
+by 2050, of which 12 percent is from solar 
+•  Investments  in  grid  modernization,  flexibility 
+  and storage  
+•  Energy  efficiency  measures  in  buildings  and 
+industry  
+•  Fuel switching to electricity for cooking 
+•  Substitution of coal in the industrial and power 
+sector 
+•  More use of public transportation – 30 percent 
+modal share in urban areas by 2050 
+•  Moderate penetration of electric vehicles – 70 
+percent for motorcycles and 40 percent for cars 
+and urban buses by 2050 
+Transportation 
+•  Increased fuel efficiency for internal combustion 
+engine vehicles 
+  •  Rail for freight and passengers  
+•  CNG penetration of 80 percent for interregional 
+buses and 80 percent for trucks until 2050 
+•  Clinker substitution in cement production 
+•  Carbon capture and storage for cement kilns 
+•  Use of recycled aggregate concrete 
+Industrial processes  •  Increasing use of refrigerants with low global 
+and product use  warming potential 
+•  Regular  inspection  of  refrigeration  and  air-
+ 
+conditioning equipment and recovery of spent 
+refrigerants 
+•  Reducing  open  burning  by  expanding  waste 
+collection coverage to 85 percent in 2050 
+•  Implementing a reduce, reuse, and recycle strategy 
+Waste 
+•  Landfill gas management 
+•  Organic composting 
+  •  Anaerobic digestion and wastewater treatment  
+Figure 13: Summary of key mitigation actions by sector  
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    14 
+  
+2.2.  Economic costs and benefits  
+The sector analysis entailed consultations to identify 31 key actions contributing to carbon neutrality. 
+Discussions of a long list of options led to the selection of five to eight key actions per sector that 
+capture the main opportunities for achieving carbon neutrality. Some actions bundle sets of more 
+detailed actions. An assessment of economic costs and benefits of the 31 key actions built on an 
+Extended Cost Benefit Analysis (see more details in separate the Technical Annex).  
+The LTS4CN scenario creates estimated net economic benefits for the public and private sectors of 
+about $5 billion in 2050 (3 percent of projected GDP). Further benefits will include $1 billion in 
+adaptation co-benefits from LTS4CN actions. Wider social and environmental benefits would reach 
+$6 billion, mainly from FOLU actions. Full net benefits start from the first year of the LTS4CN and 
+grow to more than $11 billion in 2050, which is 7.5 percent of projected GDP that year (see Section 
+3 for more details). This would compensate for about two thirds of the GDP lost due to climate change 
+impacts, as estimated in the Climate Economic Growth Impact Model (CEGIM) for Cambodia. 
+Table 3: Total costs and benefits by public and private capital and operating expenditures  
+  Annual costs (orange) and benefits (green), millions of dollars 
+2030  2040  2050 
+Private capital 
+473  743  1,384 
+expenditures 
+Private net annual costs  812  2,376  6,254 
+Public capital 
+159  294  476 
+expenditures 
+Public net annual costs  59  69  176 
+Adaptation benefits  346  630  994 
+Wider benefits (social and 
+1,393  3,466  5,977 
+environmental) 
+Total costs and benefits  1,859  5,366  11,188 
+ 
+By 2050, the private sector would be investing nearly $1.4 billion each year, mainly in energy, 
+transportation and forestry, with some significant investment in the IPPU. Private-sector operating 
+expenditure benefits are six times initial investment costs and come from a wide range of actions. 
+Benefits are high from energy efficiency ($3.4 billion), vehicle electrification ($1.1 billion) and rail 
+and freight haulage ($1.1 billion). These are reduced by nearly $800 million, however, due to the 
+opportunity costs of protecting forest from conversion to agriculture. Public capital expenditure is 
+relatively small, with some ongoing investment in renewable energy, buses, trains, and forestry, in 
+line with the REDD+ Investment Plan. There are significant ongoing public operating expenditures, 
+dominated by rail and haulage ($500 million) and the loss of a fuel tax from the electrification of 
+vehicles ($200 million). These costs are offset by operating profits from renewable energy, however. 
+The net contribution of the agriculture, waste, and IPPU sectors is small. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    15 
+  
+Table 4: Economic and wider benefits per year  
+  Benefits as a percentage of GDP  
+2030  2040  2050 
+Economic benefit  0.2  1.3  2.8 
+Adaptation co-benefits  0.6  0.6  0.7 
+Wider social and 
+2.6  3.6  4.0 
+environmental benefits 
+Total   3.4  5.5  7.6 
+ 
+2.2.1.  Public sector costs 
+Public costs are dominated by operating expenditures in the energy and transportation sectors, 
+including costs associated with rail and freight and loss of a fuel duty from electrification. While 
+public transportation fares will gradually increase to reduce the subsidy required for bus operations, 
+this will be more than offset by the steady rise in the loss of a fuel duty due to the electrification of 
+cars. These costs could be reduced or even entirely avoided by introducing other forms of vehicle 
+taxation and building demand for buses and trains so that pricing policies can make bus and rail 
+operators profitable. 
+There are smaller net costs in the forestry sector, mainly from lost forestry royalties, but also from 
+the costs of supporting reforestation, afforestation, improved forestry management and restoration 
+of degraded forest. Costs of public support average $17 million per year in the first 10 years of the 
+LTS4CN scenario, consistent with the REDD+ Investment Plan, which requires $16 million per year. 
+2.2.2.  Public financing plan 
+The LTS4CN will require substantial public investment over 30 years (Table 5). A proposed public 
+financing plan suggests devoting 1 percent of new public borrowing to the LTS4CN and making a 
+small shift in public spending on economic services to divert 2 percent to LTS4CN actions. These two 
+measures provide 40-50 percent of financing needs. The financing plan  assumes the gradual 
+introduction of pricing policies and taxation reform in the transportation sector, which will cover 90 
+percent of transportation sector costs by 2050. 
+The remainder of public finance needs will be met by international climate finance. This will include 
+major investment in public transportation and rail freight as well as support for the forestry sector 
+and financing for carbon capture and storage and, grid flexibility. 
+Table 5: Public financing needs and financing plan 
+  Public financing needs, millions of dollars 
+Total 
+2025  2030  2035  2040  2045  2050 
+2025-2050 
+New public borrowing 
+(1 percent)  19  28  38  52  65  83  1,212 
+Economic services 
+44  63  85  115  146  186  2,724 
+spent (3 percent) 
+Policy reform in the 
+10  33  75  103  111  334  2,727 
+transportation sector 
+International climate 
+62  94  118  93  61  50  2,333 
+finance 
+Total   135  218  316  364  383  652  8,997 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    16 
+  
+2.3.  Technology and capacity needs 
+Technology and capacity needs are crucial for successful LTS4CN implementation, especially for the 
+Department of Climate Change, the Climate Change Technical Working Group, and sectoral and 
+subnational technical working groups. They are the enablers of adaptation and mitigation actions 
+and  commitments.  Without  proper  capacity  and  technology,  it  will  be  difficult  although  not 
+impossible for Cambodia to achieve carbon neutrality by 2050. The following subsections summarize 
+key technology and capacity needs for each sector. 
+2.3.1.  Agriculture sector 
+Major barriers to LTS4CN actions in agriculture include conflicting land use demands, the clash 
+between  regional  and  sectoral  implementation  plans,  and  the  significant  energy  required  for 
+manufacturing organic fertilizers. Transformations are required to improve agriculture productivity, 
+increase land use efficiency and enhance planning and implementation, among others. Table 6 details 
+the challenges and required technology and capacity. 
+Table 6: Technology and capacity needs in the agriculture sector 
+Major  challenges  and  Transformation needed  Required  transformative  Responsible 
+barriers   policy  measures  and  actors 
+capacity  
+Demand for land in  Improvement in  Research on high  Ministry of 
+agriculture (rice crop  agriculture productivity.   productivity agricultural  Agriculture, 
+cultivation) with     technologies;  Forestry and 
+population growth;  Increasing land use  capacity building for  Fisheries  
+emissions reduction  efficiency (including  farmers to enable them to 
+target in the FOLU  integrated farming or  use high-quality seeds and 
+sector.   complex agroforestry).   adopt improved 
+  technologies and practices. 
+Enhanced commitment of   
+large-scale businesses to  Optimization of the use of 
+environmentally sound  unproductive land in non-
+practices.   forest areas for cropland 
+expansion, along with the 
+enforcement of bans on the 
+conversion 
+of agricultural lands to 
+other land uses. 
+ 
+Provision of incentives for 
+contributions to emissions 
+reductions and other 
+environmental benefits. 
+The clash between  Enhanced effectiveness of  Policy and programme  Ministry of 
+regional and sectoral  the planning and  alignment among line  Agriculture, 
+pathway  implementation of the  ministries, among regions,  Forestry and 
+implementation plans.  two pathways.  and between ministries and  Fisheries; Ministry 
+local governments (vertical  of Public works and 
+and horizontal alignment)  transport; Ministry 
+and coherent institutional  of Health; Ministry 
+arrangements.  of Mines and 
+Energy; and 
+Ministry of 
+Planning  
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    17 
+  
+Energy required for  Technical and economic  Provision of incentives or  Ministry of 
+manufacturing organic  feasibility assessments to  tax benefits for starting  Agriculture, 
+fertilizers (crushing,  produce organic fertilizer.     regional organic fertilizer  Forestry and 
+drying and    plants.   Fisheries 
+transportation) to  Promotion of solar-  
+replace inorganic  powered organic fertilizer  Special provisions and tax 
+fertilizer. If organic  manufacturing.    benefits for organic 
+fertilizer is produced in    fertilizer used by food 
+Cambodia, it will have  Promotion of regional  manufacturers. 
+an impact on the energy  organic fertilizer 
+sector.  manufacturing to reduce 
+transportation emissions. 
+2.3.2.  Energy sector 
+The main barriers to the LTS4CN scenario in the energy sector include obstacles to electric cooking, 
+large-scale displacement of coal in industries, challenges to increase clean transportation, develop 
+collective transportation and a sustainable transportation economy, increase variable renewable 
+energy, the use of natural gas in the power and transportation sectors, and develop “behind the meter” 
+distributed energy resources. Table 7 suggests how to address these barriers to achieve necessary 
+transformations. 
+Table 7: Technology and capacity needs in the energy sector 
+Major  Transformation  Required transformative policy  Responsible actors 
+challenges and  needed  measures and capacity  
+barriers  
+Barriers to  Active promotion of  Significant investments in the  Ministry of Mines and 
+electric cooking  quality, efficient  power sector and incentives for  Energy 
+are significant in  electric cooking  low- and middle-income   
+terms of device  equipment (beyond  households to adopt quality  Electricite du 
+accessibility,  rice cookers) to  electric cooking devices will be  Cambodge (electric 
+cooking habits,  households, graduating  necessary to support the switch to  utility) 
+and widespread  to clean cooking where  electric cooking.   
+access to reliable  the electric grid is  Ministry of Industry, 
+and, affordable  reliable.  Science, Technology 
+clean electricity.     and Innovation   
+Expansion of the 
+electric grid to allow 
+the transition to 
+electric clean cooking. 
+The large-scale  Supply chains for  Allocation of a budget for research  Ministry of Industry, 
+displacement of  collection of biomass  on biomass densification  Science, Technology 
+coal in industries  residues (mainly from  technologies and torrefaction.  and Innovation   
+depends on the  processing to limit     
+reliable  negative impacts on  Provision of incentives or 
+availability of  soil fertility) and waste  subsidized loans for industries 
+sustainable  need to be structured.  investing in biomass residue 
+biomass and  Investments in drying,  processing for the domestic 
+waste that are  torrefaction, and  market.   
+homogeneous  densification   
+and have high  technologies are 
+energy content.  necessary to realize 
+fuel quality. 
+Increasing clean  Development of    Ministry of Mines and 
+transportation  regulatory frameworks  Energy 
+(electric vehicles,  and a policy   
+CNG, etc.) across  environment to  Ministry of Public 
+all transportation  encourage electric  Works and Transport 
+segments  vehicles and   
+requires fueling 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    18 
+  
+Major  Transformation  Required transformative policy  Responsible actors 
+challenges and  needed  measures and capacity  
+barriers  
+and maintenance  alternative fuels  Ministry of Industry, 
+infrastructure.  uptake.  Science, Technology 
+  and Innovation   
+Implementation of a   
+charging station  Electricite du 
+network for electric  Cambodge 
+vehicles.   
+  Private sector 
+Implementation of a 
+CNG/LNG fueling 
+network for trucks that 
+cannot move to electric 
+vehicles. 
+ 
+Grid reinforcements 
+and modernization to 
+accommodate electric 
+vehicle loads. 
+ 
+Development of 
+competencies and 
+market offerings for 
+vehicle maintenance 
+and distribution. 
+ 
+Study of hydrogen or 
+other zero-carbon 
+fuels as long-term 
+alternatives to natural 
+gas for the trucking 
+sector. 
+Development of  Planning and financing  Government setting a long-term  Ministry of Public 
+collective  for public  vision for transportation and  Works and Transport 
+transportation  transportation and  planning accordingly.   
+and a sustainable  passenger and freight    Ministry of Industry, 
+transportation  rail expansions.  Capacity building for local  Science, Technology 
+economy.    authorities and transportation  and Innovation   
+New transportation  companies (operators,   
+paradigms,  manufacturers, etc.). 
+encompassing new   
+technologies,   
+innovative modes of  Development of courses at all 
+travel organization and  levels for initial training on green 
+behaviour changes.  transportation and continuous 
+  learning. 
+Reinforcement of   
+transportation   
+management  Support to start-ups or local 
+competencies in urban  businesses in the sector. 
+municipalities and/or   
+selection of operators.  Incentives and promotion 
+  campaigns, including potential 
+Development of  subsidies for collective 
+competencies and  transportation (rail, public 
+market offerings for  transportation). 
+other collective   
+transportation services  Set up policies to facilitate the 
+such as carpooling   deployment of new transportation 
+modes (example, low emission 
+zone LEZ, car parks, etc.). 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    19 
+  
+Major  Transformation  Required transformative policy  Responsible actors 
+challenges and  needed  measures and capacity  
+barriers  
+Increasing  Resource mapping and  Development of policy targets for  Ministry of Mines and 
+variable  identification of  variable renewable energy  Energy 
+renewable energy  renewable energy  penetration.   
+(wind, solar  sources.     Electricite du 
+photovoltaic) in    Development of a prospectus of  Cambodge 
+the power sector  Incentives, policy  priority sites for project   
+implies major  targets and tariff  development.   
+investments in  structures to    Electricity Authority 
+generation  encourage renewable  Institutionalization of auction  of Cambodia 
+capacity, grid  energy investments.  mechanisms for procurement of   
+modernization     renewable energy projects on  Ministry of Industry, 
+and flexibility,  Human  priority sites.  Science, Technology 
+and storage.  resources/capacity to    and Innovation   
+support integrated  Development and introduction of   
+renewable energy  flexible terms for dispatchable 
+planning, installation  generation capacity to allow 
+and operations.   ancillary services. 
+   
+Modernized power  Development and introduction of 
+system operation  time-of-use tariff policies. 
+(generation fleet, 
+  
+dispatch and grid 
+Capacity building for 
+code) and 
+government/energy sector officials 
+development of 
+on integrated power planning, 
+storage to adapt to 
+resource  resource mapping and 
+intermittence.  regulation/tariffication. 
+     
+Contracts and  Labour development policies to 
+tariffication  train personnel for renewable 
+methodologies that 
+energy systems operations, clean 
+better account for 
+energy technicians, etc.  
+flexibility in needs and 
+risks related to 
+variability. 
+ 
+Competitive 
+renewables and 
+storage procurement.  
+ 
+Consumer behaviour 
+change to shift demand 
+to times with high 
+resource availability. 
+Use of natural gas  Planning and financing  Government vision-setting and  Ministry of Mines and 
+in the power  of natural gas  master plans on the long-term role  Energy 
+sector (CCGT)  infrastructure  of natural gas in the energy sector.   
+and  investments.    Ministry of Public 
+transportation     Training/capacity building for  Works and Transport 
+(CNG for heavy- Consideration of the  public officials on natural gas   
+duty vehicles)  long-term flexibility  procurement, operations,  Ministry of Industry, 
+will require  and resilience of  regulations, environmental risks,  Science, Technology 
+import, storage  natural gas  etc.  and Innovation   
+and potentially  infrastructure with   
+transportation  respect to a potential  Labour force training for operators 
+infrastructure for  shift to zero-carbon  at port, storage or transportation 
+LNG.  gases such as  facilities. 
+hydrogen, and   
+potential threats from  Allocation of a budget for research 
+market disruptions or  on the long-term potential for 
+climate events.  natural gas alternatives such as 
+   hydrogen. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    20 
+  
+Major  Transformation  Required transformative policy  Responsible actors 
+challenges and  needed  measures and capacity  
+barriers  
+Capacity development   
+for operations and 
+maintenance of related 
+infrastructure and 
+equipment. 
+ 
+Development of a 
+regulatory 
+environment to 
+support import, 
+distribution, pricing 
+and health, safety and 
+environment (HSE) 
+oversight. 
+Development of  Development of a  Incentives for individuals or  Ministry of Land 
+“behind the  policy and regulatory  developers to integrate distributed  Management, Urban 
+meter”  environment for  energy into building constructions  Planning and 
+distributed  distributed energy    Construction 
+energy resources  integration in the built  Support to businesses in   
+will contribute to  environment.  developing distributed energy  Ministry of Mines and 
+reducing overall    offerings.  Energy 
+emissions from  Development of a     
+the building  market offering  Integration of distributed energy in  Electricity Authority 
+sector and  (specialized equipment  building codes and electricity  of Cambodia 
+decrease  suppliers, real estate  distribution regulations.   
+pressure on grid- developers, etc.) for   
+connected  distributed energy in  Policy intervention in urban 
+generation  residential and  planning and design (reduce 
+capacity, but  commercial buildings.  carbon footprints and contribute to 
+large-scale    spatial development sustainability, 
+integration  Grid and regulatory  etc.) 
+creates technical  adaptations if excess   
+and regulatory  energy is reinjected   
+challenges.  into the grid. 
+ 
+2.3.3.  FOLU sector 
+For the FOLU sector, gaps in the technical capacity for measurement, reporting and verification 
+(MRV) were identified as emphasized in the 2020 Biennial Update Report and the Updated NDC. 
+Capacity gaps relate to a lack of in-depth understanding of the technical aspects of GHGs and 
+mitigation actions, including the detailed set of modalities, procedures and guidelines under the 
+Enhanced Transparency Framework, GHG inventories, mitigation analysis, climate vulnerability and 
+adaptation assessments, projection methods for emissions and removals, quality assurance and 
+control, and technical support for improving activity data and emissions factors. Also important is 
+improving institutional capacity for monitoring and evaluation to enhance reporting on mitigation, 
+adaptation, and support needed and, received. Table 8 provides an overview.  
+ 
+ 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    21 
+  
+Table 8: Technology and capacity needs in the FOLU sector 
+Major challenges and  Transformation needed  Required transformative  Responsible 
+barriers   policy measures and  actors 
+capacity  
+Speed of project and/or  The FOLU sector benefits  Leadership and political  Ministry of 
+investment  from programmes already  commitments.  Environment 
+implementation.   in place. The REDD+   
+Investment Plan is a key 
+initiative that will require 
+full funding and 
+implementation. 
+Access to climate finance.  Targets will require an  Capacity building for  Ministry of 
+optimal use of funding and  developing grants and  Environment; 
+new climate finance.  investment proposals.  Ministry of 
+  Agriculture, 
+  Forestry and 
+Fisheries; 
+Ministry of 
+Planning; and 
+partners 
+Access to innovations in  A major aspect of  Capacity building, access to  Ministry of 
+satellite imagery and  mitigation relies on clear  funding and a budget  Environment 
+monitoring.  zoning and monitoring of  allocation for research on 
+forests.  effective monitoring 
+systems. 
+Implementation of the  Statistical sampling  Leadership, capacity  Ministry of 
+first National Forest  approaches for land use  building, experimental  Environment; 
+Inventory.  changes and accurate  research and access to  Ministry of 
+emissions factors must  funding.  Agriculture, 
+account for all of the carbon  Forestry and 
+pool.  Fisheries  
+Data collection system for  Systematic data collection  Leadership, capacity  Ministry of 
+harvested wood products.  on harvested wood  building and access to  Agriculture, 
+products for local  funding.  Forestry and 
+consumption and export,  Fisheries; 
+including biomass use for  Ministry of 
+energy.  Environment; 
+Ministry of 
+Planning 
+Other emissions from  Accounting for all major  Leadership, capacity  Ministry of 
+forest conversion and  GHGs: carbon dioxide,  building and experimental  Agriculture, 
+forest fires.  methane and nitrous oxide.   research.  Forestry and 
+Fisheries; 
+Ministry of 
+Environment 
+Growth and yield for  Sinks are clearly estimated  Leadership, capacity  Ministry of 
+natural forests and  under specific forest types  building and experimental  Agriculture, 
+plantations of non-native  and plantations.  research.  Forestry and 
+and native species.  Fisheries; 
+Ministry of 
+Environment 
+Exposure to natural  With higher forest cover  Access to funding and  Ministry of 
+disasters and fires.  and a focus on  innovations to increase the  Environment; 
+afforestation, mitigation  resilience of the forestry  Ministry of 
+strategies will need to  sector.  Agriculture, 
+reduce impacts on forests  Forestry and 
+from natural disasters and  Fisheries 
+the risk of fires. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    22 
+  
+2.3.4.  IPPU sector 
+Several major barriers in the IPPU sector include the long-distance transportation of captured carbon, 
+the use of several products for clinker substitution, the risk of increased emissions from recycling 
+aggregate concrete, and the impact of refrigeration and air-conditioning systems on global warming. 
+Needed transformations could build on technical and economic feasibility assessments to determine 
+carbon capture readiness, the allocation of bare lands away from residential areas for carbon storage, 
+the introduction of novel technologies and national-level research on using refrigerants with low 
+global warming potential. Table 9 summarizes major challenges and outlines required technology 
+and capacity.  
+Table 9: Technology and capacity needs in the IPPU sector 
+Major challenges and  Transformation needed  Required  Responsible 
+barriers   transformative policy  actors 
+measures and capacity  
+Secure storage of captured  Technical and economic  Allocation of a budget for  Ministry of 
+carbon requires extensive  feasibility assessments to  research on innovative  Industry, 
+isolated land areas apart  determine carbon capture  cost-effective carbon  Science, 
+from industrial and urban  readiness in the country.  capture and storage  Technology and 
+zones. Captured carbon    technologies.  Innovation;   
+therefore needs to be  Allocation of bare lands that    Ministry of 
+transported long  are away from residential  Policy changes for Special  Environment 
+distances, which may add  areas and are not suited for  Economic Zones to   
+significant transportation  agriculture or forestry.   implement carbon 
+emissions (energy sector).    capture and storage.  
+Industry collaboration on a   
+megascale project to  Provision of incentives or 
+optimize transportation,  subsidized loans for 
+rather than relying on  industries willing to 
+individual industries.  implement carbon 
+capture and storage. 
+Using several products for  Allocation of bare lands for  Industrial policy change  Ministry of 
+clinker substitution, such  waste disposal that are away  (mandate for the cement  Industry, 
+as reduced coal ash  from residential areas and  industry) to move  Science, 
+powder waste and fly ash  waterways, and that are not  towards cement with less  Technology and 
+etc., requires extra land to  suitable for agriculture or  clinker composition as a  Innovation;   
+dispose of waste. This can  forestry.   sustainable product.  Ministry of 
+cause land and water      Environment 
+pollution.   Provision of incentives or   
+subsidized loans for 
+cement industries willing 
+to implement clinker 
+substitution.   
+Recycling aggregate  Introduce novel  Policy changes for Special  Ministry of 
+concrete requires a special  technologies.  Economic Zones to allow  Industry, 
+process including crushing  recycled aggregate  Science, 
+technology, which may be  concrete.   Technology and 
+energy-intensive and    Innovation; 
+increase energy sector  Provision of incentives or  Ministry of 
+emissions.  subsidized loans for  Environment; 
+industries willing to  and Ministry of 
+recycle aggregate  Mines and 
+concrete.    Energy 
+The impact of  National-level research on  Impose restrictions or  Ministry of 
+refrigeration and air- using low global warming  bans on high global  Environment 
+conditioning systems on  potential refrigerants.  warming potential   
+global warming is through    refrigerants. 
+both energy use and  Refrigerants   
+refrigerant emissions. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    23 
+  
+Major challenges and  Transformation needed  Required  Responsible 
+barriers   transformative policy  actors 
+measures and capacity  
+Nearly 80 percent of total  assessment for life cycle  New industrial law to 
+emissions comes from   emissions of  increase the frequency of 
+energy, while 20 percent  refrigeration/air- equipment checks; 
+relates to refrigerants.  conditioning equipment.  implementation of the 
+Refrigerant fluids are    law on managing the 
+chosen for their  release of gases. 
+thermodynamic efficiency   
+to extract heat and for  Introduction of a 
+their safety in use.  national-level 
+Replacing high global  methodology for end-of-
+warming potential  life disposal. 
+refrigerants with low   
+potential ones inevitably 
+involves a loss of 
+refrigerating efficiency, 
+which increases energy 
+use. As a result, electricity 
+consumption and 
+emissions may increase.  
+ 
+2.3.5.  Waste sector 
+Several main barriers to the LTS4CN in the waste sector include gaps in solid data; the lack of clear 
+government investment policies, incentives and mechanisms; insufficient institutional capacity; and 
+limited public participation and awareness. Necessary transformations, among others, centre on 
+installing  weighbridges  and  matters,  developing  a  central  database  and  conducting  waste 
+composition studies. Table 10 provides an overview. 
+Table 10: Technology and capacity needs in the waste sector 
+Major challenges and  Transformation needed  Required transformative  Responsible 
+barriers   policy measures and  actors 
+capacity  
+Install weighbridges at new  Allocation of a budget for 
+landfills and meters at new  infrastructure and 
+The sector faces a  wastewater treatment plants  information technology. 
+Ministry of Public 
+general lack of solid  with a proper data collection   
+Works and 
+data. Data are usually  system.   Establish clear roles and 
+Transport; 
+produced using    responsibilities for data 
+Ministry of 
+estimations per capita  Develop and organize a  collection, reporting and 
+Environment; 
+instead of actual  central database that is kept  analysis.  
+Ministry of 
+measurements, such as  up to date.  
+Industry, Science, 
+tonnage of waste sent   
+Technology and 
+to landfills. There is no  Conduct studies on the 
+Innovation; 
+centralized database  composition of municipal 
+subnational 
+that can be easily  solid and industrial waste 
+administrators 
+accessed.  and leakages to the 
+environment, and analyse 
+focal sludge. 
+The lack of clear  All proposed technologies  Ministry of 
+Develop enabling 
+government investment  are proven at commercial  Economy and 
+investment policies, 
+policies, incentives and  scale. Some are expensive  Finance, 
+standardized power 
+mechanisms is  and complex to run,  Ministry of 
+purchase agreements, an 
+hindering private sector  however, requiring the  Environment, 
+appropriate fee-in tariff for 
+investment and  participation of specialized  Ministry of Public 
+electricity and gate fees at 
+participation.   international companies.  Works and 
+waste processing centres. 
+Clear articulation and  Transport 
+ 
+implementation of   
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    24 
+  
+Major challenges and  Transformation needed  Required transformative  Responsible 
+barriers   policy measures and  actors 
+capacity  
+government investment  Organize competitive 
+policies and incentives will  public procurement to 
+enable international private  attract global developers 
+sector participation.  and investors. 
+ 
+Offer land allocations and 
+concessions for waste 
+management facilities. 
+A lack of institutional  Reinforce and clarify the  Strengthen and implement 
+capacity to assess and  regulatory framework and  the regulatory/legislative 
+regulate new  focus on capacity building  framework (environmental 
+Ministry of 
+technologies, including  within government  impact assessments, 
+Environment; 
+environmental and  institutions, including for  licensing process). 
+Ministry of Public 
+social safeguards.   subnational administrators   
+Works and 
+Environmental impact  with direct oversight  Improve monitoring and 
+Transport; 
+assessments are  responsibilities for waste  regulatory oversight. 
+subnational 
+outsourced only to local  infrastructure and   
+administrators 
+firms that may not have  operations.  Institutional capacity 
+capabilities to assess  building. 
+new technologies. 
+Limited public  Public participation and buy- Long-term awareness 
+participation and  in during the development of  campaigns and guidance. 
+awareness hinder  policy and infrastructure.     Ministry of 
+waste management  Ongoing awareness raising  Provision of infrastructure  Environment; 
+improvement.  on environment issues and  to facilitate compliance  Ministry of Public 
+regulations applying to the  (e.g., bins, signage).  Works and 
+community.    Transport; 
+Implementation of  subnational 
+regulations (e.g., issuing  administrators 
+fines for repeated non-
+compliance). 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    25 
+  
+3. Socioeconomic Benefits 
+3.1.  Costs and benefits of LTS4CN actions 
+Figure  presents the evolution of net costs and benefits for each of the 31 actions in the LTS4CN. Ten 
+actions account for over 90 percent of total costs and benefits, covering both public and private costs. 
+Actions with the highest net benefits are at the bottom of the figure; actions with the highest net costs 
+are at the top. 
+Major costs are from lost timber and farming revenues arising from reduced deforestation, along 
+with expenditures on carbon capture and storage and to some extent for public transportation over 
+the first decade. Forest restoration also requires net costs in the same period.  
+Four actions would deliver substantial net benefits. Public transportation benefits arise from reduced 
+vehicle operation costs, and time savings among commuters on all modes of transportation due to 
+lower congestion. Renewable energy is profitable through most of the time. Road and rail haulage 
+and switching to low global warming potential refrigerants are also profitable.  
+The private sector would see very strong benefits from energy efficiency. Afforestation yields steadily 
+growing benefits. The electrification of vehicles in the last decade of the period delivers nearly 
+$500 million of benefits by 2050. 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    26 
+  
+ 
+Figure 14: Costs and benefits of key LTS4CN actions, including public and private capital and operating expenditures  
+A marginal abatement cost (MAC) curve describes both the cost effectiveness of the action (on the   
+y-axis) and the scale of its potential contribution to emission reductions (on the x-axis). This Figure  
+presents a MAC curve for the LTS4CN, with the average cost effectiveness over the period on the          
+y-axis and the potential reduction in GHG emissions by 2050 on the x-axis. Labels for smaller actions 
+are removed to make the MAC curve more legible. The more cost-effective actions appear to the left 
+of the curve. 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality    27 
+  
+ 
+Figure 15: The MAC curve for 2050 
+28 
+  
+The MAC curve provides a guide to help prioritize actions. It offers only a broad overview, 
+however, and simplifies key issues, including changes in cost effectiveness due to technical 
+innovation and market conditions, and greater expense as actions are scaled up. Despite these 
+shortcomings, some conclusions are possible. 
+•  About 15 percent of emissions reductions comes from six actions that are strongly 
+profitable: energy efficiency, rail, refrigerants, renewable energy, electric vehicles, 
+and public transportation; 
+•  About 50 percent of reductions can be achieved by actions that are marginally 
+profitable, including, in particular, afforestation, forest management, and rice 
+practices; and 
+•  The remaining 35 percent of reductions require actions with net costs. These 
+reductions are dominated by reduced deforestation and carbon storage and capture. 
+3.2.  Total economic costs and benefits 
+The economic analysis suggests that the LTS4CN create net economic benefits for the public 
+and private sector even before accounting for adaptation and wider social and environmental 
+benefits. These net benefits start from the first year of the LTS4CN and grow to more than $4 
+billion in 2050, over 2.8 percent of projected GDP that year. 
+Public and private sectors: Figure  shows that public sector costs start at relatively modest 
+levels and grow steadily through the period, reaching nearly $1 billion or 0.7 percent of GDP in 
+2050. The private sector experiences strong net benefits from the second year, reaching $1 
+billion in 2036 and growing strongly for the remainder of the period. The figure also shows, 
+however, that these net benefits require significant private sector investment, which must 
+grow steadily to nearly $1.5 billion in 2050. This investment is profitable but requires clear 
+policy commitments to providing private sector confidence in investing in carbon neutral actions. 
+29 
+  
+Figure 16: Total costs and benefits of public and private capital and operating expenditures  
+Costs and benefits by sector: Figure 14 shows the sectoral distribution of net costs and 
+benefits. The economic impacts of actions in the agriculture, waste, and IPPU sectors are small. 
+The overall costs are dominated by FOLU, with net costs in 2050 of about $1 billion. These costs 
+are attributed to the FOLU sector but the largest element is the opportunity cost of foregoing 
+income from the agricultural use of deforested land. The cost of foregoing timber sales from 
+deforestation is also large. Direct forestry costs are significant but smaller than the opportunity 
+costs associated with reduced deforestation. The benefits are dominated by energy and 
+transportation, with net benefits of over $4 billion in 2050, driven largely by economic savings 
+from energy efficiency plus reduced commuting costs associated with public transportation, 
+renewable energy, lower haulage costs, and electric vehicles. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     30 
+  
+Figure 14: Total costs and benefits by sector 
+3.3.  Public sector costs 
+Figure 15 shows public sector costs by sector, with substantial funding required in energy and 
+transportation, FOLU, and IPPU.  Mid-period funding in the energy sector relates largely to 
+public transportation. The strong increase in the last decade is associated with investment in 
+rail and haulage to support strong economic growth, and the loss of a fuel duty as electrification 
+of transportation expands. 
+ 
+Figure 15: Public sector costs by sector 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     31 
+  
+Figure 19 shows the breakdown of public expenditure requirements by key actions. The largest 
+requirements are for operating expenditures in the energy and transportation sectors, which 
+require over $350 million in funding in 2050, with large funding requirements for rail and 
+haulage. The loss of a fuel tax is partially offset by gains from competitive renewable energy 
+generation. Public transportation subsidies are initially high but the analysis assumes that 
+these costs are increasingly offset through cost-recovery fare policies. Carbon capture and 
+storage requires steadily increasing funding; no accounting is made for possible reductions in 
+its costs. 
+ 
+Figure 19: Public sector costs by action 
+There are smaller net costs in the forestry sector, mainly from lost forestry royalties but also 
+from the cost of supporting reforestation, afforestation, improved forestry management, and 
+restoration of degraded forest. The costs of public support average $17 million per year in the 
+first 10 years of the LTS4CN. This is consistent with the REDD+ Investment Plan, which 
+requires $16 million per year. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     32 
+  
+3.4.  Implications for investment, economic growth, gender, 
+and jobs 
+This section considers only the net economic benefits from LTS4CN actions, without taking into 
+account the adaptation and wider social and environmental benefits, which are addressed in 
+the next section. 
+Figure    presents  the  potential  loss  in  GDP  arising  from  climate  change  with  no  global 
+commitment to carbon neutrality. This assessment comes from the CEGIM. It suggests that GDP 
+in 2050 would be lower by over $15 billion or 10 percent of GDP if mitigation is limited to the 
+levels assumed in the IPCC mid-range climate change scenarios.10 If global commitments to 
+carbon neutrality are realized, this will not eliminate all GDP losses; the extent of loss 
+avoidance is unclear, however. Some losses arise because of emissions that have already taken 
+place. Achieving carbon neutrality by 2050 would reduce cumulative new emissions by half (if 
+reductions are achieved in a linear fashion), compared to a mitigation policy freezing emissions 
+at current levels. If GDP losses from past emissions account for one third of the total loss, and 
+global carbon neutrality halved remaining losses, GDP loss would fall by about $5 billion in 
+2050. 
+ 
+Figure 20: Implications of LTS4CN for economic growth 
+The assessment above considers only the effects of mitigation actions on reducing GDP loss 
+arising from climate change. Economic analysis shows substantial net economic benefits from 
+LTS4CN actions. It assumes that total annual public and private investment in these actions 
+rises to $18.6 billion by 2050 and accounts for between 5-8 percent of total national investment 
+                                                             
+10 For floods, droughts, rainfall variability and sea level rise, it used the A1 scenarios in the IPCC Special Report on 
+Extreme Events, and for heat stress, the RCP4.5 scenarios in the IPCC Fifth Assessment Report. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     33 
+  
+over the period. The analysis suggests that net annual benefits from this investment would rise 
+to over $6 billion by 2050, which implies an average rate of return on investment of 20-25 
+percent. In recent years, Cambodia has achieved high growth rates of over 7 percent of GDP 
+with investment levels of about 25 percent of GDP, suggesting that routine non-LTS4CN 
+investment be delivering rates of return on investment similar to those achieved by the 
+LTS4CN  investment.  Although  there  is  considerable  uncertainty  around  the  accuracy  of 
+available data, evidence suggests it would be possible to reallocate some domestic investment 
+from  routine  development  to  LTS4CN  actions  without  a significant  loss  of  growth.  The 
+substantial  economic  gains  from  mitigation  are  thus  achievable  without  significant  net 
+economic costs. 
+Based on available evidence, the average return on investment for routine development is 
+about  five  percentage  points  higher  than  for  LTS4CN  investment,  at  about  28  percent 
+compared to 20-25 percent. There would, therefore, be a modest reduction in growth from 
+diverting  funds  from  routine  development  to  LTS4CN  investment,  before  considering 
+mitigation, adaptation, and wider benefits. Achieving the financing plan presented in the 
+previous  section  would  mean  26  percent  of  LTS4CN  investment  would  be  funded  by 
+international climate finance, without reducing domestic investment in routine development. 
+This would roughly compensate for the difference in returns on investment. The scale of 
+international funding envisaged in the financing plan is consistent with the argument that 
+developing countries should be compensated for the net costs of their contribution to global 
+mitigation. 
+The CEGIM analysis suggests that a package of adaptation measures could reduce losses and 
+damages arising from climate change by 22 percent or about $3.3 billion.11 If global carbon 
+neutrality plans are implemented (worth about $5 billion to Cambodia in 2050) and Cambodia 
+adopts the adaptation measures described in the CEGIM analysis (worth about $3.3 billion), 
+the potential loss of GDP arising from climate change could be about 55 percent less than the 
+$15 billion projected in the CEGIM analysis,12 without significantly reducing growth from 
+investment in the economy. 
+Figure  presents an estimate of the potential value of carbon emissions delivered by LTS4CN 
+actions, if they are valued at the social cost of carbon of $100 per tCO e.13 This analysis suggests 
+2
+larger reductions in the loss of GDP may be achievable, although given uncertainties around 
+the appropriate value of the social cost of carbon, this comparison is useful mainly as a source 
+of confidence that the LTS4CN economic analysis is not exaggerated. 
+Labour and jobs: The economic benefits from LTS4CN actions could take the form of either 
+increased profits or increased income associated with new jobs and greater wages. Since the 
+case studies reviewed in the economic analysis do not provide enough evidence to assess 
+whether benefits come from profits or income, a detailed modelling of the impact on jobs and 
+incomes is not possible. A first indication can be provided by using evidence in the Cambodia 
+Social Accounting Matrix (SAM), which distinguishes between returns to income and capital 
+for 26 sectors, including agriculture and forestry (56 percent to labour), manufacturing (60 
+                                                             
+11 These adaptation measures are mostly different than the LTS4CN actions. The benefits are thus separate from 
+the adaptation co-benefits from LTS4CN actions. 
+12 The net economic benefits from the LTS4CN. 
+13 The social cost of carbon is estimated by dividing the expected global loss of GDP arising from climate change by 
+the emissions reductions required to avoid that loss. The Biden Administration in the United States of America is 
+currently reviewing evidence on the social cost of carbon but it is expected to rise substantially from the level of 
+$50 per tCO2e used in the Obama Administration to a level greater than $100 per tCO2e. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     34 
+  
+percent to labour), and transportation/services (51 percent to labour), with a national average 
+of 45 percent to labour. Statistics from the International Labour Organization (ILO) show 
+average salaries in 21 sectors in 2019, with a national average of $266 per month and $173 per 
+month for agriculture and forestry, $254 for manufacturing, $259 for energy, and $170 for 
+water and sanitation. 
+Using these statistics, it is possible to estimate the number of jobs created by the economic 
+benefits of each LTS4CN sector. The analysis does not count jobs created by actions that have 
+net costs because the costs will be reflected in lower incomes elsewhere in the economy. For 
+example, all FOLU actions do create jobs in forestry but some also involve substantial net costs. 
+In particular, reducing deforestation generates some jobs, such as in enforcement, but it results 
+in the loss of agricultural income from the inability to cultivate land that would otherwise have 
+been converted into agriculture. 
+The analysis suggests that the direct economic benefits from LTS4CN actions would deliver 
+157,000 jobs by 2050, using the following assumptions: 
+•  Only the LTS4CN actions that deliver net benefits are considered; 
+•  The share of benefits obtained by labour is based on the SAM; and 
+•  All sector salaries rise in line with the CEGIM projections for per capita GDP. 
+All of these jobs are in sectors with average incomes that are less than the national average, 
+generating a net contribution to reducing equality. About 80 percent of the jobs are in the 
+energy and transportation sector. Since it has wages only slightly below the national average, 
+the net impact on inequality would be modest. 
+If resources for LTS4CN investment were used for routine development, outside the LTS4CN, 
+and if they achieved returns similar to the average for Cambodia in recent years, total economic 
+benefits would be slightly higher than direct benefits from LTS4CN actions. As a higher share 
+of benefits would go to profits and average wages would be higher, the total number of jobs 
+created would be slightly higher at about 183,000 in 2050, compared to 157,000 for LTS4CN 
+investment. 
+ 
+Table below expands the analysis to include not only jobs created by the direct economic 
+benefits from LTS4CN actions. When jobs from wider mitigation and adaptation benefits are 
+added, LTS4CN actions generate 449,000 jobs in 2050, or 145% more than routine investment. 
+ 
+Table 11:  Jobs created by the LTS4CN compared to routine investment 
+   LTS4CN investment  Routine 
+   Direct  Adaptation  Mitigation  Total  investment 
+benefits  and wider  benefits* 
+benefits 
+Benefits in 2050 (millions of  5,539  6,971  5,398  17,907  7,758 
+dollars) 
+Labour share (%)  51  45  45     45 
+Average salary in 2050 (dollars  18,172  19,074  19,074     19,074 
+per year) 
+Jobs created in 2050 (hundreds  157  164  127  449  183 
+of thousands) 
+Note: * Assumes one third of CEGIM loss in GDP from climate change is averted with global carbon 
+neutrality by 2050.  
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     35 
+  
+Impact on gender equality: The impact of the LTS4CN on gender equality is difficult to assess 
+without more detailed evidence on incomes in subsectors and the possibilities for designing 
+actions to promote gender equality.  An illustration of the potential impact, however, is 
+provided by comparing the impact of reduced deforestation (the only action with net annual 
+private sector costs) with the impact of energy efficiency (which delivers just over half of total 
+annual private sector benefits). The costs from reduced deforestation involve loss of farm 
+income, where women will be more affected than men because they account for 53 percent of 
+agricultural labour. In contrast, benefits from energy efficiency in manufacturing are over twice 
+the costs of deforestation, and women account for 67.5 percent of manufacturing labour. New 
+jobs for women in manufacturing will be much better paid than those lost in agriculture. Table 
+2 presents the analysis and shows that the combined effect of the two LTS4CN actions will 
+increase incomes by over $600 million in 2050 and create over 22,000 new jobs. Women will 
+receive 77 percent of the net increase in income and 86 percent of the net increase in jobs. 
+Table 12: Changes in jobs and income for men and women based on lower deforestation and greater energy efficiency in 2050 
+   Lower deforestation  Greater energy  Total effect of 
+   efficiency in  both actions 
+manufacturing 
+Women  Men  Women  Men  Women  Men 
+Total benefits in 2050  –784  1,787  1,003 
+Labour share of value  56  60    
+added (%) 
+Change in incomes  –439  1,072  633 
+Share of employment (%)  53.1  46.9  67.5  32.5       
+Change in gross income  –233  -206  724  348  491  143 
+Sector average income in  11,342  13,332  18,215  18,855       
+2050 (dollars per year) 
+Change in jobs  –20,558  -15,447  39,734  18,481  19,176  3,034 
+Sources: SAM for the labour share of value added and the ILO for sector incomes and sector average income,  updated 
+using CEGIM per capita incomes. The pathway model estimates 53 percent of energy efficiency benefits are in 
+manufacturing. For more, see: ILO and Asian Development Bank, 2103, Gender Equality in the Labor Market. 
+The above analysis considers only the impacts on incomes and jobs from the direct economic 
+costs and benefits of the two LTS4CN actions. There are three further ways in which the 
+LTS4CN will affect gender equality. 
+•  Actions have adaptation co-benefits. Since women are more vulnerable to climate 
+change than men, they are likely to benefit more from adaptation; 
+•  Actions have wider social and environmental benefits, mainly related to forestry (i.e., 
+better health, non-timber incomes, and flood reduction). These will be shared by both 
+men and women but will benefit women more because they are more engaged in 
+activities linked to natural resources; and 
+•  Finally, if the LTS4CN is matched by equivalent global reductions in emissions, there 
+will be very large benefits from reduced economic losses and damages due to slower 
+climate  change.  Women  again  will  benefit  more  than  men  given  their  greater 
+vulnerability to climate change. 
+3.5.  Adaptation and wider social and environmental 
+benefits 
+Adaptation benefits: A monetary value for adaptation benefits was estimated based on a 
+classification system developed. It is assumed that a high classification will increase benefits 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     36 
+  
+by 50 percent. This is because most adaptation benefits are associated with resilience to 
+extreme and irregular rainfall patterns. The IPCC Special Report on Extreme Events suggests 
+that the frequency of these events would roughly double by 2050 in Cambodia.14 Therefore, 
+the average increase over the period in benefits from a public action with high adaptation 
+relevance is 50 percent, compared to 30 percent for a mid-level of relevance and 10 percent 
+for low relevance. 
+Wider  social  and  environmental  benefits:  Wider  benefits  are  estimated  based  on  a 
+comprehensive literature review of case studies reporting on the valuation of social and 
+environmental benefits. This review is summarized in the separate technical Annex. The 
+evidence is patchy. While several studies attempt valuation, they often produce quite widely 
+varying results.  
+Total wider social and environmental benefits are estimated to be worth more than the 
+economic benefits, at nearly $7 billion in 2050. Over 90 percent of these benefits are associated 
+with forestry and almost all the rest with energy efficiency. Key features of the wider benefits 
+are as follows. 
+•  Forestry delivers critical watershed benefits related to the retention of water in the soil. 
+This reduces erosion, which decreases dam siltation and improves water quality. It also 
+reduces downstream flooding. For established natural forests, these benefits  are 
+estimated at over $500 per hectare a year. Plantations and recovering forest areas also 
+deliver watershed benefits but to a lesser degree. 
+•  Forestry delivers important biodiversity benefits with studies suggesting that one-off 
+loss of these benefits from deforestation amount to about $2,000 per hectare. 
+•  The economic analysis includes only potential incomes from timber extraction. Wider 
+benefits from tourism and non-timber forest products are also possible, with values of 
+over $300 per hectare reported in various studies. 
+•  The main wider benefits from energy and transportation relate to the health benefits 
+from  reduced  pollution.  Global  studies  provide  some  indications  of  the  average 
+national cost of pollution linked to emissions. When these are adjusted to reflect 
+Cambodia’s per capita income, they suggest an average of $4.6 per tCO e. Economic 
+2
+analysis uses this figure for power generation. Emissions from transportation are likely 
+to have significantly higher health costs because people are much more exposed to 
+concentrated levels of pollution. 
+•  The Extended Cost Benefit Analysis case studies and international literature review 
+provide  some  evidence  for  further  specific  wider  benefits.  Health  benefits  from 
+electrification of cooking are about 10 times higher than average health benefits. Buses 
+and trains cut the number of accidents. Waste actions reduce water pollution. 
+3.6.  Benefits of adaptation for economic growth  
+3.6.1.  Sector adaptation co-benefits analysis 
+An analysis of adaptation co-benefits looked at each sector and related mitigation actions in 
+the LTS4CN. To measure impacts on the country and local levels, an assessment of relevance 
+                                                             
+14 IPCC, 2012, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A 
+Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     37 
+  
+now  and  in  the  medium-term  2050  scenario  was  included.  Some  impacts  that  are  not 
+immediately relevant can become very significant with the progression of climate change.  
+It was assumed that extreme events become more frequent in line with the conclusions of the 
+IPCC 2012 Special Report on Extreme Events. The report found that the frequency of most 
+irregular climatic events (from floods to droughts to unseasonal rainfall) will roughly double 
+by 2050. Exposure to climate change will be mainly through the changing frequency of extreme 
+events and rainfall variability.  
+The results of the analysis are reported in the following tables by sector. A scale shows the 
+expected impact of each measure (low, moderate, medium, high, and top). The last column 
+indicates specific NDC actions related to proposed adaptation benefits. 
+ 
+Agriculture sector 
+Table 13: Adaptation co-benefits in the agriculture sector 
+NDC 
+Relevance  Relevance 
+No  Mitigation action  Adaptation co-benefit  action 
+(now)  (2050) 
+number 
+Conservation of 
+biodiversity and ecosystem 
+services as part of an 
+Less methane-intensive  integral adaptation strategy       
+1 
+rice cultivars  to assist human  Medium  High  63 
+communities facing the 
+adverse effects of climate 
+change.  
+Minimize the risks 
+(drought, soil loss, etc.) 
+     
+    during extreme climatic 
+High  High to top  2 
+events by promoting 
+resilient cropping systems. 
+Reduced exposure to 
+climate related extremes 
+     
+2  Direct seeding practices  and slow onset events 
+Medium  High  2 
+affecting agriculture and 
+dependent livelihoods. 
+Support in suppressing 
+opportunistic agricultural   
+pests and invasive       
+   
+species favoured by higher  Low  Medium  2 
+temperature and humidity   
+due to climate change.  
+Introduction of innovative 
+sustainable techniques in 
+crop rotation to strengthen 
+     
+    their life cycle, reducing the 
+High  High to top  7 
+use of chemicals, water 
+consumption and soil 
+erosion.  
+Increased crop breeding for 
+Alternate wetting and  greater heat and water 
+3  Medium  High  7 
+drying  tolerance as well as food 
+security. 
+Drought preparedness   
+High to 
+    increases adaptive capacity  Top  85 
+top 
+for water management in   
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     38 
+  
+response to reduced levels 
+of precipitation. 
+Enable more consistent   
+High to 
+    stream flows that can  Top  85 
+top 
+deliver irrigation water.   
+Potential for scaled-up 
+climate-resilient 
+agricultural production   
+    through increased access to  Low  Medium  85 
+solar irrigation systems and   
+other climate resilient 
+practices.  
+Daily spreading of  Reduced vulnerability to   
+4  manure and use of  climate-related erosion in  Medium  High  7 
+digesters  cropping systems.   
+Value addition can reduce 
+Improved feed quality  sensitivity to climate   
+5  Medium  High 
+fodder management  extremes and changes in  11,13 
+agriculture. 
+Increased soil fertility, 
+which can help farmers   
+Promotion of organic 
+6  deal with increased  Medium  High  N/A 
+fertilizers 
+temperatures and climate   
+variability. 
+ 
+Energy sector 
+Table 14: Adaptation co-benefits in the energy sector 
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+Increased energy security and   
+   
+1  Building sector  less reliance on primary energy  High 
+Medium  50,51 
+imports, e.g., fuels, coal, etc.   
+Increased adaptive capacity and 
+resources of local       
+   
+communities affected by climate  Medium  High  50,51 
+change. 
+Improved ability and capacity of 
+vulnerable populations to protect       
+   
+themselves during climatic  Medium  High  50,51 
+events. 
+Better-insulated buildings reduce   
+both energy consumption and       
+   
+the impact of climate change- Medium  High  50,51 
+induced heat waves.   
+Decreased stress on systems that 
+supply needed goods and   
+services, given the intensification     
+2  Industry  N/A 
+of resource and energy use, in  High  High to top 
+particular through energy   
+efficiency actions. 
+Through energy efficiency, 
+improved insulation moderates       
+   
+internal temperatures during  Medium  High  39 
+extreme heat/cold events. 
+Potential reduction in heat island 
+     
+    effect/internal heating and 
+Low  Medium  39 
+cooling load from panel shading. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     39 
+  
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+Increased use of public 
+transportation can provide 
+additional transportation options       
+3  Transportation 
+and reduce redundancy in  Low  Medium  56 
+transportation systems during 
+emergency events. 
+Electric vehicles as additional 
+ 
+emergency transportation for 
+     
+    large populations in the event of 
+Low  Medium  56 
+evacuations or other major 
+ 
+climatic events. 
+Electric vehicles can potentially 
+     
+    be utilized as back-up batteries 
+Low  Medium  56 
+in emergency situations. 
+Reduction of exposure to 
+fluctuating fossil fuel costs and 
+ 
+Power  escalating carbon costs for     
+4  High 
+generation  vulnerable populations  Medium  24,25 
+ 
+disproportionately impacted by 
+climate change. 
+Facilitation of inclusiveness 
+ 
+within the energy transition as a 
+     
+    major pillar of adaptation 
+Low  Medium  24, 25 
+(distributed generation, local 
+ 
+renewable producers). 
+Charcoal forest fire prevention 
+and biodiversity protection since 
+fires become more common with   
+higher temperatures and longer       
+5  Biomass supply 
+dry spells. By limiting onsite  Medium  High  63 
+burns of biomass material, it   
+could be repurposed as an 
+energy input. 
+ 
+FOLU sector 
+Table 15: Adaptation co-benefits in the FOLU sector 
+NDC 
+Relevance  Relevance 
+No  Mitigation action  Adaptation co-benefit  action 
+(now)  (2050) 
+number 
+Increased forest resilience to   
+Stop  climate change and reduced       
+1 
+deforestation  vulnerability of local  High  High to top  63 
+populations.   
+Preservation of natural assets 
+ 
+as a source of economic returns 
+     
+    in the long run and reduced 
+Medium  High  63 
+future expenditure to mitigate 
+ 
+adverse events. 
+Prevent soil erosion and reduce       
+   
+flooding risks.  High  High to top  63 
+     
+    Reduced risks from landslides. 
+High  High to top  63 
+Favours water retention, 
+     
+    moderate evapotranspiration 
+Medium  High  63 
+and river restoration. 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     40 
+  
+NDC 
+Relevance  Relevance 
+No  Mitigation action  Adaptation co-benefit  action 
+(now)  (2050) 
+number 
+Preserving natural corridors 
+enables species migration and 
+     
+    supports the maintenance of 
+Low  Medium  63 
+ecosystem and genetic 
+diversity. 
+Reduced heat stress and animal       
+   
+mortality.  Low  Medium  63 
+Increased species composition 
+(e.g., the mix of hardwood and 
+softwood species), age       
+   
+structure and harvest regime,  Medium  High  63 
+and reduction of species 
+emigration and extinctions. 
+Avoiding biotic disturbances 
+such as the spread of pests and 
+pathogens favored by climate       
+   
+change, while increasing  Low  Medium  63 
+connectivity in ecological 
+networks. 
+Improved forest management 
+High/Middle/  and protection and the   
+Low  development of sustainable       
+2 
+sequestration  ecosystem services, which can  High  High to top  63 
+forest  result in avoided deforestation   
+or reforestation. 
+ 
+Conserving water in natural 
+     
+    systems to alleviate the effect of 
+High  High to top  63, 35 
+droughts or prevent floods. 
+ 
+Ecosystem protection through 
+ 
+the restoration of natural 
+     
+3  Agroforestry  habitats affected by climate 
+High  High to top  1, 4 
+change; restored hydrological 
+ 
+balance in river basins. 
+Agroforestry can underpin 
+ 
+poverty reduction and improve 
+     
+    food availability for marginal 
+Medium  High  1,4 
+rural communities more 
+ 
+affected by climate change. 
+Increased filtering of   
+stormwater and improved air       
+   
+quality assisting in adapting to  Medium  High  1,4 
+climate change.   
+Maintaining groundwater and   
+surface water quality and       
+   
+quantity; reducing and delaying  High  High to top  1,4 
+flood flows.   
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     41 
+  
+IPPU sector 
+Table 16: Adaptation co-benefits in the IPPU sector 
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+New materials can help to 
+ 
+prevent overheating in warmer 
+Clinker       
+1  climates, keeping buildings cool 
+substitution  Low  Medium  N/A 
+when temperatures rise due to 
+ 
+climate change. 
+Using several products for 
+clinker substitution, such as coal       
+   
+ash power, would reduce waste  Medium  High  N/A 
+and land needed for disposal. 
+Replacing clinker with industrial 
+     
+    waste or by-products prevents 
+Low  Medium  N/A 
+such waste ending up in landfills. 
+Increased range of available 
+adaptation options as well as 
+Carbon capture   
+their effectiveness in reducing or  Low   
+2  and storage  Medium 
+avoiding risk from increasing    N/A 
+   
+rates or magnitudes of climate 
+change. 
+Promoting the use of locally 
+ 
+Introduce  available mineral resources 
+   
+3  alternatives for  contributes to energy efficiency  N/A 
+Low  Medium 
+cement  in buildings given thermal mass, 
+ 
+fire resistance and durability.  
+The use of alternative raw 
+materials will reduce the use of 
+     
+    primary raw materials whose 
+Medium  High  N/A 
+availability can decline through 
+climate change. 
+Use of 
+substitutes for 
+4  ozone-depleting  N/A  N/A  N/A  N/A 
+substances (i.e., 
+F-gases) 
+Promote 
+sustainable 
+Increased energy security and       
+5  energy practices 
+less reliance on energy imports  Medium  High  N/A 
+in 
+manufacturing 
+ 
+Improved insulation moderates 
+     
+    internal temperatures during 
+Medium  High  N/A 
+extreme heat/cold events 
+ 
+Increased stakeholder awareness 
+(building designers, users and 
+owners) about risks and 
+    N/A 
+    potential impacts on the 
+Medium  High   
+environment posed by variable 
+weather patterns and observed 
+and projected climate changes. 
+Climate-friendly  Reduction of exposure to   
+cooling of public  fluctuating fossil fuel costs and       
+6 
+sector buildings  escalating carbon costs for  High  High to top  N/A 
+  vulnerable populations   
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     42 
+  
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+disproportionately impacted by 
+climate change. 
+Large-scale public-private risk 
+ 
+reduction and economic 
+     
+    diversification through 
+Low  Medium  N/A 
+government insurance for the 
+ 
+non-diversifiable portion of risk. 
+ 
+Waste sector 
+Table 17: Adaptation co-benefits in the waste sector 
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+Waste management prevents 
+ 
+surface and groundwater 
+Solid waste       
+1  contamination from toxic wastes 
+disposal   Low  Medium  84 
+that is higher in periods of 
+ 
+intensive rain.  
+Biogas and fertilizers from waste 
+can increase agricultural yields     
+    Medium 
+that may decline due to climate  High  8 
+change.  
+Biogas can increase energy   
+   
+    security and reduce reliance on  N/A 
+Medium  High  
+energy imports.   
+Biogas can reduce the exposure to 
+fluctuating fossil fuel costs and   
+escalating carbon costs for       
+   
+vulnerable populations  Medium  High  N/A 
+disproportionately impacted by   
+climate change. 
+Reduced soil erosion, which can 
+ 
+Biological  otherwise be higher during 
+     
+2  treatment of  periods of intense rain that will 
+High  High to top  N/A 
+solid waste  become more common due to 
+ 
+climate change.  
+ 
+Improved crop yields through       
+   
+using compost.  Medium  High  8 
+ 
+ 
+Compost can increase soil fertility 
+   
+    and replenish organic matter and  High 
+High to top  N/A 
+nutrients.  
+ 
+ 
+Improved moisture retention of 
+     
+    soil (resulting in lower irrigation 
+Medium  High  N/A 
+requirements). 
+ 
+Incineration   
+Improved soil conditions in areas 
+and open      N/A 
+3  degraded by climate change and 
+burning of  Low  Medium   
+used for waste burning.  
+waste   
+ 
+Benefits from energy production     
+    High 
+(see Action 1).   Medium  N/A 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     43 
+  
+NDC 
+Mitigation  Relevance  Relevance 
+No  Adaptation co-benefit  action 
+action  (now)  (2050) 
+number 
+Adaptive water management in   
+Wastewater 
+waste treatment can help adjust to       
+4  treatment and 
+uncertain hydrological changes  Medium  High  82 
+discharge 
+due to climate change.    
+ 
+Adaptation benefits from compost       
+   
+production (see Action 2).  Medium  High  N/A 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     44 
+  
+4.  Governance, Measurement, Reporting and 
+Verification  
+4.1.  Governance structure 
+The institutional arrangements for implementing the LTS4CN build on existing national 
+coordination arrangements. The roles and responsibilities of each stakeholder are presented 
+in Table 18. 
+Table 18: Roles and responsibilities of stakeholders 
+Stakeholder  Roles and functions in LTS4CN implementation 
+National Council for  Coordination and integration 
+Sustainable Development  Capacity building and knowledge management 
+Stakeholder engagement 
+Ministry of Planning, Ministry  Support to the integration of the LTS4CN implementation at national and 
+of Economy and Finance  subnational planning and budgeting 
+Support to MRV development and implementation 
+Sector-lead  LTS4CN planning and implementation in respective sectors 
+ministries/government  Provision  of  information  to  the  National  Council  for  Sustainable 
+institutions  Development 
+Non-governmental  LTS4CN implementation 
+organizations  Provision of information 
+Provision of support 
+Engagement in policymaking 
+Representation of vulnerable groups 
+Private/finance sector   LTS4CN implementation 
+Engagement in policymaking 
+Provision of information 
+Development partners  Provision of support 
+Engagement in policymaking 
+Academia  Provision of research, development, innovation and information  
+Engagement in policymaking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     45 
+  
+Stakeholders are represented in the following organogram. 
+   
+Figure 21: Stakeholder roles and responsibilities 
+4.2.  MRV indicators and tracking 
+4.2.1.  MRV framework 
+MRV helps transparently demonstrate progress in implementing the LTS4CN in line with the 
+targets of Cambodia’s Updated NDC. 
+Cambodia has developed an integrated and detailed MRV system for her updated NDC that 
+comprises tracking and reporting on progress towards adaptation and mitigation, finance 
+received, and required capacity support. The system assists in the coordination of NDC 
+implementation, provides a collective and easy way to update progress made, serves as an 
+effective communication and engagement tool, and provides access to all information relevant 
+to reporting under the Paris Agreement. In developing the system, particular attention was 
+paid to integrating cross-cutting issues in the tracking, such as those related to youth, gender, 
+and private sector engagement.   
+The  MRV  framework  for  the  LTS4CN  will  build  on  existing  government  systems,  while 
+strengthening capacity and data collection capability where possible. It will be integrated into 
+the online NDC tracking system with reporting conducted in parallel. The long-term process 
+will be tracked with specific sectoral headline indicators (Table 19) and results indicators that 
+will be selected later. 
+ 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     46 
+  
+Table 19: Main sectoral headline indicators 
+Sector  Indicator  Frequency 
+Waste 
+  Total GHGs emissions from the waste sector (MtCO e): solid waste  Annual 
+2
+disposal, biological treatment, open burning, wastewater  
+  Percentage of emissions reduction by the waste sector against BAU: solid  Annual 
+waste disposal, biological treatment, open burning, wastewater 
+Agriculture 
+  Total emissions (MtCO e) from the agriculture sector  Annual 
+2
+  Percentage of emissions reduction by the agriculture sector against BAU  Annual 
+IPPU 
+  Total emissions (MtCO e) from the IPPU sector  Annual 
+2
+  Percentage of emissions reductions by the IPPU against BAU  Annual 
+Energy 
+  Total emissions from the energy sector (MtCO e)  Annual 
+2
+  Percentage of emissions reductions by the energy sector against BAU  Annual 
+FOLU 
+  Total emissions from the FOLU sector (MtCO e)  Annual 
+2
+  Percentage of emissions reductions by the FOLU sector against BAU  Annual 
+TOTAL 
+  Total emissions (MtCO e) for waste, agriculture, IPPU, energy, and FOLU   Annual 
+2
+  Percentage of emissions reductions (waste, agriculture, IPPU, energy,  Annual 
+and FOLU) 
+4.2.2.  Reporting responsibility   
+The LTS4CN will likely be reviewed every five years in line with the framework for updating 
+NDCs. This will ensure the transparency, accuracy, and comparability of information on 
+emissions reductions leading towards carbon neutrality by 2050.  
+Relevant sector leads and ministries will contribute to tracking LTS4CN implementation. They 
+will need to communicate outcomes to the National Council for Sustainable Development to 
+support  national  reporting.  The  Council  is  responsible  for  collecting  and  submitting 
+Cambodia’s national reporting related to the Paris Agreement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cambodia’s Long-Term Strategy for Carbon Neutrality     47 
+ 

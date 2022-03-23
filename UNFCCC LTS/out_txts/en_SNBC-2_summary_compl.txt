@@ -1,0 +1,946 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The ecological and inclusive transition towards 
+carbon neutrality 
+ 
+ 
+Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2020 
+1 
+  
+THE ECOLOGICAL AND INCLUSIVE TRANSITION 
+TOWARDS CARBON NEUTRALITY 
+ 
+The National Low-Carbon Strategy 
+Implemented via the law of 17 August 2015 relating to energy transition for green growth, the 
+National Low-Carbon Strategy (SNBC) serves as France’s policymaking road map in terms of 
+climate change mitigation.  It is one of the two prongs of French climate policy, along with the 
+National Adaptation to Climate Change Plan: 
+  This second edition of the SNBC puts into action the Government’s ambition, presented in 
+July 2017 via the Climate Plan and enshrined in the law (n° 2019-1147 of 8th November 
+2019  relating  to  energy  and  climate),  to  accelerate  the  implementation  of  the  Paris 
+Agreement  by  setting  a  target  of  achieving  carbon  neutrality  by  2050  within  French 
+territories, this being understood as achieving a balance between anthropogenic emissions 
+and anthropogenic absorption of greenhouse gas, i.e. that which is absorbed by the natural 
+environment managed by man (forest land, grassland, agricultural soils, wetlands, etc.) and 
+certain industrial procedures (carbon capture, storage and reuse). 
+  On the basis of a forward-looking trajectory to 2050, it defines short- and medium-term 
+greenhouse gas (GHG) emission reduction targets for France: carbon budgets. These are 
+greenhouse gas emission ceilings not to be exceeded at the national level over five-year 
+periods, expressed in millions of tons of CO2 equivalent1. 
+  It  is  consistent  with  France’s  commitments  to  the  European  Union  under  the  Paris 
+Agreement, as well as national commitments including the 40% reduction in greenhouse 
+gas emissions (GHG) by 2030 compared to 1990. 
+  It  provides  public  policy  guidelines  for  implementing  the  transition  to  a  low  carbon 
+economy, sober in energy and materials, with circularity principles applied in all activity 
+sectors and lower production of waste.  
+This strategy is the result of wide-ranging consultations with: 
+  stakeholders  (businesses,  NGOs,  trade  unions,  consumer  representatives,  MPs,  local 
+authorities, scientific experts), over the course of thirty or so meetings with the Information 
+and Orientation Committee (ICO) and seven themed working groups. 
+  the public, via a prior consultation in November and December 2017 under the supervision 
+of a guarantor, in which an online questionnaire received more than 13,000 responses from 
+citizens. Public discussion workshops ahead of the Multi Annual Energy Plan, which took 
+place from March to June 2018, have also led to changes to the SNBC. 
+This strategy will also take into account the opinions of the Committee of Experts on Energy 
+Transition on the implementation of the SNBC in 2015 and the compliance with the first carbon 
+budget. The opinions issued in 2019 by the Environmental Authority, the National  Ecological 
+                                                 
+1  The carbon budgets account for the emissions recorded in mainland France, Guadeloupe, French 
+Guiana, Martinique, Réunion, Saint Martin and Mayotte, as well as emissions from transport between these 
+geographical areas. Emissions from international air and maritime links are not included in these readings. 
+2 
+  
+Transition Council, the High Council for Climate, the Corsican Assembly, Overseas authorities and 
+the public consultation on this strategy and its strategic environmental analysis were also taken 
+into account. 
+ 
+Figure 1 - Changes in greenhouse gas emissions and sinks in the national territory between 2005 and 2050 
+ 
+ 
+*Business-as-usual emissions are calculated using a so-called “With Existing Measures” scenario (AME scenario), 
+which takes into account policies already implemented or enacted in 2017. 
+ 
+Where are we now?  
+Figure 2: Greenhouse gas emissions by sector in France in 2018 (Mt CO2 eq) 
+ 
+In 2018, France's territorial emissions were 445 MtCO2eq compared to 546 MtCO2eq in 
+1990  (excluding  the  land  sector);  they  therefore  fell  by  18.5%  over  this  period,  i.e.  a 
+decrease of around 0.7% per year, and their per capita level is now one of the lowest among 
+developed  countries  (6.4  tCO2eq/capita).  In  particular,  2018  was  marked  by  a  4.2% 
+decrease in emissions compared to 2017. 
+3 
+  
+For the sake of simplicity, this summary will subsequently refer to French emissions in 
+2015, which was the last reference year when the SNBC and its scenario were drawn up and 
+drafted (see below). These emissions were 458 Mt CO2eq. 
+Since 2000, France has implemented climate polices to reduce its emissions through the National 
+Climate Change Action Plan (2000) and successive Climate Plans. Following a national debate on 
+energy transition in 2013 and the adoption of the energy transition for green growth act in 2015, an 
+initial National Low-Carbon Strategy was published in 2015. This aimed to reduce greenhouse gas 
+emissions four-fold in France by 2050, compared to 1990 levels. It was the first road map for the 
+reduction of greenhouse gas emissions, and set the first carbon budgets up to 2028 to achieve its 
+targets. 
+However, the carbon footprint of the French, which takes into account the emissions associated 
+with imported goods and services and subtracts those associated with exports, is not decreasing. 
+On a per capita basis, in 2018, the French carbon footprint (11.2 t CO2eq/capita) is slightly higher 
+than in 1995 (10.5 t CO2eq/capita) and has remained more or less constant since 2000. Indeed, the 
+drop in emissions in France is offset by an increase in emissions associated with imports (doubled 
+since 1995). 
+In December 2015, the adoption of the Paris Agreement marked a turning point by establishing an 
+international framework for cooperation on climate change, which: 
+  sets an objective to limit global warming “to well below 2 °C, and pursuing efforts to 
+limit the temperature increase to 1.5 °C”, and to achieve a global balance between 
+emissions and absorptions of greenhouse gas in the second half of the 21st century; 
+  introduces an idea of equity to climate action: those countries that have contributed the 
+most to climate change (due to their past and current greenhouse gas emissions) and which 
+are in a position to do so (capacity and potential to reduce emissions) must play a more 
+Where do we want to go? 
+active role in global climate action2.  
+The Climate Plan put forward in July 2017 renewed France's long-term ambition by setting a 
+target of carbon neutrality for France by 2050, i.e. at least a six-fold reduction in greenhouse 
+gas emissions compared to 1990. This goal is now enshrined in legislation. Carbon neutrality is 
+an ambitious target, but its achievement is, as evidenced by the recent work carried out by the IPCC, 
+essential on a global level as soon as possible in order to keep global warning down to 1.5°C.  
+The baseline scenario 
+The National Low-Carbon Strategy is based on a baseline scenario developed through a joint 
+modelling exercise in the Multi-Annual Energy Program. This baseline scenario highlights public 
+policy measures in addition to those already in place, which will allow France to adhere to 
+its short, medium and long-term climate and energy objectives. 
+The baseline scenario is intended to be both ambitious in its objectives and reasonable in the way it 
+is achieved, without betting on technologies that would only be at the idea stage or early R&D stage 
+today.  Nevertheless, the scenario makes use of a number of new technologies (carbon capture, use, 
+and storage (CCUS), power-to-gas, energy storage, hydrogen...). 
+                                                 
+ The principles of “equity and common but differentiated responsibility, and respective 
+2 
+capacities in terms of the various national situations in question.” 
+4 
+  
+What lessons can be drawn from the scenario?  
+By 2050, France will reach a level of emissions that can be considered incompressible, 
+particularly in the non-energy sectors (agriculture and industrial processes): around 80 Mt 
+CO2eq.  Achieving carbon neutrality therefore involves compensating for these emissions with 
+carbon sinks. The estimated scale of the land sector sink (forest and agricultural land) at an optimal 
+and sustainable level of performance, coupled with an estimated capture and storage sink, only 
+allows the offsetting of these residual non-energy emissions and the residual emissions from fossil 
+fuels for one part of the transport sector (domestic air transport). 
+ 
+Figure 3 - Sinks and greenhouse gas emissions in France in 2050 according to the baseline scenario 
+ 
+ 
+To achieve carbon neutrality, it is necessary to: 
+  fully decarbonise3 energy production by 2050 and rely only on the following energy 
+sources: biomass resources (agricultural and wood product waste, wood energy, etc.), heat 
+from the environment (geothermal energy, heat pumps, etc.) and carbon-free electricity; to 
+significantly reduce energy consumption in all sectors (a reduction of more than 40% 
+compared to 2015), by substantially increasing energy efficiency and developing sobriety 
+(slightly lower population needs in all sectors compared to the business-as-usual scenario, 
+associated with a significant change in consumption patterns, without loss of comfort); 
+                                                 
+3 In reality, decarbonisation will be “near-total”, as there will remain both residual leaks of renewable gas 
+that cannot be reduced and the partial use of fossil fuels in air transport. 
+5 
+  
+  reduce  non-energy-related  emissions  as  much  as  possible  (e.g.  from  agriculture 
+(reduction of almost 40% between 2015 and 2050), or from industrial processes (halving 
+the emissions between 2015 and 2050); 
+  increase carbon sinks (natural and technological) by a factor of 2 compared to today 
+to  absorb  incompressible  residual  emissions  by  2050,  while  developing  biomass 
+production. In view of a certain degree of tension on biomass resources due to the current 
+structure of the system, which is very much oriented towards liquid and gaseous fuels, 
+biomass resources should be allocated as a priority to high value-added uses that are hardly 
+replaceable by other processes (e.g. biofuels for maritime or air transport). 
+ 
+Macro-economic assessment of the revised SNBC 
+The results of the macro-economic assessment show that the SNBC allows for a slight increase in 
+growth and job creation compared to a business-as-usual trajectory. It would thereby create an 
+additional 300,000 to 500,000 jobs by 2030 and 700,000 to 800,000 jobs by 2050 compared to a 
+business-as-usual scenario, in a context of international low-carbon transition.  
+The  low-carbon  transition  has  long-term  benefits  for  household  bills,  as  energy  performance 
+improvements will outweigh the rise in energy prices. Nevertheless, the energy transition requires 
+significant investments (building renovations, purchase of clean vehicles, etc.). If these investments 
+are profitable in the long term, the transition period requires support for households, in particular 
+via investment aid targeting the most modest households and economic players. 
+ 
+The carbon budgets 
+Balance of the first carbon budget (2015-2018)  
+Taking stock of the balance of the first carbon budget for 2015-2018 shows an estimated 
+overrun of 65 MtCO eq over the entire period, i.e. 3.7% of the first budget4, i.e. an average 
+2
+surplus of around 16 MtCO eq per year. Emissions only decreased by -1.0% per year on 
+2
+average between 2015 and 2018, whereas the SNBC 2015 scenario projected a decrease in 
+emissions of -2.2% per year on average. The overrun of the first carbon budget is partly linked to 
+certain unfavourable cyclical factors, the two main ones being the low price of energy and, for the 
+years  2016  and  2017,  the  unavailability  of  part  of  the  nuclear  power  generation  fleet 
+(approximately +15MtCO eq over the entire period). 
+2
+ However, most of the overrun is attributable to more structural factors. The differences are due in 
+particular  to  significantly  worse  than  expected  results  in  the  transport  and  building  sectors 
+(respectively about +41 and +39 Mt CO eq over the whole period) and agriculture (about +8 Mt 
+2
+CO eq over the whole period).  These poor results are partly offset by  results in the power 
+2
+generation sector5 that are better than first SNBC targets, despite the unavailability of part of the 
+nuclear fleet (about -25 Mt CO eq over the whole period).  
+2
+                                                 
+4 The final balance of the 2015-2018 carbon budget will be published in spring 2020, based on updated 
+inventory data. 
+5   The cap for this sector, which includes electricity production, was set in 2015 conservatively awaiting 
+arbitration on the electricity mix. 
+6 
+  
+In addition to low energy prices, the stagnation of emissions in the transport sector can be 
+explained in particular by the slight improvement in the performance of new vehicles (about 110 
+gCO2/km in 2018 for cars, whereas the target was about 90 gCO2/km) and a rebound in road 
+traffic (whereas a slight decrease in traffic was expected). In the building sector, the difference is 
+mainly due to renovations, the pace and scale of which are still insufficient. 
+The next carbon budgets 
+The baseline scenario of this strategy over the periods 2019-2023 and 2024-2028 of the second 
+and third carbon budgets highlights: 
+  an overrun of the second carbon budget set by the first SNBC, which could be around 6% of 
+the budget, closely linked to the inertia of the gaps already observed in the first budget. This 
+leads us to revise the overall level of the second carbon budget in this strategy as well as its 
+sectoral  distribution,  in  line  with  the  new  baseline  scenario  and  in  the  interest  of 
+transparency,  without  calling  into  question  France's  ability  to  meet  its  European  and 
+international commitments. 
+  unequivocal adherence to the third carbon budget set out in the first SNBC, on the condition 
+that all the additional measures outlined in the baseline scenario are put in place. These 
+measures must be implemented fully and effectively, with regular monitoring, in 
+order to return to the budget levels adopted in 2015. 
+Moreover, compliance with the fourth carbon budget should make it possible to achieve the 
+objective of -40% of emissions compared to 1990 set in 2015 by the law relating to energy 
+transition for green growth. 
+It can be noted that the rate of emission reductions foreseen by the carbon budgets of this strategy 
+is more ambitious than that set by the budgets of the strategy adopted in 2015. In fact, the decrease 
+expected in 2015 between the first and third budgets is nearly 20% (from 442 to 358 Mt CO2eq), 
+while this decrease is nearly 30% between the 2nd and 4th carbon budgets (see table below).  This 
+underlines the additional efforts expected in all sectors to meet our commitments and achieve 
+carbon neutrality by 2050. 
+ 
+Figure 4 - next three carbon budgets of the revised strategy 
+4th   
+  Mean annual emissions  2nd carbon  3rd carbon 
+Baseline years  carbon 
+(in Mt CO eq)  budget   budget  
+2 budget  
+  2029 -  
+Period  1990  2005  2015  2019 -2023  2024 -2028 
+2033 
+  Total (excluding land   
+546  553  458  422  359  300 
+sector) 
+   
+Total (including land sector)  521  505  417  383  320  258 
+Carbon budgets adopted in 2015 
+(excluding land) – adjusted in        398  357   
+2019 (for reference) 
+The baseline year emissions are from the April 2018 CITEPA inventory in the SECTEN format 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+  
+Figure 5 - History and trajectory of net greenhouse gas emissions in France between 1990 and 2050 
+ 
+ 
+Source (data 1990 to 2017): secten CITEPA inventory - Kyoto Climate Plan format - April 2018 
+ 
+Figure 6 – Sectoral distribution of the next three carbon budgets in MtCO eq 
+2
+ 
+ 
+8 
+  
+ 
+Figure 7 - Greenhouse gas distribution of the next three carbon budgets (excluding land) in MtCO eq 
+2
+ 
+ 
+ 
+9 
+  
+HOW CAN WE GET THERE? THE APPROACH OF THE 
+NATIONAL LOW-CARBON STRATEGY 
+The national low-carbon strategy formulates public policy guidelines concerning: 
+  the governance of the implementation of the strategy at the national and territorial levels,  
+  cross-cutting subjects such as the economy, research, education and employment, 
+  each  sector  of  activity:  transport,  buildings,  agriculture,  forestry,  industry,  energy 
+production, waste. 
+Governance and implementation 
+Ensure  the  implementation  of  the  SNBC's  guidelines  in  all  public  policies  AT  THE 
+NATIONAL LEVEL... 
+The transition requires the mobilisation of all actors and at all levels, which will be facilitated by the 
+implementation of an integrated approach to ensure that the SNBC's guidelines and objectives 
+are  taken  into  account  in  all  public  policy  decisions  (plans,  programs,  bills,  laws,  public 
+procurement, etc.). 
+What the SNBC says: 
+  To ensure the coherence of all national public policies with the national low-carbon 
+strategy, by strengthening governance, and by generalising the evaluation of the impact 
+on the climate of each political decision. 
+,,, AND AT THE TERRITORIAL LEVEL 
+Regional planning, sustainable development and territorial equality schemes (SRADDET), regional 
+climate, air and energy  schemes (SRCAE) in Ile-de-France and Corsica and regional planning 
+schemes (SAR) in Overseas France, as well as territorial climate, air and energy plans (PCAET) must 
+take into account the SNBC and ensure the regionalisation of its objectives and guidelines. 
+What the SNBC says: 
+  Establish  governance  and  regulatory  tools  in  order  to  structure solidarity  between 
+territories.  
+  To  ensure  linkage  between  the  different  territorial  scales,  initiate  work  to  develop 
+comparable and aggregated data across all perimeters. 
+Cross-sectoral guidelines 
+CARBON FOOTPRINT 
+Decrease emissions related to French consumption of goods and services 
+Beyond national emissions, the strategy aims to reduce the carbon footprint of the French 
+population (11,2 tCO2eq / capita in 2018 or 1.8 times the territorial emissions). This involves 
+reducing emissions linked to the consumption of goods and services, whether these are produced 
+within the national territory or imported, including emissions related to international transport. 
+10 
+  
+Figure 8 – Carbon footprint by forms of consumption in 2018 
+   
+ 
+What the SNBC says: 
+  Better  control  the  carbon  content  of  imported  products,  by  consolidating 
+environmental  standards  at  the  European  and  international  levels  (carbon  pricing, 
+commitments  in  trade  agreements)  and  by  supporting  competitiveness  by  effectively 
+combating industry leakage at the European carbon level (implementation of a "carbon 
+inclusion mechanism" tax at Europe's borders "compatible with the rules of the World 
+Trade Organisation").   
+  Encourage all players to better control their carbon footprint, by encouraging a more 
+systematic  quantification  of  greenhouse  gas  emissions,  including  indirect  emissions, 
+induced by public plans, programmes and projects as well as for products and services 
+(strengthening the regulation of greenhouse gas balance sheets). 
+ 
+ECONOMIC POLICY 
+Reorienting financial flows for an ecological and inclusive transition 
+The work carried out by the Institute for Climate Economics (I4CE) estimates that the low-carbon 
+transition will require additional investments in favour of the climate in the short and medium 
+term, estimated at between 15 and 18 billion €/year to reach the objectives of the 2nd carbon 
+budget, and 32 to 41 billion €/year to comply with the 3rd carbon budget, i.e. a doubling of current 
+investments estimated at 45.7 billion € in 20187. Some of these needs will have to be covered by 
+                                                 
+7  Source: I4CE’s Overview of climate finance, 2019 edition. It should be stressed that investment needs are 
+estimated only for sectors with assumptions that I4CE could convert into quantified investment trajectories, 
+thereby excluding agriculture, industry and nuclear power. These needs cannot therefore be compared to 
+11 
+  
+additional new financial resources, but a significant part of future expenditure will correspond to 
+investments that would have taken place anyway (construction of housing, renewal of the car fleet) 
+and which need to be redirected so that they contribute to the decarbonisation of the economy. 
+ 
+Figure 9 - Evolution of climate-friendly investments in France 
+ 
+ 
+Thus, redirecting public and private financial flows so that they contribute to achieving the 
+objectives of the Paris Agreement, ensuring the effectiveness of this financing and diverting 
+financial flows away from climate-unfriendly investments are crucial to underpin the low-carbon 
+transition.  
+What the SNBC says: 
+  Giving the right signals to investors, including by strengthening the price of carbon, and 
+incentives to reduce HFC8 emissions as well as redirecting climate-unfriendly subsidies 
+and investments towards those that contribute to achieving the objectives of the Paris 
+agreement  (by  developing  labels  for  green  financial  products,  and  phasing  out 
+environmentally damaging public subsidies). Encourage private and public financial actors 
+to take into account climate-related risks (anticipation of the effects of climate change or 
+depreciation  of  assets  as  a  result  of  climate  policies)  and  associated  opportunities 
+(investments that become profitable as a result of the strengthening of climate policies). 
+  Ensuring a just transition for all by taking care to preserve household purchasing power 
+and  business  competitiveness  (taking  into  account  the  socio-economic  impacts  and 
+sustainability  of  the  measures,  setting  up  targeted  support  measures  to  reduce 
+inequalities).  
+  Supporting European and international climate-friendly actions in terms of finance 
+and carbon prices (support for the most vulnerable developing countries, standardisation of 
+price signals between countries, support for increasing the share of financing consistent 
+with the Paris Agreement in the European Union budget). 
+  Encouraging investment in projects that promote low-carbon transition, by developing 
+financial tools to limit investors' risk-taking (continue the work of France Transition 
+Ecologique)  and  by  defining  substantial  criteria  to  determine  which  projects  are 
+                                                                                                                                                             
+the  total  investments  observed  over  the  2015-2018  period  of  the  1st  carbon  budget  (nearly  €42 
+billion/year) but to a total of €31.6 billion/year on average for the sector perimeter under consideration. 
+8 Hydrofluorocarbons (HFCs) are greenhouse gases with high global warming potential, and are subject to 
+specific regulations that set emissions reduction targets. 
+12 
+  
+favourable  to  low-carbon  transition  (support  the  European  Commission's  work  on 
+sustainable finance).  
+  Ensuring that actions that are contrary to the achievement of our climate objectives do not 
+benefit from public funding, by continuing the "green budget" approach to government 
+expenditure and revenue, by studying options for gradually extending this "green budget" 
+approach to other stakeholders and by gradually eliminating expenditure and financial 
+support identified as unfavourable to climate change mitigation. 
+ 
+RESEARCH AND INNOVATION    
+Developing  technical,  social  and  organisational  innovations  that  will  help  reduce 
+France's emissions 
+The transition to a low-carbon economy implies innovations in all sectors and an adaptation of 
+production and consumption patterns. It makes it necessary to step up research and innovation 
+initiatives in order to develop technologies and social and organisational innovations that will help 
+reduce France's emissions. It is important to give France the best position in these sectors of the 
+future in order to be competitive on tomorrow's markets and to offer goods and services that 
+are necessary and adapted to the development of a low-carbon society. 
+What the SNBC says: 
+  Supporting innovative companies and facilitating the adoption and dissemination of 
+innovations on a large scale, by supporting the experimentation and industrialisation 
+phases,  but  also  through  communication  and  training,  taking  into  account  social 
+expectations  and  obstacles,  and  setting  up  price  signals  representative  of  avoided 
+emissions. 
+  Developing fundamental and applied research focused on the needs of a low-carbon 
+society (decarbonisation of the energy sectors, energy efficiency, carbon sinks and storage 
+and  use  technologies),  in  particular  by  directing  research  towards  the  long  term,  via 
+dedicated public funding, calls for projects, regular updating of technological roadmaps, 
+multi-stakeholder collaborative projects, etc. 
+ 
+TOWN PLANNING, DEVELOPMENT    
+Limiting land take9 and developing resilient and carbon-efficient urban forms 
+Urban planning and development have a significant direct and indirect very long-term effect on 
+greenhouse gas emissions through their impact on bio-based production, carbon storage in soils, 
+habitat typologies, travel patterns and vulnerability to climate change.  
+What the SNBC says: 
+In the short term, the land take of natural, agricultural and forest areas must be limited and its 
+pace reduced by encouraging the inclusion of all new development projects in the existing 
+urban  envelope,  by  promoting  functional  mix  (housing,  employment,  services,  etc.)  and  by 
+adopting more moderate urban forms in terms of land use while ensuring the quality of the living 
+                                                 
+9 Land take: the process of changing the use of natural or agricultural land through development actions towards 
+artificial land (buildings, roads, car parks, gardens, building sites, etc.). 
+13 
+  
+environment. Set urban planning and development policies on a trajectory of zero net land take, 
+taking into account the impact on territorial projects and housing and property costs. 
+  To this end, strengthen urban centres and already urbanised areas by facilitating the 
+resettlement of households, commerce and crafts in the centres, and optimise the use of 
+space by diversifying uses, while promoting urban forms that are resilient to the effects of 
+climate change. 
+  Stopping urban sprawl and the degradation of agricultural, natural and forest areas 
+and limiting or even halting the drying up of wetlands. Encourage the re-marketing of 
+vacant  buildings  and  housing  by  bringing  them  up  to  standard  and  promote  the 
+development of renewable energies in areas where their impact on the soil will be limited. 
+ 
+CITIZENS’ EDUCATION, AWARENESS, AND ASSIMILATION OF ISSUES AND SOLUTIONS 
+Involve citizens in the transition to a low-carbon culture.  
+To achieve the ecological transition to carbon neutrality, it is necessary to take action in the 
+emitting sectors, but also to introduce a new “low-carbon” culture, promoting new ways of 
+living and consuming.  
+What the SNBC says: 
+  Enriching and sharing a low-carbon culture, through mobilising communication on the 
+challenges of climate change and solutions, as well as awareness raising and education 
+from a very young age and throughout life, through strengthening the exemplary nature 
+of all public services and mobilising citizens through leadership actions or voluntary 
+commitments (civic service, universal national service, etc.).   
+  Supporting  citizens  in  their  transition,  by  providing  them  with  information  tools 
+(environmental labelling in particular) and tools for calculating their own impact on the 
+climate and by facilitating repair and reuse procedures. 
+  Ensuring the acceptability by citizens of public policy measures dedicated to the low-
+carbon  transition,  based  on  sociological  studies,  public  participation  in  the 
+development of action plans and socio-economic impact studies. 
+ 
+EMPLOYMENT, SKILLS, QUALIFICATIONS AND OCCUPATIONAL TRAINING    
+Make  the  low-carbon  transition  an  opportunity  for  the  economy  and 
+employment by supporting occupational transitions. 
+The enrichment of skills, improvements in levels of qualifications, incentives to follow new career 
+paths and new gateways between professions are all strategic factors that make the low-carbon 
+transition an opportunity for the economy and employment. 
+What the SNBC says: 
+Encouraging better integration of the low-carbon challenges by industrial sectors, businesses 
+and territories to facilitate occupational transitions and conversions. To this end, develop tools to 
+analyse the evolution of jobs and skills linked to the transition and set up actions to support the 
+sectors, particularly those most affected in their core business (building, bio-economy, mobility 
+and energy production sectors). 
+14 
+  
+  Adapting the initial and in-service training system to support the transformation of 
+activities and territories (relating to both revising curricula to meet the needs of the 
+professional world and updating the knowledge of teachers and trainers to enable them to 
+develop their courses). 
+Sectoral Guidelines 
+Low-carbon TRANSPORT 
+ 
+The transport sector is currently the largest greenhouse gas emitting sector in France (30% of 
+national emissions in 2015). As all of these emissions are energy-related, the strategy aims for a 
+28%  reduction  in  emissions  in  2030  compared  to  2015  and  a  complete  decarbonisation  of 
+transport by 2050.10 
+This assumes an average annual decrease in emissions of 3.8 Mt CO2 eq/year between 2015 and 
+2050, whereas on average annual emissions increased by 0.5 Mt CO2 eq/year between 1990 and 
+2015, and decreased by only 0.8 Mt CO2 eq/year over the most recent period 2005-2015. 
+ 
+Figure 10 - Past and projected emissions in the transport sector between 1990 and 2050 (in MtCO2eq) 
+ 
+                                                 
+10   With the exception of domestic air transport and without taking into account "incompressible" residual gas 
+leaks (fluorinated gases, renewable gases). 
+15 
+  
+What the SNBC and its baseline scenario say: 
+  Give the sector price signals that encourage the development of low-carbon mobility 
+(standardising fuel tax rates between European countries, internalising external costs for 
+road  use,  etc.)  and  strengthen  existing  market  mechanisms  (European  Emissions 
+Trading Scheme - ETS, International Emissions Trading Scheme for Aviation - CORSIA), in 
+order to accelerate the decarbonisation of air transport. 
+  In line with the sector's energy transition, set ambitious targets in terms of the energy 
+performance of vehicles, both for passenger cars (targets of 4 L/100 km in 2030 in real 
+conditions for internal combustion vehicles and 12.5 kWh/100 km by 2050 for electric 
+vehicles, compared with around 17.5 kWh/100 km today), heavy goods vehicles (target of 
+21 L/100 km in 2040 in real conditions, i.e. a drop of almost 40% compared with 2015)11 
+and sea and air transport. In addition to energy efficiency gains, set ambitious targets for 
+the decarbonisation of energy consumed by vehicles, such as 
+◦  By 2040, 100% of light vehicles sold will have to be zero-emissions.  
+◦  For  domestic  maritime transport  that  is  100% carbon-free  in  2050,  develop  low-
+carbon  in  all  French  ports  and  facilitate  conversion  to  other  low-carbon 
+technologies (batteries, biofuels, hydrogen, sailing, etc.). 
+◦  For air transport, replace a very large proportion of fossil fuels with biofuels (50% 
+in 2050) and develop hydrogen or electric-powered aircraft. 
+  Support the development of all modes of transport, in particular by providing aid for 
+vehicle renewal and by adapting infrastructures (infrastructures for bio-NGV refuelling 
+or electric recharging).   
+  Support local authorities and businesses in setting up innovative initiatives and involve 
+them  in  clean  mobility  policies  (deployment  of  low-emission  zones,  development  of 
+action plans for reducing emissions and fleet renewal, etc.).   
+  Spur a modal shift to modes of transport that consume the least energy and produce 
+the lowest emissions, such as rail or public transport, and support active modes, such as 
+cycling (with an objective of 12% of the short distance modal share by 2030, and 15% by 
+2050), which can also improve health through regular physical exercise. 
+  Optimize the use of vehicles in terms of volumes and weight of goods loaded so as to 
+make logistics operations more fluid (increasing the current loading rate of heavy goods 
+vehicles from 9.8 to 12 tonnes per vehicle in 2050). 
+  Control the growth in demand for passenger transport (+26% between 2015 and 2050 
+for all modes of transport combined12) and freight transport (+40% between 2015 and 
+2050-2013), in particular by promoting working from home, carpooling, short routes and 
+the circular economy. 
+Transition in this sector must be upscaled quickly, while taking account of air quality issues - an 
+area in which major co-benefits should be obtained. The transition should also make it possible to 
+reduce land take by limiting construction of new infrastructures.  
+                                                 
+11        Energy efficiency objectives are also set for vehicles powered by natural gas and electricity. 
+12   More restrained increase than with a business-as-usual scenario. 
+16 
+  
+Low-carbon BUILDINGS 
+ 
+The residential-tertiary sector is the most energy-consuming sector and the second largest emitter 
+of greenhouse gases in France (19% of national emissions in 2015, and 28% if we add to direct 
+emissions the emissions linked to the production of energy consumed in buildings). The SNBC 
+defines an ambitious emission reduction trajectory for this sector13 with a target of -49% in 2030 
+compared to 2015 and reaching complete decarbonisation of the energy consumed in buildings in 
+2050 (only emissions linked to residual leakage of fluorinated and renewable gases will remain). 
+This assumes an average annual decrease in emissions of 2.5 Mt CO2 eq/year between 2015 and 
+2050, whereas emissions have remained globally stagnant between 1990 and 2015 and have 
+decreased by 2.1 Mt CO2 eq/year over the most recent period 2005-2015. 
+ 
+Figure 11- Past and projected emissions in the construction sector between 1990 and 2050 (in MtCO2eq) 
+ 
+ 
+What the SNBC and its baseline scenario say: 
+  Guiding the sector towards a 100% carbon-free energy use in 2050 (via price signals, 
+GHG criteria in public policy instruments, etc.) and favouring the use of the solutions 
+best suited to each type of building. In the short term, prioritize the elimination of fuel 
+and coal heating. 
+  Encourage a strong acceleration in the pace and quality of housing renovations (to 
+reach 500,000 renovations per year over the current five-year period, with a minimum 
+                                                 
+13   The majority of emissions from construction/deconstruction are from the industry sector as defined in this 
+strategy. 
+17 
+  
+target of 370,000 high-performance complete renovations per year from 2022, 700,00014 
+per year in the longer term) and tertiary buildings (in particular by setting an example 
+through  the  implementation  of  high-performance  renovations  of  public  buildings)  to 
+radically improve the energy efficiency of residential and tertiary buildings by 2050 
+(allowing a decrease of around 40% in the sector's energy consumption in 2050 
+compared to today). Prioritize energy sieves to eliminate them by 2028 and fight against 
+fuel  poverty.  Develop  the  use  of  the  least  carbon-intensive  renovation  and  insulation 
+products and carbon-storing materials. 
+  Increase  the  energy  and  carbon  performance  levels  of  new  buildings  via  future 
+environmental regulations by favouring integrated life cycle analysis approaches (taking 
+into account summer comfort to limit the use of air conditioning, systematically achieving 
+high-performance building insulation, using renewable energies and materials with a low 
+carbon footprint, particularly those with a carbon storage capacity).  
+  Aiming for better energy efficiency of equipment (for unit consumption gains, depending 
+on the appliances, ranging from 15 to 60% between now and 2050) and a more moderate 
+use by encouraging households to use equipment less and better and strengthening the 
+dissemination  of  intelligent  demand  management  technologies,  in  particular  to  enable 
+heating temperatures to be lowered by an average of 1°C by 2050. 
+A sharp acceleration is required in the speed of transition in this sector, which will necessitate 
+mobilisation  of  financing  to  make  the  required  investments.  Behavioural  changes  are  also 
+necessary  to  reduce  energy  consumption.  For  this  sector,  training  of  professionals  and 
+transformation  of  businesses  are  crucially  important.  It  is  vital  to  support  low-income 
+households for insulation work in dwellings, and to change heating systems. This can be carried out 
+through investment aid (energy transition tax credits, eco loans, energy saving certificates, etc). 
+ 
+Low-carbon AGRICULTURE 
+ 
+The agricultural sector (19% of national greenhouse gas emissions in 2015) is subject to several 
+major challenges: feeding populations, ensuring the sustainability of landscapes and biodiversity, 
+responding  to  growing  demands  in  terms  of  the  sanitary  quality  of  production,  coping  with 
+pressure on land use and the impact of climate change. The other particularity of the sector is that it 
+is a consumer of inputs whose manufacture can emit high levels of greenhouse gases (mineral 
+fertilizers for example). The strategy aims to halve the agricultural sector's emissions between 
+1990 and 2050, i.e. a reduction of nearly 46% between 2015 and 2050. In terms of reduction rate, 
+this implies an acceleration compared to the past: -2%/year will be necessary over the 2015-2050 
+period compared to -0.1%/year observed over the 2005-2015 period. Indeed, emissions from the 
+agricultural sector are mostly non-energy (45% of methane mainly related to animal husbandry 
+and  43%  of  nitrous  oxide  mainly  related  to  nitrogen  fertilisation  of  crops).  Although  these 
+emissions can be greatly reduced by optimising agricultural practices, they cannot be completely 
+eliminated:  N O  emissions  related  to  plant  growth  and  CH   emissions  related  to  ruminant 
+2 4
+metabolism.  Therefore, in 2050, in view of the full decarbonisation of energy emissions, agriculture 
+could become the sector that emits the most greenhouse gases that are difficult to compress. At the 
+same time, the strategy promotes the development of carbon storage potential in agricultural soils. 
+                                                 
+14   The energy renovation plan for buildings objective - April 2018 
+18 
+  
+This assumes an average annual decrease in emissions of 1.2 Mt CO2 eq/year between 2015 and 
+2050, whereas emissions decreased on average by 0.2 Mt CO2 eq/year between 1990 and 2015 
+and, in particular, by 0.1 Mt CO2 eq/year in the most recent period between 2005 and 2015. 
+ 
+Figure 12- Past and projected emissions in the agriculture sector (excluding land) between 1990 and 2050 (in 
+MtCO2eq)  
+ 
+ 
+What the SNBC and its baseline scenario say: 
+  Reduce non-energy emissions from the agricultural sector (objectives of -17% in 2030 and -
+38% in 2050 compared to today) by developing agro-ecology (including organic farming) 
+and precision agriculture: 
+◦  For nitrous oxide (N O) emissions, reduce nitrogen input and optimize the nitrogen 
+2
+cycle,  by  reducing  excess  protein  in  animal  feed  and  by  developing  plant  protein 
+autonomy. 
+◦  For methane (CH ) emissions, improve the management of livestock manure, optimise 
+4
+herd management and limit enteric fermentation. 
+  Reduce the sector's energy emissions (CO ), by halving energy consumption by 2050 and 
+2
+by  developing  and  generalising  the  use  of  renewable  energies,  up  to  a  complete 
+decarbonisation of the energy consumed by the sector in 2050. 
+  Develop  carbon-free  energy  production  and  bioeconomy  to  supply  energy  and 
+materials  that  emit  less  GHG  to  the  French  economy  (methanisation,  wood  energy, 
+second-generation liquid biofuels, wind, solar, etc.), which will make a positive contribution 
+to the sector's added value. 
+19 
+  
+  Halt the sector's current carbon destocking: according to current inventory methodologies, 
+agricultural land (crops and grasslands) released about 9 MtCO2eq into the atmosphere in 
+2015.  Reverse  the  trend  through  agroforestry,  changes  in  practices  (notably 
+maintaining permanent grasslands) and a decrease in land take. 
+  Change  food  demand  in  line  with  the  latest  nutritional  recommendations  (less 
+charcuterie and meats other than poultry and more legumes, fruit and vegetables) and 
+towards local, better quality and sustainable products (including those from organic 
+farming). Reduce food waste (from 14% in 2015 to 5% in 2050 for post-production 
+waste). 
+In the long term, the movement towards decarbonisation could bring with it a relocation of 
+production activities in France. This movement is backed by a strong demand from French 
+consumers for local high-quality produce. 
+ 
+FORESTRY 
+ 
+The forest-wood-biomass sector is a strategically important sector in achieving carbon neutrality, 
+because it enables carbon sequestration and the production of bio-sourced renewable materials 
+capable of replacing fossil-based products. With 31% of the metropolitan territory covered by 
+forest, the forest sector represents the largest proportion of the French carbon sink (along with 
+agriculture) and makes it possible to offset part of the emissions from other sectors. The strategy 
+envisions  an  ambitious  development  trajectory  for  the  forest  sector  well  up  to  2050  (+87% 
+compared to a business-as-usual scenario, with an increase in the wood products sink by a factor of 
+8 compared to today). 
+ 
+Figure 13 - Past and projected forest sector carbon sink (forest and wood product ecosystems) between 1990 
+and 2050 (in MtCO2eq) 
+ 
+20 
+  
+ 
+The forestry-biomass sector is a strategically important sector in achieving carbon neutrality, 
+because it enables carbon sequestration and the production of bio-sourced renewable materials 
+and energy capable of replacing fossil-based products. With 31% of the metropolitan territory and 
+96%  of  the  territory  of  French  Guyana  covered  by  forest,  the  sector  represents  the  largest 
+proportion of the French carbon sink (along with agriculture) and makes it possible to offset part of 
+the emissions from other sectors. 
+What the SNBC and its baseline scenario say: 
+  Maintain carbon capture and stocks in the forest ecosystem through improved forestry 
+management  that  allows  both  the  adaptation  of  forests  to  climate  change  and  the 
+preservation of carbon stocks in the forest ecosystem, including soils (whose observation 
+and statistical monitoring must be guaranteed and improved). Strengthening the carbon 
+sink  in  the  forest-wood  sector  will  also  require  the  development  of  afforestation 
+initiatives and a reduction in forest clearance. All of these factors would make it possible 
+to slow down the declining trends in the forest sink currently observed, particularly in 
+connection with increased mortality and a forest growth that is tending to decrease. 
+  Maximise the effects of substitution and carbon storage in wood products, via increased 
+wood harvesting (increase in wood harvesting by 12 Mm³ per year by 2026, and 
+further increase thereafter, with + 0.8 Mm³ per year from 2036), while ensuring the 
+preservation of biodiversity, directed towards longer-life uses (in particular broadening 
+the market base of wood in construction, with the objective of tripling the production of 
+wood  products  for  long-life material use  between  2015  and  2050)  and by  increasing 
+recycling and energy recovery of end-of-life wood products. 
+  Evaluate  the  implementation  of  the  resulting  policies,  particularly  in  terms  of 
+impacts on biodiversity, and adjust them regularly in turn, to ensure that the expected 
+results and co-benefits are achieved. 
+These policies are combined with the French National Forests and Wood Programme (PNFB) which 
+oversees forestry policy for the 2016-2026 period and sets a target for additional use of wood as 
+part  of  sustainable  and  multifunctional  forest  management  (involving  challenges  in  terms  of 
+protecting biodiversity, soils, water resources and landscapes). One of the characteristics of the 
+sector  is  its  integration  into  a  particularly  long  time  frame:  combined  action  is  needed  for 
+mitigation purposes and to adapt to climate change and to manage risks linked to natural hazards 
+in forest land in order to meet the various challenges, while at the same time preserving the high 
+economic value of the sector. 
+ 
+Low-carbon INDUSTRY 
+ 
+In 2015, the sector will account for 18% of national GHG emissions. 84% of the sector's emissions 
+are subject to the European Union Emissions Trading Scheme (EU ETS). Industrial emissions are 
+partly  due  to  the combustion  of  energy  required  for  production  and  partly  to  the industrial 
+processes themselves. The strategy aims to achieve an ambitious reduction in emissions from the 
+sector by 2050, with only those emissions deemed to be incompressible according to current 
+knowledge and available technologies, i.e. a 35% reduction in emissions in 2030 compared to 2015, 
+and an 81% reduction in 2050.  
+21 
+  
+This implies an average annual decrease in emissions of 1.9 Mt CO2 eq/year between 2015 and 
+2050, whereas these emissions decreased on average by 2.5 Mt CO2 eq/year between 1990 and 
+2015, with a higher rate of decrease of 3.4 Mt CO2 eq/year over the most recent period 2005-2015. 
+This decrease is partly due to the phenomenon of industrial relocation, which explains why the 
+French carbon footprint has not decreased.  
+ 
+Figure 14 - Past and projected emissions in the industrial sector between 1990 and 2050 (in MtCO2eq) 
+ 
+ 
+What the SNBC and its baseline scenario say: 
+  Support companies in their transition to low-carbon production systems, by developing 
+decarbonisation roadmaps for the different industrial sectors and by supporting them in 
+their  transition,  in  particular  through  public  and  private  financing  tools.  Support  the 
+emergence of means of production of key technologies in the transition in France. This 
+support should enable companies to take full advantage of the economic opportunities of 
+the ecological transition, while avoiding carbon leakage. 
+  Reduce and, if possible, eliminate emissions from industrial processes by starting to 
+develop and adopt breakthrough technologies now (objective of a 60% reduction in non-
+energy emissions from industry between now and 2050). Carbon capture, use, and storage 
+(CCUS) technologies will also have a role to play in achieving carbon neutrality and could 
+capture 15 MtCO2eq by 2050. 
+  Strongly improve energy efficiency (+20 to +40% gains depending on the sector between 
+2015 and 2050) and use carbon-free sources of energy (the objective being to completely 
+decarbonise the energy consumed by this sector in 2050), namely by heavily electrifying the 
+industrial sector (aiming to make 70% of the sector's consumption in 2050 electric), a very 
+efficient use of biomass and renewable energies and the recovery of waste heat (with the 
+objective being to recover 10 TWh of heat from annual discharges at over 100°C by 2030). 
+22 
+  
+  Control demand for materials by developing the circular economy in order to eco-design 
+products,  limit  the  resource  waste  from  the  production  phase,  optimize  the  rate  of 
+incorporation of recycled materials in products (to aim for incorporation rates of at least 
+80%  for  steel,  aluminium,  plastic,  glass  and  paper  in  2050),  their  recyclability  and 
+reparability rates. 
+  A transition to industry as close as possible to zero carbon by 2050 will require a profound 
+transformation of the sector. For this reason, the most efficient measures must be envisaged 
+today, and it is important to avoid being locked in to using ineffective technologies leading 
+to failed investments. 
+CARBON-FREE energy production 
+ 
+In  2015,  energy  production  generated  around  10%  of  national  greenhouse  gas  emissions, 
+particularly due to the fact that winter peaks lead to the use of carbon means of production. The 
+strategy aims for a 33% reduction in the sector's emissions by 2030 compared to 2015 and an 
+almost complete decarbonisation of energy production by 2050 (the residual part being made up of 
+fossil fuels for air and sea transport, and residual leakage, in particular methane leakage). 74% of 
+the sector's GHG emissions are subject to the European Union Emissions Trading Scheme (EU ETS) 
+(2017 figure).  
+This assumes an average annual decrease in emissions of 1.3 Mt CO2 eq/year between 2015 and 
+2050. Emissions decreased by an average of 1.3 Mt CO2 eq/year between 1990 and 2015, with a 
+higher rate of decrease of 2.7 Mt CO2 eq/year over the most recent period 2005-2015. 
+ 
+Figure 15 - Past and projected emissions in the energy production sector between 1990 and 2050 (in 
+MtCO2eq) 
+ 
+23 
+  
+ 
+What the SNBC and its baseline scenario say: 
+  Control demand and round off the electricity demand curve by mitigating the seasonal and 
+daily peaks in consumption. This can be achieved via:  
+◦  energy  efficiency,  through  implementation  of  effective  technologies  that  must  be 
+supported by public policies providing incentives to optimise resources. A decisive role 
+will be played by research and development in energy efficiency and storage. 
+◦  By  promoting  moderate  uses  and  behaviour  relating  to  energy  consumption. 
+Deployment of intelligent devices and awareness-raising concerning best practices will 
+make it possible to introduce and facilitate this careful attitude. 
+  Decarbonising  and  diversifying  the  energy  mix  (see  the  projected  mix  in  2050 
+below). To achieve this, continue actions to develop renewable and recovery energies 
+(carbon free heat, biomass and carbon-free electricity). Identify the potential and needs in 
+terms of heating and cooling networks by territory. Strongly develop the mobilisation of 
+biomass, in order to reach a production 2.5 times higher than today, while considering all 
+the underlying issues (biodiversity, resources, economic and environmental conditions) and 
+by favouring local uses. 
+ 
+Figure 16 - Sources of energy which could meet the final energy needs in 2050 
+ 
+  Specify the options, in particular in terms of mobilising and allocating biomass resources, 
+to better inform the structural choices for balancing energy supply and demand in 
+the long term, in particular the future of gas and heating networks. 
+The changes to the energy mix and the energy efficiency objectives are determined within the 
+framework of the Multi Annual Energy Plan (PPE). The PPE is based on the same reference scenario 
+as the SNBC and is compatible with its guidelines. 
+ 
+ 
+24 
+  
+WASTE processing for a circular economy 
+ 
+The waste sector currently accounts for 3% of national greenhouse gas emissions. The strategy 
+aims to reduce the sector's emissions by 37% in 2030 compared to 2015 and by 66% by 2050 (i.e. 
+to eliminate all emissions that can be eliminated according to current knowledge). 
+This assumes an average annual decrease in emissions of 0.3 Mt CO2 eq/year between 2015 and 
+2050, whereas emissions stagnated on average between 1990 and 2015. However, a positive trend 
+in the decrease in emissions has been observed since the early 2000s: -0.4 Mt CO2 eq/year on 
+average between 2005 and 2015. 
+ 
+Figure 16 - Past and projected emissions in the waste sector between 1990 and 2050 (in MtCO2eq) 
+ 
+ 
+What the SNBC and its baseline scenario say: 
+  Reduce the amount of waste (including food waste) to reduce per capita waste generation 
+by 20% by 2050: 
+◦  by preventing the generation of waste from the design phase at the producers, in 
+particular through eco-design (limiting packaging, product life and reparability...) and 
+the Extended Producer Responsibility channels; 
+◦  by promoting the circular economy, product reuse and repair with consumers; 
+  Improve collection (more sorting at source, better waste characterisation, generalisation 
+of organic waste collection) and waste management by developing material recovery 
+(reuse,  recycling  or  organic  recovery)  then  energy  recovery  (cogeneration,  co-
+incineration, energy recovery from sorting rejects, waste water heat recovery) to reduce 
+waste sent to landfill by 90% by 2035. Limit greenhouse gas leaks from waste storage 
+facilities (biogas capture and recovery) and wastewater collection and treatment facilities. 
+25 
+  
+For this sector, the strategy is essentially the 2018 circular economy roadmap strategy, which aims 
+to  improve  production  (eco-design,  incorporation  of  recycled  materials),  consumption  habits 
+(development  of  reuse  and  repair  facilities,  extension  of  products’  life  cycle),  and  waste 
+management  (optimisation  of  waste  sorting,  development  of  recycling  and  recovery),  and  to 
+mobilise  all  relevant  stakeholders.  The  anti-waste  law  for  a  circular  economy,  published  in 
+February 2020, sets out this roadmap and endorses it with additional measures based on four 
+guidelines: putting an end to the various forms of waste in order to preserve natural resources, 
+strengthening consumer information so that consumers can make informed choices, mobilising 
+economic players to transform production and distribution methods, improving waste collection 
+and sorting, and fighting against illegal dumping. 
+   
+26 
+  
+MONITORING, ASSESSMENT AND REVISION OF THE 
+STRATEGY 
+ 
+Regular monitoring of the Strategy using a set of indicators 
+Monitoring of the national low-carbon strategy is based on a set of indicators, consisting of: 
+  performance indicators directly comparable to national targets and illustrating the results 
+of the strategy as a whole. 
+  contextual indicators to help put the results into perspective. 
+  indicators relating to the implementation of each cross-cutting and sectoral guideline (pilot 
+indicators).   
+  indicators of the level of integration of the strategy’s guidelines into public policies. 
+  additional  environmental  indicators  provided  as  part  of  the  strategic  environmental 
+assessment. 
+The results indicators are updated every year following publication of the greenhouse gas emission 
+inventories. This annual monitoring makes it possible to progressively assess compliance with the 
+carbon budget for the current period. 
+A holistic monitoring of all the indicators is carried out at least every two years as of the adoption of 
+the strategy and its future revisions. 
+All of the stakeholders will be included in the SNBC monitoring process. 
+A regular review process 
+Every five years, the National low-carbon strategy (SNBC) undergoes a complete revision cycle. It 
+includes, starting with the next revision cycle, the adoption of a five-year law setting energy and 
+climate objectives and priorities for action after parliamentary debate, the revision of the strategy's 
+baseline scenario and the definition of a new carbon budget, the revision of the strategy and its 
+guidelines  (stages  in  which  stakeholders  are  also  strongly  involved)  and  the  performance  of 
+regulatory consultations. The revision of the strategy notably allows for the adaptation of the 
+baseline  scenario  to  changes,  particularly  in  knowledge  (technical,  economic,  social  and 
+geopolitical). 
+This revision is based on a retrospective assessment of the implementation of the national low-
+carbon strategy. It examines compliance with the indicative annual periods of the current carbon 
+budget,  compliance  with  the  trajectories  of  the  strategy’s  baseline  scenario,  and  the  level  of 
+integration of the guidelines into public policies. This assessment makes it possible to identify any 
+deviations from the trajectory and the target objectives, and to analyse their causes, providing 
+valuable feedback in order to draw up a realistic revision of the Strategy.   
+27 
+  
+Strengthened governance 
+The Haut Conseil pour le Climat (HCC - High Council for Climate) has its own dedicated resources. It 
+will participate in regular monitoring and assessment of the strategy, in particular regarding 
+implementation of operational actions resulting from the strategy, and adherence to the trajectory 
+for reducing greenhouse gas emissions. 
+28 
+  
+Strategic Environmental Assessment of the SNBC 
+The strategic environmental assessment of the SNBC highlights notable probable positive effects on 
+the following environmental challenges: 
+  Limiting of greenhouse gas emissions (the primary objective of the strategy) via the 
+guidelines defined for all of the emitting sectors or sectors with storage potential; 
+  Strengthening of territories’ resilience in the face of climate change and limiting of 
+natural risks, through the guidelines concerning land use planning and the construction 
+sector; 
+  Limiting  of  resource  depletion  and  development  of  the  circular  economy,  via  the 
+guidelines concerning waste prevention and management, recovery of local resources and 
+promotion of bio-sourced materials. 
+  Preserving soil and water quality and improved spatial management, via the guidelines 
+in the agriculture and forestry sectors, aiming to reduce pollution in soils and to increase 
+their carbon storage. The strategy also proposes guidelines aiming specifically to limit land 
+take. Nevertheless, the development of low-carbon processes and technologies, and the 
+installation of new infrastructures, must be carefully examined in order to avoid any impacts 
+in  terms  of  soil  and  water  pollution.  The  Multi  Annual  Energy  plan  (PPE)  contains 
+environmental recommendations on this topic. 
+The strategic environmental assessment also raises some other points of interest, in particular 
+concerning: 
+  The preservation of biodiversity and the loss of natural, agricultural and forest spaces. 
+Increased use of biomass may have indirect impacts due to the intensification and extension 
+of agricultural and forestry production systems. The environmental recommendations of the 
+National Biomass Mobilisation Strategy aim specifically to limit this type of impact; 
+  Management  of  non-energy  mineral  resources  associated  with  development  of 
+renewable energy sources, electrification of transport systems (production of batteries, 
+photovoltaic  panels,  grids,  etc.),  and  renovation  of  energy  systems  in  buildings.  These 
+challenges are taken into account in a more operational manner in the Multi Annual Energy 
+Plans (PPE) and the Resources Plan for France; 
+  Air quality, which could potentially be affected by the use of biomass and its combustion, 
+and by the energy renovation operations in buildings (maintenance of indoor air quality by 
+means of ventilation systems). This challenge is included in the guidelines of the SNBC, and 
+taken into account on an operational level in the National Plan for Reduction of Atmospheric 
+Pollutants, and in the Plan for Energy Renovation of Housing. Probable positive impacts of 
+the SNBC should also be noted regarding the quality of outdoor air, notably associated with 
+the  guidelines  concerning  energy  decarbonisation  and  widespread  electrification  of 
+transport. 
+ 
+29 
+ 
