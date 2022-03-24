@@ -42,3 +42,25 @@ for(i in 1:nrow(x)){
 
 # write to csv
 x %>% write_csv("Output/FOREIGN_TRUNCATED_12558CHR_translated.csv")
+
+## translation for LTS
+# setwd
+setwd("~/Documents/GitHub/IAD_blockchain/UNFCCC LTS/foreign_LTS_texts")
+
+x <- list.files(
+           pattern = "\\.txt$",
+           full.names = TRUE) %>% 
+  set_names() %>% 
+  map_dfr(read_csv, .id = "file_name") %>%
+  pivot_longer(`Stratégie  à long terme de la Belgique`:`Royaume du Maroc`, names_to="document", values_to="text") %>%
+  filter(!is.na(text))
+
+# add new columns
+x <- x %>% add_column(Text_translated = "NA")
+
+# translate text - detect language method (requires OAuth)
+for(i in 4702:nrow(x)){
+  x$Text_translated[i] <- gl_translate(x$text[i], target="en")$translatedText
+}
+
+x %>% write_csv("foreign_LTS_texts_translated.csv")

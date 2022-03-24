@@ -9,7 +9,7 @@ Set working directory and load libraries
 ```{r}
 knitr::opts_knit$set(echo = TRUE, root.dir = "~/Documents/GitHub/IAD_blockchain")
 library(tidyverse)
-library(ggplo2)
+library(ggplot2)
 library(UESIplots)
 library(ggrepel)
 library(wesanderson)
@@ -48,6 +48,23 @@ ggplot(aes(x=Year, y=Total)) +
   theme(text=element_text(family="Myriad Pro", size=14))
 dev.off()
 
+# dark version
+
+cairo_pdf("plots/globalco2_timeline_dark.pdf", width=12, height=6)
+ghg_world %>% filter(Year >= 1950) %>%
+ggplot(aes(x=Year, y=Total)) +
+  geom_line(size=2, color="#CA0020") +
+  geom_point(data=ghg_world[!is.na(ghg_world$event),], aes(x=Year, y=position), size=2)+
+  geom_segment(data=ghg_world[!is.na(ghg_world$event),],aes(y=position, yend=Total, xend=Year), color="white", size=0.2)+  
+  geom_text_repel(aes(x=Year, y=position, label=event),size=4, nudge_y=100, max.overlaps=20) +
+  scale_x_continuous(breaks=seq(1950, 2020, 10))+
+  #scale_y_continuous(expand = expansion(mult = c(0, 0.5)))+
+  labs(x="", y="Total Annual Eemissions (MtCO2e)")+
+   dark_theme_gray() +
+  theme(text=element_text(family="Myriad Pro", size=14),
+        axis.text=element_text(size=14)) 
+dev.off()
+
 ```
 ### Constituents plot
 Plot of constituents changing over time
@@ -61,13 +78,35 @@ orgs_m <- orgs %>% pivot_longer(`Constituency - Business and Industry`:`Constitu
 
 pal <- wes_palette("Rushmore1", 10, type="continuous")[c(1,3:10)]
 
-cairo_pdf("plots/Constituencies_over_time_dark.pdf")
+cairo_pdf("plots/Constituencies_over_time_dark.pdf", width=8, height=6)
 ggplot(orgs_m, aes(x=Conference, y=Value, fill=Constituency)) +
   geom_bar(position="stack", stat="identity") +
   scale_fill_manual(name="", values=pal)+
   labs(x="", y="Number of organizations")+
   dark_theme_gray() +
-  theme(text=element_text(family="Myriad Pro", size=14, color="#ffffff"))
+  theme(text=element_text(family="Myriad Pro", size=14, color="#ffffff"),
+        axis.text=element_text(size=14))
 dev.off()
+
+cairo_pdf("plots/Constituencies_over_time_white.pdf")
+ggplot(orgs_m, aes(x=Conference, y=Value, fill=Constituency)) +
+  geom_bar(position="stack", stat="identity") +
+  scale_fill_manual(name="", values=pal)+
+  labs(x="", y="Number of organizations")+
+  theme_classic() +
+  theme(text=element_text(family="Myriad Pro", size=14),
+        axis.text=element_text(size=14))
+dev.off()
+
+
+pal <- wes_palette("Rushmore1", 13, type="continuous")
+# for class
+orgs %>% pivot_longer(`Constituency - Business and Industry`:`Constituency - Youth`, names_to="Constituency", values_to="Value") %>% dplyr::select(-`not yet affiliated/no data`) %>%
+ggplot(aes(x=Conference, y=Value, fill=Constituency)) +
+  geom_bar(position="stack", stat="identity") +
+  scale_fill_manual(name="", values=pal)+
+  labs(x="", y="Number of organizations")+
+  theme_classic() +
+  theme(text=element_text(family="Myriad Pro", size=14))
 ```
 
