@@ -180,7 +180,7 @@ plotRemoved(htmls_processed_2$documents, lower.thresh = seq(1, 5, by = 1))
 prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, lower.thresh = 1)
 
 # SAVE CORPUS
-save(prepped, file = "LTS_corpus_STM.Rdata")
+save(prepped, file = "./Corpora/LTS_corpus_STM.Rdata")
 
 
 

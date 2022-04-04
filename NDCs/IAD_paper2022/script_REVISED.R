@@ -77,17 +77,13 @@ htmls <- gsub('\\\"', "", htmls)
 htmls <- gsub(" , ", "", htmls)
 
 
-toMatch <- c("company", "companies", "non-governmental", "nongovernmental", "subnational",
-             "NGO", "businesses", "non-government", "investor", "organization", "city", 
-             "cities", "university", "universities", "corporation", "corporations",
-             "investors", "NGOs", "institution", "organizations", "town", "municipality",
-             "metropolis", "metropolitan", "district", "province", "territory", "county",
-             "counties", "districts", "college", "colleges", "privatesect", "local government", "local governments", "non profit", "non-profit", "civil society")
 
+tmdf<-read.csv("./IAD_paper2022/toMatch_NSA_words_updated.csv")
+toMatch <- c(tmdf$NSA_word)
 
-# tmt <- data.frame(toMatch)
-# write.csv(tmt, "toMatch_NSA_words.csv", row.names = F)
+# append the toMatch vector the list of stopwords
 
+stopwords <- append(stopwords, toMatch)
 
 
 
@@ -157,7 +153,7 @@ for (i in c(1:length(f_files))) {
   results.df$meta[i] <- i
 }
 
-write.csv(results.df, "REVISED_ndc_data.csv", row.names = FALSE)
+write.csv(results.df, "./IAD_paper2022/REVISED_ndc_data.csv", row.names = FALSE)
 
 results2 <- read.csv("./IAD_paper2022/REVISED_ndc_data.csv")
 results2 <- results2[!results2$result == "",]
@@ -177,14 +173,14 @@ results2$result <- gsub(" na ", " ", results2$result)
 results2$result <- gsub("\\s+", " ", results2$result)
 results2$result <- gsub("[.]", "", results2$result)
 
-vocab_size <- unlist(lapply(seq(1, 155), n_words))
+vocab_size <- unlist(lapply(seq(1, 124), n_words))
 
-lengths_begin <- unlist(lapply(seq(1, 192), n_words))
+lengths_begin <- unlist(lapply(seq(1, 124), n_words))
 
-vocab_end <- unlist(lapply(seq(1, 192), n_words))
+vocab_end <- unlist(lapply(seq(1, 124), n_words))
 
 
-write.csv(results2, "revised_cleaned_ndc_data.csv", row.names = FALSE)
+write.csv(results2, "./IAD_paper2022/revised_cleaned_ndc_data.csv", row.names = FALSE)
 
 mtd_subset <- as.vector(unlist(results2['meta']))
 
@@ -198,12 +194,22 @@ htmls_processed_2 <- textProcessor(documents=results, metadata=metadata[mtd_subs
 plotRemoved(htmls_processed_2$documents, lower.thresh = seq(1, 5, by = 1))
 
 
-prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, 
-                         htmls_processed_2$meta, lower.thresh = 1)
+prepped <- prepDocuments(htmls_processed_2$documents, 
+                         htmls_processed_2$vocab, 
+                         htmls_processed_2$meta, 
+                         lower.thresh = 1)
 
-topic_search <- stm::searchK(prepped$documents, prepped$vocab,
-                             K = c(4,5,6,7,8,9,10,11,12,13,14,15), init.type="Spectral",
-                             N=floor(0.5*length(prepped$documents)), proportion=0.5, cores=4)
+
+# SAVE CORPUS
+save(prepped, file = "./IAD_paper2022/Corpora/NDC_corpus_STM.Rdata")
+
+topic_search <- stm::searchK(prepped$documents, 
+                             prepped$vocab,
+                             K = c(4,5,6,7,8,9,10,11,12,13,14,15), 
+                             init.type="LDA",
+                             N=floor(0.5*length(prepped$documents)), 
+                             proportion=0.5, 
+                             cores=4)
 
 
 plot(topic_search)
@@ -213,7 +219,7 @@ stm_covariate_1 <- stm(documents=prepped$documents,
                      vocab=prepped$vocab,
                      K = 7, 
                      data=prepped$meta, 
-                     init.type="Spectral", 
+                     init.type="LDA", 
                      verbose=FALSE, 
                      seed=1234)
 
