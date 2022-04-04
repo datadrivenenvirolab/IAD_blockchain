@@ -179,6 +179,12 @@ plotRemoved(htmls_processed_2$documents, lower.thresh = seq(1, 5, by = 1))
 
 prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, lower.thresh = 1)
 
+# SAVE CORPUS
+save(prepped, file = "LTS_corpus_STM.Rdata")
+
+
+
+
 topic_search <- stm::searchK(prepped$documents, 
                              prepped$vocab,
                              K = c(4,5,6,7,8,9,10,11,12,13,14,15), 
