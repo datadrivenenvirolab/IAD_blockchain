@@ -1,0 +1,156 @@
+"","iso","extra","name","continent","name_match"
+"1","AFG","NDC","Afghanistan","AS",TRUE
+"2","AGO","INDC","Angola","AF",TRUE
+"3","ALB","NDC","Albania","EU",TRUE
+"4","AND","NDC","Andorra","EU",TRUE
+"5","ARE","NDC","United Arab Emirates","AS",TRUE
+"6","ARG","NDC","Argentina","SA",TRUE
+"7","ARM","NDC","Armenia","AS",TRUE
+"8","ATG","NDC","Antigua & Barbuda","North America",TRUE
+"9","AUS","NDC","Australia","OC",TRUE
+"10","AZE","NDC","Azerbaijan","AS",TRUE
+"11","BDI","INDC","Burundi","AF",TRUE
+"12","BEN","INDC","Benin","AF",TRUE
+"13","BFA","NDC","Burkina Faso","AF",TRUE
+"14","BGD","NDC","Bangladesh","AS",TRUE
+"15","BHR","NDC","Bahrain","AS",TRUE
+"16","BHS","NDC","Bahamas","North America",TRUE
+"17","BIH","NDC","Bosnia & Herzegovina","EU",TRUE
+"18","BLR","NDC","Belarus","EU",TRUE
+"19","BLZ","NDC","Belize","North America",TRUE
+"20","BOL","NDC","Bolivia","SA",TRUE
+"21","BRA","NDC","Brazil","SA",TRUE
+"22","BRB","NDC","Barbados","North America",TRUE
+"23","BRN","INDC","Brunei","AS",TRUE
+"24","BTN","NDC","Bhutan","AS",TRUE
+"25","BWA","NDC","Botswana","AF",TRUE
+"26","CAF","NDC","Central African Republic","AF",TRUE
+"27","CAN","NDC","Canada","North America",TRUE
+"28","CHE","NDC","Switzerland","EU",TRUE
+"29","CHL","NDC","Chile","SA",TRUE
+"30","CHN","NDC","China","AS",TRUE
+"31","CIV","NDC","Cote d'Ivoire","AF",TRUE
+"32","CMR","NDC","Cameroon","AF",TRUE
+"33","COD","INDC","Congo, Dem. Republic","AF",TRUE
+"34","COG","NDC","Congo","AF",TRUE
+"35","COK","NDC","Cook Islands","OC",TRUE
+"36","COL","INDC","Colombia","SA",TRUE
+"37","COM","NDC","Comoros","AF",TRUE
+"38","CPV","NDC","Cabo Verde","AF",FALSE
+"39","CRI","NDC","Costa Rica","North America",TRUE
+"40","CUB","NDC","Cuba","North America",TRUE
+"41","DJI","NDC","Djibouti","AF",TRUE
+"42","DMA","NDC","Dominica","North America",TRUE
+"43","DOM","NDC","Dominican Republic","North America",TRUE
+"44","DZA","NDC","Algeria","AF",TRUE
+"45","ECU","INDC","Ecuador","SA",TRUE
+"46","EGY","NDC","Egypt","AF",TRUE
+"47","ERI","INDC","Eritrea","AF",TRUE
+"48","ETH","NDC","Ethiopia","AF",TRUE
+"49","FJI","NDC","Fiji","OC",TRUE
+"50","FSM","NDC","Micronesia","OC",TRUE
+"51","GAB","NDC","Gabon","AF",TRUE
+"52","GEO","NDC","Georgia","AS",TRUE
+"53","GHA","NDC","Ghana","AF",TRUE
+"54","GIN","NDC","Guinea","AF",TRUE
+"55","GMB","NDC","Gambia","AF",TRUE
+"56","GNB","INDC","Guinea-Bissau","AF",TRUE
+"57","GNQ","INDC","Equatorial Guinea","AF",TRUE
+"58","GRD","NDC","Grenada","North America",TRUE
+"59","GUY","NDC","Guyana","SA",TRUE
+"60","HND","NDC","Honduras","North America",TRUE
+"61","HTI","NDC","Haiti","North America",TRUE
+"62","IDN","NDC","Indonesia","AS",TRUE
+"63","IND","NDC","India","AS",TRUE
+"64","IRN","INDC","Iran","AS",TRUE
+"65","ISR","NDC","Israel","AS",TRUE
+"66","JAM","NDC","Jamaica","North America",TRUE
+"67","JOR","NDC","Jordan","AS",TRUE
+"68","JPN","NDC","Japan","AS",TRUE
+"69","KEN","NDC","Kenya","AF",TRUE
+"70","KGZ","INDC","Kyrgyzstan","AS",TRUE
+"71","KHM","NDC","Cambodia","AS",TRUE
+"72","KIR","NDC","Kiribati","OC",TRUE
+"73","KNA","NDC","Saint Kitts & Nevis","North America",TRUE
+"74","KOR","NDC","Korea (North)","AS",TRUE
+"75","KWT","INDC","Kuwait","AS",TRUE
+"76","LAO","NDC","Laos","AS",TRUE
+"77","LBN","INDC","Lebanon","AS",TRUE
+"78","LBR","INDC","Liberia","AF",TRUE
+"79","LCA","NDC","Saint Lucia","North America",TRUE
+"80","LKA","NDC","Sri Lanka","AS",TRUE
+"81","LSO","NDC","Lesotho","AF",TRUE
+"82","MAR","NDC","Morocco","AF",TRUE
+"83","MCO","NDC","Monaco","EU",FALSE
+"84","MDA","NDC","Moldova","EU",TRUE
+"85","MDG","NDC","Madagascar","AF",TRUE
+"86","MDV","NDC","Maldives","AS",TRUE
+"87","MEX","NDC","Mexico","North America",TRUE
+"88","MHL","NDC","Marshall Islands","OC",TRUE
+"89","MKD","INDC","Macedonia, FYR","EU",TRUE
+"90","MLI","NDC","Mali","AF",TRUE
+"91","MMR","NDC","Myanmar","AS",TRUE
+"92","MNG","NDC","Mongolia","AS",TRUE
+"93","MOZ","INDC","Mozambique","AF",TRUE
+"94","MRT","NDC","Mauritania","AF",TRUE
+"95","MUS","NDC","Mauritius","AF",TRUE
+"96","MWI","NDC","Malawi","AF",TRUE
+"97","MYS","NDC","Malaysia","AS",TRUE
+"98","NAM","NDC","Namibia","AF",TRUE
+"99","NER","NDC","Niger","AF",TRUE
+"100","NGA","NDC","Nigeria","AF",TRUE
+"101","NIU","NDC","Niue","OC",TRUE
+"102","NPL","NDC","Nepal","AS",TRUE
+"103","NRU","NDC","Nauru","OC",TRUE
+"104","PAK","NDC","Pakistan","AS",TRUE
+"105","PAN","NDC","Panama","North America",TRUE
+"106","PER","NDC","Peru","SA",TRUE
+"107","PHL","INDC","Philippines","AS",TRUE
+"108","PLW","NDC","Palau","OC",TRUE
+"109","PNG","NDC","Papua New Guinea","OC",TRUE
+"110","PRK","NDC","Korea (South)","AS",TRUE
+"111","PRY","NDC","Paraguay","SA",TRUE
+"112","PSE","NDC","State of Palestine","AS",FALSE
+"113","QAT","NDC","Qatar","AS",TRUE
+"114","RUS","INDC","Russian Federation","EU",TRUE
+"115","RWA","NDC","Rwanda","AF",TRUE
+"116","SAU","NDC","Saudi Arabia","AS",TRUE
+"117","SDN","NDC","Sudan","AF",TRUE
+"118","SEN","INDC","Senegal","AF",TRUE
+"119","SGP","NDC","Singapore","AS",TRUE
+"120","SLB","NDC","Solomon Islands","OC",TRUE
+"121","SLE","NDC","Sierra Leone","AF",TRUE
+"122","SLV","NDC","El Salvador","North America",TRUE
+"123","SMR","INDC","San Marino","EU",FALSE
+"124","SOM","NDC","Somalia","AF",TRUE
+"125","SRB","NDC","Serbia","EU",TRUE
+"126","SSD","NDC","South Sudan","AF",FALSE
+"127","STP","NDC","Sao Tome & Principe","AF",TRUE
+"128","SUR","NDC","Suriname","SA",TRUE
+"129","SWZ","NDC","Swaziland","AF",TRUE
+"130","SYC","NDC","Seychelles","AF",TRUE
+"131","TCD","NDC","Chad","AF",TRUE
+"132","TGO","NDC","Togo","AF",TRUE
+"133","THA","NDC","Thailand","AS",TRUE
+"134","TJK","NDC","Tajikistan","AS",TRUE
+"135","TKM","NDC","Turkmenistan","AS",TRUE
+"136","TLS","NDC","Timor-Leste","OC",FALSE
+"137","TON","NDC","Tonga","OC",TRUE
+"138","TTO","INDC","Trinidad & Tobago","North America",TRUE
+"139","TUN","NDC","Tunisia","AF",TRUE
+"140","TUR","NDC","Turkey","AS",TRUE
+"141","TUV","NDC","Tuvalu","OC",TRUE
+"142","TZA","INDC","Tanzania","AF",TRUE
+"143","UGA","NDC","Uganda","AF",TRUE
+"144","UKR","NDC","Ukraine","EU",TRUE
+"145","URY","NDC","Uruguay","SA",TRUE
+"146","UZB","INDC","Uzbekistan","AS",TRUE
+"147","VCT","NDC","Saint Vincent and the Grenadines","North America",FALSE
+"148","VEN","NDC","Venezuela","SA",TRUE
+"149","VNM","NDC","Vietnam","AS",TRUE
+"150","VUT","NDC","Vanuatu","OC",TRUE
+"151","WSM","NDC","Samoa","OC",TRUE
+"152","YEM","INDC","Yemen","AS",TRUE
+"153","ZAF","NDC","South Africa","AF",TRUE
+"154","ZMB","NDC","Zambia","AF",TRUE
+"155","ZWE","NDC","Zimbabwe","AF",TRUE

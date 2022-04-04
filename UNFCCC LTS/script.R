@@ -9,33 +9,18 @@ require(formatR)
 require(corrr)
 require(rstudioapi)
 library(tidytext)
-
-
-# Read metadata
-metadata <- read.csv("./IAD_paper2022/new_metadata.csv")
-
-emission <- read.csv("./IAD_paper2022/emission.csv")
-emission <- emission[emission$Year == 2014,]
-
-countrypop <- read.csv("./IAD_paper2022/countrypop.csv", sep="\t") %>%
-  select("Country.Name", "X2016")
-
-
+library(readr)
 
 set.seed(1234)
 
 folder= rstudioapi::getActiveDocumentContext()$path 
-setwd(dirname(dirname(folder)))
+setwd(dirname(folder))
 print( getwd() )
-folder = getwd()
-pttrn <- 'revised'
+folder = paste0(getwd(),"/LTS_texts")
+pttrn <- '.'
 
+f_files <- list.files(path=folder, pattern = pttrn)
 
-p <- 'EN'
-files_2 <- list.files(path = folder, pattern = p)
-
-files <- list.files(path=folder, pattern = pttrn)
-f_files <- intersect(files, files_2)
 
 
 
@@ -48,10 +33,10 @@ f_files <- intersect(files, files_2)
 
 
 
-words_rm <- read.csv("./IAD_paper2022/initial_stopwords-MCS.csv")
+words_rm <- read.csv("initial_stopwords-MCS.csv")
 words_rm <- words_rm[words_rm$keep_stopword=="yes",]
 stopwords <- c(words_rm$stopwords)
-
+setwd(folder)
 
 # stp <- data.frame(stopwords)
 # write.csv(stp, "initial_stopwords.csv", row.names = F)
@@ -59,10 +44,9 @@ stopwords <- c(words_rm$stopwords)
 
 
 get_text <- function(entity){
-  con <- file(description=entity)
-  html <- readLines(con)
-  close(con)
-  return (html)
+  fileName <- entity
+  t<-readChar(fileName, file.info(fileName)$size)
+  return (t)
   }
 
 htmls <- lapply(X=f_files,
@@ -75,20 +59,17 @@ htmls <- gsub("`na` = ", "", htmls)
 htmls <- gsub('\\', "", htmls, fixed = T)
 htmls <- gsub('\\\"', "", htmls)
 htmls <- gsub(" , ", "", htmls)
+htmls <- gsub("[\r\n]", "", htmls)
 
 
-toMatch <- c("company", "companies", "non-governmental", "nongovernmental", "subnational",
-             "NGO", "businesses", "non-government", "investor", "organization", "city", 
-             "cities", "university", "universities", "corporation", "corporations",
-             "investors", "NGOs", "institution", "organizations", "town", "municipality",
-             "metropolis", "metropolitan", "district", "province", "territory", "county",
-             "counties", "districts", "college", "colleges", "privatesect", "local government", "local governments", "non profit", "non-profit", "civil society")
+setwd(dirname(folder))
 
+tmdf<-read.csv("toMatch_NSA_words_updated.csv")
+toMatch <- c(tmdf$NSA_word)
 
-# tmt <- data.frame(toMatch)
-# write.csv(tmt, "toMatch_NSA_words.csv", row.names = F)
+# append the toMatch vector the list of stopwords
 
-
+stopwords <- append(stopwords, toMatch)
 
 
 toreplace <- c("\\\"", "\\\\n", "capacity building", "climate change adaptation",
@@ -157,9 +138,9 @@ for (i in c(1:length(f_files))) {
   results.df$meta[i] <- i
 }
 
-write.csv(results.df, "REVISED_ndc_data.csv", row.names = FALSE)
+write.csv(results.df, "lts_data.csv", row.names = FALSE)
 
-results2 <- read.csv("./IAD_paper2022/REVISED_ndc_data.csv")
+results2 <- read.csv("lts_data.csv")
 results2 <- results2[!results2$result == "",]
 
 
@@ -177,18 +158,16 @@ results2$result <- gsub(" na ", " ", results2$result)
 results2$result <- gsub("\\s+", " ", results2$result)
 results2$result <- gsub("[.]", "", results2$result)
 
-vocab_size <- unlist(lapply(seq(1, 155), n_words))
+vocab_size <- unlist(lapply(seq(1, 59), n_words))
 
-lengths_begin <- unlist(lapply(seq(1, 192), n_words))
+lengths_begin <- unlist(lapply(seq(1, 59), n_words))
 
-vocab_end <- unlist(lapply(seq(1, 192), n_words))
+vocab_end <- unlist(lapply(seq(1, 59), n_words))
 
 
-write.csv(results2, "revised_cleaned_ndc_data.csv", row.names = FALSE)
+write.csv(results2, "lts_data2.csv", row.names = FALSE)
 
-mtd_subset <- as.vector(unlist(results2['meta']))
-
-htmls_processed_2 <- textProcessor(documents=results, metadata=metadata[mtd_subset,], 
+htmls_processed_2 <- textProcessor(documents=results,
                                    lowercase = TRUE, removestopwords=TRUE, 
                                    removenumbers = TRUE, removepunctuation = TRUE, 
                                    stem=F, wordLengths=c(4,20),
@@ -198,12 +177,15 @@ htmls_processed_2 <- textProcessor(documents=results, metadata=metadata[mtd_subs
 plotRemoved(htmls_processed_2$documents, lower.thresh = seq(1, 5, by = 1))
 
 
-prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, 
-                         htmls_processed_2$meta, lower.thresh = 1)
+prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, lower.thresh = 1)
 
-topic_search <- stm::searchK(prepped$documents, prepped$vocab,
-                             K = c(4,5,6,7,8,9,10,11,12,13,14,15), init.type="Spectral",
-                             N=floor(0.5*length(prepped$documents)), proportion=0.5, cores=4)
+topic_search <- stm::searchK(prepped$documents, 
+                             prepped$vocab,
+                             K = c(4,5,6,7,8,9,10,11,12,13,14,15), 
+                             init.type="LDA",
+                             N=floor(0.5*length(prepped$documents)), 
+                             proportion=0.5, 
+                             cores=4)
 
 
 plot(topic_search)
@@ -211,27 +193,20 @@ plot(topic_search)
 
 stm_covariate_1 <- stm(documents=prepped$documents, 
                      vocab=prepped$vocab,
-                     K = 7, 
+                     K = 9, 
                      data=prepped$meta, 
-                     init.type="Spectral", 
+                     init.type="LDA", 
                      verbose=FALSE, 
                      seed=1234)
 
-labelTopics(stm_covariate_1, c(1:7))
+labelTopics(stm_covariate_1, c(1:9))
 
 plot(stm_covariate_1, type = "summary")
 
-# ap_documents <- tidy(stm_covariate_1, matrix = "gamma") %>%
-#   as.data.frame()
-  
-# write.csv(ap_documents,"document_topic_prob_k=8.csv")
 
-
-metadata_subset <- metadata[metadata$X %in% results2$meta,]
-
-results_stm <- make.dt(stm_covariate_1, meta=metadata_subset)
-head(results_stm)
-write.csv(results_stm, "results_stm_iter3_k=7.csv")
+#results_stm <- make.dt(stm_covariate_1, meta=metadata_subset)
+#head(results_stm)
+#write.csv(results_stm, "lts.csv")
 
 corrs <- topicCorr(stm_covariate_1, 
           method = c("simple", "huge"), 
@@ -242,45 +217,48 @@ corrs <- topicCorr(stm_covariate_1,
 plot(corrs, main = "Topic Correlations")
 
 
-shortdoc <- sapply(results, substring, 1, 350)
-shortdoc <- gsub(" na ", " ", shortdoc)
-shortdoc <- unname(shortdoc)
-shortdoc <- gsub("^ ", "", shortdoc)
+#shortdoc <- sapply(results, substring, 1, 350)
+#shortdoc <- gsub(" na ", " ", shortdoc)
+#shortdoc <- unname(shortdoc)
+#shortdoc <- gsub("^ ", "", shortdoc)
 
 
-make_shortdoc <- function(id, number) {
-  temp <- unique(unlist(strsplit(results[id], "[.]")))
-  return(temp)
-}
+#make_shortdoc <- function(id, number) {
+#  temp <- unique(unlist(strsplit(results[id], "[.]")))
+#  return(temp)
+#}
 
-first.sentence <- unlist(lapply(c(1:length(results)), make_shortdoc))
-first.sentence <- first.sentence[nchar(first.sentence) < 500]
+#first.sentence <- unlist(lapply(c(1:length(results)), make_shortdoc))
+#first.sentence <- first.sentence[nchar(first.sentence) < 500]
 
-align.meta <- data.frame(meta=first.sentence)
-first.sentence <- textProcessor(documents=first.sentence, metadata=align.meta, 
-                                lowercase = TRUE, removestopwords=TRUE, 
-                                removenumbers = TRUE, removepunctuation = TRUE, 
-                                stem=F, wordLengths=c(4,20),
-                                striphtml = TRUE, language = "en", verbose=F, 
-                                customstopwords=stopwords)
+#align.meta <- data.frame(meta=first.sentence)
+#first.sentence <- textProcessor(documents=first.sentence, metadata=align.meta, 
+#                                lowercase = TRUE, removestopwords=TRUE, 
+#                                removenumbers = TRUE, removepunctuation = TRUE, 
+#                                stem=F, wordLengths=c(4,20),
+ #                               striphtml = TRUE, language = "en", verbose=F, 
+#                                customstopwords=stopwords)
 
-first.sentence <- alignCorpus(first.sentence, prepped$vocab)
+#first.sentence <- alignCorpus(first.sentence, prepped$vocab)
 
-l <- fitNewDocuments(model = stm_covariate_1, 
-                     documents = first.sentence$documents, 
-                     origData = htmls_processed_2$meta)
+#l <- fitNewDocuments(model = stm_covariate_1, 
+#                     documents = first.sentence$documents, 
+#                     origData = htmls_processed_2$meta)
 
-first.sentence$meta <- gsub("\\s+{1,}", " ", first.sentence$meta)
+
+
 
 # TOPIC 1
 # pdf(file = "./figures/word-cloud/topic_1_cloud.pdf", width=6,height=6)
 # dev.off()
-stm::cloud(stm_covariate_1, topic = 1, max.words = 18)
+stm::cloud(stm_covariate_1, 
+           topic = 1, 
+           max.words = 25)
 
 # theta = matrix, shows you the probability of a document belonging to a topic
 
 top_n <- first.sentence$meta[which(l$theta[,1] > 0.5)]
-plotQuote(top_n[1:8], 
+plotQuote(top_n[1:5], 
           width=100, 
           text.cex = 1,
           main = "Topic #1 Quotes")
@@ -301,7 +279,7 @@ plotQuote(top_n,
 # TOPIC 3
 stm::cloud(stm_covariate_1, 
            topic = 3, 
-           max.words = 25)
+           max.words = 20)
 
 top_n <- first.sentence$meta[which(l$theta[,3] > 0.95)]
 plotQuote(top_n[1:8], 
@@ -313,7 +291,7 @@ plotQuote(top_n[1:8],
 # TOPIC 4
 stm::cloud(stm_covariate_1, 
            topic = 4, 
-           max.words = 18)
+           max.words = 25)
 
 top_n <- first.sentence$meta[which(l$theta[,4] > 0.95)]
 plotQuote(top_n[c(1,2,7,8,9,15)], 
@@ -336,7 +314,7 @@ plotQuote(top_n[1:8],
 # TOPIC 6
 stm::cloud(stm_covariate_1, 
            topic = 6, 
-           max.words = 25)
+           max.words = 15)
 
 top_n <- first.sentence$meta[which(l$theta[,6] > 0.9)]
 plotQuote(top_n[1:8], 
@@ -370,7 +348,7 @@ plotQuote(top_n[1:8],
 # TOPIC 9
 stm::cloud(stm_covariate_1, 
            topic = 9, 
-           max.words = 25)
+           max.words = 20)
 
 
 # TOPIC 10

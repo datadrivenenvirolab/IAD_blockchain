@@ -1,0 +1,669 @@
+---
+title: "Integrating non-state and subnational climate action with national climate strategies"
+subtitle: "Supplementary Information"
+author: "Angel Hsu, Amy Weinfurter, Oscar Widerburg, Sander Chan, Kaiyang Xu, John Brandt"
+date: "September 10, 2018"
+output:
+  pdf_document: default
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment=NA)
+require(stm)
+require(tm)
+require(igraph)
+require(Rmisc)
+require(ggplot2)
+require(dplyr)
+require(tidyr)
+require(formatR)
+require(corrr)
+```
+
+
+```{r}
+metadata <- read.csv("data/metadata.csv")
+
+emission <- read.csv("data/emission.csv")
+emission <- emission[emission$Year == 2014,]
+
+countrypop <- read.csv("data/countrypop.csv", sep="\t") %>%
+  select("Country.Name", "X2016")
+```
+
+# Data workflow for Structural Topic Model (STM)
+
+### 1. Data
+
+The topic model's corpus was assembled from individual Hypertext Markup Language (HTML) files containing the full text of the NDC and INDC for all 195 signatories of the Paris Agreement. 45 of these countries did not make any reference to nonstate actors (NSA) and were removed from consideration. Of these, 39 were removed algorithmically and a further 6 were removed manually following a close reading of the returned results. These six countries (San Marino, Serbia, Turkmenistan, Albania, Andorra, Switzerland, and Ukraine) referenced non-state entities not as specific climate actors. For instance, Serbia was removed because it mentions "the whole territory of the Republic of Serbia". Because our analysis focuses on non-state **actors**, we manually read through the entire corpus to ensure that all sections analyzed were relevant to non-state actors. 
+
+```{r, echo =F, eval=F}
+set.seed(1234)
+folder <- 'data/ZIP/ndc/html'
+extension <- '.html'
+
+files <- list.files(path=folder, pattern=extension)
+files <- files[grepl('-EN', files)]
+files <- data.frame(files = files) %>%
+  tidyr::separate(files, into=c("ISO", "type", "language", sep="-"))
+files$revised <- duplicated(files$ISO)
+to_remove <- files$ISO[files$revised == TRUE]
+to_remove <- which(files$ISO %in% to_remove & files$type == "INDC")
+
+files <- list.files(path=folder, pattern=extension)
+files <- files[grepl('-EN', files)]
+files <- files[-to_remove]
+```
+
+
+### 2. Corpus cleaning
+
+In addition to the standard LateX stopwords list, we  remove country names and a few words that commonly appear in the NDCs that aren't specific to any topic, like "stoves" and "agreed". In total, 45 words were removed that were not pre-determined stopwords or country names.
+
+These are as follows:
+
+Arabian, european, australian, indian, national, EU, climate change, will, use, republic, management, adaptation, sector, low-carbon, good, composed, submit, stoves, point, relative, determined, communicates, clarity, appropriate, blue, narrow, show, shall, sub-, uses, seven, south-south, agreed, turn, unique, continuously, excluding, feed, development, capacity, borne, including, certain, nationally, whole
+
+```{r, echo = F}
+words_rm <- c("arabian", "european", "australian", "indian", 
+              "national", "eu", "'s", "climate", "change", 
+              "will", "'s", "use", "republic", "management", "adaptation", "sector", "low-carbon", "good", "composed", "submit",
+              "stoves", "point", "relative", "determined",
+              "communicates", "clarity", "appropriate",
+              "blue", "narrow", "show", "shall", "sub-", "uses", "seven", "south-south", "agreed", "turn", "unique", "continuously", "excluding", "feed-", "development", "capacity", "borne", "including", "certain", "nationally", "whole", 
+              "company", "companies", "non-governmental", "nongovernmental", "subnational",
+             "NGO", "businesses", "non-government", "investor", "organization", "city", 
+             "cities", "university", "universities", "corporation", "corporations",
+             "investors", "NGOs", "institution", "organizations", "town", "municipality",
+             "metropolis", "metropolitan", "district", "province", "territory", "county",
+             "counties", "districts", "college", "colleges", "privatesect", "institutions", "institutional", "sustainability", "systems", "external", "resources", "country", "ministry",
+             "also", "areas", "well")
+
+stopwords <- c(metadata$name, words_rm)
+```
+
+```{r, echo=F, eval=F}
+htmls <- lapply(X=files,
+                FUN=function(file){
+                  .con <- file(description=paste(folder, file, sep='/'))
+                  .html <- readLines(.con)
+                  close(.con)
+                  names(.html) <- file
+                  .html
+})
+```
+
+```{r, echo=F, eval=F}
+htmls <- gsub("<(.|\n)*?>","",htmls)
+htmls <- gsub("\\\\","",htmls)
+htmls <- tolower(htmls)
+htmls <- gsub("`na` = ", "", htmls)
+htmls <- gsub('\\', "", htmls, fixed = T)
+htmls <- gsub('\\\"', "", htmls)
+htmls <- gsub(" , ", "", htmls)
+```
+
+### 3. Corpus subsetting
+
+The corpus is subsetted only to sentences containing words in `toMatch`. This list of words were selected by the authors by reading through the NDC texts, and were chosen to identify sentences that discussed non-state actors.
+
+```{r}
+toMatch <- c("company", "companies", "non-governmental", "nongovernmental", "subnational",
+             "NGO", "businesses", "non-government", "investor", "organization", "city", 
+             "cities", "university", "universities", "corporation", "corporations",
+             "investors", "NGOs", "institution", "organizations", "town", "municipality",
+             "metropolis", "metropolitan", "district", "province", "territory", "county",
+             "counties", "districts", "college", "colleges", "privatesect", "local government", "local governments", "non profit", "non-profit", "civil society")
+```
+
+
+Next, we convert multi-word keywords into one word for the "bag of words" approach to STM (as shown in `toreplace` and `replacewith`), remove special characters, and remove sentences that are less than 10 characters. For example, the phrase "capacity building" was transformed to "capacitbuilding" to be recognized as a unique phrase. Sentences were identified by punctuation and all sentences referencing NSAs formed the corpus. 
+
+
+```{r}
+toreplace <- c("\\\"", "\\\\n", "capacity building", "climate change adaptation",
+               "industrial sector", "environmental sector", "transporation sector",
+               "transport sector", "gas sector", "oil sector", "natural resource sector",
+               "waste sector", "housing sector", "energy sector", "electricity sector",
+               "forest sector", "forests sector", "forestry sector", "mining sector", 
+               "agriculture sector", "tourism sector", "water sector", "food sector",
+               "water use", "private sector", "water source", "water resource", 
+               "water resources", "waste water", "water quality", "water shortage", 
+               "water conservation", "water efficiency", "water supply", "water scarcity", 
+               "water security", "water management", "electricity",
+               "accompany", "accompanies", "[^[:alnum:][:blank:]+?&/\\-]")
+
+replacewith <- c("", "", "capacitbuilding", "climchangeadapt", "industrialsect", 
+                 "envsect", "transpesect", "transpsect", "fuelsect", "fuelsect", 
+                 "natressect", "wastesect", "housesect", "energysect", "electsect", 
+                 "forestsect", "forestsect", "forestsect", "miningsect", "agsect", 
+                 "tourismsect", "watersect", "foodsect", "wateruse", "privatesect",
+                 "waterresource", "waterresource", "waterresource", "wastewater", 
+                 "waterquality", "watershortage", "waterconserv", "watereffic",
+                 "watersupply", "watershortage", "watersecurity", "watermanage", 
+                 "electric", "coexist", "coexist", "")
+```
+
+```{r, echo=F, eval=F}
+parse_sentences <- function(html, index) {
+  sentences <- unlist(strsplit(html[index],split="\\."))
+  gsub.mult <- function(n) {
+    sentences <<- gsub(toreplace[n], replacewith[n], sentences)
+  }
+  sentences <- lapply(c(1:length(toreplace)), gsub.mult)[[length(toreplace)]]
+  sentences <- paste(sentences, ".")
+  
+  for (sentence in sentences) {
+    sentence <- sentence[nchar(sentence) > 10]
+  }
+  subset_sentences<-function(Match){
+    sentences[grep(Match,sentences)]}
+  subsetted <- lapply(toMatch, subset_sentences)
+  subsetted <- unlist(subsetted[lapply(subsetted, length)>0])
+  subsetted <- paste(subsetted, collapse ="")
+  return(subsetted)
+}
+```
+
+```{r, echo=F, eval=F}
+results = data.frame(matrix(NA, nrow = length(files), ncol = 1))
+results_meta = data.frame(matrix(NA, nrow = length(files), ncol = 1))
+colnames(results) <-c("result")
+colnames(results_meta) <- c("meta")
+
+for (i in c(1:length(files))) {
+  results$result[i] <- parse_sentences(htmls, i)
+  results_meta$meta[i] <- i
+}
+```
+
+We removed countries that did not mention non-state actors at all in their NDC or INDC. In total, this removed 45 documents from consideration.
+
+```{r, echo=F, eval=F}
+results <- results$result[results$result != ""]
+```
+
+```{r, echo=F, eval=F}
+results.df = data.frame(matrix(NA, nrow=length(files), ncol=2))
+colnames(results.df) <-c("result", "meta")
+
+for (i in c(1:length(files))) {
+  results.df$result[i] <- parse_sentences(htmls, i)
+  results.df$meta[i] <- i
+}
+```
+
+```{r, echo=F}
+results2 <- read.csv("data/ndc_data.csv")
+results2 <- results2[!results2$result == "",]
+```
+
+### 4. STM pre-processing
+
+The textProcessor element takes the dataframe of metadata, text and converts to lower case, removes stopwords, removes numbers, removes punctuation, subsets words to between 4 and 20 characters, strips html tags, and removes stopwords. We chose not to stem or lemmatize the corpus after evaluating STM results without stemming or lemmatizing versus those obtained following Porter stemming or lemmatizing. We found that both stemming and lemmatizing removed significant information from the vocabulary of the model. Many words with different meanings and contexts were inadvertently conflated by the stemming process. For instance, "institutional", which is often referenced in these contexts as "institutional frameworks", was reduced to have the same meaning as "institution", which is an actor rather than a framework. We thus did not stem the vocabulary given the frequency of occurence of these conflations of meanings as well as the observance that models with and without stemming or lemmatizing had similar topic perplexity and similar coherence.
+
+```{r, echo=F}
+### Metadata_emissions is not currently used, as we are not looking at emissions-level results currently.
+metadata_emissions <- merge(metadata, emission, by.x = "name", by.y ="Country")
+metadata_emissions <- metadata_emissions[,c(1,3,4,7)]
+
+colnames(metadata_emissions) <- c("name", "ndc", "continent", "ghg")
+metadata_emissions$name <- as.factor(metadata_emissions$name)
+metadata_emissions$ndc <- as.factor(metadata_emissions$ndc)
+metadata_emissions$continent <- as.factor(metadata_emissions$continent)
+metadata_emissions$ghg <- as.numeric(metadata_emissions$ghg)
+```
+
+```{r}
+results <- gsub("\\s+na\\s+|na\\s+", " ", results2$result)
+```
+
+```{r, eval = F}
+lengths <- unlist(lapply(seq(1, 155), n_words))
+
+results2$result <- as.character(results2$result)
+results2$result <- gsub(" na ", " ", results2$result)
+results2$result <- gsub("\\s+", " ", results2$result)
+results2$result <- gsub("[.]", "", results2$result)
+n_words <- function(i) {
+  l <- data.frame(words = unlist(strsplit(as.character(results2$result[i]), " ")))
+  #l <- l[l$words != ".",]
+  #%>%
+  #  group_by(words) %>%
+  #  summarise(n = n())
+  return(nrow(l)) }
+
+vocab_size <- unlist(lapply(seq(1, 155), n_words))
+
+lengths_begin <- unlist(lapply(seq(1, 192), n_words))
+
+vocab_end <- unlist(lapply(seq(1, 192), n_words))
+```
+
+
+```{r}
+htmls_processed_2 <- textProcessor(documents=results, metadata=metadata, 
+                                 lowercase = TRUE, removestopwords=TRUE, 
+                                 removenumbers = TRUE, removepunctuation = TRUE, 
+                                 stem=F, wordLengths=c(4,20),
+                                 striphtml = TRUE, language = "en", verbose=F, 
+                                 customstopwords=stopwords)
+```
+
+### 5. Determine threshold for word inclusion
+
+We used the `plotRemoved` function with a variety of lower and upper thresholds to determine the frequency and infrequency thresholds for inclusion in the STM. All words contained in less documents than the `lower.thresh`, or more documents than the `upper.thresh`, are not considered. 
+
+The following plots of term/token counts based upon varying lower thresholds were used to select a lower threshold of 6 and no upper threshold. These selections were based upon the "elbow" approach to interpreting the number of words removed by a series of thresholds, similar to a scree plot. 
+
+```{r, echo=F}
+plotRemoved(htmls_processed_2$documents, lower.thresh = seq(1, 5, by = 1))
+```
+
+```{r echo=F, message=FALSE, warning=FALSE}
+prepped <- prepDocuments(htmls_processed_2$documents, htmls_processed_2$vocab, 
+                           htmls_processed_2$meta, lower.thresh = 1)
+```
+
+### 6. Determine number of topics
+
+The `searchK` function was used to calculate the optimal number of topics for a given corpus/metadata pair. It considers the following:
+
+1) Held-Out Likelihood
+    + Higher is better
+    + Represents log-likelihood of a partial test subset
+2) Residuals
+    + Lower is better
+    + Same as residuals from a linear model
+3) Semantic coherence
+    + Higher is better
+4) Lower bound
+    + Higher is better
+    
+Eight topics were chosen based upon the above four considerations. This results in the highest semantic coherance while maintaining low residuals and a high held-out likelihood.
+
+```{r echo=F, message=FALSE, warning=FALSE}
+topic_search <- stm::searchK(prepped$documents, prepped$vocab,
+            K = c(5,6,7,8,9,10,11,12,13), init.type="Spectral",
+ N=floor(0.5*length(prepped$documents)), proportion=0.5, cores=4)
+plot(topic_search)
+```
+
+
+# Structural topic model
+
+### Model formula
+
+The model is constructed with 8 topics allowing topic vocabulary to vary by continent.
+
+```{r}
+stm_covariate <- stm(documents=prepped$documents, vocab=prepped$vocab,
+            K = 8, data=prepped$meta, init.type="Spectral", verbose=FALSE, seed=1234)
+```
+
+## Topics
+
+Seven of the eight identified topics were labelled based upon expert judgement by the authors following critical readings of the most representative words and texts. Topic 8 was removed from consideration, as it was considered a "garbage" topic - where sections of the corpus that do not fit into the other 7 topics were placed. 
+
+In the following sections, we present each topic and important words and sentences that were evaluated in the naming process.
+
+```{r, echo=F}
+shortdoc <- sapply(results, substring, 1, 350)
+shortdoc <- gsub(" na ", " ", shortdoc)
+shortdoc <- unname(shortdoc)
+shortdoc <- gsub("^ ", "", shortdoc)
+```
+
+
+
+```{r, echo=F}
+make_shortdoc <- function(id, number) {
+  temp <- unique(unlist(strsplit(results[id], "[.]")))
+  return(temp)
+}
+
+first.sentence <- unlist(lapply(c(1:length(results)), make_shortdoc))
+first.sentence <- first.sentence[nchar(first.sentence) < 500]
+
+align.meta <- data.frame(meta=first.sentence)
+first.sentence <- textProcessor(documents=first.sentence, metadata=align.meta, 
+                                 lowercase = TRUE, removestopwords=TRUE, 
+                                 removenumbers = TRUE, removepunctuation = TRUE, 
+                                 stem=F, wordLengths=c(4,20),
+                                 striphtml = TRUE, language = "en", verbose=F, 
+                                 customstopwords=stopwords)
+
+first.sentence <- alignCorpus(first.sentence, prepped$vocab)
+
+l <- fitNewDocuments(model = stm_covariate, documents = first.sentence$documents, origData = htmls_processed_2$meta)
+```
+
+```{r, echo=F}
+first.sentence$meta <- gsub("\\s+{1,}", " ", first.sentence$meta)
+```
+
+### 1 - Sustainable land use
+    
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_1_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 1, max.words = 20)
+dev.off()
+```
+
+```{r, echo=F, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,1] > 0.87)]
+#topic 6 (0.85)
+pdf(file = "figures/snippets/topic_1.pdf", width=7,height=5)
+plotQuote(top_n[c(20,12,8,22)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+
+### 2 - Vulnerability and adaptation
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_2_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 2, max.words =25)
+dev.off()
+```
+
+```{r, echo=F, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,2] > 0.93)]
+#topic 6 (0.85)
+pdf(file = "figures/snippets/topic_2.pdf", width=7,height=5)
+plotQuote(top_n[c(1,2,3,4)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+
+### 3 - Finance
+
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_3_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 3, max.words = 25)
+dev.off()
+```
+
+```{r,echo=F, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,3] > 0.91)]
+#topic 6 (0.85)
+pdf(file = "figures/snippets/topic_3.pdf", width=7,height=5)
+plotQuote(top_n[c(7,9,10,18)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+
+### 4 - Government support
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_4_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 4, max.words = 25)
+dev.off()
+```
+
+```{r,echo=F, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,4] > 0.93)]
+#topic 6 (0.85)
+pdf(file = "figures/snippets/topic_4.pdf", width=7,height=5)
+plotQuote(top_n[c(1,2,3,4)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+
+### 5 - Emissions reductions - renewable energy
+
+1) Representative sentences
+    + "ministry of climate change also works in tandem with.... research institutions, universities, and private sector organizations"
+    + "participation for the provinces through... non-governmental organizations, ngos, work associations, private, academic, and scientific sectors, and municipalities"
+
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_5_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 5, max.words = 25)
+dev.off()
+```
+
+```{r,echo=F, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,5] > 0.91)]
+#topic 6 (0.85)
+pdf(file = "figures/snippets/topic_5.pdf", width=7,height=5)
+plotQuote(top_n[c(12,8,7,5)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+### 6 - Sectoral Collaboration
+
+1) Project, assessment, measures, capacity building, finance, tecnology, implementation, risk, security
+2) Freq/frex: finance, sanitation, operation, prices, fisheries, tourism, waste, food, agricultural, infrastructure
+    + report, panel, capacity building, research, assistance, assessment
+3) Representative sentences:
+    + "sustainability will be achieved by establishing partnernships with all stakeholders... public sector, civil society, technical, and financial partners"
+    + "energy service companies could be used"
+    + "enhance the private sectors ability to build"
+    + "agreement must be developed over the basis of the vision of the peoples and... organizations"
+
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_6_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 6, max.words = 25)
+dev.off()
+```
+
+```{r,echo=F, fig.height=5, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,6] > 0.85)]
+#topic 6 (0.85)
+
+pdf(file = "figures/snippets/topic_6.pdf", width=7,height=5)
+plotQuote(top_n[c(1,5,7,8)], width=100, text.cex = 0.7)
+dev.off()
+```
+
+\newpage
+
+### 7 - Policy/regulations / scales of government
+
+```{r message=FALSE, warning=FALSE, echo=F, fig.height=5, fig.align="center"}
+pdf(file = "figures/word-cloud/topic_7_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 7, max.words = 25)
+dev.off()
+```
+
+```{r,echo=F, fig.height=5, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,7] > 0.94)]
+pdf(file = "figures/snippets/topic_7.pdf", width=7,height=5)
+plotQuote(top_n[c(6,14,3,5)], width=100, text.cex = 0.68)
+dev.off()
+```
+
+\newpage
+
+## 8 - Monitoring
+```{r message=FALSE, warning=FALSE, echo=F, fig.align="center", fig.width=7}
+pdf(file = "figures/word-cloud/topic_8_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate, topic = 8, max.words = 18)
+dev.off()
+```
+
+```{r,echo=F, fig.height=5, fig.align="center"}
+top_n <- first.sentence$meta[which(l$theta[,8] > 0.9)]
+
+#topic 8 (0.9)
+pdf(file = "figures/snippets/topic_8.pdf", width=7,height=5)
+plotQuote(top_n[c(7,2,3,10)], width=100, text.cex = 0.68)
+dev.off()
+```
+
+
+```{r, echo=F}
+results_stm <- make.dt(stm_covariate, meta=metadata)
+results_stm <- results_stm[!results_stm$name %in% c("Serbia", "Turkmenistan", "Albania", "Andorra", "Switzerland", "Ukraine")]
+#results_stm <- merge(results_stm, metadata_emissions, by.x = "name", by.y="name")
+```
+
+
+# Greenhouse Gas & STM topics
+
+Generalized linear models were used to evaluate relationships between topic prevalence and total country GHG emissions by continent. We find significant relationships for Topics 4 and 5. For Topic 4, we find first that higher GHG is related to higher topic prevalence (p<0.05). Also, North America had higher topic prevalance. 
+
+For topic 5, we find a positive interaction effect between NA and GHG (p<0.01).
+
+```{r message=FALSE, warning=FALSE, echo=F, eval=F}
+plot_ghg_1 <- ggplot(data=results_stm, aes(x=log(ghg), y=Topic3))+
+  #geom_smooth(aes(color=continent.x))+
+  geom_smooth()+
+  theme_bw()+
+  xlab("Log GHG emissions (2014)")
+
+print(plot_ghg_1)
+```
+
+
+```{r message=FALSE, warning=FALSE, echo=F, eval=F}
+plot_ghg <- ggplot(data=results_stm[results_stm$continent.x %in% c("EU", "AS")], aes(x=log(ghg), y=Topic6))+
+  geom_smooth(aes(color=continent.x))+
+  theme_bw()+
+  ylab("Topic 6 - Public-Private Partnership")
+  xlab("Log GHG emissions (2014)")
+
+print(plot_ghg)
+```
+
+
+```{r, echo=F, eval=F}
+lm1 <- glm(data=results_stm, Topic1 ~ ghg*as.factor(continent.x))
+lm2 <- glm(data=results_stm, Topic2 ~ ghg*as.factor(continent.x))
+lm3 <- glm(data=results_stm, Topic3 ~ ghg*as.factor(continent.x))
+lm4 <- glm(data=results_stm, Topic4 ~ ghg*as.factor(continent.x)) #! Resiliency, vulnerability
+lm5 <- glm(data=results_stm, Topic5 ~ ghg*as.factor(continent.x)) #! Cooperation
+lm6 <- glm(data=results_stm, Topic6 ~ ghg*as.factor(continent.x))
+lm7 <- glm(data=results_stm, Topic7 ~ ghg*as.factor(continent.x))
+lm8 <- glm(data=results_stm, Topic8 ~ ghg*as.factor(continent.x)) #!
+
+```
+
+## Topic 4 GLM - Resilience, risk, vulnerability
+
+```{r, echo=F, eval=F}
+createsummary <- function(mod) {
+  data <- data.frame(summary(mod)$coef)
+  data <- data[,-3]
+  data[,1:3] <- as.data.frame(lapply(data[,1:3], function(x) round(x, 3)))
+  colnames(data) <- c("Estimate", "Std. Error", "p-val")
+  print(data)
+}
+
+createsummary(lm4)
+```
+
+## Topic 5 GLM - Cooperation
+```{r, echo=F, eval=F}
+createsummary(lm5)
+```
+
+
+### Results by country and topic
+
+We found no significant differences of topic prevalence between NDC and INDC. However, we did find significant differences in topic prevalence between countries, which are outlined in the below model summaries indexed by topic.
+
+```{r echo=F, eval=F}
+stm_effects <- estimateEffect(formula = 1:8 ~ name, stmobj = stm_covariate, 
+                            metadata = htmls_processed_2$meta, uncertainty = "Global")
+```
+
+```{r, echo=F, eval=F}
+signif.effects <- function(n) {
+  res <- as.data.frame(summary(stm_effects)[3]$tables[[n]])
+  res <- res[,-3]
+  res <- res[res$`Pr(>|t|)` < 0.05,]
+  res[,1:3] <- lapply(res[,1:3], function (x) round(x,3))
+  cat("Topic ", n)
+  print(res)
+  cat("\n")
+}
+
+#invisible(lapply(c(1:7), signif.effects))
+
+```
+
+```{r, echo=F}
+#stm_effects_indc_ndc <- estimateEffect(formula = 1:8 ~ extra, stmobj = stm_covariate, 
+#                            metadata = htmls_processed_2$meta, uncertainty = "Global")
+```
+
+# GHG per capita & STM Topics
+
+```{r, echo=F, eval=F}
+results_stm$name_match <- results_stm$name %in% countrypop$Country.Name
+results_stm[6,1] <- "Antigua and Barbuda"
+results_stm[14,1] <- "Bahamas, The"
+results_stm[15,1] <- "Bahamas, The"
+results_stm[16,1] <- "Bahamas, The"
+results_stm[17,1] <- "Bahamas, The"
+results_stm[29,1] <- "Bosnia and Herzegovina"
+results_stm[32,1] <- "Brunei Darussalam"
+results_stm[47,1] <- "Congo, Rep."
+results_stm[48,1] <- "Congo, Dem. Rep."
+results_stm[57,1] <- "Egypt, Arab Rep."
+results_stm[64,1] <- "Gambia, The"
+results_stm[78,1] <- "Iran, Islamic Rep."
+results_stm[85,1] <- "Korea, Dem. People’s Rep."
+results_stm[86, 1] <- "Korea, Rep."
+results_stm[88,1] <- "Kyrgyz Republic"
+results_stm[89,1] <- "Lao PDR"
+results_stm[103,1] <- "Micronesia, Fed. Sts."
+results_stm[130,1] <- "St. Kitts and Nevis"
+results_stm[131,1] <- "St. Lucia"
+results_stm[133,1] <- "Sao Tome and Principe"
+results_stm[155,1] <- "Trinidad and Tobago"
+results_stm[166,1] <- "Venezuela, RB"
+results_stm[168,1] <- "Yemen, Rep."
+
+results_stm <- merge(results_stm, countrypop, by.x="name", by.y="Country.Name")
+```
+
+```{r, echo=F, eval=F}
+results_stm$ghg_pop <- results_stm$ghg/(results_stm$X2016/1e6)
+```
+
+```{r, echo=F, eval=F}
+glm_pop_1 <- glm(data=results_stm, Topic1 ~ ghg_pop*as.factor(continent.x))
+glm_pop_2 <- glm(data=results_stm, Topic2 ~ ghg_pop*as.factor(continent.x)) #!
+glm_pop_3 <- glm(data=results_stm, Topic3 ~ ghg_pop*as.factor(continent.x))
+glm_pop_4 <- glm(data=results_stm, Topic4 ~ ghg_pop*as.factor(continent.x)) #! Resiliency, vulnerability
+glm_pop_5 <- glm(data=results_stm, Topic5 ~ ghg_pop*as.factor(continent.x)) #! Cooperation
+glm_pop_6 <- glm(data=results_stm, Topic6 ~ ghg_pop*as.factor(continent.x))
+glm_pop_7 <- glm(data=results_stm, Topic7 ~ ghg_pop*as.factor(continent.x))
+glm_pop_8 <- glm(data=results_stm, Topic8 ~ ghg_pop*as.factor(continent.x))
+```
+
+## Topic 2
+
+```{r, echo=F, eval=F}
+createsummary(glm_pop_2)
+```
+
+## Topic 4
+
+```{r, echo=F, eval=F}
+createsummary(glm_pop_4)
+```
+
+## Topic 5
+
+```{r, echo=F, eval=F}
+createsummary(glm_pop_5)
+```
+
+```{r}
+LDAvis::createJSON 
+```
+
