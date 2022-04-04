@@ -166,7 +166,7 @@ n_words <- function(i) {
   l <- data.frame(words = unlist(strsplit(as.character(results2$result[i]), " ")))
   return(nrow(l)) }
 
-lengths <- unlist(lapply(seq(1, 155), n_words))
+lengths <- unlist(lapply(seq(1, 124), n_words))
 
 results2$result <- as.character(results2$result)
 results2$result <- gsub(" na ", " ", results2$result)
@@ -217,13 +217,13 @@ plot(topic_search)
 
 stm_covariate_1 <- stm(documents=prepped$documents, 
                      vocab=prepped$vocab,
-                     K = 7, 
+                     K = 8, 
                      data=prepped$meta, 
                      init.type="LDA", 
                      verbose=FALSE, 
                      seed=1234)
 
-labelTopics(stm_covariate_1, c(1:7))
+labelTopics(stm_covariate_1, c(1:8))
 
 plot(stm_covariate_1, type = "summary")
 
@@ -237,7 +237,7 @@ metadata_subset <- metadata[metadata$X %in% results2$meta,]
 
 results_stm <- make.dt(stm_covariate_1, meta=metadata_subset)
 head(results_stm)
-write.csv(results_stm, "results_stm_iter3_k=7.csv")
+write.csv(results_stm, "./IAD_paper2022/results_stm_iter4_k=8.csv")
 
 corrs <- topicCorr(stm_covariate_1, 
           method = c("simple", "huge"), 
@@ -295,7 +295,7 @@ plotQuote(top_n[1:8],
 # TOPIC 2
 stm::cloud(stm_covariate_1, 
            topic = 2, 
-           max.words = 20)
+           max.words = 25)
 
 top_n <- first.sentence$meta[which(l$theta[,2] > 0.9)]
 plotQuote(top_n, 
@@ -319,7 +319,7 @@ plotQuote(top_n[1:8],
 # TOPIC 4
 stm::cloud(stm_covariate_1, 
            topic = 4, 
-           max.words = 18)
+           max.words = 20)
 
 top_n <- first.sentence$meta[which(l$theta[,4] > 0.95)]
 plotQuote(top_n[c(1,2,7,8,9,15)], 
@@ -353,7 +353,7 @@ plotQuote(top_n[1:8],
 # TOPIC 7
 stm::cloud(stm_covariate_1, 
            topic = 7, 
-           max.words = 20)
+           max.words = 25)
 
 top_n <- first.sentence$meta[which(l$theta[,7] > 0.9)]
 plotQuote(top_n[1:8], 
