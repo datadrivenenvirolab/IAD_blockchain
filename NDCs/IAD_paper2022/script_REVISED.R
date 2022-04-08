@@ -179,10 +179,20 @@ lengths_begin <- unlist(lapply(seq(1, 124), n_words))
 
 vocab_end <- unlist(lapply(seq(1, 124), n_words))
 
-
-write.csv(results2, "./IAD_paper2022/revised_cleaned_ndc_data.csv", row.names = FALSE)
-
+# SAVING PREPROCESSED TEXT DATA
 mtd_subset <- as.vector(unlist(results2['meta']))
+docname <- f_files[mtd_subset]
+
+results2$doc_name = docname
+colnames(results2)[colnames(results2) == 'result'] <- 'text'
+doc_type<-rep(c("Revised NDC"),each=124)
+results2$doc_type = doc_type
+keeps = c("text", "doc_name","doc_type")
+results2 = results2[keeps]
+
+write.csv(results2, "./IAD_paper2022/NDC_text_data.csv", row.names = FALSE)
+
+
 
 htmls_processed_2 <- textProcessor(documents=results, metadata=metadata[mtd_subset,], 
                                    lowercase = TRUE, removestopwords=TRUE, 
@@ -231,6 +241,9 @@ plot(stm_covariate_1, type = "summary")
 #   as.data.frame()
   
 # write.csv(ap_documents,"document_topic_prob_k=8.csv")
+
+
+
 
 
 metadata_subset <- metadata[metadata$X %in% results2$meta,]

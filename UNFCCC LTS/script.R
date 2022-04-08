@@ -151,7 +151,7 @@ n_words <- function(i) {
   l <- data.frame(words = unlist(strsplit(as.character(results2$result[i]), " ")))
   return(nrow(l)) }
 
-lengths <- unlist(lapply(seq(1, 155), n_words))
+lengths <- unlist(lapply(seq(1, 59), n_words))
 
 results2$result <- as.character(results2$result)
 results2$result <- gsub(" na ", " ", results2$result)
@@ -165,7 +165,20 @@ lengths_begin <- unlist(lapply(seq(1, 59), n_words))
 vocab_end <- unlist(lapply(seq(1, 59), n_words))
 
 
-write.csv(results2, "lts_data2.csv", row.names = FALSE)
+# SAVING PREPROCESSED TEXT DATA
+docname <- f_files
+
+results2$doc_name = docname
+colnames(results2)[colnames(results2) == 'result'] <- 'text'
+doc_type<-rep(c("LTS"),each=59)
+results2$doc_type = doc_type
+keeps = c("text", "doc_name","doc_type")
+results2 = results2[keeps]
+
+
+write.csv(results2, "LTS_text_data.csv", row.names = FALSE)
+
+
 
 htmls_processed_2 <- textProcessor(documents=results,
                                    lowercase = TRUE, removestopwords=TRUE, 
