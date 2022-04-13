@@ -1,0 +1,760 @@
+,area (km2),city,country,gdp,population,target
+0,202.0,"Autonomous City of Buenos Aires, Argentina",Argentina,7.9 Billion,3059122,Reduce 30% GHG emissions
+1,579.0,"Municipality of Arias, Argentina",Argentina,91 Million,7249,N/A
+2,302.0,"Municipality of Armstrong, Argentina",Argentina,150 Million,11484,N/A
+3,227.0,"Municipality of Arteaga, Argentina",Argentina,41 Million,3331,N/A
+4,274.7,"Municipality of Bariloche, Argentina",Argentina,1.5 Billion,112887,N/A
+5,41.77,"Municipality of Bell Ville, Argentina",Argentina,420 Million,34439,N/A
+6,2212.0,"Municipality of Bragado, Argentina",Argentina,510 Million,41336,N/A
+7,437.53,"Municipality of Camilo Aldao, Argentina",Argentina,64 Million,5197,N/A
+8,113.0,"Municipality of Carcarañá, Argentina",Argentina,N/A,16432,N/A
+9,3911.0,"Municipality of Carlos Tejedor, Argentina",Argentina,N/A,11570,N/A
+10,77.04,"Municipality of Caseros, Argentina",Argentina,29 Million,2339,N/A
+11,384.0,"Municipality of Casilda, Argentina",Argentina,450 Million,35058,N/A
+12,253.0,"Municipality of Centeno, Argentina",Argentina,40 Million,3116,N/A
+13,360.0,"Municipality of Chabas, Argentina",Argentina,88 Million,7180,N/A
+14,2287.38,"Municipality of Chacabuco, Argentina",Argentina,600 Million,48703,N/A
+15,244.0,"Municipality of Chañar Ladeado, Argentina",Argentina,66 Million,5415,N/A
+16,994.57,"Municipality of Colón, Buenos Aires, Argentina",Argentina,310 Million,24890,N/A
+17,50.5,"Municipality of Coronel Dominguez, Argentina",Argentina,15 Million,1231,N/A
+18,330.0,"Municipality of Correa, Argentina",Argentina,75 Million,6121,N/A
+19,103.0,"Municipality of Cosquin, Argentina",Argentina,260 Million,19815,N/A
+20,38.2,"Municipality of Cruz Alta, Argentina",Argentina,90 Million,7344,N/A
+21,14448.0,"Municipality of General Alvear, Argentina",Argentina,580 Million,46429,N/A
+22,2145.28,"Municipality of General Viamonte, Argentina",Argentina,N/A,18074,N/A
+23,75.0,"Municipality of Godoy Cruz, Argentina",Argentina,2.3 Billion,191903,N/A
+24,4826.84,"Municipality of Guaminí, Argentina",Argentina,140 Million,11826,N/A
+25,614.0,"Municipality of Guaymallén, Argentina",Argentina,3.7 Billion,283803,N/A
+26,210.0,"Municipality of Herrera, Argentina",Argentina,22 Million,1767,N/A
+27,287.0,"Municipality of Inriville, Argentina",Argentina,46 Million,3722,N/A
+28,98.96,"Municipality of Juana Koslay, Argentina",Argentina,190 Million,15912,N/A
+29,3340.3,"Municipality of Las Flores, Argentina",Argentina,290 Million,23871,N/A
+30,1724.0,"Municipality of Lobos, Argentina",Argentina,460 Million,36172,N/A
+31,158.0,"Municipality of Los Molinos, Argentina",Argentina,23 Million,1920,N/A
+32,43.0,"Municipality of Los Reartes, Argentina",Argentina,18 Million,1426,N/A
+33,364.0,"Municipality of Los Surgentes, Argentina",Argentina,35 Million,2795,N/A
+34,450.0,"Municipality of Malabrigo, Argentina",Argentina,N/A,7339,N/A
+35,106.0,"Municipality of Mendoza, Argentina",Argentina,1.4 Billion,115041,N/A
+36,83.3,"Municipality of Monte Buey, Argentina",Argentina,79 Million,6285,N/A
+37,72.0,"Municipality of Monte Vera, Argentina",Argentina,110 Million,8284,N/A
+38,7.2,"Municipality of Nogoyá, Argentina",Argentina,290 Million,23702,N/A
+39,7715.0,"Municipality of Olavarría, Argentina",Argentina,1.4 Billion,111708,N/A
+40,137.0,"Municipality of Paraná, Argentina",Argentina,3.1 Billion,247863,N/A
+41,31.0,"Municipality of Potrero de los Funes, Argentina",Argentina,N/A,1698,N/A
+42,68.0,"Municipality of Pérez, Argentina",Argentina,350 Million,30188,N/A
+43,156.0,"Municipality of Rafaela, Argentina",Argentina,1.1 Billion,92945,N/A
+44,190.0,"Municipality of Resistencia, Argentina",Argentina,3.6 Billion,290723,N/A
+45,3954.92,"Municipality of Rivadavia, Argentina",Argentina,220 Million,17143,N/A
+46,1978.87,"Municipality of Rojas, Argentina",Argentina,290 Million,23432,N/A
+47,179.0,"Municipality of Rosario, Argentina",Argentina,100 Billion,948312,N/A
+48,260.4,"Municipality of Río Cuarto, Argentina",Argentina,1.9 Billion,158298,N/A
+49,794.0,"Municipality of Salliqueló, Argentina",Argentina,110 Million,8644,N/A
+50,261.66,"Municipality of Salta, Argentina",Argentina,6.8 Billion,521483,N/A
+51,857.59,"Municipality of San Antonio de Areco, Argentina",Argentina,130 Million,23138,N/A
+52,95.0,"Municipality of San Carlos Sud, Argentina",Argentina,27 Million,2102,N/A
+53,399.0,"Municipality of San Fernando del Valle de Catamarca, Argentina",Argentina,2.1 Billion,159703,N/A
+54,51.44,"Municipality of San Isidro, Buenos Aires, Argentina",Argentina,N/A,292878,N/A
+55,144.31,"Municipality of San Martín de los Andes, Argentina",Argentina,380 Million,28554,N/A
+56,82.8,"Municipality of San Miguel, Argentina",Argentina,3.5 Billion,276190,N/A
+57,268.0,"Municipality of Santa Fe de la Vera Cruz, Argentina",Argentina,4.9 Billion,391231,N/A
+58,58.24,"Municipality of Soldini, Argentina",Argentina,42 Million,3212,N/A
+59,72.0,"Municipality of Tafi Viejo, Argentina",Argentina,730 Million,56407,N/A
+60,414.0,"Municipality of Totoras, Argentina",Argentina,130 Million,10292,N/A
+61,20.0,"Municipality of Uranga, Argentina",Argentina,11 Million,913,N/A
+62,47.0,"Municipality of Venado Tuerto, Argentina",Argentina,980 Million,76432,N/A
+63,137.1,"Municipality of Villa General Belgrano, Argentina",Argentina,40 Million,8257,N/A
+64,155.4,"Municipality of Villa Pehuenia, Argentina",Argentina,N/A,1611,N/A
+65,N/A,"Adelaide City Council, Australia",Australia,N/A,22393,N/A
+66,2358.0,"Australian Capital Territory Government, Australia",Australia,N/A,400000,N/A
+67,556.0,"Byron Shire Council, Australia",Australia,1.5 Billion,32723,N/A
+68,98.9,"City of Joondalup, Australia",Australia,5.8 Billion,167623,N/A
+69,648.0,"City of Lake Macquarie Council, Australia",Australia,N/A,189006,N/A
+70,220.0,"City of Mandurah, Australia",Australia,3 Billion,82700,N/A
+71,52.8,"City of Melville, Australia",Australia,1.6 Million,106956,N/A
+72,7.0,"City of Subiaco, Australia",Australia,N/A,19693,N/A
+73,25.0,"City of Sydney, Australia",Australia,100 Billion,169505,Reduce 70% GHG emissions
+74,19.0,"City of Yarra, Australia",Australia,1.6 Million,89151,Reduce 60% GHG emissions
+75,36.2,"Melbourne City Council, Australia",Australia,N/A,127742,N/A
+76,N/A,"Moreland City Council, Australia",Australia,N/A,147244,N/A
+77,720.0,"Mornington Peninsula Shire Council, Australia",Australia,N/A,144608,N/A
+78,405.0,"Penrith City Council, Australia",Australia,7.9 Billion,197922,N/A
+79,20.62,"Port Phillip City Council, Australia",Australia,0,91372,Reduce 7505000tCO2e GHG emissions
+80,1307.4,"Tweed Shire Council, Australia",Australia,2.9 Billion,96033,Reduce 20% GHG emissions
+81,542.0,"Wyndham City Council, Australia",Australia,N/A,241902,N/A
+82,128.0,"City of Graz, Austria",Austria,20 Thousand,269997,Reduce 30% GHG emissions
+83,161.38,"Brussels Capital Region, Belgium",Belgium,110 Billion,1175173,Reduce 30% GHG emissions
+84,204.51,"City of Antwerp, Belgium",Belgium,N/A,502604,Reduce 100% GHG emissions
+85,158.0,"City of Ghent, Belgium",Belgium,13 Billion,248242,Reduce 20% GHG emissions
+86,33.71,"City of Mechelen, Belgium",Belgium,N/A,82325,N/A
+87,40.08,"City of Mouscron, Belgium",Belgium,N/A,56011,Reduce 21% GHG emissions
+88,175.69,"City of Namur, Belgium",Belgium,N/A,110096,Reduce 20% GHG emissions
+89,33.0,"City of Belmopan, Belize",Belize,N/A,16451,N/A
+90,26.0,"City of Thimphu, Bhutan",Bhutan,N/A,104000,N/A
+91,472.0,"Autonomous Municipal Government of La Paz, Bolivia",Bolivia,26 Thousand,877363,N/A
+92,181.0,"Municipality of Aracaju, Brazil",Brazil,14 Billion,626194,N/A
+93,333.0,"Municipality of Belo Horizonte, Brazil",Brazil,81 Billion,2513451,Reduce 20% GHG emissions
+94,347.0,"Municipality of Betim, Brazil",Brazil,25 Million,422354,N/A
+95,N/A,"Municipality of Brasília, Brazil",Brazil,170 Thousand,1409671,N/A
+96,794.0,"Municipality of Campinas, Brazil",Brazil,51 Billion,1186160,N/A
+97,195.0,"Municipality of Contagem, Brazil",Brazil,N/A,613815,N/A
+98,434.0,"Municipality of Curitiba, Brazil",Brazil,79 Billion,1893997,N/A
+99,31.0,"Municipality of Diadema, Brazil",Brazil,N/A,406718,N/A
+100,467.62,"Municipality of Duque de Caxias, Brazil",Brazil,N/A,855048,N/A
+101,438.0,"Municipality of Florianópolis, Brazil",Brazil,8.8 Billion,550000,N/A
+102,314.93,"Municipality of Fortaleza, Brazil",Brazil,37,2452185,Reduce 15tCO2e GHG emissions
+103,1135.0,"Municipality of Joinville, Brazil",Brazil,25 Million,515288,N/A
+104,N/A,"Municipality of Londrina, Brazil",Brazil,16 Billion,506701,N/A
+105,510655.0,"Municipality of Maceió, Brazil",Brazil,14 Million,1005319,N/A
+106,11401.0,"Municipality of Manaus, Brazil",Brazil,23 Billion,1802014,N/A
+107,133.919,"Municipality of Niterói, Brazil",Brazil,20 Thousand,497883,N/A
+108,497000.0,"Municipality of Porto Alegre, Brazil",Brazil,57 Billion,1409351,N/A
+109,218.0,"Municipality of Recife, Brazil",Brazil,51 Billion,1625583,Reduce 14% GHG emissions
+110,1224.0,"Municipality of Rio de Janeiro, Brazil",Brazil,93 Million,6429923,Reduce 20% GHG emissions
+111,449.0,"Municipality of Sorocaba, Brazil",Brazil,19 Billion,652481,Reduce 20% GHG emissions
+112,1137.0,"Municipality of São Carlos, Brazil",Brazil,N/A,221950,N/A
+113,1099.409,"Municipality of São José dos Campos, Brazil",Brazil,55 Billion,629921,N/A
+114,1521.0,"Municipality of São Paulo, Brazil",Brazil,260 Billion,11253503,Reduce 30% GHG emissions
+115,450.0,"Bafut Council, Cameroon",Cameroon,N/A,57930,N/A
+116,825.29,"City of Calgary, AB, Canada",Canada,61 Billion,1230915,Reduce 20% GHG emissions
+117,17.66,"City of Colwood, Canada",Canada,N/A,16093,Reduce 33% GHG emissions
+118,684.0,"City of Edmonton, AB, Canada",Canada,45 Billion,899447,Reduce 50% GHG emissions
+119,130.68,"City of Fredericton, NB, Canada",Canada,N/A,56224,Reduce 6% GHG emissions
+120,3200.56,"City of Greater Sudbury, ON, Canada",Canada,6.8 Billion,160274,N/A
+121,266.78,"City of Maple Ridge, Canada",Canada,N/A,76052,Reduce 80% GHG emissions
+122,431.5,"City of Montréal, QC, Canada",Canada,120 Billion,1649519,Reduce 30% GHG emissions
+123,11.8333,"City of North Vancouver, Canada",Canada,1,52346,Reduce 25% GHG emissions
+124,129.27,"City of Richmond, BC, Canada",Canada,N/A,190473,Reduce 100% GHG emissions
+125,316.0,"City of Surrey, Canada",Canada,N/A,508404,Reduce 20% GHG emissions
+126,447.0,"City of Thunder Bay, ON, Canada",Canada,N/A,108359,Reduce 20% GHG emissions
+127,115.0,"City of Vancouver, BC, Canada",Canada,51 Billion,631486,Reduce 50% GHG emissions
+128,19.47,"City of Victoria, BC, Canada",Canada,N/A,80032,Reduce 100% GHG emissions
+129,136.22,"City of Yellowknife, Canada",Canada,2 Billion,19234,Reduce 6% GHG emissions
+130,183.0,"District of Delta, BC, Canada",Canada,N/A,99863,Reduce 20% GHG emissions
+131,195.54,"District of North Cowichan, Canada",Canada,1.2 Billion,28807,Reduce 80% GHG emissions
+132,103.44,"District of Saanich, BC, Canada",Canada,0,109752,Reduce 33% GHG emissions
+133,87.26,"District of West Vancouver, Canada",Canada,N/A,44000,Reduce 80% GHG emissions
+134,2877.36,"Metro Vancouver, BC, Canada",Canada,N/A,2463700,Reduce 100% GHG emissions
+135,1368.94,"Regional Municipality of Waterloo, ON, Canada",Canada,N/A,507096,Reduce 28% GHG emissions
+136,67.07,"Town of Ajax, Canada",Canada,630 Thousand,109600,Reduce 6% GHG emissions
+137,688.15,"Town of Caledon, Canada",Canada,N/A,59460,Reduce 83% GHG emissions
+138,276.26,"Town of Halton Hills, ON, Canada",Canada,2.8 Billion,61161,Reduce 15% GHG emissions
+139,139.0,"Town of Oakville, ON, Canada",Canada,7.4 Billion,186400,N/A
+140,7.4,"Municipality of Independencia, Chile",Chile,67 Billion,65479,Reduce 30% GHG emissions
+141,901.0,"Municipality of Lautaro, Chile",Chile,N/A,35236,Reduce 5% GHG emissions
+142,14.0,"Municipality of Providencia, Chile",Chile,N/A,130000,Reduce 50% GHG emissions
+143,536.9,"Municipality of Quilpue, Chile",Chile,N/A,149500,N/A
+144,22.0,"Municipality of Santiago, Chile",Chile,250 Billion,311415,Reduce 30% GHG emissions
+145,1015.6,"Municipality of Valdivia, Chile",Chile,2.5 Trillion,172000,Reduce 30% GHG emissions
+146,15403.2,"Santiago Metropolitan Region, Chile",Chile,N/A,7314176,N/A
+147,2050.0,"Shenzhen Municipal People's Government, China",China,1.6 Trillion,10628900,Reduce 0% GHG emissions
+148,60.03,"Chiayi City Government, Chinese Taipei",Chinese Taipei,23 Thousand,270883,Reduce 465000tCO2e GHG emissions
+149,2946.616,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,520 Billion,2778729,Reduce 20% GHG emissions
+150,153.0,"Kinmen County Government, Chinese Taipei",Chinese Taipei,720 Million,127723,N/A
+151,2052.6,"New Taipei City Government, Chinese Taipei",Chinese Taipei,530 Billion,3966818,Reduce 20% GHG emissions
+152,2775.6,"Pingtung County Government, Chinese Taipei",Chinese Taipei,1.3 Trillion,835792,Reduce 30% GHG emissions
+153,2214.9,"Taichung City Government, Chinese Taipei",Chinese Taipei,23 Thousand,2731056,Reduce 10% GHG emissions
+154,2191.64,"Tainan City Government, Chinese Taipei",Chinese Taipei,340 Billion,1885252,Reduce 7% GHG emissions
+155,272.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,17 Trillion,2683257,Reduce 50% GHG emissions
+156,1220.55,"Taoyuan City Government, Chinese Taipei",Chinese Taipei,17 Trillion,2188017,Reduce 50% GHG emissions
+157,1637.0,"Capital District of Bogotá, Colombia",Colombia,36 Trillion,7980000,Reduce 56% GHG emissions
+158,165.0,"City of Bucaramanga, Colombia",Colombia,N/A,525119,Reduce 30% GHG emissions
+159,11640.0,"City of Puerto Leguízamo, Colombia",Colombia,38 Million,15445,N/A
+160,3142.0,"City of San Jerónimo de Montería, Colombia",Colombia,4 Thousand,441301,Reduce 20tCO2e GHG emissions
+161,140.0,"Municipality of Armenia, Colombia",Colombia,2.1 Billion,296683,N/A
+162,166.0,"Municipality of Barranquilla, Colombia",Colombia,19 Billion,1148506,N/A
+163,630.0,"Municipality of Cartagena de Indias, Colombia",Colombia,N/A,978600,N/A
+164,279.0,"Municipality of Cartago, Colombia",Colombia,120 Million,133652,N/A
+165,1439.0,"Municipality of Ibagué, Colombia",Colombia,3.9,553524,N/A
+166,380.64,"Municipality of Medellín, Colombia",Colombia,26 Billion,2441123,N/A
+167,1181.0,"Municipality of Pasto, Colombia",Colombia,910 Thousand,480000,Reduce 550tCO2e GHG emissions
+168,N/A,"Municipality of Pereira, Colombia",Colombia,12 Thousand,468000,N/A
+169,564.0,"Municipality of Santiago de Cali, Colombia",Colombia,29 Trillion,2394925,N/A
+170,4192.0,"Municipality of Valledupar, Colombia",Colombia,6.2 Trillion,453212,Reduce 14% GHG emissions
+171,1428.0,"Municipality of Villavicencio, Colombia",Colombia,38 Billion,489,N/A
+172,44.62,"Municipality of San José, Costa Rica",Costa Rica,N/A,288054,N/A
+173,48.0,"Municipality of San Rafael de Heredia, Costa Rica",Costa Rica,N/A,45965,N/A
+174,91.0,"City of Koprivnica, Croatia",Croatia,N/A,30854,N/A
+175,88.0,"City of Copenhagen, Denmark",Denmark,54 Billion,559440,Reduce 100% GHG emissions
+176,78.0,"Hoeje-Taastrup Municipality, Denmark",Denmark,N/A,48853,N/A
+177,70.59,"Municipality of Cuenca, Ecuador",Ecuador,N/A,400000,N/A
+178,30.3,"Municipality of Santa Cruz, Ecuador",Ecuador,97 Million,18070,N/A
+179,4230.0,"Municipality of the Metropolitan District of Quito, Ecuador",Ecuador,23 Billion,2671191,Reduce 5% GHG emissions
+180,9536.0,"Province of Pichincha, Ecuador",Ecuador,N/A,29945,N/A
+181,72.25,"Municipality of the City of San Salvador, El Salvador",El Salvador,N/A,567698,N/A
+182,400.0,"Municipality of the City of Santa Ana, El Salvador",El Salvador,N/A,274830,N/A
+183,528.14,"City of Espoo, Finland",Finland,N/A,267906,N/A
+184,716.75,"City of Helsinki, Finland",Finland,47 Thousand,626305,Reduce 30% GHG emissions
+185,154.58,"City of Lahti, Finland",Finland,N/A,103725,Reduce 50% GHG emissions
+186,1723.5,"City of Lappeenranta, Finland",Finland,2.7 Billion,72495,Reduce 30% GHG emissions
+187,689.59,"City of Tampere, Finland",Finland,N/A,223238,Reduce 40% GHG emissions
+188,579.27,"Bordeaux Metropolis, France",France,N/A,246586,Reduce 0% GHG emissions
+189,218.37,"Brest Metropolis, France",France,N/A,206719,N/A
+190,65.05,"City of Besançon, France",France,N/A,116353,Reduce 40% GHG emissions
+191,18.13,"City of Grenoble, France",France,N/A,158346,Reduce 75% GHG emissions
+192,27.48,"City of Orléans, France",France,N/A,114286,N/A
+193,105.0,"City of Paris, France",France,150 Billion,2265886,Reduce 30% GHG emissions
+194,611.45,"Lille European Metropolis, France",France,N/A,1119877,Reduce 30% GHG emissions
+195,533.68,"Lyon Metropolis, France",France,730 Billion,1324637,Reduce 20% GHG emissions
+196,26.38,"Municipality of Mellac, France",France,N/A,2764,N/A
+197,465.96,"Toulouse Metropolis, France",France,36 Billion,725091,Reduce 20% GHG emissions
+198,523.36,"Urban Community of Nantes Métropole, France",France,21 Billion,602923,Reduce 30% GHG emissions
+199,47.4,"Urban Community of Plaine Commune, France",France,N/A,411367,N/A
+200,153.0,"City of Freiburg im Breisgau, Germany",Germany,N/A,220286,N/A
+201,204.0,"City of Hannover, Germany",Germany,29 Million,523642,Reduce 40% GHG emissions
+202,141.0,"Federal City of Bonn, Germany",Germany,25 Billion,313958,Reduce 20% GHG emissions
+203,891.68,"Federal State of Berlin, Germany",Germany,N/A,3469849,Reduce -85% GHG emissions
+204,228.0,"Municipality of Guatemala, Guatemala",Guatemala,N/A,2110100,Reduce 35% GHG emissions
+205,78.0,"Municipality of La Antigua Guatemala, Guatemala",Guatemala,6.1 Million,82072,Reduce 47% GHG emissions
+206,100.0,"Municipality of Pachalum, Guatemala",Guatemala,N/A,15000,N/A
+207,N/A,"Municipality of Villa Nueva, Guatemala",Guatemala,N/A,1200000,N/A
+208,1514.72,"Tegucigalpa, Municipality of the Central District, Honduras",Honduras,N/A,1149923,Reduce 406556tCO2e GHG emissions
+209,464.0,"Ahmadabad Municipal Corporation, India",India,N/A,5570585,N/A
+210,709.0,"Bengaluru Municipal Corporation, India",India,14 Billion,9621551,N/A
+211,135.0,"Bhubaneswar Municipal Corporation, India",India,N/A,837737,N/A
+212,95.0,"Cochin Municipal Corporation, India",India,2.3 Million,601574,N/A
+213,247.92,"Coimbatore City Municipal Corporation, India",India,3 Billion,1850000,N/A
+214,36.0,"Corporation of the City of Panaji, India",India,92 Million,59066,Reduce 19tCO2e GHG emissions
+215,52.0,"Dehradun Municipal Corporation, India",India,N/A,447808,N/A
+216,177.0,"Gandhinagar Municipal Corporation, India",India,N/A,208299,N/A
+217,650.0,"Greater Hyderabad Municipal Corporation, India",India,N/A,6731790,N/A
+218,780.0,"Gwalior Municipal Corporation, India",India,8.5 Billion,1069276,N/A
+219,276.0,"Indore Municipal Corporation, India",India,N/A,2197447,N/A
+220,645.0,"Jaipur Municipal Corporation, India",India,N/A,3073350,N/A
+221,94.0,"Kochi Municipal Corporation, India",India,2.3 Million,602046,N/A
+222,318.0,"Kota Municipal Corporation, India",India,N/A,1001365,N/A
+223,228.0,"Nagpur Municipal Corporation, India",India,N/A,2405421,N/A
+224,482.0,"Nashik City Corporation, India",India,N/A,1862769,Reduce 62% GHG emissions
+225,43.0,"New Delhi Municipal Council, India",India,13 Billion,249998,N/A
+226,297.9,"Patna Municipal Corporation, India",India,2.4 Billion,1684222,N/A
+227,181.0,"Pimpri Chinchwad Municipal Corporation, India",India,N/A,1729320,N/A
+228,250.56,"Pune Municipal Corporation, India",India,0,3115431,Reduce 10% GHG emissions
+229,129.0,"Rajkot Municipal Corporation, India",India,2.3 Billion,1432734,Reduce 25% GHG emissions
+230,25.0,"Shimla Municipal Corporation, India",India,0,169758,N/A
+231,327.0,"Surat Municipal Corporation, India",India,N/A,4466826,N/A
+232,147.0,"Thane Municipal Corporation, India",India,N/A,1886941,Reduce 623763tCO2e GHG emissions
+233,159.95,"Vadodara Municipal Corporation, India",India,18 Billion,1666495,Reduce 550tCO2e GHG emissions
+234,503.33,"City of Balikpapan, Indonesia",Indonesia,70 Million,762492,Reduce 19% GHG emissions
+235,61.36,"City of Banda Aceh, Indonesia",Indonesia,12 Trillion,354214,N/A
+236,167.7,"City of Bandung, Indonesia",Indonesia,41 Trillion,2483977,Reduce 30% GHG emissions
+237,210.49,"City of Bekasi, Indonesia",Indonesia,N/A,2663011,N/A
+238,118.0,"City of Bogor, Indonesia",Indonesia,29 Trillion,1039465,Reduce 2087226tCO2e GHG emissions
+239,40.0,"City of Cimahi, Indonesia",Indonesia,16 Million,561386,Reduce 9% GHG emissions
+240,110.0,"City of Malang, Indonesia",Indonesia,52 Billion,881794,Reduce 24% GHG emissions
+241,56.667,"City of Probolinggo, Indonesia",Indonesia,N/A,224229,Reduce 12% GHG emissions
+242,374.0,"City of Semarang, Indonesia",Indonesia,N/A,1500000,Reduce 4% GHG emissions
+243,164.5,"City of Tangerang, Indonesia",Indonesia,N/A,2047105,N/A
+244,7639.0,"Special Capital Region of Jakarta, Indonesia",Indonesia,440 Billion,10277628,Reduce 30% GHG emissions
+245,125.0,"Jerusalem Municipality, Israel",Israel,N/A,890428,Reduce 20% GHG emissions
+246,140.7,"City of Bologna, Italy",Italy,37 Billion,384202,Reduce 20% GHG emissions
+247,228.0,"City of Forlì, Italy",Italy,N/A,118652,Reduce 25% GHG emissions
+248,1285.0,"City of Rome, Italy",Italy,N/A,2869461,N/A
+249,102.0,"Metropolitan City of Florence, Italy",Italy,N/A,383083,Reduce 50% GHG emissions
+250,6829.0,"Metropolitan City of Turin, Italy",Italy,N/A,2308409,Reduce 20% GHG emissions
+251,2467.0,"Metropolitan City of Venice, Italy",Italy,N/A,858455,N/A
+252,124.0,"Municipality of Ancona, Italy",Italy,N/A,102997,Reduce 20% GHG emissions
+253,4.6,"Municipality of Villa di Serio, Italy",Italy,N/A,6118,Reduce 20% GHG emissions
+254,3821.0,"Province of Siena, Italy",Italy,N/A,273305,Reduce 100% GHG emissions
+255,53.0,"Adachi City, Japan",Japan,N/A,669143,Reduce 9% GHG emissions
+256,5165.0,"Aichi Prefecture, Japan",Japan,36 Trillion,7507553,Reduce 15% GHG emissions
+257,49.0,"Akashi City, Japan",Japan,N/A,290776,Reduce 25% GHG emissions
+258,906.0,"Akita City, Japan",Japan,N/A,320909,Reduce 4% GHG emissions
+259,11636.0,"Akita Prefecture, Japan",Japan,N/A,1026983,Reduce 11% GHG emissions
+260,308.15,"Amami City, Japan",Japan,N/A,44561,Reduce 9% GHG emissions
+261,825.0,"Aomori City, Japan",Japan,N/A,298866,N/A
+262,9606.26,"Aomori Prefecture, Japan",Japan,N/A,1373164,Reduce 5% GHG emissions
+263,748.0,"Asahikawa City, Japan",Japan,N/A,349316,N/A
+264,94.0,"Atsugi City, Japan",Japan,N/A,224462,Reduce 25% GHG emissions
+265,5157.0,"Chiba Prefecture, Japan",Japan,N/A,6192351,Reduce 1% GHG emissions
+266,36.0,"Chigasaki City, Japan",Japan,N/A,236177,Reduce 8% GHG emissions
+267,12.0,"Chiyoda City, Japan",Japan,N/A,53821,Reduce 29% GHG emissions
+268,10.0,"Chuo City, Japan",Japan,N/A,141454,Reduce 5% GHG emissions
+269,49.0,"Edogawa City, Japan",Japan,N/A,682418,Reduce 14% GHG emissions
+270,5679.0,"Ehime Prefecture, Japan",Japan,N/A,1405620,Reduce 6% GHG emissions
+271,245.0,"Fuji City, Japan",Japan,N/A,259077,Reduce 10% GHG emissions
+272,389.0,"Fujinomiya City, Japan",Japan,N/A,131741,Reduce 10% GHG emissions
+273,70.0,"Fujisawa City, Japan",Japan,N/A,418269,Reduce 40% GHG emissions
+274,4190.0,"Fukui Prefecture, Japan",Japan,N/A,789375,Reduce 3% GHG emissions
+275,342.0,"Fukuoka City, Japan",Japan,N/A,1506313,N/A
+276,13782.0,"Fukushima Prefecture, Japan",Japan,N/A,1947580,N/A
+277,86.0,"Funabashi City, Japan",Japan,N/A,610572,Reduce 1% GHG emissions
+278,10621.0,"Gifu Prefecture, Japan",Japan,N/A,2064910,Reduce 7% GHG emissions
+279,420.04,"Goto City, Nagasaki, Japan",Japan,110 Thousand,37745,N/A
+280,6363.0,"Gunma Prefecture, Japan",Japan,N/A,2014608,Reduce 28% GHG emissions
+281,678.0,"Hakodate City, Japan",Japan,N/A,279851,Reduce 10% GHG emissions
+282,1558.0,"Hamamatsu City, Japan",Japan,N/A,793473,N/A
+283,534.0,"Himeji City, Japan",Japan,N/A,535945,Reduce 16% GHG emissions
+284,85.0,"Hirakata City, Japan",Japan,N/A,407465,Reduce 17% GHG emissions
+285,905.0,"Hiroshima City, Japan",Japan,5.1 Trillion,1192189,Reduce 8% GHG emissions
+286,8477.0,"Hiroshima Prefecture, Japan",Japan,N/A,2857990,Reduce 5% GHG emissions
+287,83.0,"Hokkaido Prefecture, Japan",Japan,N/A,5507456,Reduce 11% GHG emissions
+288,603.0,"Hokuto City, Japan",Japan,N/A,46559,N/A
+289,8396.0,"Hyogo Prefecture, Japan",Japan,N/A,5557971,Reduce 6% GHG emissions
+290,659.0,"Iida City, Japan",Japan,N/A,104921,Reduce 2% GHG emissions
+291,4186.0,"Ishikawa Prefecture, Japan",Japan,N/A,1162953,Reduce 7% GHG emissions
+292,32.22,"Itabashi City, Japan",Japan,N/A,546414,N/A
+293,1231.0,"Iwaki City, Japan",Japan,N/A,327783,N/A
+294,1877.0,"Kagawa Prefecture, Japan",Japan,N/A,985846,Reduce 8% GHG emissions
+295,139.0,"Kakogawa City, Japan",Japan,N/A,268565,Reduce 24% GHG emissions
+296,2416.0,"Kanagawa Prefecture, Japan",Japan,N/A,9059589,Reduce 25% GHG emissions
+297,157.0,"Kasumigaura City, Japan",Japan,N/A,43616,Reduce 4% GHG emissions
+298,109.0,"Kawagoe City, Japan",Japan,N/A,349907,Reduce 0% GHG emissions
+299,62.0,"Kawaguchi City, Japan",Japan,N/A,583179,Reduce 8% GHG emissions
+300,144.35,"Kawasaki City, Japan",Japan,N/A,1475300,Reduce 25% GHG emissions
+301,21.0,"Kita City, Japan",Japan,N/A,340287,Reduce 3% GHG emissions
+302,491.95,"Kitakyushu City, Japan",Japan,3.5 Trillion,956243,Reduce 50% GHG emissions
+303,20.0,"Kitamoto City, Japan",Japan,N/A,69984,Reduce 4% GHG emissions
+304,553.0,"Kobe City, Japan",Japan,N/A,1542230,Reduce 30% GHG emissions
+305,7105.0,"Kochi Prefecture, Japan",Japan,N/A,757914,Reduce 10% GHG emissions
+306,126.0,"Kochi-konan City, Japan",Japan,N/A,33721,Reduce 5% GHG emissions
+307,212.0,"Kofu City, Japan",Japan,N/A,195031,Reduce 3% GHG emissions
+308,99.0,"Komoro City, Japan",Japan,N/A,44270,Reduce 6% GHG emissions
+309,757.0,"Koriyama City, Japan",Japan,N/A,329339,Reduce 7% GHG emissions
+310,40.0,"Koto City, Japan",Japan,N/A,488632,Reduce 20% GHG emissions
+311,390.0,"Kumamoto City, Japan",Japan,N/A,734029,Reduce 16% GHG emissions
+312,355.0,"Kurashiki City, Japan",Japan,N/A,483265,Reduce 12% GHG emissions
+313,230.0,"Kurume City, Japan",Japan,N/A,305933,N/A
+314,1363.0,"Kushiro City, Japan",Japan,N/A,183757,Reduce 1% GHG emissions
+315,827.9,"Kyoto City, Japan",Japan,6.5 Trillion,1470742,Reduce 25% GHG emissions
+316,4613.0,"Kyoto Prefecture, Japan",Japan,N/A,2609316,Reduce 80% GHG emissions
+317,311.59,"Maebashi City, Japan",Japan,N/A,339701,Reduce 3% GHG emissions
+318,429.0,"Matsuyama City, Japan",Japan,N/A,514559,N/A
+319,15.0,"Meguro City, Japan",Japan,N/A,277171,Reduce 5% GHG emissions
+320,5777.0,"Mie Prefecture, Japan",Japan,N/A,1855177,Reduce 3% GHG emissions
+321,20.0,"Minato City, Japan",Japan,N/A,243094,Reduce 10% GHG emissions
+322,217.0,"Mito City, Japan",Japan,N/A,270859,Reduce 10% GHG emissions
+323,7286.0,"Miyagi Prefecture, Japan",Japan,N/A,2337514,Reduce 2% GHG emissions
+324,645.0,"Miyazaki City, Japan",Japan,N/A,399834,Reduce 4% GHG emissions
+325,778.0,"Miyoshi City, Japan",Japan,N/A,58170,Reduce 25% GHG emissions
+326,11.0,"Musashino City, Japan",Japan,N/A,142108,Reduce 11% GHG emissions
+327,539.0,"Nagahama City, Japan",Japan,N/A,122280,Reduce 20% GHG emissions
+328,35.0,"Nagareyama City, Japan",Japan,N/A,166493,Reduce 10% GHG emissions
+329,4106.0,"Nagasaki Prefecture, Japan",Japan,N/A,1426594,Reduce 10% GHG emissions
+330,326.0,"Nagoya City, Japan",Japan,N/A,2268217,Reduce 25% GHG emissions
+331,39.0,"Naha City, Japan",Japan,N/A,315954,N/A
+332,16.0,"Nakano City, Japan",Japan,N/A,322731,Reduce 15% GHG emissions
+333,277.0,"Nara City, Japan",Japan,N/A,364937,N/A
+334,48.0,"Nerima City, Japan",Japan,N/A,713995,Reduce 8% GHG emissions
+335,25.0,"Neyagawa City, Japan",Japan,N/A,241702,N/A
+336,345.0,"Nihonmatsu City, Japan",Japan,N/A,56386,Reduce 6% GHG emissions
+337,726.0,"Niigata City, Japan",Japan,N/A,804193,Reduce 7% GHG emissions
+338,12582.5,"Niigata Prefecture, Japan",Japan,N/A,2371574,Reduce 12% GHG emissions
+339,100.0,"Nishinomiya, Japan",Japan,N/A,483598,Reduce 3% GHG emissions
+340,114.0,"Odawara City, Japan",Japan,N/A,194672,Reduce 25% GHG emissions
+341,6340.0,"Oita Prefecture, Japan",Japan,N/A,1177900,Reduce 6% GHG emissions
+342,790.0,"Okayama City, Japan",Japan,N/A,701923,Reduce 10% GHG emissions
+343,387.0,"Okazaki City, Japan",Japan,N/A,375321,Reduce 6% GHG emissions
+344,2276.0,"Okinawa Prefecture, Japan",Japan,N/A,1413583,N/A
+345,1898.0,"Osaka Prefecture, Japan",Japan,N/A,8864228,Reduce 9% GHG emissions
+346,59.0,"Ota City, Japan",Japan,N/A,676458,Reduce 6% GHG emissions
+347,464.0,"Otsu City, Japan",Japan,N/A,342394,Reduce 5% GHG emissions
+348,329.0,"Sagamihara City, Japan",Japan,N/A,719677,Reduce 6% GHG emissions
+349,217.0,"Saitama City, Japan",Japan,N/A,1259858,N/A
+350,3797.0,"Saitama Prefecture, Japan",Japan,N/A,7237734,Reduce 18% GHG emissions
+351,150.0,"Sakai City, Japan",Japan,N/A,840862,N/A
+352,1121.26,"Sapporo City, Japan",Japan,6.5 Trillion,1953784,Reduce 80% GHG emissions
+353,426.0,"Sasebo City, Japan",Japan,N/A,256776,N/A
+354,78585.0,"Sendai City, Japan",Japan,N/A,1073242,Reduce 14% GHG emissions
+355,58.0,"Setagaya City, Japan",Japan,N/A,837185,N/A
+356,15.0,"Settsu City, Japan",Japan,N/A,84278,Reduce 5% GHG emissions
+357,15.0,"Shibuya City, Japan",Japan,N/A,208371,Reduce 20% GHG emissions
+358,4017.0,"Shiga Prefecture, Japan",Japan,N/A,1402132,Reduce 9% GHG emissions
+359,6708.0,"Shimane Prefecture, Japan",Japan,N/A,696521,Reduce 6% GHG emissions
+360,644.0,"Shimokawa Town, Japan",Japan,N/A,3836,Reduce 25% GHG emissions
+361,716.0,"Shimonoseki City, Japan",Japan,N/A,280386,Reduce 10% GHG emissions
+362,18.0,"Shinjuku City, Japan",Japan,N/A,337556,Reduce 14% GHG emissions
+363,1412.0,"Shizuoka City, Japan",Japan,N/A,719329,Reduce 5% GHG emissions
+364,7780.0,"Shizuoka Prefecture, Japan",Japan,N/A,3774471,Reduce 5% GHG emissions
+365,36.0,"Suita City, Japan",Japan,N/A,356751,Reduce 25% GHG emissions
+366,14.0,"Sumida City, Japan",Japan,N/A,254175,Reduce 8% GHG emissions
+367,10.0,"Taito City, Japan",Japan,N/A,186276,Reduce 5% GHG emissions
+368,102.0,"Takarazuka City, Japan",Japan,N/A,222198,Reduce 6% GHG emissions
+369,105.0,"Takatsuki City, Japan",Japan,N/A,353881,Reduce 5% GHG emissions
+370,72.0,"Tokorozawa City, Japan",Japan,N/A,342939,Reduce 10% GHG emissions
+371,192.0,"Tokushima City, Japan",Japan,N/A,263372,Reduce 6% GHG emissions
+372,2122.0,"Tokyo Metropolitan Government, Japan",Japan,93 Trillion,13286735,Reduce 25% GHG emissions
+373,766.0,"Tottori City, Japan",Japan,N/A,192800,Reduce 15% GHG emissions
+374,3507.0,"Tottori Prefecture, Japan",Japan,N/A,573467,Reduce 8% GHG emissions
+375,1241.0,"Toyama City, Japan",Japan,1.9 Trillion,418179,Reduce 30% GHG emissions
+376,4248.0,"Toyama Prefecture, Japan",Japan,N/A,1082763,Reduce 6% GHG emissions
+377,37.0,"Toyonaka City, Japan",Japan,N/A,388633,Reduce 30% GHG emissions
+378,284.0,"Tsukuba City, Japan",Japan,N/A,217315,Reduce 20% GHG emissions
+379,288.0,"Ube City, Japan",Japan,N/A,179000,Reduce 25% GHG emissions
+380,417.0,"Utsunomiya City, Japan",Japan,N/A,518200,Reduce 0% GHG emissions
+381,4726.0,"Wakayama Prefecture, Japan",Japan,N/A,979354,Reduce 7% GHG emissions
+382,9323.0,"Yamagata Prefecture, Japan",Japan,N/A,1129441,Reduce 7% GHG emissions
+383,1023.0,"Yamaguchi City, Japan",Japan,N/A,198971,Reduce 3% GHG emissions
+384,6114.0,"Yamaguchi Prefecture, Japan",Japan,N/A,1451338,Reduce 17% GHG emissions
+385,4465.0,"Yamanashi Prefecture, Japan",Japan,N/A,845956,Reduce 10% GHG emissions
+386,42.0,"Yao City, Japan",Japan,N/A,271454,Reduce 7% GHG emissions
+387,435.0,"Yokohama City, Japan",Japan,12 Trillion,3731096,Reduce 4% GHG emissions
+388,101.0,"Yokosuka City, Japan",Japan,N/A,414960,Reduce 20% GHG emissions
+389,801.92,"Greater Amman Municipality, Jordan",Jordan,11 Billion,3970000,N/A
+390,635.84,"Alor Gajah Municipal Council, Malaysia",Malaysia,N/A,198400,Reduce 40% GHG emissions
+391,366.0,"City of Kota Kinabalu, Malaysia",Malaysia,11 Billion,553900,Reduce 40% GHG emissions
+392,144.61,"Hang Tuah Jaya Municipal Council, Malaysia",Malaysia,41 Thousand,165645,Reduce 40% GHG emissions
+393,634.151,"Jasin Municipal Council, Malaysia",Malaysia,29 Million,141000,Reduce 40% GHG emissions
+394,243.0,"Kuala Lumpur City Hall, Malaysia",Malaysia,160 Million,1790000,N/A
+395,369.48,"Kuching North City Council, Malaysia",Malaysia,100 Million,217566,Reduce 201% GHG emissions
+396,277.0,"Melaka Historic City Council, Malaysia",Malaysia,29 Million,471349,N/A
+397,293.0,"Penang Island City Council, Malaysia",Malaysia,670 Million,750000,Reduce 201% GHG emissions
+398,97.0,"Petaling Jaya City Council, Malaysia",Malaysia,230 Million,638516,Reduce 40% GHG emissions
+399,738.0,"Seberang Perai Municipal Council, Malaysia",Malaysia,N/A,1016000,Reduce 40% GHG emissions
+400,290.3,"Shah Alam City Council, Malaysia",Malaysia,N/A,635550,Reduce 40% GHG emissions
+401,3265.453,"Guadalajara Metropolitan Area, Mexico",Mexico,640 Billion,4865122,N/A
+402,22.21,"Muncipality of Banderilla, Mexico",Mexico,N/A,24822,N/A
+403,385.0,"Municipality of Aguascalientes, Mexico",Mexico,8.3 Million,934424,Reduce 20% GHG emissions
+404,125.0,"Municipality of Amacuzac, Mexico",Mexico,N/A,17021,N/A
+405,71.0,"Municipality of Atlatlahucan, Mexico",Mexico,N/A,14708,N/A
+406,31.0,"Municipality of Atotonilco de Tula, Mexico",Mexico,N/A,31078,Reduce 10% GHG emissions
+407,173.0,"Municipality of Axochiapan, Mexico",Mexico,N/A,30576,N/A
+408,7162.0,"Municipality of Bacalar, Mexico",Mexico,N/A,32000,Reduce 40% GHG emissions
+409,9219.3,"Municipality of Chihuahua, Mexico",Mexico,350 Thousand,819543,N/A
+410,647.33,"Municipality of Cozumel, Mexico",Mexico,N/A,100000,N/A
+411,7861.0,"Municipality of Cuatro Ciénagas de Carranza, Mexico",Mexico,N/A,12154,N/A
+412,153.0,"Municipality of Cuautla, Mexico",Mexico,N/A,154358,N/A
+413,151.0,"Municipality of Guadalajara, Mexico",Mexico,N/A,1495189,N/A
+414,168.2,"Municipality of Hermosillo, Mexico",Mexico,15 Billion,784342,N/A
+415,143.0,"Municipality of Jojutla, Mexico",Mexico,N/A,53351,N/A
+416,98.0,"Municipality of Jonacatepec, Mexico",Mexico,N/A,13623,N/A
+417,1219.67,"Municipality of León de los Aldamas, Mexico",Mexico,1.8 Thousand,1436733,N/A
+418,53.283,"Municipality of Los Mochis, Mexico",Mexico,140 Thousand,256613,Reduce 15% GHG emissions
+419,58.0,"Municipality of Mazatepec, Mexico",Mexico,N/A,9456,N/A
+420,858.41,"Municipality of Mérida, Mexico",Mexico,82 Billion,970377,Reduce 0% GHG emissions
+421,156.63,"Municipality of Naucalpan de Juárez, Mexico",Mexico,N/A,872,N/A
+422,85.0,"Municipality of Oaxaca de Juárez, Mexico",Mexico,N/A,300050,N/A
+423,534.32,"Municipality of Puebla de Zaragoza, Mexico",Mexico,5,1539819,Reduce 9% GHG emissions
+424,690.0,"Municipality of Queretaro, Mexico",Mexico,240 Thousand,874637,N/A
+425,746.0,"Municipality of Salamanca, Mexico",Mexico,20 Billion,260732,N/A
+426,484.0,"Municipality of San Cristóbal de las Casas, Mexico",Mexico,N/A,185917,N/A
+427,270.0,"Municipality of San Pedro Tlaquepaque, Mexico",Mexico,N/A,575942,Reduce 10% GHG emissions
+428,6966.2,"Municipality of Sierra Mojada, Mexico",Mexico,N/A,5245,N/A
+429,1326.0,"Municipality of Tecalitlan, Mexico",Mexico,N/A,16847,N/A
+430,243.0,"Municipality of Tepoztlán, Mexico",Mexico,N/A,41629,N/A
+431,399.0,"Municipality of Tlacotepec de Benito Juarez, Mexico",Mexico,N/A,48268,N/A
+432,83.48,"Municipality of Tlalnepantla de Baz, Mexico",Mexico,N/A,664225,N/A
+433,452.37,"Municipality of Toluca de Lerdo, Mexico",Mexico,250 Million,819661,Reduce 2% GHG emissions
+434,334.61,"Municipality of Tuxtla Gutiérrez, Mexico",Mexico,43 Thousand,553374,N/A
+435,54.86,"Municipality of Villa de Zaachila, Mexico",Mexico,N/A,13959,N/A
+436,118.45,"Municipality of Xalapa-Enríquez, Mexico",Mexico,N/A,525147,N/A
+437,203.0,"Municipality of Yautepec de Zaragoza, Mexico",Mexico,N/A,97827,N/A
+438,173.88,"Municipality of Yurécuaro, Mexico",Mexico,N/A,30487,N/A
+439,893.15,"Municipality of Zapopan, Mexico",Mexico,N/A,1155790,Reduce 15% GHG emissions
+440,1485.0,"México City Government, Mexico",Mexico,2.1 Billion,8851080,Reduce 10% GHG emissions
+441,82820.0,"Oriental Region, Morocco",Morocco,N/A,2314346,Reduce 20% GHG emissions
+442,117.0,"Quelimane Municipal Council, Mozambique",Mozambique,N/A,192876,N/A
+443,5142.17,"City of Windhoek, Namibia",Namibia,36 Thousand,325858,N/A
+444,3314.0,"Dunedin City Council, New Zealand",New Zealand,5.8 Billion,125200,N/A
+445,326.0,"Palmerston North City Council, New Zealand",New Zealand,N/A,84300,Reduce 50% GHG emissions
+446,2615.0,"Rotorua Lakes Council, New Zealand",New Zealand,2.8 Billion,71700,N/A
+447,290.11,"Wellington City Council, New Zealand",New Zealand,N/A,203800,Reduce 80% GHG emissions
+448,179.0,"Amuwo-Odofin Local Government Area, Nigeria",Nigeria,N/A,386060,N/A
+449,17698.0,"Delta State Government, Nigeria",Nigeria,17 Billion,6710214,N/A
+450,272.0,"Arendal Municipality, Norway",Norway,N/A,41655,Reduce 90% GHG emissions
+451,276.0,"Kristiansand Municipality, Norway",Norway,N/A,85681,Reduce 20% GHG emissions
+452,70.0,"Lørenskog Municipality, Norway",Norway,N/A,33308,Reduce 10% GHG emissions
+453,480.76,"Oslo Municipality, Norway",Norway,N/A,647676,Reduce 100% GHG emissions
+454,1553.0,"Ringerike Municipality, Norway",Norway,N/A,28060,N/A
+455,304.0,"Sandnes Municipality, Norway",Norway,N/A,78624,Reduce 40% GHG emissions
+456,71.0,"Stavanger Municipality, Norway",Norway,N/A,130426,Reduce 20% GHG emissions
+457,3530.0,"Karachi City District, Pakistan",Pakistan,110,16051521,Reduce 40% GHG emissions
+458,40.0,"District Municipality of Chaclacayo, Peru",Peru,N/A,39686,N/A
+459,150.11,"District Municipality of Chancay, Peru",Peru,N/A,63378,N/A
+460,9.0,"District Municipality of Miraflores, Peru",Peru,24 Thousand,85065,Reduce 1% GHG emissions
+461,2672.0,"Lima Province, Peru",Peru,0.03,9752000,N/A
+462,36268.49,"Municipalidad Provincial de Tambopata, Peru",Peru,N/A,99405,N/A
+463,41.72,"Municipalidad de Santiago de Surco, Peru",Peru,5.9,499210,Reduce 0% GHG emissions
+464,3.61,"Municipality of Magdelena Del Mar, Peru",Peru,1.6 Billion,54746,Reduce 25% GHG emissions
+465,11.0,"Municipality of San Isidro, Lima, Peru",Peru,660 Thousand,58056,Reduce 3% GHG emissions
+466,21196.88,"Municipality of Tahuamanu, Peru",Peru,N/A,13011,N/A
+467,23.14,"City Government of Marikina, Philippines",Philippines,N/A,543307,N/A
+468,2193.4,"City Government of Puerto Princesa, Philippines",Philippines,N/A,255116,N/A
+469,285.414,"City of Batangas, Philippines",Philippines,N/A,329874,Reduce 25% GHG emissions
+470,58.289,"City of Borongan, Philippines",Philippines,N/A,64457,N/A
+471,578.51,"City of Cagayan de Oro, Philippines",Philippines,490 Billion,602088,N/A
+472,274.0,"City of Catbalogan, Philippines",Philippines,36 Thousand,94317,N/A
+473,204.371,"City of Legazpi, Philippines",Philippines,N/A,196639,N/A
+474,247.0,"City of Ligao, Philippines",Philippines,N/A,104914,N/A
+475,22.0,"City of Makati, Philippines",Philippines,200 Thousand,529039,Reduce 115000% GHG emissions
+476,102.0,"City of Naga, Camarines Sur, Philippines",Philippines,N/A,196003,Reduce 5% GHG emissions
+477,47.0,"City of Parañaque, Philippines",Philippines,0,588126,N/A
+478,172.0,"City of Quezon City, Philippines",Philippines,18 Billion,3066600,Reduce 91943% GHG emissions
+479,172.0,"City of San Carlos, Philippines",Philippines,18 Billion,3066600,Reduce 91943% GHG emissions
+480,172.0,"City of Zamboanga, Philippines",Philippines,18 Billion,3066600,Reduce 91943% GHG emissions
+481,172.0,"LGU of San Jose del Monte City, Philippines",Philippines,18 Billion,3066600,Reduce 91943% GHG emissions
+482,34.32,"Pasig City Government, Philippines",Philippines,N/A,772695,Reduce 10% GHG emissions
+483,34.32,"Tagum City, Philippines",Philippines,N/A,772695,Reduce 10% GHG emissions
+484,274.7,"Tarlac City Local Government, Philippines",Philippines,N/A,342493,N/A
+485,517.24,"City of Warsaw, Poland",Poland,210 Billion,1740119,Reduce 0% GHG emissions
+486,292.86,"Municipality of Wroclaw, Poland",Poland,41 Billion,631263,Reduce 21% GHG emissions
+487,70.2,"Municipality of Almada, Portugal",Portugal,2.1 Million,173298,Reduce 22% GHG emissions
+488,958.0,"Municipality of Lisbon, Portugal",Portugal,N/A,2666000,N/A
+489,46.0,"Municipality of Oeiras, Portugal",Portugal,N/A,172120,Reduce 20% GHG emissions
+490,58.46,"Anyang City, Republic of Korea",Republic of Korea,N/A,614687,N/A
+491,542.25,"Asan City, Republic of Korea",Republic of Korea,25 Trillion,308007,Reduce 20% GHG emissions
+492,8204.0,"Chungcheongnam Provincial Government, Republic of Korea",Republic of Korea,N/A,2063050,Reduce 30% GHG emissions
+493,747.12,"City of Changwon, Republic of Korea",Republic of Korea,28 Billion,1070199,Reduce 30% GHG emissions
+494,20.8,"Dobong-gu Municipal Government, Republic of Korea",Republic of Korea,N/A,348625,N/A
+495,24.58,"Gangdong-gu Municipal Government, Republic of Korea",Republic of Korea,0,481332,Reduce 22% GHG emissions
+496,1040.0,"Gangneung City, Republic of Korea",Republic of Korea,N/A,219274,Reduce 21% GHG emissions
+497,16874.0,"Gangwon Provincial Government, Republic of Korea",Republic of Korea,N/A,1558885,Reduce 30% GHG emissions
+498,501.24,"Gwangju Metropolitan City, Republic of Korea",Republic of Korea,N/A,1477780,Reduce 12% GHG emissions
+499,10172.0,"Gyeonggi Provincial Government, Republic of Korea",Republic of Korea,N/A,12549000,N/A
+500,19029.0,"Gyeongsangbuk Provincial Government, Republic of Korea",Republic of Korea,N/A,2669440,N/A
+501,10537.0,"Gyeongsangnam Provincial Government, Republic of Korea",Republic of Korea,10 Billion,3428000,N/A
+502,1849.0,"Jeju Special Self-Governing Provincial Government, Republic of Korea",Republic of Korea,8.6 Million,604670,Reduce 41% GHG emissions
+503,12226.0,"Jeollanam Provincial Government, Republic of Korea",Republic of Korea,N/A,1903220,Reduce 31% GHG emissions
+504,42.76,"Osan City, Republic of Korea",Republic of Korea,N/A,193892,N/A
+505,1463.65,"Pyeongchang County Government, Republic of Korea",Republic of Korea,12 Billion,43666,Reduce 30% GHG emissions
+506,465.23,"Sejong Special Self-governing City, Republic of Korea",Republic of Korea,N/A,194173,N/A
+507,24.57,"Seongbuk-gu Municipal Government, Republic of Korea",Republic of Korea,N/A,457570,N/A
+508,605.21,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,590 Thousand,10383651,Reduce 25% GHG emissions
+509,121.0,"Suwon City, Republic of Korea",Republic of Korea,24 Trillion,1147246,Reduce 40% GHG emissions
+510,1057.14,"Ulsan Metropolitan City, Republic of Korea",Republic of Korea,N/A,1163690,Reduce 30% GHG emissions
+511,820.94,"Wanju County Government, Republic of Korea",Republic of Korea,N/A,90295,N/A
+512,872.43,"Wonju City, Republic of Korea",Republic of Korea,5.6 Trillion,326321,Reduce 26% GHG emissions
+513,N/A,"Yeosu City, Republic of Korea",Republic of Korea,N/A,273925,Reduce 30% GHG emissions
+514,41.0,"Municipality of Pitesti, Romania",Romania,N/A,155383,N/A
+515,787633.0,"Government of Khabarovsk Krai, Russia",Russia,N/A,1338626,Reduce 25% GHG emissions
+516,530.0,"Musanze District Government, Rwanda",Rwanda,N/A,368264,N/A
+517,1741.0,"Nyagatare District Government, Rwanda",Rwanda,N/A,466944,N/A
+518,134.0,"Nyarugenge District Government, Rwanda",Rwanda,N/A,284561,N/A
+519,719.0,"Government of Singapore, Singapore",Singapore,390 Billion,5535000,Reduce 36% GHG emissions
+520,2536.0,"Buffalo City Metropolitan Municipality, South Africa",South Africa,3.3 Billion,797556,Reduce 10% GHG emissions
+521,2445.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,390 Billion,4012441,Reduce 13% GHG emissions
+522,1645.0,"City of Johannesburg Metropolitan Municipality, South Africa",South Africa,46 Billion,4940000,Reduce 40% GHG emissions
+523,1975.0,"Ekurhuleni Metropolitan Municipality, South Africa",South Africa,26 Billion,3178470,Reduce 1% GHG emissions
+524,5191.0,"George Local Municipality, South Africa",South Africa,N/A,193672,N/A
+525,735.0,"KwaDukuza Local Municipality, South Africa",South Africa,35 Billion,238587,Reduce 42% GHG emissions
+526,5394.0,"Mbombela Local Municipality, South Africa",South Africa,N/A,588794,N/A
+527,1343.0,"Mogale City Local Municipality, South Africa",South Africa,N/A,362423,N/A
+528,634.0,"Msunduzi Local Municipality, South Africa",South Africa,180 Billion,618536,N/A
+529,1959.0,"Nelson Mandela Bay Metropolitan Municipality, South Africa",South Africa,42 Billion,1152115,N/A
+530,3145.0,"Sol Plaatje Local Municipality, South Africa",South Africa,N/A,248041,N/A
+531,3976.0,"Steve Tshwete Local Municipality, South Africa",South Africa,N/A,229831,N/A
+532,6298.0,"Tshwane Metropolitan Municipality, South Africa",South Africa,24 Billion,2900000,Reduce 50% GHG emissions
+533,2291.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,290 Billion,3765088,Reduce 27% GHG emissions
+534,793.0,"uMhlathuze Local Municipality, South Africa",South Africa,N/A,334459,N/A
+535,38.0,"Municipality of A Coruña, Spain",Spain,8.2 Billion,247482,N/A
+536,96.36,"Municipality of Amurrio, Spain",Spain,450 Million,10260,Reduce 20% GHG emissions
+537,9.1,"Municipality of Areatza, Spain",Spain,14 Million,1214,Reduce 20% GHG emissions
+538,22.8,"Municipality of Balmaseda, Spain",Spain,140 Million,7655,Reduce 29% GHG emissions
+539,102.16,"Municipality of Barcelona, Spain",Spain,61 Billion,1611822,Reduce 40% GHG emissions
+540,41.5,"Municipality of Bilbao, Spain",Spain,11 Billion,346574,Reduce 20% GHG emissions
+541,1255.24,"Municipality of Córdoba, Spain",Spain,N/A,328704,Reduce 21% GHG emissions
+542,10.79,"Municipality of Durango, Spain",Spain,630 Million,29031,Reduce 12% GHG emissions
+543,32.26,"Municipality of Errenteria, Spain",Spain,680 Million,39381,Reduce 20% GHG emissions
+544,88.02,"Municipality of Granada, Spain",Spain,N/A,237818,Reduce 20% GHG emissions
+545,41.84,"Municipality of Legazpi, Spain",Spain,240 Million,8485,Reduce 1% GHG emissions
+546,605.77,"Municipality of Madrid, Spain",Spain,100 Billion,3207247,Reduce 35% GHG emissions
+547,885.0,"Municipality of Murcia, Spain",Spain,2.6 Million,438246,Reduce 20% GHG emissions
+548,398.25,"Municipality of Málaga, Spain",Spain,N/A,567433,N/A
+549,208.63,"Municipality of Palma, Spain",Spain,10 Billion,398162,Reduce 23% GHG emissions
+550,271.77,"Municipality of Soria, Spain",Spain,24 Thousand,39753,N/A
+551,37.39,"Municipality of Tolosa, Spain",Spain,470 Million,19175,Reduce 20% GHG emissions
+552,32.49,"Municipality of Torrejón de Ardoz, Spain",Spain,120 Million,130679,N/A
+553,134.65,"Municipality of Valencia, Spain",Spain,N/A,792303,Reduce 20% GHG emissions
+554,276.81,"Municipality of Vitoria-Gasteiz, Spain",Spain,7.7 Billion,244634,Reduce 27% GHG emissions
+555,7733.0,"Provincial Government of Barcelona, Spain",Spain,N/A,5540925,N/A
+556,462.09,"City of Gothenburg, Sweden",Sweden,37 Billion,547005,Reduce 80% GHG emissions
+557,332.0,"City of Malmö, Sweden",Sweden,130 Billion,328494,Reduce 40% GHG emissions
+558,214.0,"City of Stockholm, Sweden",Sweden,1.3 Trillion,914909,Reduce 100% GHG emissions
+559,1250.49,"Eskilstuna Municipality, Sweden",Sweden,0,67359,Reduce 25% GHG emissions
+560,3199.84,"Gävle Municipality, Sweden",Sweden,N/A,98524,Reduce 100% GHG emissions
+561,2161.0,"Haninge Municipality, Sweden",Sweden,N/A,82676,Reduce 90% GHG emissions
+562,423.97,"Helsingborg Municipality, Sweden",Sweden,390 Thousand,136002,Reduce 85% GHG emissions
+563,140.63,"Huddinge Municipality, Sweden",Sweden,5.6 Billion,104353,N/A
+564,1517.74,"Karlstad Municipality, Sweden",Sweden,37 Billion,88509,Reduce 25% GHG emissions
+565,1818.0,"Kristianstad Municipality, Sweden",Sweden,27 Billion,83191,Reduce 40% GHG emissions
+566,439.0,"Lund Municipality, Sweden",Sweden,55 Billion,118542,Reduce 100% GHG emissions
+567,1807.16,"Piteå Municipality, Sweden",Sweden,12 Billion,41438,Reduce 50% GHG emissions
+568,350.26,"Sigtuna Municipality, Sweden",Sweden,N/A,44786,N/A
+569,57.98,"Sollentuna Municipality, Sweden",Sweden,23 Billion,69525,Reduce 20tCO2e GHG emissions
+570,2497.51,"Säffle Municipality, Sweden",Sweden,N/A,15303,Reduce 70% GHG emissions
+571,694.24,"Södertälje Municipality, Sweden",Sweden,64 Billion,92490,Reduce 65% GHG emissions
+572,427.72,"Trollhättan Municipality, Sweden",Sweden,3.9 Billion,56950,N/A
+573,71.22,"Täby Municipality, Sweden",Sweden,19 Thousand,67519,Reduce 100tCO2e GHG emissions
+574,5214.0,"Umeå Municipality, Sweden",Sweden,4.8 Billion,120058,Reduce 100% GHG emissions
+575,83.81,"Upplands Väsby Municipality, Sweden",Sweden,3.9 Trillion,41883,Reduce 50% GHG emissions
+576,2234.0,"Uppsala Municipality, Sweden",Sweden,93 Billion,217000,Reduce 110% GHG emissions
+577,1137.84,"Västerås Municipality, Sweden",Sweden,50 Million,147420,Reduce 80% GHG emissions
+578,1914.0,"Växjö Municipality, Sweden",Sweden,31 Billion,89500,Reduce 100% GHG emissions
+579,441.0,"Vårgårda Municipality, Sweden",Sweden,4.1 Billion,11115,N/A
+580,1620.0,"Örebro Municipality, Sweden",Sweden,56 Billion,146631,Reduce 40% GHG emissions
+581,2501.08,"Östersund Municipality, Sweden",Sweden,N/A,49806,N/A
+582,208.0,"Arusha City Council, Tanzania",Tanzania,120 Million,416442,N/A
+583,23.0,"Bagamoyo District Council, Tanzania",Tanzania,N/A,311740,N/A
+584,1506.0,"Buhigwe District Council, Tanzania",Tanzania,N/A,254342,N/A
+585,1653.0,"Bukoba District Council, Tanzania",Tanzania,N/A,418493,N/A
+586,8055.0,"Bukombe District Council, Tanzania",Tanzania,N/A,224542,N/A
+587,1393.0,"Dar Es Salaam City Council, Tanzania",Tanzania,N/A,4364541,Reduce 60% GHG emissions
+588,1851.0,"Gairo District Council, Tanzania",Tanzania,N/A,193011,N/A
+589,8860.0,"Ikungi District Council, Tanzania",Tanzania,410,272959,N/A
+590,365.0,"Ilala District Council, Tanzania",Tanzania,N/A,1220611,N/A
+591,1880.0,"Ileje District Council, Tanzania",Tanzania,N/A,124451,N/A
+592,4486.0,"Iramba District Council, Tanzania",Tanzania,N/A,236282,N/A
+593,537.0,"Kinondoni Municipal Council, Tanzania",Tanzania,N/A,1775049,N/A
+594,5028.0,"Kisarawe District Council, Tanzania",Tanzania,N/A,101598,N/A
+595,12944.0,"Kiteto District Council, Tanzania",Tanzania,N/A,244669,N/A
+596,3958.0,"Kongwa District Council, Tanzania",Tanzania,N/A,309973,N/A
+597,755.0,"Kyela District Council, Tanzania",Tanzania,N/A,221490,N/A
+598,1063.0,"Lindi Municipal Council, Tanzania",Tanzania,N/A,78600,N/A
+599,1529.0,"Magu District Council, Tanzania",Tanzania,N/A,299759,N/A
+600,28933.0,"Manyoni District Council, Tanzania",Tanzania,N/A,296763,N/A
+601,735.0,"Masasi Town Council, Tanzania",Tanzania,N/A,102696,N/A
+602,3666.0,"Maswa District Council, Tanzania",Tanzania,N/A,344125,N/A
+603,2813.0,"Mbeya District Council, Tanzania",Tanzania,N/A,305319,N/A
+604,3858.0,"Mbozi District Council, Tanzania",Tanzania,N/A,446339,N/A
+605,3120.0,"Mkalama District Council, Tanzania",Tanzania,N/A,188733,N/A
+606,2827.0,"Mkuranga District Council, Tanzania",Tanzania,N/A,222921,N/A
+607,6992.0,"Monduli District Council, Tanzania",Tanzania,N/A,158929,N/A
+608,288.0,"Morogoro Municipal Council, Tanzania",Tanzania,N/A,315866,N/A
+609,63.0,"Moshi Municipal Council, Tanzania",Tanzania,N/A,184292,Reduce 60% GHG emissions
+610,7455.0,"Mpwapwa District Council, Tanzania",Tanzania,N/A,305056,N/A
+611,170.0,"Mtwara Municipal Council, Tanzania",Tanzania,N/A,108299,N/A
+612,1070.0,"Musoma District Council, Tanzania",Tanzania,N/A,178356,N/A
+613,9823.0,"Nkasi District Council, Tanzania",Tanzania,N/A,281200,N/A
+614,3569.0,"Shiyanga District Council, Tanzania",Tanzania,N/A,334417,N/A
+615,1217.0,"Siha District Council, Tanzania",Tanzania,N/A,116313,N/A
+616,1461.0,"Tabora Municipal Council, Tanzania",Tanzania,N/A,226999,N/A
+617,254.0,"Ushetu Division Council, Tanzania",Tanzania,N/A,273075,N/A
+618,10.0,"Bangchak Sub District Municipality, Thailand",Thailand,82 Thousand,8997,Reduce 5% GHG emissions
+619,1568.74,"Bangkok Metropolitan Administration, Thailand",Thailand,N/A,8280925,N/A
+620,40.22,"Chiang Mai City Municipality, Thailand",Thailand,N/A,174235,Reduce 10% GHG emissions
+621,60.85,"Chiang Rai City Municipality, Thailand",Thailand,98 Thousand,64817,N/A
+622,44.0,"Hat Siao Sub-District Municipality, Thailand",Thailand,73 Thousand,6886,Reduce 30% GHG emissions
+623,21.0,"Hat Yai City Municipality, Thailand",Thailand,140 Thousand,159614,Reduce 15% GHG emissions
+624,62.5,"Huai Khao Kam Municipality, Thailand",Thailand,50 Thousand,8857,Reduce 15% GHG emissions
+625,195.49,"Kalangnakorn Town Municipality, Thailand",Thailand,87 Thousand,60129,Reduce 5% GHG emissions
+626,3.2,"Khok Kruat Municipality, Thailand",Thailand,94 Thousand,7192,Reduce 15% GHG emissions
+627,46.0,"Khon Kaen City Municipality, Thailand",Thailand,110 Thousand,113754,Reduce 30% GHG emissions
+628,723.0,"Khun Han Municipality, Thailand",Thailand,N/A,7000,Reduce 5% GHG emissions
+629,15.0,"Klaeng Town Municipality, Thailand",Thailand,N/A,17625,N/A
+630,22.0,"Lampang City Municipality, Thailand",Thailand,2.7 Thousand,58074,Reduce 10% GHG emissions
+631,16.0,"Mae Raeng Municipality, Thailand",Thailand,1 Thousand,7345,Reduce 5% GHG emissions
+632,7.88,"Map Ammarit Municipality, Thailand",Thailand,36 Thousand,3959,Reduce 5% GHG emissions
+633,111.0,"Na Kaeo Municipality, Thailand",Thailand,47 Thousand,9446,Reduce 10% GHG emissions
+634,55.0,"Nang Lae Municipality, Thailand",Thailand,2.3 Thousand,10405,Reduce 10% GHG emissions
+635,25.0,"Nong Samrong Town Municipality, Thailand",Thailand,500,39489,Reduce 5% GHG emissions
+636,38.9,"Nonthaburi City Municipality, Thailand",Thailand,1.7 Thousand,270609,Reduce 5% GHG emissions
+637,16.4,"Patong Municipality, Thailand",Thailand,150 Thousand,19726,Reduce 5% GHG emissions
+638,2.76,"Phanat Nikhom Town Municipality, Thailand",Thailand,93 Thousand,12555,Reduce 5% GHG emissions
+639,2.16,"Phanom Sarakham Municipality, Thailand",Thailand,110 Thousand,6851,Reduce 20% GHG emissions
+640,12.0,"Phuket City Municipality, Thailand",Thailand,250 Thousand,72380,Reduce 10% GHG emissions
+641,9.0,"Pong Municipality, Thailand",Thailand,110 Thousand,6068,Reduce 5% GHG emissions
+642,4.8,"Prix Municipality, Thailand",Thailand,82 Thousand,6502,N/A
+643,4.29,"Ranong Town Municipality, Thailand",Thailand,17 Thousand,17596,Reduce 10% GHG emissions
+644,74.0,"Rong Kwang Municipality, Thailand",Thailand,N/A,12812,Reduce 10% GHG emissions
+645,12.0,"Sikhio Town Municipality, Thailand",Thailand,2.8 Thousand,18644,Reduce 10% GHG emissions
+646,37.0,"Sisaket Town Municipality, Thailand",Thailand,1.3 Thousand,39679,Reduce 10% GHG emissions
+647,7.17,"Thung Song Town Municipality, Thailand",Thailand,94 Thousand,30605,Reduce 20% GHG emissions
+648,29.04,"Ubonratchathani Municipality, Thailand",Thailand,180 Thousand,79944,Reduce 5% GHG emissions
+649,19.0,"Umong Municipality, Thailand",Thailand,430,13558,Reduce 10% GHG emissions
+650,9.0,"Yasothon Town Municipality, Thailand",Thailand,53 Thousand,20377,Reduce 20% GHG emissions
+651,N/A,"City of Gaziantep, Turkey",Turkey,N/A,1465019,N/A
+652,5343.0,"Istanbul Metropolitan Municipality, Turkey",Turkey,3.3 Billion,14657434,N/A
+653,12019.0,"Izmir Metropolitan Municipality, Turkey",Turkey,130 Billion,4113072,Reduce 20% GHG emissions
+654,25.0,"Kadiköy Municipality, Turkey",Turkey,N/A,521005,Reduce 15% GHG emissions
+655,535.0,"Nevsehir Municipality, Turkey",Turkey,N/A,92068,N/A
+656,167.0,"Yalova Municipality, Turkey",Turkey,N/A,102874,N/A
+657,192.0,"Kampala Capital City Authority, Uganda",Uganda,17 Billion,1517000,Reduce 22% GHG emissions
+658,110.0,"Bristol City Council, United Kingdom",United Kingdom,13 Billion,442500,N/A
+659,1276.0,"Greater Manchester Combined Authority, United Kingdom",United Kingdom,88 Billion,2732854,N/A
+660,3427.0,"Broward County, FL, United States",United States,N/A,1838844,Reduce 7% GHG emissions
+661,600.6,"City and County of San Francisco, CA, United States",United States,410 Trillion,852469,Reduce 80% GHG emissions
+662,14.16,"City of Albany, CA, United States",United States,N/A,18969,N/A
+663,43.0,"City of Alton, IL, United States",United States,1,26581,N/A
+664,74.33,"City of Ann Arbor, MI, United States",United States,19 Billion,116121,Reduce 90% GHG emissions
+665,75.32,"City of Antioch, CA, United States",United States,N/A,108930,Reduce 80% GHG emissions
+666,117.2,"City of Asheville, NC, United States",United States,14 Billion,83393,Reduce 80% GHG emissions
+667,347.1,"City of Atlanta, GA, United States",United States,7.6 Billion,447841,Reduce 80% GHG emissions
+668,704.0,"City of Austin, TX, United States",United States,100 Billion,912791,Reduce 100% GHG emissions
+669,239.0,"City of Baltimore, MD, United States",United States,150 Million,622793,Reduce 15% GHG emissions
+670,48.51,"City of Beaverton, OR, United States",United States,N/A,93542,Reduce 75% GHG emissions
+671,40.71,"City of Benicia, CA, United States",United States,N/A,27618,Reduce 10% GHG emissions
+672,45.83,"City of Berkeley, CA, United States",United States,N/A,118853,Reduce 80% GHG emissions
+673,232.14,"City of Boston, MA, United States",United States,310 Billion,655884,Reduce 25% GHG emissions
+674,66.5,"City of Boulder, CO, United States",United States,N/A,105112,Reduce 80% GHG emissions
+675,40.1,"City of Burlington, VT, United States",United States,N/A,42211,Reduce 80% GHG emissions
+676,69.75,"City of Burnsville, MN, United States",United States,N/A,61434,N/A
+677,410.0,"City of Carson, NV, United States",United States,3 Billion,62580,N/A
+678,330.2,"City of Charleston, SC, United States",United States,N/A,130113,Reduce 83% GHG emissions
+679,26.6,"City of Charlottesville, VA, United States",United States,N/A,46912,Reduce 10% GHG emissions
+680,606.0,"City of Chicago, IL, United States",United States,530 Billion,2722389,Reduce 80% GHG emissions
+681,134.93,"City of Chula Vista, CA, United States",United States,N/A,260988,Reduce 20% GHG emissions
+682,206.01,"City of Cincinnati, OH, United States",United States,100 Billion,297517,Reduce 84% GHG emissions
+683,213.6,"City of Cleveland, OH, United States",United States,100 Billion,389521,Reduce 45% GHG emissions
+684,31.1,"City of Coconut Creek, FL, United States",United States,N/A,52909,Reduce 20% GHG emissions
+685,349400.0,"City of Columbia, SC, United States",United States,38 Billion,133803,N/A
+686,577.85,"City of Columbus, OH, United States",United States,43 Billion,835957,N/A
+687,213.93,"City of Des Moines, IA, United States",United States,N/A,209220,N/A
+688,226.44,"City of Duluth, MN, United States",United States,3.2 Million,86238,N/A
+689,9.55,"City of El Cerrito, CA, United States",United States,43 Million,23549,Reduce 30% GHG emissions
+690,5.0,"City of Emeryville, CA, United States",United States,3.9 Billion,11721,Reduce 40% GHG emissions
+691,20.2,"City of Evanston, IL, United States",United States,1 Million,75430,N/A
+692,165.4,"City of Flagstaff, AZ, United States",United States,4.7 Billion,68785,N/A
+693,88.21,"City of Flint, MI, United States",United States,N/A,99002,N/A
+694,148.0,"City of Fort Collins, CO, United States",United States,14 Billion,161000,Reduce 100% GHG emissions
+695,51.39,"City of Foster City, CA, United States",United States,N/A,30567,N/A
+696,226.91,"City of Fremont, CA, United States",United States,N/A,220000,Reduce 25% GHG emissions
+697,117.25,"City of Grand Rapids, MI, United States",United States,N/A,193792,N/A
+698,15.78,"City of Hawthorne, CA, United States",United States,N/A,86199,Reduce 15% GHG emissions
+699,165.11,"City of Hayward, CA, United States",United States,240 Million,149392,Reduce 82% GHG emissions
+700,62.8,"City of Hillsboro, OR, United States",United States,120 Thousand,99393,N/A
+701,1625.2,"City of Houston, TX, United States",United States,390 Billion,2239558,Reduce 5% GHG emissions
+702,89.23,"City of Janesville, WI, United States",United States,4.9 Billion,63588,N/A
+703,97.3,"City of Keene, NH, United States",United States,N/A,23409,Reduce 10% GHG emissions
+704,70.01,"City of Kenosha, WI, United States",United States,N/A,101230,N/A
+705,269.8,"City of Knoxville, TN, United States",United States,N/A,183270,Reduce 20% GHG emissions
+706,198.5,"City of Las Cruces, NM, United States",United States,4 Million,101408,Reduce 7% GHG emissions
+707,352.0,"City of Las Vegas, NV, United States",United States,96 Billion,596424,Reduce 30% GHG emissions
+708,22.8,"City of Los Altos, CA, United States",United States,N/A,7922,Reduce 30% GHG emissions
+709,1302.0,"City of Los Angeles, CA, United States",United States,N/A,3928864,N/A
+710,10.21,"City of Manhattan Beach, CA, United States",United States,N/A,35726,Reduce 7% GHG emissions
+711,34.02,"City of Martinez, CA, United States",United States,2.1 Billion,37165,Reduce 15% GHG emissions
+712,N/A,"City of Miami Beach, FL, United States",United States,N/A,87779,N/A
+713,143.1,"City of Miami, FL, United States",United States,N/A,417650,Reduce 25% GHG emissions
+714,151.0,"City of Minneapolis, MN, United States",United States,240 Billion,407207,Reduce 80% GHG emissions
+715,1214.0,"City of New York, NY, United States",United States,1.4 Thousand,8491079,N/A
+716,121.6,"City of North Little Rock, AR, United States",United States,2.7 Billion,66075,Reduce 10% GHG emissions
+717,144.0,"City of Oakland, CA, United States",United States,24 Billion,419267,Reduce 36% GHG emissions
+718,50.0,"City of Olympia, WA, United States",United States,5 Billion,51020,Reduce 80% GHG emissions
+719,N/A,"City of Park City Municipal Corporation, UT, United States",United States,N/A,7558,N/A
+720,367.0,"City of Philadelphia, PA, United States",United States,360 Billion,1560297,Reduce 20% GHG emissions
+721,49.61,"City of Pittsburg, CA, United States",United States,N/A,63264,N/A
+722,376.0,"City of Portland, OR, United States",United States,N/A,619360,Reduce 80% GHG emissions
+723,66.0,"City of Providence, RI, United States",United States,N/A,177994,N/A
+724,162.0,"City of Richmond, VA, United States",United States,61 Million,217853,N/A
+725,111.8,"City of Rock Hill, SC, United States",United States,N/A,69967,N/A
+726,145.0,"City of Saint Paul, MN, United States",United States,21 Billion,304000,Reduce 100% GHG emissions
+727,N/A,"City of San Antonio, TX, United States",United States,93 Billion,1469845,N/A
+728,58.07,"City of San Rafael, CA, United States",United States,N/A,58994,Reduce 25% GHG emissions
+729,96.961,"City of Santa Barbara, CA, United States",United States,5.2 Billion,93190,N/A
+730,N/A,"City of Santa Cruz, CA, United States",United States,7.6 Billion,63789,Reduce 30% GHG emissions
+731,96.0,"City of Santa Fe, NM, United States",United States,3.6 Billion,83500,N/A
+732,21.0,"City of Santa Monica, CA, United States",United States,6.7 Billion,92472,N/A
+733,369.2,"City of Seattle, WA, United States",United States,N/A,662400,Reduce 100% GHG emissions
+734,68.06,"City of Southfield, MI, United States",United States,N/A,72507,N/A
+735,58.77,"City of Sunnyvale, CA, United States",United States,N/A,147559,Reduce 15% GHG emissions
+736,129.71,"City of Tacoma, WA, United States",United States,15 Billion,202308,Reduce 80% GHG emissions
+737,611.8,"City of Tucson, AZ, United States",United States,N/A,527972,Reduce 7% GHG emissions
+738,15.28,"City of University City, MO, United States",United States,1.3 Billion,35228,Reduce 10% GHG emissions
+739,30.0,"City of Urbana, IL, United States",United States,2 Million,41250,Reduce 100% GHG emissions
+740,64.93,"City of Waukesha, WI, United States",United States,N/A,70920,N/A
+741,150.478,"City of West Palm Beach, FL, United States",United States,4.9 Billion,102436,Reduce 37% GHG emissions
+742,739.4,"County of Lexington-Fayette, KY, United States",United States,23 Billion,310797,Reduce 20% GHG emissions
+743,1187.0,"Cuyahoga County, OH, United States",United States,94 Billion,1248514,N/A
+744,1362.2,"Metropolitan Government of Nashville and Davidson County, TN, United States",United States,N/A,659042,N/A
+745,6296.727,"Miami-Dade County, FL, United States",United States,150 Million,2674279,Reduce 80% GHG emissions
+746,1570.0,"Santa Cruz County, CA, United States",United States,4.6 Billion,271804,Reduce 64% GHG emissions
+747,27.6,"Town of Dedham, MA, United States",United States,N/A,24729,N/A
+748,7.84,"Town of Morristown, NJ, United States",United States,N/A,19085,N/A
+749,N/A,"Town of Wellfleet, MA, United States",United States,N/A,3500,N/A
+750,N/A,"Town of York, ME, United States",United States,N/A,13737,N/A
+751,292.84,"Township of Hamilton, NJ, United States",United States,N/A,26647,Reduce 20% GHG emissions
+752,12.0,"Village of Oak Park, IL, United States",United States,N/A,51878,N/A
+753,19.6,"Village of Pinecrest, FL, United States",United States,N/A,18223,N/A
+754,155.0,"Municipality of San Carlos, Uruguay",Uruguay,N/A,27471,N/A
+755,12.0,"Chacao Municipality, Venezuela",Venezuela,8.5 Billion,64629,N/A
+756,777.0,"Metropolitan District of Caracas, Venezuela",Venezuela,N/A,3273863,N/A
+757,128488.0,"Da Nang Municipal People's Government, Vietnam",Vietnam,54 Trillion,1046252,Reduce 25% GHG emissions
+758,72.56,"Dong Ha City, Vietnam",Vietnam,5.4 Trillion,90491,Reduce 15% GHG emissions

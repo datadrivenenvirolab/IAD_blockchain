@@ -1,0 +1,133 @@
+﻿country,iso,region name in wikipedia
+Afghanistan,AFG,Province
+Albania,ALB,County
+Algeria,DZA,"Province (""wilaya"")"
+Argentina,ARG,Province
+Armenia,ARM,Province
+Australia,AUS,State
+Austria,AUT,State
+Azerbaijan,AZE,Region
+Bangladesh,BGD,Division
+Belarus,BLR,Voblast
+Belgium,BEL,Province
+Belize,BLZ,District
+Benin,BEN,"Department (""départements"")"
+Bhutan,BTN,"Dzongkhag (""district"")"
+Bolivia,BOL,Department
+Bosnia and Herzegovina,BIH,Canton
+Burkina Faso,BFA,Region
+Brazil,BRA,State
+Bulgaria,BGR,Province
+Burundi,BDI,Province
+Cameroon,CMR,Region
+Central African Republic,CAF,"Prefecture (""préfectures"")"
+Canada,CAN,Province
+Chad,TCD,Region
+Chile,CHL,Province
+China,CHN,Province
+Costa Rica,CRI,Province
+Colombia,COL,Department
+Croatia,HRV,County
+Croatia,HRV,Zupanija
+Cyprus,CYP,District
+Czech Republic,CZE,Region
+Democratic Republic of the Congo,COD,Province
+Denmark,DNK,Region
+Dominican Republic,DOM,Province
+Ecuador,ECU,"Province (""provincias"")"
+Estonia,EST,County
+Ethiopia,ETH,"State (""kilil"")"
+Fiji,FJI,Division
+Finland,FIN,Region
+France,FRA,Region
+Gabon,GAB,Province
+Germany,DEU,State
+Georgia,GEO,Region
+Ghana,GHA,Region
+Gibraltar,GIB,
+Guatemala,GTM,"Department (""departamentos"")"
+Guinea,GIN,Region
+Guinea-Bissau,GNB,"Region (""regiões"")"
+Greece,GRC,Adminstrative_region
+Haiti,HTI,Department
+Hong Kong,HKG,District
+Honduras,HND,Department
+Hungary,HUN,County
+Iceland,ISL,Region
+India,IND,State
+Indonesia,IDN,Province
+Union of the Comoros,COM,Island
+Israel,ISR,"District (""mehozot"")"
+Italy,ITA,Province
+Ireland,IRE,County
+"Ivory Coast (""Republic of Côte d'Ivoire"")",CIV,District
+Japan,JPN,Prefecture
+Jordan,JOR,"Governorate (""muhafazah"")"
+Kazakhstan,KAZ,"Region (""облыстар"", ""oblystar"", ""области"", ""oblasti"")"
+Kenya,KEN,County
+Latvia,LVA,Region
+Lebanon,LBN,"Governorate (""muḥāfaẓāt"", ""محافظات‎"", ""muhafazah"")"
+Lithuania,LTU,County
+Luxembourg,LUX,Canton
+Malaysia,MYS,State
+Malawi,MWI,District
+Malta,MLT,Region
+Mexico,MEX,State
+Moldova,MDA,"District (""raioane"", ""singular"", ""raion"")"
+Montenegro,MNE,"Municipalities (""opština"")"
+Morocco,MAR,Region
+Mozambique,MOZ,"Province (""provincias"")"
+Namibia,NAM,Region
+Nepal,NPL,Province
+Netherlands,NLD,Province
+New Zealand,NZL,Region
+Nigeria,NGA,State
+Norway,NOR,County
+Palestine,PSE,"Governorate (""Muhafazah"")"
+Pakistan,PAK,Province
+Panama,PAN,"Province (""Provincia"")"
+Paraguay,PRY,Department
+Peru,PER,Province
+Puerto Rico,PRI,"Municipalities (""municipios"")"
+Philippines,PHL,Province
+Poland,POL,"Province (""Voivodeship"")"
+Portugal,PRT,Region
+Republic of Cabo Verde,CPV,"Municipality (""concelhos"")"
+Romania,ROU,County
+Russia,RUS,"Federal Subjects (""oblast"", ""province"", ""republic"", ""krais"", ""territory"", ""okrug,"" ""district"") "
+Rwanda,RWA,"Province (""intara"")"
+El Salvador,SLV,"Departments (""departamentos"")"
+Senegal,SEN,Region
+Kingdom of Eswatini,SWZ,Region
+Serbia,SRB,District
+Sierra Leone,SLE,"Region, Province"
+Singapore,SGP,
+Slovakia,SVK,"Region (""kraje"")"
+Slovenia,SVN,"Regions (""statistical_region"")"
+Solomon Islands,SLB,Province
+South Africa,ZAF,Province
+South Korea,KOR,"Province (""Do"")"
+Spain,ESP,Province
+Spain,ESP,Province
+Sudan,SDN,"State (""wilayat"", ""wilayah"")"
+Sweden,SWE,Province
+Tajikistan,TJK,"Province (""viloyat"")"
+Tanzania,TZA,"Region (""mkoa"")"
+Tunisia,TUN,"Governorates (""wilaya"")"
+Somalia,SOM,"Region (""gobollada"", ""gobol"")"
+Switzerland,CHE,Canton
+Taiwan,TWN,"Special_municipality, County, City"
+Thailand,THA,Province
+Togo,TGO,Region
+Turkey,TUR,Province
+Uganda,UGA,District
+Ukraine,UKR,Raion
+United Arab Emirates,UAE,Emirate
+United Kingdom,GBR,Ceremonial_County
+United States of America,USA,State
+Uruguay,URY,Department
+Vanuatu,VUT,Province
+Venezuela,VEN,"State (""estados"")"
+Viet Nam,VNM,Region
+Zambia,ZMB,Province
+Zimbabwe,ZWE,Province

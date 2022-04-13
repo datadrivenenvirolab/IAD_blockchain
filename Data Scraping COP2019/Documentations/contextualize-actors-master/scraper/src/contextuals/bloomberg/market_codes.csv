@@ -1,0 +1,698 @@
+,iso,name,type
+A0,GBR,Assetmatch Mtf,Composite Code
+AA,GRC,Athens Alt,Equity Exchange
+AB,SAU,Saudi Arabia,Composite Code
+AC,ARG,Buenos Cont,Equity Exchange
+AF,ARG,Buenos Floor,Equity Exchange
+AG,DZA,Algeriastexc,Composite Code
+AH,AUS,Chix Australia,Equity Exchange
+AI,KNA,Anguilla,Composite Code
+AL,ALB,Albania,Composite Code
+AM,ARG,Mendoza Se,Equity Exchange
+AMTS,NLD,Mts Netherlands,MIC
+AO,AUS,Nsx,Equity Exchange
+AP,GRC,Athens Repo,Equity Exchange
+APXL,AUS,Sydney Stock Exchange Limited,Operating MIC
+AQ,AUS,Asx Purematch,Equity Exchange
+AQXE,GBR,Aquis Exchnage,Operating MIC
+AR,ARG,Buenos Sinac,Composite Code
+ARCX,USA,Nyse Arca,MIC
+AS,ARG,Buenos Sinac,Equity Exchange
+ASEX,GRC,Athens Exchange S.A. Cash Market,Operating MIC
+ASXP,AUS,Asx - Purematch,MIC
+AT,AUS,Ase,Equity Exchange
+AU,AUS,Nsx,Composite Code
+AV,AUT,Vienna,Composite Code
+AY,ARM,Nasdaq Omx Armenia,Composite Code
+AZ,AZE,Baku Se,Composite Code
+B3,GBR,Blockmatch,Composite Code
+BA,BRB,Bridgetown,Composite Code
+BATE,GBR,Bats Europe -Bxe Order Books,MIC
+BATS,USA,"Bats Y-Exchange, Inc.",Operating MIC
+BATY,USA,"Bats Y-Exchange, Inc.",MIC
+BB,BEL,En Brussels,Composite Code
+BC,CIV,Brvm Region,Composite Code
+BCSE,BLR,Belarus Currency And Stock Exchange,Operating MIC
+BCXE,GBR,Bats Europe -Cxe Order Books,Operating MIC
+BD,BGD,Dhaka,Composite Code
+BG,BWA,Gaborone,Composite Code
+BH,BMU,Bermuda Se,Composite Code
+BI,BHR,Bahrain Brse,Composite Code
+BK,BIH,Banja Luka,Composite Code
+BLNK,GBR,Blink Mtf,MIC
+BLOX,GBR,Blockmatch,Operating MIC
+BM,BHS,Bahamas,Composite Code
+BMEX,ESP,Bolsa De Valencia,Operating MIC
+BMFX,ROU,Sibiu Monetary- Financial And Commodities Exchange,Operating MIC
+BMTS,BEL,Mts Belgium,Operating MIC
+BN,BRA,Sao Paoloa-M,Equity Exchange
+BO,BRA,Soma,Equity Exchange
+BOAT,GBR,Cinnober Boat,Operating MIC
+BOND,ITA,Bondvision Italia,MIC
+BOTC,GBR,Off Exchange Identifier For Otc Trades Reported To Bats Europe,MIC
+BQ,DEU,Equiduct,Composite Code
+BR,BRA,Rio De Janer,Equity Exchange
+BS,BRA,Bm&Fbovespa,Equity Exchange
+BSEX,AZE,Baku Stock Exchange,Operating MIC
+BT,BIH,Sarajevo,Composite Code
+BU,BGR,Bulgaria Se,Composite Code
+BURG,SWE,Burgundy Nordic Mtf,MIC
+BV,BRA,Bovespa Out,Equity Exchange
+BVCA,VEN,Bolsa De Valores De Caracas,Operating MIC
+BVMF,BRA,"Bm&Fbovespa S.A. - Bolsa De Valores, Mercadorias E Futuros",Operating MIC
+BW,CHE,Bx Swiss,Equity Exchange
+BY,SWE,Burgundy,Composite Code
+BZ,BRA,Soma,Composite Code
+C1,CHN,Nth Sse-Sehk,Composite Code
+C2,CHN,Nrth Sz-Sehk,Equity Exchange
+CB,COL,Bolsa Colomb,Composite Code
+CBSX,USA,Cboe Stock Exchange,MIC
+CC,CHL,Sant. Comerc,Equity Exchange
+CD,CZE,Prague-Spad,Equity Exchange
+CE,CHL,Saint Elec.,Equity Exchange
+CF,CAN,Canada National,Equity Exchange
+CG,CHN,Shanghai,Equity Exchange
+CH,CHN,Shanghai,Composite Code
+CHEV,GBR,Blink Mtf,Operating MIC
+CHIA,AUS,Chi-X Australia,Operating MIC
+CHIC,CAN,Cx2,Operating MIC
+CHIJ,JPN,Chi-X Japan,Operating MIC
+CHIX,GBR,Bats Europe -Cxe Order Books,MIC
+CI,CHL,Sant. Comerc,Composite Code
+CJ,CAN,Pure Trading,Equity Exchange
+CK,CZE,Prague Se,Equity Exchange
+CN,CAN,Venture,Composite Code
+CP,CZE,Czech Otc,Composite Code
+CR,CRI,Costa Rica,Composite Code
+CS,CHN,Shenzhen,Equity Exchange
+CT,CAN,Toronto,Equity Exchange
+CV,CAN,Venture,Equity Exchange
+CX,COL,Bolsa Colomb,Equity Exchange
+CY,CYP,Cyprus Ecm,Composite Code
+CZ,HRV,Zagreb,Composite Code
+DB,ARE,Dfm,Equity Exchange
+DC,DNK,Fn Denmark,Composite Code
+DCSX,CUW,Curacao,Operating MIC
+DD,DNK,Dansk Otc,Equity Exchange
+DE,CMR,Doulastkexch,Composite Code
+DF,DNK,Fn Denmark,Equity Exchange
+DG,CAN,Lynx Ats,Equity Exchange
+DH,ARE,Abu Dhabi,Equity Exchange
+DIFX,ARE,Nasdaq Dubai,Operating MIC
+DJ,CAN,Nasdaq Cxd T,Equity Exchange
+DK,CAN,Nasdaq Cxd V,Equity Exchange
+DKTC,DNK,Danish Authorised Market Place Ltd,Operating MIC
+DS,CAN,Cx2 Cad Vntr,Equity Exchange
+DSMD,QAT,Qatar Exchange,Operating MIC
+DT,CAN,Cx2 Cd Trnto,Equity Exchange
+DU,ARE,Dfm,Composite Code
+DV,CAN,Chix Venture,Equity Exchange
+DX,GBR,Turquoise De,Composite Code
+E1,GBR,Euro Otc,Equity Exchange
+EB,GBR,Bats Europe,Composite Code
+EC,EGY,Egx,Equity Exchange
+ED,ECU,Quito,Composite Code
+EDGA,USA,Edga Exchange,MIC
+EDGE,USA,Edgx Exchange,Operating MIC
+EDGX,USA,Edgx Exchange,MIC
+EG,ECU,Guayaquil,Equity Exchange
+EI,EGY,Nilex,Equity Exchange
+EK,KNA,Estn Crbn Se,Composite Code
+EL,SLV,El Salvador,Composite Code
+EMTF,LUX,Euro Mtf,MIC
+EMTS,GBR,Euromts,MIC
+ENAX,GRC,Athens Exchange Alternative Market,MIC
+EO,AUT,Ceeseg Otc,Composite Code
+EQ,ECU,Quito,Equity Exchange
+ES,GBR,Nasdaq Eruope,Composite Code
+ET,EST,Tallinn,Composite Code
+ETLX,ITA,Eurotlx,Operating MIC
+EU,GBR,European Comp,Composite Code
+EUWX,DEU,Euwax,MIC
+EX,DEU,Newex,Equity Exchange
+EY,EGY,Egx,Composite Code
+FF,FIN,Fn Finland,Equity Exchange
+FH,FIN,Helsinki,Composite Code
+FINR,USA,Finra Alternative Display Facility,Operating MIC
+FMTS,FRA,Mts France Sas,Operating MIC
+FNDK,DNK,First North Denmark,MIC
+FNFI,FIN,First North Finland,MIC
+FNIS,ISL,Nasdaq Omx Iceland Hf.,MIC
+FNSE,SWE,First North Sweden,MIC
+FP,FRA,Paris,Composite Code
+FRAB,DEU,Boerse Frankfurt - Freiverkehr,MIC
+FS,FJI,Spse,Composite Code
+GA,GRC,Athens,Composite Code
+GB,DEU,Berlin,Equity Exchange
+GC,DEU,Bremen,Equity Exchange
+GD,DEU,Dusseldorf,Equity Exchange
+GE,DEU,Xtra Eu Stars,Equity Exchange
+GEMX,GBR,Gemma (Gilt Edged Market Makers?Association),Operating MIC
+GF,DEU,Frankfurt,Equity Exchange
+GG,GEO,Jscgeorgia Se,Composite Code
+GH,DEU,Hamburg,Equity Exchange
+GI,DEU,Hannover,Equity Exchange
+GL,GTM,Guatemala,Composite Code
+GM,DEU,Munich,Equity Exchange
+GN,GHA,Accra,Composite Code
+GQ,DEU,Xetra Stars,Equity Exchange
+GR,DEU,Stuttgart,Composite Code
+GS,DEU,Stuttgart,Equity Exchange
+GSXL,GIB,The Gibraltar Stock Exchange,Operating MIC
+GT,DEU,Xetra Etf,Equity Exchange
+GU,GGY,Guernsey,Composite Code
+GW,DEU,Stutgt Wwrnts,Equity Exchange
+GY,DEU,Xetra,Equity Exchange
+H1,HKG,Sth Sse-Sehk,Composite Code
+H2,HKG,Sth  Sz-Sehk,Equity Exchange
+HB,HUN,Budapest,Composite Code
+HK,HKG,Hong Kong,Composite Code
+HM,ITA,Hi-Mtf,Composite Code
+HMTF,ITA,Hi-Mtf,Operating MIC
+HO,HND,Honduras,Composite Code
+HOTC,GRC,Hellenic Exchange Otc Market,MIC
+HSTC,VNM,Hanoi Stock Exchange (Unlisted Public Company Trading Platform),Operating MIC
+IA,CIV,Abidjan,Composite Code
+IB,IND,Bse India,Equity Exchange
+IC,ITA,Mil Comp Day,Equity Exchange
+ICAP,GBR,Icap Securities & Derivatives Exchange Limited,Operating MIC
+ICEL,USA,"Island Ecn Ltd, The ",Operating MIC
+ID,IRL,Ireland,Composite Code
+IE,IRN,Tehran,Composite Code
+IEPA,USA,Intercontinental Exchange,MIC
+IEXG,USA,Investors Exchange,Operating MIC
+IF,ITA,Mil Aftr Hrs,Equity Exchange
+IFUS,USA,Intercontinental Exchange,Operating MIC
+IG,IND,Mcx Stock Ex,Equity Exchange
+IH,IND,Delhi Stk Ex,Equity Exchange
+IJ,IDN,Indonesia,Composite Code
+IM,ITA,Mil Aftr Hrs,Composite Code
+IMTS,GBR,Mts Ireland,MIC
+IN,IND,Natl India,Composite Code
+IQ,IRQ,Iraq Se,Composite Code
+IR,ISL,Reykjavik,Composite Code
+IS,IND,Natl India,Equity Exchange
+ISDX,GBR,Icap Securities & Derivatives Exchange Limited,MIC
+IT,ISR,Tel Aviv,Composite Code
+ITGI,IRL,Posit,Operating MIC
+IX,GBR,Chi-X,Composite Code
+JA,JAM,Kingston,Composite Code
+JD,JPN,Kabu.Com,Equity Exchange
+JE,JPN,Sbijapannext,Equity Exchange
+JF,JPN,Fukuoka,Equity Exchange
+JG,JPN,Tokyo Aim,Equity Exchange
+JI,JPN,Chi-X Japan,Equity Exchange
+JN,JPN,Nagoya,Equity Exchange
+JO,JPN,Osaka,Equity Exchange
+JP,JPN,Tokyo  ,Composite Code
+JQ,JPN,Jasdaq,Equity Exchange
+JR,JOR,Amman,Composite Code
+JS,JPN,Sapporo,Equity Exchange
+JT,JPN,Tokyo  ,Equity Exchange
+JU,JPN,Sbi Japannext-X-Market,Equity Exchange
+JW,JPN,Sbijnxt Umkt,Equity Exchange
+JY,GGY,Jersey,Composite Code
+K3,GBR,Blink,Composite Code
+KA,SWE,Aktie Torget,Equity Exchange
+KABU,JPN,Kabu.Com Pts,Operating MIC
+KB,KGZ,Kyrgyzstan,Composite Code
+KE,KOR,Konex,Equity Exchange
+KF,KOR,Koreafrbmkt,Composite Code
+KH,KHM,Cambodia,Composite Code
+KK,KWT,Kuwait,Composite Code
+KL,CZE,Prague-Block,Equity Exchange
+KN,KEN,Nairobi Se,Composite Code
+KP,KOR,Korea Se,Equity Exchange
+KQ,KOR,Kosdaq,Equity Exchange
+KS,KOR,Kosdaq,Composite Code
+KY,CYM,Cayman Islands,Composite Code
+KZ,KAZ,Kazakhstan Se,Composite Code
+L3,GBR,Liquidnet,Composite Code
+LB,LBN,Beirut,Composite Code
+LD,GBR,Nyse Eu Lond,Composite Code
+LG,LVA,Riga,Equity Exchange
+LH,LTU,Vilnius Se,Composite Code
+LI,GBR,Lse Europeqs,Composite Code
+LICA,CAN,Liquidnet Canada Ats,Operating MIC
+LIQU,GBR,Liquidnet Systems,Operating MIC
+LN,GBR,London,Composite Code
+LO,GBR,Lse Europeqs,Equity Exchange
+LR,LVA,Riga,Composite Code
+LS,LAO,Laos Se,Composite Code
+LX,LUX,Luxembourg,Composite Code
+LY,LBY,Libyanstexc,Composite Code
+LYNX,CAN,Lynx Ats,MIC
+MALX,MDV,Maldives Stock Exchange,Operating MIC
+MATN,CAN,Match Now,Operating MIC
+MB,MDA,Moldova,Composite Code
+MC,MAR,Casablanca,Composite Code
+MCXX,IND,Mcx Stock Exchange Ltd,Operating MIC
+ME,MNE,Montenegro,Composite Code
+MESQ,MYS,Ace Market,MIC
+MISX,RUS,Moscow Exchange-Derivatives And Classica Market,Operating MIC
+MK,MYS,Bursa Malays,Composite Code
+MM,MEX,Mexico,Composite Code
+MO,MNG,Mongolia,Composite Code
+MOTX,ITA,Electronic Bond Market,MIC
+MP,MUS,Sem,Composite Code
+MQ,MYS,Mesdaq,Composite Code
+MS,MKD,Macedonia,Composite Code
+MT,NLD,Tom Mtf,Composite Code
+MTAA,ITA,Electronic Share Market,MIC
+MTAH,ITA,Borsa Italiana Equity Mtf,MIC
+MTCH,FRA,Bondmatch,MIC
+MTSC,ITA,Mts Italia,Operating MIC
+MTSG,GBR,Mts Greece,MIC
+MUNB,DEU,Boerse Muenchen - Freiverkehr,MIC
+MV,MLT,Valetta,Composite Code
+MW,MWI,Malawi Se,Composite Code
+MX,MDV,Maldives Se,Composite Code
+MZ,MOZ,Maputo,Composite Code
+NC,NIC,Nicaragua,Composite Code
+NEOE,CAN,Aequitas Neo Exchange,Operating MIC
+NG,SWE,Ngm,Equity Exchange
+NILX,EGY,Nile Stock Exchange,Operating MIC
+NK,NPL,Nepal Stock,Composite Code
+NL,NGA,Lagos,Composite Code
+NO,NOR,Oslo,Composite Code
+NO  ,NOR,Norway Otc,Composite Code
+NOTC,NOR,Norwegian Over The Counter Market,Operating MIC
+NQ,GBR,Nasdaq Omx Eur,Composite Code
+NR,NLD,Nyse Arca Eu,Composite Code
+NS,NOR,Norway Otc,Equity Exchange
+NURD,GBR,Nasdaq Europe (Nuro) Dark,MIC
+NURO,GBR,Nasdaq Omx Europe,Operating MIC
+NW,NAM,Windhoek,Composite Code
+NX,KNA,St Kts & Nvs,Composite Code
+NZ,NZL,Nzx,Composite Code
+OM,OMN,Muscat,Composite Code
+OMGA,CAN,Omega Ats,Operating MIC
+OOTC,USA,Otc Bulletin Board - Other Otc,MIC
+OPEX,PRT,Pex-Private Exchange,Operating MIC
+OTCM,USA,Otc Pink Marketplace,Operating MIC
+PA,PAK,Karachi,Composite Code
+PB,PNG,Port Moresby,Composite Code
+PD,POL,Poland Otc,Equity Exchange
+PE,PER,Lima,Composite Code
+PF,AUS,Asia Pacific,Equity Exchange
+PFTQ,UKR,Pfts Quote Driven,MIC
+PFTS,UKR,Pfts Quote Driven,Operating MIC
+PG,DEU,Plus Europe,Composite Code
+PK,PAK,Karachi,Equity Exchange
+PL,PRT,En Lisbon,Composite Code
+PLUS,DEU,Boerse Muenchen - Freiverkehr,Operating MIC
+PM,PHL,Philippines,Composite Code
+PN,PRY,Asuncion,Composite Code
+PO,IRL,Itg Posit,Composite Code
+PORT,GBR,"Medip  (Mts Portugal Sgmr, Sa)",MIC
+PP,PAN,Panama City,Composite Code
+PQ,USA,Otc Markets,Equity Exchange
+PS,PSE,Palestine,Composite Code
+PURE,CAN,Pure Trading,MIC
+PW,POL,Warsaw,Composite Code
+PX,PRT,Pex,Composite Code
+PZ,GBR,Isdx,Composite Code
+QD,QAT,Qatar,Composite Code
+QF,CAN,Aqts Neo Lit,Equity Exchange
+QH,CAN,Aqrs Neo Neo,Equity Exchange
+QM,HUN,Quote Mtf,Composite Code
+QMTF,HUN,Quote Mtf,Operating MIC
+QT,DEU,Quotrix Exch,Composite Code
+QU,UKR,Pfts,Equity Exchange
+QX,GBR,Aquis Exchg,Composite Code
+RB,BLR,Belarus,Composite Code
+RC,CZE,Czech Otc,Equity Exchange
+RE,ROU,Bucharest,Equity Exchange
+RF,ISL,Fn Iceland,Equity Exchange
+RM,RUS,Micex Repo,Composite Code
+RN,RUS,Micex Nmd,Equity Exchange
+RO,ROU,Rasdaq,Composite Code
+ROCO,TWN,Taipei Exchange,Operating MIC
+ROTC,RWA,Rwanda Otc Market,Operating MIC
+RP,RUS,Micex Repo,Equity Exchange
+RQ,ROU,Rasdaq,Equity Exchange
+RR,RUS,Rts,Equity Exchange
+RT,RUS,Np Rts,Equity Exchange
+RTSX,RUS,Moscow Exchange-Derivatives And Classica Market,MIC
+RU,RUS,Np Rts,Composite Code
+RUSX,RUS,Non-Profit Partnership For The Development Of Financial Market Rts,Operating MIC
+RW,RWA,Rwanda,Composite Code
+RX,RUS,Micex Main,Equity Exchange
+RZ,ROU,Sibex,Equity Exchange
+S1,GBR,Sigma X Mtf,Composite Code
+S2,GBR,Ubs Multilat,Composite Code
+SA,ESP,Valencia,Equity Exchange
+SB,ESP,Barcelona,Equity Exchange
+SBIJ,JPN,Sbi Japannext-X-Market,Operating MIC
+SBIU,JPN,Sbi Japannext - U  - Market,MIC
+SD,SWZ,Mbabane,Composite Code
+SE,CHE,Six Swiss Ex,Equity Exchange
+SEDX,ITA,Securitised Derivatives Market,MIC
+SEND,ESP,Send - Sistema Electronico De Negociacion De Deuda,MIC
+SF,SWE,Fn Stockholm,Equity Exchange
+SG,SRB,Belgrade Se,Composite Code
+SGMX,GBR,Sigma X Mtf,Operating MIC
+SHAR,GBR,Asset Match,Operating MIC
+SHSC,HKG,Stock Exchange Of Hong Kong Limited - Shanghai - Hong Kong Stock Connect,MIC
+SI,AUS,Sim Vse,Equity Exchange
+SIGX,CAN,Sigma X Canada,Operating MIC
+SIMV,AUS,Sim Venture Securities Exchange,Operating MIC
+SJ,ZAF,Johannesburg,Composite Code
+SK,SVK,Bratislava,Composite Code
+SL,LKA,Colombo,Composite Code
+SM,ESP,Valencia,Composite Code
+SN,ESP,Madrid,Equity Exchange
+SO,ESP,Bilbao,Equity Exchange
+SP,SGP,Singapore,Composite Code
+SQ,ESP,Continuous,Equity Exchange
+SR,CHE,Berne,Equity Exchange
+SS,SWE,Nordic Gm,Composite Code
+SV,SVN,Ljubljana,Composite Code
+SW,CHE,Six Swiss Ex,Composite Code
+SX,CHE,Six Str Prod,Equity Exchange
+SY,SYR,Damascus,Composite Code
+SZ,SYC,Seychelles,Composite Code
+SZSC,HKG,Stock Exchange Of Hong Kong Limited - Shenzhen - Hong Kong Stock Connect,MIC
+TA,CAN,Alphatoronto,Equity Exchange
+TB,THA,Bangkok,Composite Code
+TBSP,POL,Tbs Poland,MIC
+TE,ITA,Eurotlx,Composite Code
+TF,TUR,Istn 1St Ses,Equity Exchange
+TG,CAN,Omega,Equity Exchange
+TGAT,DEU,Tradegate,Operating MIC
+TH,DEU,Tradegate,Composite Code
+TI,TUR,Istn 2Nd Ses,Composite Code
+TJ,CAN,Tmx Select,Equity Exchange
+TK,CAN,Liquidnet,Equity Exchange
+TL,GIB,Gibraltar,Composite Code
+TMXS,CAN,Tmx Select,Operating MIC
+TN,CAN,Alphaventure,Equity Exchange
+TOMX,NLD,Tom Mtf Cash Markets,Operating MIC
+TP,TTO,Port Spain,Composite Code
+TQ,GBR,Turquoise  ,Composite Code
+TR,CAN,Triact Toronto,Equity Exchange
+TREU,GBR,Tradeweb Europe Limited ,Operating MIC
+TRPX,SYC,Trop-X,Operating MIC
+TRQD,GBR,Turquoise Derivatives Market,MIC
+TRQX,GBR,Turquoise,Operating MIC
+TRWB,USA,Tradeweb Llc,Operating MIC
+TS,TUR,Istn 2Nd Ses,Equity Exchange
+TT,TWN,Taiwan,Composite Code
+TU,TUN,Tunis,Composite Code
+TV,CAN,Triact Venture,Equity Exchange
+TW,CAN,Instinet Can,Equity Exchange
+TX,CAN,Chix Toronto,Equity Exchange
+TY,CAN,Sigma X Ats,Equity Exchange
+TZ,TZA,Dar E Slm Se,Composite Code
+UA,USA,Nyse Mkt Llc,Equity Exchange
+UB,USA,Nsdq Omx Bx,Equity Exchange
+UC,USA,National,Equity Exchange
+UD,USA,Finra Adf,Equity Exchange
+UF,USA,Bats,Equity Exchange
+UG,UGA,Uganda,Composite Code
+UH,ARE,Abu Dhabi,Composite Code
+UI,USA,Island,Equity Exchange
+UK,UKR,Rts Ukraine,Equity Exchange
+UKEX,UKR,Rts Ukraine,Operating MIC
+UL,USA,Ise,Equity Exchange
+UM,USA,Chicago,Equity Exchange
+UN,USA,Nyse,Equity Exchange
+UO,USA,Cbsx,Equity Exchange
+UP,USA,Nyse Arca,Equity Exchange
+UQ,USA,Nasdaq Gm,Equity Exchange
+UR,USA,Nasdaq Cm,Equity Exchange
+US,USA,Nsdq Omx Psx,Composite Code
+UT,USA,Nasdaq Im,Equity Exchange
+UU,USA,Otc Bb,Equity Exchange
+UV,USA,Otc,Equity Exchange
+UW,USA,Nasdaq Gs,Equity Exchange
+UX,USA,Nsdq Omx Psx,Equity Exchange
+UY,URY,Montevideo,Composite Code
+UZ,UKR,Rts Ukraine,Composite Code
+VB,BOL,Bolivia,Composite Code
+VC,VEN,Caracas,Composite Code
+VF,USA,Investor  Ex,Equity Exchange
+VH,VNM,Hanoi,Equity Exchange
+VJ,USA,Edga,Equity Exchange
+VK,USA,Edgx,Equity Exchange
+VM,VNM,Ho Chi Minh,Equity Exchange
+VN,VNM,Ho Chi Minh,Composite Code
+VR,CPV,Cape Verde Ex,Composite Code
+VS,VEN,Caracas,Equity Exchange
+VU,VNM,Hanoi Upcom,Equity Exchange
+VX,CHE,Six Swiss Ex,Composite Code
+VY,USA,Bats Y,Equity Exchange
+WMTF,POL,Mts Poland,MIC
+XA,AUT,Ceeseg Otc,Equity Exchange
+XADE,GRC,Athens Exchange S.A. Derivatives Market,MIC
+XADF,USA,Finra Alternative Display Facility,MIC
+XADS,ARE,Abu Dhabi Securities Market,Operating MIC
+XALG,DZA,Algiers Stock Exchange,Operating MIC
+XAMM,JOR,Amman Stock Exchange,Operating MIC
+XAMS,NLD,Nyse Euronext - Euronext Amsterdam,Operating MIC
+XARM,ARM,Nasdaq Omx Armenia,Operating MIC
+XASE,USA,Nyse Mkt Llc,MIC
+XASX,AUS,Asx - All Markets,Operating MIC
+XATH,GRC,Athens Exchange S.A. Cash Market,MIC
+XATS,CAN,Alpha Ats,Operating MIC
+XB,GBR,Boat,Equity Exchange
+XBAA,BHS,Bahamas International Securities Exchange,Operating MIC
+XBAB,BRB,Barbados Stock Exchange,Operating MIC
+XBAH,BHR,Bahrain Bourse,Operating MIC
+XBAN,IND,Bangalore Stock Exchange Ltd,Operating MIC
+XBAR,ESP,Bolsa De Barcelona,MIC
+XBCL,CHL,La Bolsa Electronica De Chile,Operating MIC
+XBCM,ARG,Mendoza Se,Operating MIC
+XBCV,HND,Bolsa Centroamericana De Valores S.A.,Operating MIC
+XBCX,ARG,Mendoza Se,MIC
+XBDA,BMU,Bermuda Stock Exchange Ltd,Operating MIC
+XBEL,SRB,Belgrade Stock Exchange,Operating MIC
+XBER,DEU,Boerse Berlin Equiduct Trading,Operating MIC
+XBES,ZAF,Jse Cash Bond Market,MIC
+XBEY,LBN,Bourse De Beyrouth - Beirut Stock Exchange,Operating MIC
+XBIL,ESP,Bolsa De Valores De Bilbao,MIC
+XBKK,THA,Stock Exchange Of Thailand,Operating MIC
+XBLB,BIH,Banja Luka Stock Exchange,Operating MIC
+XBNV,CRI,"Bolsa Nacional De Valores, S.A.",Operating MIC
+XBOG,COL,Bolsa De Valores De Colombia,Operating MIC
+XBOL,BOL,Bolsa Boliviana De Valores S.A.,Operating MIC
+XBOM,IND,Bse Ltd,Operating MIC
+XBOS,USA,Nasdaq Omx Bx,MIC
+XBOT,BWA,Botswana Stock Exchange,Operating MIC
+XBRA,SVK,Bratislava Stock Exchange,Operating MIC
+XBRN,CHE,Berne Stock Exchange,Operating MIC
+XBRU,BEL,Nyse Euronext - Euronext Brussels,Operating MIC
+XBRV,CIV,Bourse Regionale Des Valeurs Mobilieres,Operating MIC
+XBSE,ROU,Rasdaq,Operating MIC
+XBUD,HUN,Budapest Stock Exchange,Operating MIC
+XBUE,ARG,Mercado De Valores De Buenos Aires S.A.,Operating MIC
+XBUL,BGR,Bulgarian Stock Exchange,Operating MIC
+XBVC,CPV,Cape Verde Stock Exchange,Operating MIC
+XBVM,MOZ,Mozambique Stock Exchange,Operating MIC
+XBVR,DOM,Bolsa De Valores De La Republica Dominicana Sa.,Operating MIC
+XC,GBR,Chi-X Otc,Equity Exchange
+XCAI,EGY,Egyptian Exchange,Operating MIC
+XCAL,IND,Calcutta Stock Exchange,Operating MIC
+XCAS,MAR,Casablanca Stock Exchange,Operating MIC
+XCAY,CYM,Cayman Islands Stock Exchange,Operating MIC
+XCBO,USA,Chicago Board Options Exchange,Operating MIC
+XCFE,CHN,China Foreign Exchange Trade System ,Operating MIC
+XCHG,BGD,Chittagong Stock Exchange Ltd,Operating MIC
+XCHI,USA,"Chicago Stock Exchange, Inc",Operating MIC
+XCIE,GGY,Channel Islands Stock Exchange,Operating MIC
+XCIS,USA,National Stock Exchange Inc,Operating MIC
+XCNQ,CAN,Canadian National Stock Exchange,Operating MIC
+XCOL,LKA,Colombo Stock Exchange,Operating MIC
+XCSE,DNK,First North Denmark,Operating MIC
+XCSX,KHM,Cambodia Securities Exchange,Operating MIC
+XCUE,UZB,Uzbekistan Republican Currency Exchange,Operating MIC
+XCX2,CAN,Cx2,MIC
+XCXD,CAN,Nasdaq Cxd,Operating MIC
+XCYS,CYP,Cyprus Ecm,Operating MIC
+XD,DEU,Deutsche Otc,Equity Exchange
+XDAR,TZA,Dar Es  Salaam Stock Exchange,Operating MIC
+XDES,IND,Delhi Stock Exchange,Operating MIC
+XDFM,ARE,Dubai Financial Market,Operating MIC
+XDHA,BGD,Dhaka Stock Exchange Ltd,Operating MIC
+XDPA,ESP,Cade - Mercado De Deuda Publica Anotada,Operating MIC
+XDRF,ESP,Aiaf - Mercado De Renta Fija,MIC
+XDSE,SYR,Damascus Securities Exchange,Operating MIC
+XDSX,CMR,Douala Stock Exchange,Operating MIC
+XDUB,IRL,Irish Stock Exchange - Main Market,Operating MIC
+XDUS,DEU,Boerse Duesseldorf - Quotrix,Operating MIC
+XE,GBR,Euronext Otc,Equity Exchange
+XECM,CYP,Cyprus Ecm,MIC
+XECS,KNA,Eastern Caribbean Securities Exchange,Operating MIC
+XEQT,DEU,Boerse Berlin Equiduct Trading,MIC
+XETR,DEU,Xetra,MIC
+XF,IRL,Dublin Se Otc,Equity Exchange
+XFKA,JPN,Fukuoka Stock Exchange,Operating MIC
+XFRA,DEU,Newex,Operating MIC
+XG,SWE,Ngm Otc,Equity Exchange
+XGAT,DEU,Tradegate,MIC
+XGHA,GHA,Ghana Stock Exchange,Operating MIC
+XGSE,GEO,Georgia Stock Exchange,Operating MIC
+XGTG,GTM,Bolsa De Valores Nacional Sa,Operating MIC
+XGUA,ECU,Bolsa De Valores De Guayaquil,Operating MIC
+XH,HUN,Budapest Otc,Equity Exchange
+XHAM,DEU,Hanseatische Wertpapierboerse Hamburg,Operating MIC
+XHAN,DEU,Niedersaechsische Boerse Zu Hannover,Operating MIC
+XHEL,FIN,Nasdaq Helsinki Ltd,Operating MIC
+XHFT,NLD,Nyse Arca Europe,Operating MIC
+XHKG,HKG,Hong Kong Exchanges And Clearing Ltd,Operating MIC
+XHNX,VNM,Hanoi Stock Exchange (Unlisted Public Company Trading Platform),MIC
+XI,ITA,Borsaitalotc,Equity Exchange
+XICE,ISL,Nasdaq Iceland Hf.,Operating MIC
+XICX,CAN,Instinet Canada Cross,Operating MIC
+XIDX,IDN,Indonesia Stock Exchange,Operating MIC
+XIQS,IRQ,Iraq Stock Exchange,Operating MIC
+XISE,USA,International Securities Exchange Llc - Equities,MIC
+XISL,PAK,Islamabad Stock Exchange,Operating MIC
+XIST,TUR,Borsa Istanbul,Operating MIC
+XISX,USA,International Securities Exchange Llc - Equities,Operating MIC
+XJ,SVN,Ljub Se Otc,Equity Exchange
+XJAM,JAM,Jamaica Stock Exchange,Operating MIC
+XJAS,JPN,Tokyo Stock Exchange Jasdaq,MIC
+XJPX,JPN,Tokyo Stock Exchange-Tokyo Pro Market,Operating MIC
+XJSE,ZAF,Jse Interest Rate Derivatives Market,Operating MIC
+XKAR,PAK,The Pakistan Stock Exchange Limited,Operating MIC
+XKAZ,KAZ,Kazakhstan Stock Exchange,Operating MIC
+XKFB,KOR,Korea Freeboard Market,Operating MIC
+XKHA,SDN,Khartoum Stock Exchange,Operating MIC
+XKIS,UKR,Kiev International Stock Exchange,Operating MIC
+XKLS,MYS,Bursa Malaysia,Operating MIC
+XKON,KOR,Korea New Exchange,MIC
+XKOS,KOR,Korea Exchange (Kosdaq),MIC
+XKRX,KOR,Korea Exchange (Kosdaq),Operating MIC
+XKSE,KGZ,Kyrgyz Stock Exchange,Operating MIC
+XKUW,KWT,Kuwait Stock Exchange,Operating MIC
+XL,GBR,London Se Otc,Equity Exchange
+XLAO,LAO,Laos Se,Operating MIC
+XLDN,GBR,Euronext - Euronext London,Operating MIC
+XLFX,MYS,Labuan International Financial Exchange,Operating MIC
+XLIM,PER,Bolsa De Valores De Lima,Operating MIC
+XLIS,PRT,Nyse Euronext - Euronext Lisbon,Operating MIC
+XLIT,LTU,Ab Nasdaq Vilnius,Operating MIC
+XLJU,SVN,Ljubljana Stock Exchange (Official Market),Operating MIC
+XLON,GBR,London Stock Exchange,Operating MIC
+XLSM,LBY,Libyan Stock Market,Operating MIC
+XLUS,ZMB,Lusaka Stock Exchange,Operating MIC
+XLUX,LUX,Luxembourg Stock Exchange,Operating MIC
+XMAB,ARG,Mercado Abierto Electronico S.A.,Operating MIC
+XMAD,ESP,Bolsa De Madrid,MIC
+XMAE,MKD,Macedonian Stock Exchange,Operating MIC
+XMAL,MLT,Malta Stock Exchange,Operating MIC
+XMAN,NIC,Bolsa De Valores De Nicaragua,Operating MIC
+XMAU,MUS,Stock Exchange Of Mauritius Ltd,Operating MIC
+XMCE,ESP,Mercado Continuo Espanol,MIC
+XMDS,IND,Madras Stock Exchange,Operating MIC
+XMEV,ARG,Mercado De Valores De Buenos Aires S.A.,MIC
+XMEX,MEX,Bolsa Mexicana De Valores (Mexican Stock Exchange),Operating MIC
+XMIL,ITA,Extramot,Operating MIC
+XMNT,URY,Bolsa De Valores De Montevideo,Operating MIC
+XMNX,MNE,Montenegro Stock Exchange,Operating MIC
+XMOL,MDA,Moldova Stock Exchange,Operating MIC
+XMOS,RUS,Moscow Stock Exchange,Operating MIC
+XMOT,ITA,Extramot,MIC
+XMSW,MWI,Malawi Stock Exchange,Operating MIC
+XMTS,GBR,Mts Greece,Operating MIC
+XMUN,DEU,Boerse Muenchen,Operating MIC
+XMUS,OMN,Muscat Securities Market,Operating MIC
+XN,NOR,Oslo Otc,Equity Exchange
+XNAI,KEN,Nairobi Stock Exchange,Operating MIC
+XNAM,NAM,Namibian Stock Exchange,Operating MIC
+XNAS,USA,Portal,Operating MIC
+XNCM,USA,Nasdaq Capital Market,MIC
+XNDX,SWE,Nordic Derivatives Exchange,MIC
+XNEC,AUS,National Stock Exchange Of Australia Limited,Operating MIC
+XNEP,NPL,Nepal Stock Exchange,Operating MIC
+XNEW,DEU,Newex,MIC
+XNGM,SWE,Nordic Growth Market,Operating MIC
+XNGO,JPN,Nagoya Stock Exchange,Operating MIC
+XNGS,USA,Nasdaq/Ngs (Global Select Market),MIC
+XNIM,USA,Nasdaq Intermarket,MIC
+XNMS,USA,Nasdaq/Nms (Global Market),MIC
+XNSA,NGA,The Nigerian Stock Exchange,Operating MIC
+XNSE,IND,National Stock Exchange Of India,Operating MIC
+XNYS,USA,New York Stock Exchange Inc,Operating MIC
+XNZE,NZL,New Zealand Exchange Ltd,Operating MIC
+XO,SWE,Omx Otc,Equity Exchange
+XOAM,NOR,Nordic Alternative Bond Market,MIC
+XOPV,SWE,Otc Publication Venue,MIC
+XOSE,JPN,Osaka Exchange,MIC
+XOSL,NOR,Oslo Bors Asa,Operating MIC
+XOTC,USA,Otc Bulletin Board,Operating MIC
+XP,GBR,Plus Mkt Otc,Equity Exchange
+XPAE,PSE,Palestine Securities Exchange,Operating MIC
+XPAR,FRA,Nyse Euronext - Euronext Paris,Operating MIC
+XPHS,PHL,"Philippine Stock Exchange, Inc.",Operating MIC
+XPIC,RUS,Saint-Petersburg Currency Exchange,Operating MIC
+XPOM,PNG,Port Moresby Stock Exchange,Operating MIC
+XPOR,USA,Portal,MIC
+XPOS,IRL,Posit,MIC
+XPRA,CZE,Prague Stock Exchange,Operating MIC
+XPSX,USA,Nasdaq Omx Psx,MIC
+XPTY,PAN,"Bolsa De Valores De Panama, S.A.",Operating MIC
+XQMH,CHE,Six Structured Products Exchange,Operating MIC
+XQTX,DEU,Boerse Duesseldorf - Quotrix,MIC
+XQUI,ECU,Bolsa De Valores De Quito,Operating MIC
+XRAS,ROU,Rasdaq,MIC
+XRBM,MYS,Ringgit Bond Market,Operating MIC
+XRIS,LVA,Nasdaq Riga As,Operating MIC
+XRMZ,CZE,Rm-System Czech Stock Exchange,Operating MIC
+XROS,ARG,Bolsa De Comercio Rosario,Operating MIC
+XS,DEU,Stuttgrt Otc,Equity Exchange
+XSAM,RUS,Samara Currency Interbank Exchange,Operating MIC
+XSAP,JPN,Sapporo Securities Exchange,Operating MIC
+XSAT,SWE,Aktietorget,Operating MIC
+XSAU,SAU,Saudi Stock Exchange,Operating MIC
+XSBI,JPN,Sbi Japannext-X-Market,MIC
+XSEC,CHN,Shenzhen Stock Exchange - Shenzhen - Hong Kong Stock Connect,MIC
+XSES,SGP,Singapore Exchange,Operating MIC
+XSGO,CHL,Santiago Stock Exchange,Operating MIC
+XSHE,CHN,Shenzhen Stock Exchange,Operating MIC
+XSHG,CHN,Shanghai Stock Exchange - Shanghai - Hong Kong Stock Connect,Operating MIC
+XSIB,RUS,Siberian Exchange,Operating MIC
+XSMP,GBR,Smartpool,Operating MIC
+XSPS,FJI,South Pacific Stock Exchange,Operating MIC
+XSSC,CHN,Shanghai Stock Exchange - Shanghai - Hong Kong Stock Connect,MIC
+XSSE,BIH,Sarajevo Stock Exchange,Operating MIC
+XSTC,VNM,Hochiminh Stock Exchange,Operating MIC
+XSTE,UZB,Republican Stock Exchange,Operating MIC
+XSTO,SWE,Nasdaq Stockholm Ab,Operating MIC
+XSTU,DEU,Boerse Stuttgart,Operating MIC
+XSVA,SLV,El Salvador Stock Exchange,Operating MIC
+XSWA,SWZ,Swaziland Stock Exchange,Operating MIC
+XSWX,CHE,Six Swiss Exchange - Blue Chips Segment,Operating MIC
+XT,GRC,Athens Otc,Equity Exchange
+XTAE,ISR,Tel Aviv Stock Exchange,Operating MIC
+XTAI,TWN,Taiwan Stock Exchange,Operating MIC
+XTAL,EST,Nasdaq Tallinn As,Operating MIC
+XTAM,JPN,Tokyo Stock Exchange-Tokyo Pro Market,MIC
+XTEH,IRN,Tehran Stock Exchange,Operating MIC
+XTIR,ALB,Tirana Stock Exchange,Operating MIC
+XTKS,JPN,Tokyo Stock Exchange,Operating MIC
+XTNX,CAN,Tsx Venture Exchange - Nex,MIC
+XTRN,TTO,Trinidad And Tobago Stock Exchange,Operating MIC
+XTSE,CAN,Toronto Stock Exchange,Operating MIC
+XTSX,CAN,Tsx Venture Exchange,Operating MIC
+XTUN,TUN,Bourse De Tunis,Operating MIC
+XUBS,GBR,Ubs Mtf,Operating MIC
+XUGA,UGA,Uganda Securities Exchange,Operating MIC
+XULA,MNG,Mongolian Stock Exchange,Operating MIC
+XV,GBR,Batschix Otc,Equity Exchange
+XVAL,ESP,Bolsa De Valencia,MIC
+XVPA,PRY,Bolsa De Valores Y Productos De Asuncion Sa,Operating MIC
+XVTX,CHE,Six Swiss Exchange - Blue Chips Segment,MIC
+XWAR,POL,Warsaw Stock Exchange/Equities/Main Market,Operating MIC
+XWBO,AUT,Wiener Boerse Ag,Operating MIC
+XZAG,HRV,Zagreb Stock Exchange,Operating MIC
+XZIM,ZWE,Zimbabwe Stock Exchange,Operating MIC
+YC,CYP,Cyprus Ecm,Equity Exchange
+YLDX,ZAF,Jse Interest Rate Derivatives Market,MIC
+YYYY,DEU,Internal Bloomberg Code,MIC
+ZA,HRV,Zagreb,Equity Exchange
+ZH,ZWE,Harare,Composite Code
+ZL,ZMB,Lusaka,Composite Code
+ZS,CIV,Senegal,Composite Code
+ZU,UZB,Uzbekistan,Composite Code

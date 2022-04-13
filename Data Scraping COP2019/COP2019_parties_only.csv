@@ -1,0 +1,198 @@
+index,name,entity_type,TotalMembers,MaleMembers,FemaleMembers
+0,Afghanistan,Parties,15,13,2
+1,Albania,Parties,2,1,1
+2,Algeria,Parties,26,16,10
+3,Andorra,Parties,8,5,3
+4,Angola,Parties,23,16,7
+5,Antigua and Barbuda,Parties,13,6,7
+6,Argentina,Parties,51,36,15
+7,Armenia,Parties,9,4,5
+8,Australia,Parties,21,8,13
+9,Austria,Parties,36,19,17
+10,Azerbaijan,Parties,5,5,0
+11,Bahamas,Parties,9,5,4
+12,Bahrain,Parties,9,7,2
+13,Bangladesh,Parties,113,97,16
+14,Barbados,Parties,6,5,1
+15,Belarus,Parties,7,6,1
+16,Belgium,Parties,41,29,12
+17,Belize,Parties,27,14,13
+18,Benin,Parties,51,38,13
+19,Bhutan,Parties,32,20,12
+20,Bolivia,Parties,3,1,2
+21,Bosnia and Herzegovina,Parties,4,3,1
+22,Botswana,Parties,26,11,15
+23,Brazil,Parties,159,118,41
+24,Brunei,Parties,5,1,4
+25,Bulgaria,Parties,13,3,10
+26,Burkina Faso,Parties,43,41,2
+27,Burundi,Parties,15,12,3
+28,Cabo Verde,Parties,32,14,18
+29,Cambodia,Parties,23,20,3
+30,Cameroon,Parties,31,24,7
+31,Canada,Parties,118,55,63
+32,Central African Republic,Parties,8,7,1
+33,Chad,Parties,23,21,2
+34,Chile,Parties,117,68,49
+35,China,Parties,66,45,21
+36,Colombia,Parties,27,10,17
+37,Comoros,Parties,8,7,1
+38,Congo,Parties,84,68,16
+39,Cook Islands,Parties,11,4,7
+40,Costa Rica,Parties,47,17,30
+41,Côte d'Ivoire,Parties,130,106,24
+42,Croatia,Parties,26,11,15
+43,Cuba,Parties,8,5,3
+44,Cyprus,Parties,5,2,3
+45,Czechia,Parties,35,20,15
+46,North Korea,Parties,3,1,2
+47,Congo,Parties,71,61,10
+48,Denmark,Parties,46,23,23
+49,Djibouti,Parties,6,5,1
+50,Dominica,Parties,4,2,2
+51,Dominican Republic,Parties,73,42,31
+52,Ecuador,Parties,41,31,10
+53,Egypt,Parties,28,19,9
+54,El Salvador,Parties,12,7,5
+55,Equatorial Guinea,Parties,30,25,5
+56,Eritrea,Parties,3,3,0
+57,Estonia,Parties,16,5,11
+58,Eswatini,Parties,14,8,6
+59,Ethiopia,Parties,42,33,9
+60,European Union,Parties,128,75,53
+61,Fiji,Parties,36,23,13
+62,Finland,Parties,53,11,42
+63,France,Parties,8,6,2
+64,Gabon,Parties,2,2,0
+65,Gambia,Parties,38,24,14
+66,Georgia,Parties,12,7,5
+67,Germany,Parties,101,55,46
+68,Ghana,Parties,61,45,16
+69,Greece,Parties,36,24,12
+70,Grenada,Parties,12,8,4
+71,Guatemala,Parties,37,23,14
+72,Guinea,Parties,71,52,19
+73,Guinea-Bissau,Parties,19,12,7
+74,Guyana,Parties,5,3,2
+75,Haiti,Parties,21,15,6
+76,Honduras,Parties,72,49,23
+77,Hungary,Parties,17,7,10
+78,Iceland,Parties,7,3,4
+79,India,Parties,36,24,12
+80,Indonesia,Parties,142,91,51
+81,Iran,Parties,15,13,2
+82,Iraq,Parties,41,29,12
+83,Ireland,Parties,22,14,8
+84,Israel,Parties,24,11,13
+85,Italy,Parties,66,42,24
+86,Jamaica,Parties,13,3,10
+87,Japan,Parties,126,94,32
+88,Jordan,Parties,6,5,1
+89,Kazakhstan,Parties,18,13,5
+90,Kenya,Parties,64,39,25
+91,Kiribati,Parties,13,7,6
+92,Kuwait,Parties,26,23,3
+93,Kyrgyzstan,Parties,2,0,2
+94,Laos,Parties,9,7,2
+95,Latvia,Parties,18,5,13
+96,Lebanon,Parties,6,2,4
+97,Lesotho,Parties,24,15,9
+98,Liberia,Parties,34,24,10
+99,Libya,Parties,5,5,0
+100,Liechtenstein,Parties,4,1,3
+101,Lithuania,Parties,7,2,5
+102,Luxembourg,Parties,0,0,0
+103,Madagascar,Parties,3,3,0
+104,Malawi,Parties,40,29,11
+105,Malaysia,Parties,20,12,8
+106,Maldives,Parties,10,7,3
+107,Mali,Parties,46,33,13
+108,Malta,Parties,8,3,5
+109,Marshall Islands,Parties,18,7,11
+110,Mauritania,Parties,36,33,3
+111,Mauritius,Parties,4,4,0
+112,Mexico,Parties,26,11,15
+113,Micronesia,Parties,14,7,7
+114,Monaco,Parties,1,1,0
+115,Mongolia,Parties,8,4,4
+116,Montenegro,Parties,15,10,5
+117,Morocco,Parties,68,58,10
+118,Mozambique,Parties,37,22,15
+119,Myanmar,Parties,20,12,8
+120,Namibia,Parties,23,13,10
+121,Nauru,Parties,17,13,4
+122,Nepal,Parties,13,11,2
+123,Netherlands,Parties,38,21,17
+124,New Zealand,Parties,20,8,12
+125,Nicaragua,Parties,9,8,1
+126,Niger,Parties,36,26,10
+127,Nigeria,Parties,53,40,13
+128,Niue,Parties,6,2,4
+129,North Macedonia,Parties,7,3,4
+130,Norway,Parties,41,23,18
+131,Oman,Parties,14,13,1
+132,Pakistan,Parties,14,13,1
+133,Palau,Parties,4,3,1
+134,Panama,Parties,22,9,13
+135,Papua New Guinea,Parties,28,16,12
+136,Paraguay,Parties,35,25,10
+137,Peru,Parties,65,33,32
+138,Philippines,Parties,13,5,8
+139,Poland,Parties,39,20,19
+140,Portugal,Parties,80,46,34
+141,Qatar,Parties,46,41,5
+142,South Korea,Parties,81,54,27
+143,Moldova,Parties,5,2,3
+144,Romania,Parties,16,5,11
+145,Russia,Parties,54,39,15
+146,Rwanda,Parties,18,11,7
+147,Saint Kitts and Nevis,Parties,8,4,4
+148,Saint Lucia,Parties,11,3,8
+149,Saint Vincent and the Grenadines,Parties,4,0,4
+150,Samoa,Parties,13,6,7
+151,Sao Tome and Principe,Parties,3,2,1
+152,Saudi Arabia,Parties,36,30,6
+153,Senegal,Parties,81,69,12
+154,Serbia,Parties,18,7,11
+155,Seychelles,Parties,31,15,16
+156,Sierra Leone,Parties,19,17,2
+157,Singapore,Parties,31,19,12
+158,Slovakia,Parties,33,18,15
+159,Slovenia,Parties,10,3,7
+160,Solomon Islands,Parties,15,11,4
+161,Somalia,Parties,3,2,1
+162,South Africa,Parties,42,27,15
+163,South Sudan,Parties,0,0,0
+164,Spain,Parties,151,72,79
+165,Sri Lanka,Parties,5,3,2
+166,Palestine,Parties,13,10,3
+167,Sudan,Parties,63,29,34
+168,Suriname,Parties,9,4,5
+169,Sweden,Parties,36,17,19
+170,Switzerland,Parties,16,12,4
+171,Syria,Parties,1,0,1
+172,Tajikistan,Parties,4,4,0
+173,Thailand,Parties,73,31,42
+174,Timor-Leste,Parties,14,11,3
+175,Togo,Parties,32,23,9
+176,Tonga,Parties,39,18,21
+177,Trinidad and Tobago,Parties,5,2,3
+178,Tunisia,Parties,65,42,23
+179,Turkey,Parties,65,41,24
+180,Turkmenistan,Parties,4,4,0
+181,Tuvalu,Parties,17,9,8
+182,Uganda,Parties,76,53,23
+183,Ukraine,Parties,16,11,5
+184,United Arab Emirates,Parties,74,39,35
+185,United Kingdom,Parties,50,22,28
+186,Tanzania,Parties,26,16,10
+187,United States,Parties,72,37,35
+188,Uruguay,Parties,15,5,10
+189,Uzbekistan,Parties,6,5,1
+190,Vanuatu,Parties,16,11,5
+191,Venezuela,Parties,29,21,8
+192,Viet Nam,Parties,52,33,19
+193,Yemen,Parties,13,13,0
+194,Zambia,Parties,11,9,2
+195,Zimbabwe,Parties,68,39,29
+196,Holy See,Observer States,7,6,1

@@ -1,0 +1,1594 @@
+,Unnamed: 0,city,country,emissions,inventory_type,year
+0,0.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10454026.0,Community inventories,2000.0
+1,1.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10178714.0,Community inventories,2001.0
+2,2.0,"Autonomous City of Buenos Aires, Argentina",Argentina,9757411.0,Community inventories,2002.0
+3,3.0,"Autonomous City of Buenos Aires, Argentina",Argentina,9969971.0,Community inventories,2003.0
+4,4.0,"Autonomous City of Buenos Aires, Argentina",Argentina,9951382.0,Community inventories,2004.0
+5,5.0,"Autonomous City of Buenos Aires, Argentina",Argentina,9917962.0,Community inventories,2005.0
+6,6.0,"Autonomous City of Buenos Aires, Argentina",Argentina,9758063.0,Community inventories,2006.0
+7,7.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10697979.0,Community inventories,2007.0
+8,8.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10465723.0,Community inventories,2008.0
+9,9.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10509649.0,Community inventories,2009.0
+10,10.0,"Autonomous City of Buenos Aires, Argentina",Argentina,10865523.0,Community inventories,2010.0
+11,11.0,"Autonomous City of Buenos Aires, Argentina",Argentina,11072034.0,Community inventories,2011.0
+12,12.0,"Autonomous City of Buenos Aires, Argentina",Argentina,11157086.0,Community inventories,2012.0
+13,13.0,"Autonomous City of Buenos Aires, Argentina",Argentina,12171780.0,Community inventories,2013.0
+14,14.0,"Autonomous City of Buenos Aires, Argentina",Argentina,5998.0,Government operations inventory,2000.0
+15,15.0,"Autonomous City of Buenos Aires, Argentina",Argentina,7320.0,Government operations inventory,2001.0
+16,16.0,"Autonomous City of Buenos Aires, Argentina",Argentina,7394.0,Government operations inventory,2002.0
+17,17.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6569.0,Government operations inventory,2003.0
+18,18.0,"Autonomous City of Buenos Aires, Argentina",Argentina,5279.0,Government operations inventory,2004.0
+19,19.0,"Autonomous City of Buenos Aires, Argentina",Argentina,5279.0,Government operations inventory,2005.0
+20,20.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6441.0,Government operations inventory,2006.0
+21,21.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6893.0,Government operations inventory,2007.0
+22,22.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6689.0,Government operations inventory,2008.0
+23,23.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6678.0,Government operations inventory,2009.0
+24,24.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6623.0,Government operations inventory,2010.0
+25,25.0,"Autonomous City of Buenos Aires, Argentina",Argentina,6464.0,Government operations inventory,2011.0
+26,26.0,"Autonomous City of Buenos Aires, Argentina",Argentina,5788.0,Government operations inventory,2012.0
+27,27.0,"Municipality of Arias, Argentina",Argentina,95956.95566,Community inventories,2014.0
+28,28.0,"Municipality of Arias, Argentina",Argentina,2121.11,Government operations inventory,2014.0
+29,29.0,"Municipality of Armstrong, Argentina",Argentina,53699.23595,Community inventories,2014.0
+30,30.0,"Municipality of Armstrong, Argentina",Argentina,6040.7,Government operations inventory,2014.0
+31,31.0,"Municipality of Arteaga, Argentina",Argentina,28271.05234,Community inventories,2014.0
+32,32.0,"Municipality of Arteaga, Argentina",Argentina,1345.87,Government operations inventory,2014.0
+33,33.0,"Municipality of Bariloche, Argentina",Argentina,913661.7177,Community inventories,2014.0
+34,34.0,"Municipality of Bariloche, Argentina",Argentina,79318.47,Government operations inventory,2014.0
+35,35.0,"Municipality of Bell Ville, Argentina",Argentina,100445.5534,Community inventories,2014.0
+36,36.0,"Municipality of Bell Ville, Argentina",Argentina,6815.3600000000015,Government operations inventory,2014.0
+37,37.0,"Municipality of Bragado, Argentina",Argentina,580160.2594,Community inventories,2014.0
+38,38.0,"Municipality of Bragado, Argentina",Argentina,17090.44,Government operations inventory,2014.0
+39,39.0,"Municipality of Camilo Aldao, Argentina",Argentina,51221.0,Community inventories,2014.0
+40,40.0,"Municipality of Camilo Aldao, Argentina",Argentina,2787.76,Government operations inventory,2014.0
+41,41.0,"Municipality of Carcarañá, Argentina",Argentina,96298.0,Community inventories,2014.0
+42,42.0,"Municipality of Carcarañá, Argentina",Argentina,7567.82,Government operations inventory,2014.0
+43,43.0,"Municipality of Carlos Tejedor, Argentina",Argentina,681927.0,Community inventories,2014.0
+44,44.0,"Municipality of Carlos Tejedor, Argentina",Argentina,935.81,Government operations inventory,2014.0
+45,45.0,"Municipality of Caseros, Argentina",Argentina,21243.66496,Community inventories,2014.0
+46,46.0,"Municipality of Caseros, Argentina",Argentina,477.69,Government operations inventory,2014.0
+47,47.0,"Municipality of Casilda, Argentina",Argentina,165749.8625,Community inventories,2014.0
+48,48.0,"Municipality of Casilda, Argentina",Argentina,15300.749999999998,Government operations inventory,2014.0
+49,49.0,"Municipality of Centeno, Argentina",Argentina,19004.01085,Community inventories,2014.0
+50,50.0,"Municipality of Centeno, Argentina",Argentina,1556.77,Government operations inventory,2014.0
+51,51.0,"Municipality of Chabas, Argentina",Argentina,71535.49507,Community inventories,2014.0
+52,52.0,"Municipality of Chabas, Argentina",Argentina,2657.96,Government operations inventory,2014.0
+53,53.0,"Municipality of Chacabuco, Argentina",Argentina,632438.0232,Community inventories,2014.0
+54,54.0,"Municipality of Chacabuco, Argentina",Argentina,15779.12,Government operations inventory,2014.0
+55,55.0,"Municipality of Chañar Ladeado, Argentina",Argentina,44338.0,Community inventories,2014.0
+56,56.0,"Municipality of Chañar Ladeado, Argentina",Argentina,1102.55,Government operations inventory,2014.0
+57,57.0,"Municipality of Colón, Buenos Aires, Argentina",Argentina,236244.0172,Community inventories,2014.0
+58,58.0,"Municipality of Colón, Buenos Aires, Argentina",Argentina,12109.44,Government operations inventory,2014.0
+59,59.0,"Municipality of Coronel Dominguez, Argentina",Argentina,4033.453623,Community inventories,2014.0
+60,60.0,"Municipality of Coronel Dominguez, Argentina",Argentina,1429.14,Government operations inventory,2014.0
+61,61.0,"Municipality of Correa, Argentina",Argentina,58518.34867000001,Community inventories,2014.0
+62,62.0,"Municipality of Correa, Argentina",Argentina,914.95,Government operations inventory,2014.0
+63,63.0,"Municipality of Cosquin, Argentina",Argentina,50827.4568,Community inventories,2014.0
+64,64.0,"Municipality of Cosquin, Argentina",Argentina,13917.18,Government operations inventory,2014.0
+65,65.0,"Municipality of Cruz Alta, Argentina",Argentina,28466.126010000004,Community inventories,2014.0
+66,66.0,"Municipality of Cruz Alta, Argentina",Argentina,3592.9400000000005,Government operations inventory,2014.0
+67,67.0,"Municipality of General Alvear, Argentina",Argentina,400144.5904,Community inventories,2014.0
+68,68.0,"Municipality of General Alvear, Argentina",Argentina,28874.870000000006,Government operations inventory,2014.0
+69,69.0,"Municipality of General Viamonte, Argentina",Argentina,333795.0,Community inventories,2014.0
+70,70.0,"Municipality of General Viamonte, Argentina",Argentina,5560.67,Government operations inventory,2014.0
+71,71.0,"Municipality of Godoy Cruz, Argentina",Argentina,533995.0,Community inventories,2014.0
+72,72.0,"Municipality of Godoy Cruz, Argentina",Argentina,79396.8,Government operations inventory,2014.0
+73,73.0,"Municipality of Guaminí, Argentina",Argentina,782972.0,Community inventories,2014.0
+74,74.0,"Municipality of Guaminí, Argentina",Argentina,4289.38,Government operations inventory,2014.0
+75,75.0,"Municipality of Guaymallén, Argentina",Argentina,826973.4391,Community inventories,2014.0
+76,76.0,"Municipality of Guaymallén, Argentina",Argentina,5257.26,Government operations inventory,2014.0
+77,77.0,"Municipality of Herrera, Argentina",Argentina,37907.78665,Community inventories,2014.0
+78,78.0,"Municipality of Herrera, Argentina",Argentina,428.76,Government operations inventory,2014.0
+79,79.0,"Municipality of Inriville, Argentina",Argentina,53054.660169999996,Community inventories,2014.0
+80,80.0,"Municipality of Inriville, Argentina",Argentina,1703.19,Government operations inventory,2014.0
+81,81.0,"Municipality of Juana Koslay, Argentina",Argentina,71576.2901,Community inventories,2016.0
+82,82.0,"Municipality of Juana Koslay, Argentina",Argentina,15255.83,Government operations inventory,2016.0
+83,83.0,"Municipality of Las Flores, Argentina",Argentina,7739.04,Government operations inventory,2014.0
+84,84.0,"Municipality of Lobos, Argentina",Argentina,460911.0593,Community inventories,2014.0
+85,85.0,"Municipality of Lobos, Argentina",Argentina,11521.29,Government operations inventory,2014.0
+86,86.0,"Municipality of Los Molinos, Argentina",Argentina,15787.18962,Community inventories,2014.0
+87,87.0,"Municipality of Los Molinos, Argentina",Argentina,275.18,Government operations inventory,2014.0
+88,88.0,"Municipality of Los Reartes, Argentina",Argentina,8091.087764,Community inventories,2014.0
+89,89.0,"Municipality of Los Reartes, Argentina",Argentina,853.53,Government operations inventory,2014.0
+90,90.0,"Municipality of Los Surgentes, Argentina",Argentina,36599.68289,Community inventories,2013.0
+91,91.0,"Municipality of Los Surgentes, Argentina",Argentina,545.5699999999998,Government operations inventory,2013.0
+92,92.0,"Municipality of Malabrigo, Argentina",Argentina,53779.0,Community inventories,2014.0
+93,93.0,"Municipality of Malabrigo, Argentina",Argentina,3046.75,Government operations inventory,2014.0
+94,94.0,"Municipality of Mendoza, Argentina",Argentina,699892.9587,Community inventories,2014.0
+95,95.0,"Municipality of Mendoza, Argentina",Argentina,56151.5,Government operations inventory,2014.0
+96,96.0,"Municipality of Monte Buey, Argentina",Argentina,49438.861280000005,Community inventories,2014.0
+97,97.0,"Municipality of Monte Buey, Argentina",Argentina,1226.6799999999996,Government operations inventory,2014.0
+98,98.0,"Municipality of Monte Vera, Argentina",Argentina,26731.88439,Community inventories,2014.0
+99,99.0,"Municipality of Monte Vera, Argentina",Argentina,2717.25,Government operations inventory,2014.0
+100,100.0,"Municipality of Nogoyá, Argentina",Argentina,128272.6922,Community inventories,2014.0
+101,101.0,"Municipality of Nogoyá, Argentina",Argentina,9365.37,Government operations inventory,2014.0
+102,102.0,"Municipality of Olavarría, Argentina",Argentina,3355338.4080000003,Community inventories,2014.0
+103,103.0,"Municipality of Olavarría, Argentina",Argentina,62880.06,Government operations inventory,2014.0
+104,104.0,"Municipality of Paraná, Argentina",Argentina,828252.9462,Community inventories,2014.0
+105,105.0,"Municipality of Paraná, Argentina",Argentina,128429.59,Government operations inventory,2014.0
+106,106.0,"Municipality of Potrero de los Funes, Argentina",Argentina,14423.0,Community inventories,2014.0
+107,107.0,"Municipality of Potrero de los Funes, Argentina",Argentina,3941.12,Government operations inventory,2014.0
+108,108.0,"Municipality of Pérez, Argentina",Argentina,93846.93,Community inventories,2014.0
+109,109.0,"Municipality of Pérez, Argentina",Argentina,15698590.340000002,Government operations inventory,2014.0
+110,110.0,"Municipality of Rafaela, Argentina",Argentina,437276.11600000004,Community inventories,2014.0
+111,111.0,"Municipality of Rafaela, Argentina",Argentina,97533.21,Government operations inventory,2014.0
+112,112.0,"Municipality of Resistencia, Argentina",Argentina,850401.3089,Community inventories,2014.0
+113,113.0,"Municipality of Resistencia, Argentina",Argentina,139796.22,Government operations inventory,2014.0
+114,114.0,"Municipality of Rivadavia, Argentina",Argentina,580273.7364,Community inventories,2014.0
+115,115.0,"Municipality of Rivadavia, Argentina",Argentina,3968.0,Government operations inventory,2014.0
+116,116.0,"Municipality of Rojas, Argentina",Argentina,274101.1198,Community inventories,2014.0
+117,117.0,"Municipality of Rojas, Argentina",Argentina,13670.54,Government operations inventory,2014.0
+118,118.0,"Municipality of Rosario, Argentina",Argentina,3687016.0,Community inventories,2014.0
+119,119.0,"Municipality of Río Cuarto, Argentina",Argentina,1060073.656,Community inventories,2014.0
+120,120.0,"Municipality of Río Cuarto, Argentina",Argentina,120740.72,Government operations inventory,2014.0
+121,121.0,"Municipality of Salliqueló, Argentina",Argentina,204829.0821,Community inventories,2014.0
+122,122.0,"Municipality of Salliqueló, Argentina",Argentina,2137.34,Government operations inventory,2014.0
+123,123.0,"Municipality of Salta, Argentina",Argentina,1865433.083,Community inventories,2014.0
+124,124.0,"Municipality of Salta, Argentina",Argentina,321117.66,Government operations inventory,2014.0
+125,125.0,"Municipality of San Antonio de Areco, Argentina",Argentina,185909.5512,Community inventories,2014.0
+126,126.0,"Municipality of San Antonio de Areco, Argentina",Argentina,4497.52,Government operations inventory,2014.0
+127,127.0,"Municipality of San Carlos Sud, Argentina",Argentina,25197.9353,Community inventories,2014.0
+128,128.0,"Municipality of San Carlos Sud, Argentina",Argentina,1560.88,Government operations inventory,2014.0
+129,129.0,"Municipality of San Fernando del Valle de Catamarca, Argentina",Argentina,505710.7089,Community inventories,2014.0
+130,130.0,"Municipality of San Fernando del Valle de Catamarca, Argentina",Argentina,97904.23,Government operations inventory,2014.0
+131,131.0,"Municipality of San Isidro, Buenos Aires, Argentina",Argentina,1379493.0,Community inventories,2014.0
+132,132.0,"Municipality of San Isidro, Buenos Aires, Argentina",Argentina,329309.65,Government operations inventory,2014.0
+133,133.0,"Municipality of San Martín de los Andes, Argentina",Argentina,248601.3483,Community inventories,2014.0
+134,134.0,"Municipality of San Martín de los Andes, Argentina",Argentina,46712.78,Government operations inventory,2014.0
+135,135.0,"Municipality of San Miguel, Argentina",Argentina,781482.5299,Community inventories,2014.0
+136,136.0,"Municipality of San Miguel, Argentina",Argentina,225858.68,Government operations inventory,2014.0
+137,137.0,"Municipality of Santa Fe de la Vera Cruz, Argentina",Argentina,1004966.517,Community inventories,2014.0
+138,138.0,"Municipality of Santa Fe de la Vera Cruz, Argentina",Argentina,109031.31,Government operations inventory,2014.0
+139,139.0,"Municipality of Soldini, Argentina",Argentina,12334.18256,Community inventories,2014.0
+140,140.0,"Municipality of Soldini, Argentina",Argentina,1313.91,Government operations inventory,2014.0
+141,141.0,"Municipality of Tafi Viejo, Argentina",Argentina,148764.0786,Community inventories,2014.0
+142,142.0,"Municipality of Tafi Viejo, Argentina",Argentina,34538.58,Government operations inventory,2014.0
+143,143.0,"Municipality of Totoras, Argentina",Argentina,93250.0,Community inventories,2014.0
+144,144.0,"Municipality of Totoras, Argentina",Argentina,3937.23,Government operations inventory,2014.0
+145,145.0,"Municipality of Uranga, Argentina",Argentina,10060.61238,Community inventories,2014.0
+146,146.0,"Municipality of Uranga, Argentina",Argentina,571.61,Government operations inventory,2014.0
+147,147.0,"Municipality of Venado Tuerto, Argentina",Argentina,431340.4858,Community inventories,2014.0
+148,148.0,"Municipality of Venado Tuerto, Argentina",Argentina,45483.63000000001,Government operations inventory,2014.0
+149,149.0,"Municipality of Villa General Belgrano, Argentina",Argentina,62901.08048,Community inventories,2014.0
+150,150.0,"Municipality of Villa General Belgrano, Argentina",Argentina,6791.51,Government operations inventory,2014.0
+151,151.0,"Municipality of Villa Pehuenia, Argentina",Argentina,28230.0,Community inventories,2014.0
+152,152.0,"Adelaide City Council, Australia",Australia,962556.0,Community inventories,2012.0
+153,153.0,"Adelaide City Council, Australia",Australia,563653.0,Community inventories,2013.0
+154,154.0,"Australian Capital Territory Government, Australia",Australia,40633.11,Government operations inventory,2015.0
+155,155.0,"Byron Shire Council, Australia",Australia,358302.0,Community inventories,2015.0
+156,156.0,"Byron Shire Council, Australia",Australia,0.0,Government operations inventory,2015.0
+157,157.0,"City of Joondalup, Australia",Australia,0.0,Government operations inventory,2013.0
+158,158.0,"City of Mandurah, Australia",Australia,780391.13,Community inventories,2009.0
+159,159.0,"City of Mandurah, Australia",Australia,3094.0,Government operations inventory,2009.0
+160,160.0,"City of Melville, Australia",Australia,1181090.025,Community inventories,2015.0
+161,161.0,"City of Sydney, Australia",Australia,5766936.0,Community inventories,2011.0
+162,162.0,"City of Sydney, Australia",Australia,8369.0,Government operations inventory,2013.0
+163,163.0,"City of Yarra, Australia",Australia,136105505.9,Community inventories,2017.0
+164,164.0,"City of Yarra, Australia",Australia,39.0,Government operations inventory,2017.0
+165,165.0,"Mornington Peninsula Shire Council, Australia",Australia,0.0,Government operations inventory,2013.0
+166,166.0,"Penrith City Council, Australia",Australia,2240177.485,Community inventories,2015.0
+167,167.0,"Port Phillip City Council, Australia",Australia,911.0,Government operations inventory,2014.0
+168,168.0,"Tweed Shire Council, Australia",Australia,879948.0,Community inventories,2016.0
+169,169.0,"City of Graz, Austria",Austria,1218740.0,Community inventories,1994.0
+170,170.0,"Brussels Capital Region, Belgium",Belgium,4057300.0,Community inventories,1990.0
+171,171.0,"Brussels Capital Region, Belgium",Belgium,4222500.0,Community inventories,2000.0
+172,172.0,"Brussels Capital Region, Belgium",Belgium,4260500.0,Community inventories,2005.0
+173,173.0,"Brussels Capital Region, Belgium",Belgium,4119100.0,Community inventories,2006.0
+174,174.0,"Brussels Capital Region, Belgium",Belgium,3763400.0,Community inventories,2007.0
+175,175.0,"Brussels Capital Region, Belgium",Belgium,4008000.0,Community inventories,2008.0
+176,176.0,"Brussels Capital Region, Belgium",Belgium,3803900.0,Community inventories,2009.0
+177,177.0,"Brussels Capital Region, Belgium",Belgium,4055800.0,Community inventories,2010.0
+178,178.0,"Brussels Capital Region, Belgium",Belgium,3293000.0,Community inventories,2011.0
+179,179.0,"City of Antwerp, Belgium",Belgium,3567239.0,Community inventories,2010.0
+180,180.0,"City of Antwerp, Belgium",Belgium,9318.0,Government operations inventory,2010.0
+181,181.0,"City of Ghent, Belgium",Belgium,11020048.0,Community inventories,2007.0
+182,182.0,"City of Ghent, Belgium",Belgium,9106743.0,Community inventories,2009.0
+183,183.0,"City of Ghent, Belgium",Belgium,1600.0,Government operations inventory,2007.0
+184,184.0,"City of Ghent, Belgium",Belgium,2173.0,Government operations inventory,2009.0
+185,185.0,"City of Mechelen, Belgium",Belgium,0.0,Government operations inventory,2012.0
+186,186.0,"City of Mouscron, Belgium",Belgium,191596.0,Community inventories,2012.0
+187,187.0,"City of Mouscron, Belgium",Belgium,38846684.0,Government operations inventory,2012.0
+188,188.0,"Municipality of Belo Horizonte, Brazil",Brazil,2978584.0,Community inventories,2007.0
+189,189.0,"Municipality of Belo Horizonte, Brazil",Brazil,3253559.0,Community inventories,2010.0
+190,190.0,"Municipality of Belo Horizonte, Brazil",Brazil,8793150.0,Community inventories,2013.0
+191,191.0,"Municipality of Belo Horizonte, Brazil",Brazil,4578864.0,Community inventories,2015.0
+192,192.0,"Municipality of Belo Horizonte, Brazil",Brazil,189756.0,Government operations inventory,2007.0
+193,193.0,"Municipality of Belo Horizonte, Brazil",Brazil,10759.77,Government operations inventory,2013.0
+194,194.0,"Municipality of Betim, Brazil",Brazil,3702749.0,Community inventories,2012.0
+195,195.0,"Municipality of Betim, Brazil",Brazil,1716901.0,Community inventories,2013.0
+196,196.0,"Municipality of Curitiba, Brazil",Brazil,4132817.0,Community inventories,2012.0
+197,197.0,"Municipality of Duque de Caxias, Brazil",Brazil,1454654.0,Community inventories,2014.0
+198,198.0,"Municipality of Fortaleza, Brazil",Brazil,3827165.0,Community inventories,2012.0
+199,199.0,"Municipality of Fortaleza, Brazil",Brazil,1187898874.0,Community inventories,2014.0
+200,200.0,"Municipality of Fortaleza, Brazil",Brazil,5595.0,Government operations inventory,2012.0
+201,201.0,"Municipality of Fortaleza, Brazil",Brazil,131977885.0,Government operations inventory,2014.0
+202,202.0,"Municipality of Londrina, Brazil",Brazil,0.0,Government operations inventory,2013.0
+203,203.0,"Municipality of Porto Alegre, Brazil",Brazil,0.0,Government operations inventory,2013.0
+204,204.0,"Municipality of Porto Alegre, Brazil",Brazil,2032605.0,Government operations inventory,2013.0
+205,205.0,"Municipality of Recife, Brazil",Brazil,2207153.13,Community inventories,2012.0
+206,206.0,"Municipality of Recife, Brazil",Brazil,2923354.0,Community inventories,2015.0
+207,207.0,"Municipality of Recife, Brazil",Brazil,2923381.0,Community inventories,2015.0
+208,208.0,"Municipality of Recife, Brazil",Brazil,0.0,Government operations inventory,2012.0
+209,209.0,"Municipality of Recife, Brazil",Brazil,0.0,Government operations inventory,2015.0
+210,210.0,"Municipality of Rio de Janeiro, Brazil",Brazil,10718100.40987,Community inventories,2005.0
+211,211.0,"Municipality of Rio de Janeiro, Brazil",Brazil,11127970.0,Community inventories,2005.0
+212,212.0,"Municipality of Rio de Janeiro, Brazil",Brazil,44343362.0,Community inventories,2012.0
+213,213.0,"Municipality of Rio de Janeiro, Brazil",Brazil,0.0,Government operations inventory,2012.0
+214,214.0,"Municipality of Rio de Janeiro, Brazil",Brazil,554.6600000000002,Government operations inventory,2012.0
+215,215.0,"Municipality of Sorocaba, Brazil",Brazil,9178321.473,Community inventories,2012.0
+216,216.0,"Municipality of Sorocaba, Brazil",Brazil,1262061.0,Community inventories,2014.0
+217,217.0,"Municipality of Sorocaba, Brazil",Brazil,1231087.0,Community inventories,2015.0
+218,218.0,"Municipality of Sorocaba, Brazil",Brazil,0.0,Government operations inventory,2012.0
+219,219.0,"Municipality of Sorocaba, Brazil",Brazil,809485.0,Government operations inventory,2012.0
+220,220.0,"Municipality of São Paulo, Brazil",Brazil,14848722.0,Community inventories,2003.0
+221,221.0,"Municipality of São Paulo, Brazil",Brazil,15880130.359,Community inventories,2011.0
+222,222.0,"Municipality of São Paulo, Brazil",Brazil,554.6600000000002,Government operations inventory,2003.0
+223,223.0,"City of Calgary, AB, Canada",Canada,16508131.0,Community inventories,2009.0
+224,224.0,"City of Calgary, AB, Canada",Canada,110917.0,Government operations inventory,2009.0
+225,225.0,"City of Colwood, Canada",Canada,65518.0,Community inventories,2007.0
+226,226.0,"City of Colwood, Canada",Canada,298.0,Government operations inventory,2007.0
+227,227.0,"City of Colwood, Canada",Canada,291.0,Government operations inventory,2008.0
+228,228.0,"City of Colwood, Canada",Canada,233.0,Government operations inventory,2009.0
+229,229.0,"City of Colwood, Canada",Canada,227.0,Government operations inventory,2010.0
+230,230.0,"City of Colwood, Canada",Canada,231.0,Government operations inventory,2011.0
+231,231.0,"City of Edmonton, AB, Canada",Canada,15201661.0,Community inventories,2008.0
+232,232.0,"City of Edmonton, AB, Canada",Canada,15891273.0,Community inventories,2012.0
+233,233.0,"City of Edmonton, AB, Canada",Canada,16712028.0,Community inventories,2014.0
+234,234.0,"City of Edmonton, AB, Canada",Canada,16665736.0,Community inventories,2016.0
+235,235.0,"City of Edmonton, AB, Canada",Canada,143803.0,Government operations inventory,2008.0
+236,236.0,"City of Edmonton, AB, Canada",Canada,156409.0,Government operations inventory,2012.0
+237,237.0,"City of Edmonton, AB, Canada",Canada,162767.0,Government operations inventory,2013.0
+238,238.0,"City of Edmonton, AB, Canada",Canada,168317.0,Government operations inventory,2014.0
+239,239.0,"City of Edmonton, AB, Canada",Canada,42179.0,Government operations inventory,2016.0
+240,240.0,"City of Fredericton, NB, Canada",Canada,0.0,Government operations inventory,2000.0
+241,241.0,"City of Fredericton, NB, Canada",Canada,0.0,Government operations inventory,2004.0
+242,242.0,"City of Fredericton, NB, Canada",Canada,0.0,Government operations inventory,2008.0
+243,243.0,"City of Greater Sudbury, ON, Canada",Canada,2297000.0,Community inventories,1990.0
+244,244.0,"City of Greater Sudbury, ON, Canada",Canada,2172000.0,Community inventories,1998.0
+245,245.0,"City of Maple Ridge, Canada",Canada,325181.0,Community inventories,2007.0
+246,246.0,"City of Maple Ridge, Canada",Canada,337192.0,Community inventories,2010.0
+247,247.0,"City of Maple Ridge, Canada",Canada,969.0,Government operations inventory,2007.0
+248,248.0,"City of Maple Ridge, Canada",Canada,1008.0,Government operations inventory,2008.0
+249,249.0,"City of Maple Ridge, Canada",Canada,952.0,Government operations inventory,2009.0
+250,250.0,"City of Maple Ridge, Canada",Canada,895.0,Government operations inventory,2010.0
+251,251.0,"City of Maple Ridge, Canada",Canada,960.0,Government operations inventory,2011.0
+252,252.0,"City of Maple Ridge, Canada",Canada,1040.0,Government operations inventory,2012.0
+253,253.0,"City of Maple Ridge, Canada",Canada,1301.0,Government operations inventory,2013.0
+254,254.0,"City of Maple Ridge, Canada",Canada,1313.0,Government operations inventory,2014.0
+255,255.0,"City of Montréal, QC, Canada",Canada,13235586.0,Community inventories,2009.0
+256,256.0,"City of Montréal, QC, Canada",Canada,98785.0,Government operations inventory,2010.0
+257,257.0,"City of North Vancouver, Canada",Canada,220415.0,Community inventories,2005.0
+258,258.0,"City of North Vancouver, Canada",Canada,222146.0,Community inventories,2006.0
+259,259.0,"City of North Vancouver, Canada",Canada,224211.0,Community inventories,2007.0
+260,260.0,"City of North Vancouver, Canada",Canada,225763.0,Community inventories,2007.0
+261,261.0,"City of North Vancouver, Canada",Canada,223475.0,Community inventories,2008.0
+262,262.0,"City of North Vancouver, Canada",Canada,217523.0,Community inventories,2009.0
+263,263.0,"City of North Vancouver, Canada",Canada,207433.0,Community inventories,2010.0
+264,264.0,"City of North Vancouver, Canada",Canada,209721.0,Community inventories,2015.0
+265,265.0,"City of North Vancouver, Canada",Canada,958.0,Government operations inventory,2005.0
+266,266.0,"City of North Vancouver, Canada",Canada,875.0,Government operations inventory,2006.0
+267,267.0,"City of North Vancouver, Canada",Canada,852.0,Government operations inventory,2007.0
+268,268.0,"City of North Vancouver, Canada",Canada,913.0,Government operations inventory,2008.0
+269,269.0,"City of North Vancouver, Canada",Canada,888.0,Government operations inventory,2009.0
+270,270.0,"City of North Vancouver, Canada",Canada,853.0,Government operations inventory,2010.0
+271,271.0,"City of North Vancouver, Canada",Canada,829.0,Government operations inventory,2011.0
+272,272.0,"City of North Vancouver, Canada",Canada,821.0,Government operations inventory,2012.0
+273,273.0,"City of North Vancouver, Canada",Canada,858.0,Government operations inventory,2013.0
+274,274.0,"City of North Vancouver, Canada",Canada,197.0,Government operations inventory,2015.0
+275,275.0,"City of Richmond, BC, Canada",Canada,1155438.0,Community inventories,2007.0
+276,276.0,"City of Richmond, BC, Canada",Canada,4356.0,Government operations inventory,1995.0
+277,277.0,"City of Richmond, BC, Canada",Canada,3885.0,Government operations inventory,1999.0
+278,278.0,"City of Richmond, BC, Canada",Canada,4342.0,Government operations inventory,2007.0
+279,279.0,"City of Surrey, Canada",Canada,1991089.0,Community inventories,2007.0
+280,280.0,"City of Surrey, Canada",Canada,2117723.0,Community inventories,2010.0
+281,281.0,"City of Surrey, Canada",Canada,2570120.0,Community inventories,2014.0
+282,282.0,"City of Surrey, Canada",Canada,9751.0,Government operations inventory,2009.0
+283,283.0,"City of Surrey, Canada",Canada,9809.0,Government operations inventory,2010.0
+284,284.0,"City of Surrey, Canada",Canada,10538.0,Government operations inventory,2011.0
+285,285.0,"City of Surrey, Canada",Canada,9815.0,Government operations inventory,2012.0
+286,286.0,"City of Surrey, Canada",Canada,7897.0,Government operations inventory,2013.0
+287,287.0,"City of Thunder Bay, ON, Canada",Canada,1050992.456,Community inventories,2016.0
+288,288.0,"City of Vancouver, BC, Canada",Canada,2842740.0,Community inventories,2008.0
+289,289.0,"City of Vancouver, BC, Canada",Canada,2657000.0,Community inventories,2012.0
+290,290.0,"City of Vancouver, BC, Canada",Canada,2585000.0,Community inventories,2013.0
+291,291.0,"City of Vancouver, BC, Canada",Canada,2542110.0,Community inventories,2014.0
+292,292.0,"City of Vancouver, BC, Canada",Canada,4960223.0,Community inventories,2015.0
+293,293.0,"City of Vancouver, BC, Canada",Canada,472950.0,Government operations inventory,2008.0
+294,294.0,"City of Vancouver, BC, Canada",Canada,411808.0,Government operations inventory,2012.0
+295,295.0,"City of Vancouver, BC, Canada",Canada,353651.0,Government operations inventory,2013.0
+296,296.0,"City of Vancouver, BC, Canada",Canada,352208.0,Government operations inventory,2014.0
+297,297.0,"City of Vancouver, BC, Canada",Canada,209707.0,Government operations inventory,2015.0
+298,298.0,"City of Yellowknife, Canada",Canada,1038.0,Government operations inventory,2004.0
+299,299.0,"City of Yellowknife, Canada",Canada,860.0,Government operations inventory,2009.0
+300,300.0,"District of Delta, BC, Canada",Canada,861535.0,Community inventories,2007.0
+301,301.0,"District of Delta, BC, Canada",Canada,846216.0,Community inventories,2010.0
+302,302.0,"District of Delta, BC, Canada",Canada,2283.0,Government operations inventory,2007.0
+303,303.0,"District of Delta, BC, Canada",Canada,2329.0,Government operations inventory,2008.0
+304,304.0,"District of Delta, BC, Canada",Canada,2154.0,Government operations inventory,2009.0
+305,305.0,"District of Delta, BC, Canada",Canada,2681.0,Government operations inventory,2012.0
+306,306.0,"District of Delta, BC, Canada",Canada,2587.0,Government operations inventory,2013.0
+307,307.0,"District of Delta, BC, Canada",Canada,2219.0,Government operations inventory,2015.0
+308,308.0,"District of North Cowichan, Canada",Canada,289801.0,Community inventories,2007.0
+309,309.0,"District of North Cowichan, Canada",Canada,723.0,Government operations inventory,2011.0
+310,310.0,"District of Saanich, BC, Canada",Canada,440832.0,Community inventories,2007.0
+311,311.0,"District of Saanich, BC, Canada",Canada,426468.0,Community inventories,2010.0
+312,312.0,"District of Saanich, BC, Canada",Canada,2879.0,Government operations inventory,2007.0
+313,313.0,"District of Saanich, BC, Canada",Canada,2642.0,Government operations inventory,2008.0
+314,314.0,"District of Saanich, BC, Canada",Canada,2397.0,Government operations inventory,2009.0
+315,315.0,"District of Saanich, BC, Canada",Canada,2367.0,Government operations inventory,2010.0
+316,316.0,"District of Saanich, BC, Canada",Canada,2234.0,Government operations inventory,2011.0
+317,317.0,"District of Saanich, BC, Canada",Canada,2230.0,Government operations inventory,2012.0
+318,318.0,"District of Saanich, BC, Canada",Canada,2169.0,Government operations inventory,2013.0
+319,319.0,"District of Saanich, BC, Canada",Canada,2487.0,Government operations inventory,2014.0
+320,320.0,"District of West Vancouver, Canada",Canada,130450.0,Government operations inventory,2007.0
+321,321.0,"District of West Vancouver, Canada",Canada,1076.0,Government operations inventory,2008.0
+322,322.0,"District of West Vancouver, Canada",Canada,1002.0,Government operations inventory,2009.0
+323,323.0,"Metro Vancouver, BC, Canada",Canada,278204.0,Government operations inventory,2008.0
+324,324.0,"Metro Vancouver, BC, Canada",Canada,238460.0,Government operations inventory,2009.0
+325,325.0,"Metro Vancouver, BC, Canada",Canada,244580.0,Government operations inventory,2010.0
+326,326.0,"Regional Municipality of Waterloo, ON, Canada",Canada,0.0,Government operations inventory,2009.0
+327,327.0,"Town of Ajax, Canada",Canada,521250.0,Community inventories,2005.0
+328,328.0,"Town of Ajax, Canada",Canada,1497.0,Government operations inventory,2005.0
+329,329.0,"Town of Caledon, Canada",Canada,312300.0,Community inventories,2006.0
+330,330.0,"Town of Halton Hills, ON, Canada",Canada,1351580.0,Community inventories,2011.0
+331,331.0,"Town of Halton Hills, ON, Canada",Canada,0.0,Government operations inventory,2011.0
+332,332.0,"Town of Oakville, ON, Canada",Canada,885392.0,Community inventories,2014.0
+333,333.0,"Municipality of Valdivia, Chile",Chile,1033270.0,Community inventories,2012.0
+334,334.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,63768100.0,Community inventories,2010.0
+335,335.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,61897600.0,Community inventories,2011.0
+336,336.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,63251100.0,Community inventories,2012.0
+337,337.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,56114754.0,Community inventories,2013.0
+338,338.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,58701796.0,Community inventories,2013.0
+339,339.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,60788365.0,Community inventories,2015.0
+340,340.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,29200.0,Government operations inventory,2010.0
+341,341.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,17711.0,Government operations inventory,2011.0
+342,342.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,17670.0,Government operations inventory,2012.0
+343,343.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,401433.22,Government operations inventory,2013.0
+344,344.0,"Kaohsiung City Government, Chinese Taipei",Chinese Taipei,419799.0,Government operations inventory,2013.0
+345,345.0,"Kinmen County Government, Chinese Taipei",Chinese Taipei,450010.28,Community inventories,2016.0
+346,346.0,"New Taipei City Government, Chinese Taipei",Chinese Taipei,17476961.0,Community inventories,2012.0
+347,347.0,"New Taipei City Government, Chinese Taipei",Chinese Taipei,18326229.0,Community inventories,2013.0
+348,348.0,"New Taipei City Government, Chinese Taipei",Chinese Taipei,18927334.0,Community inventories,2014.0
+349,349.0,"New Taipei City Government, Chinese Taipei",Chinese Taipei,3705475.9,Government operations inventory,2001.0
+350,350.0,"Pingtung County Government, Chinese Taipei",Chinese Taipei,4613158.0,Community inventories,2013.0
+351,351.0,"Pingtung County Government, Chinese Taipei",Chinese Taipei,4870982.088,Community inventories,2015.0
+352,352.0,"Pingtung County Government, Chinese Taipei",Chinese Taipei,121006.32,Government operations inventory,2013.0
+353,353.0,"Pingtung County Government, Chinese Taipei",Chinese Taipei,202501.0,Government operations inventory,2013.0
+354,354.0,"Pingtung County Government, Chinese Taipei",Chinese Taipei,121006.32,Government operations inventory,2015.0
+355,355.0,"Taichung City Government, Chinese Taipei",Chinese Taipei,29669887.0,Community inventories,2011.0
+356,356.0,"Taichung City Government, Chinese Taipei",Chinese Taipei,25751974.0,Community inventories,2012.0
+357,357.0,"Taichung City Government, Chinese Taipei",Chinese Taipei,35612890.0,Community inventories,2013.0
+358,358.0,"Tainan City Government, Chinese Taipei",Chinese Taipei,28583310.0,Community inventories,2010.0
+359,359.0,"Tainan City Government, Chinese Taipei",Chinese Taipei,28454832.0,Community inventories,2011.0
+360,360.0,"Tainan City Government, Chinese Taipei",Chinese Taipei,27643923.0,Community inventories,2012.0
+361,361.0,"Tainan City Government, Chinese Taipei",Chinese Taipei,28487369.0,Community inventories,2013.0
+362,362.0,"Tainan City Government, Chinese Taipei",Chinese Taipei,80871.0,Government operations inventory,2013.0
+363,363.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,15053471.0,Community inventories,2012.0
+364,364.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,14840650.0,Community inventories,2013.0
+365,365.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,15028377.0,Community inventories,2014.0
+366,366.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,12813817.0,Community inventories,2015.0
+367,367.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,13110785.09,Community inventories,2017.0
+368,368.0,"Taipei City Government, Chinese Taipei",Chinese Taipei,5465300.0,Government operations inventory,2009.0
+369,369.0,"Taoyuan City Government, Chinese Taipei",Chinese Taipei,3075235369.0,Community inventories,2014.0
+370,370.0,"Taoyuan City Government, Chinese Taipei",Chinese Taipei,37068805.5,Community inventories,2015.0
+371,371.0,"Taoyuan City Government, Chinese Taipei",Chinese Taipei,8265.48,Government operations inventory,2014.0
+372,372.0,"Taoyuan City Government, Chinese Taipei",Chinese Taipei,11029.61,Government operations inventory,2015.0
+373,373.0,"Capital District of Bogotá, Colombia",Colombia,16083753.0,Community inventories,2008.0
+374,374.0,"Capital District of Bogotá, Colombia",Colombia,13621937.0,Community inventories,2012.0
+375,375.0,"City of San Jerónimo de Montería, Colombia",Colombia,1236279.0,Community inventories,2009.0
+376,376.0,"City of San Jerónimo de Montería, Colombia",Colombia,917624.0,Community inventories,2012.0
+377,377.0,"City of San Jerónimo de Montería, Colombia",Colombia,1166.0,Community inventories,2014.0
+378,378.0,"City of San Jerónimo de Montería, Colombia",Colombia,0.0,Government operations inventory,2009.0
+379,379.0,"City of San Jerónimo de Montería, Colombia",Colombia,0.0,Government operations inventory,2012.0
+380,380.0,"Municipality of Barranquilla, Colombia",Colombia,3023515.0,Community inventories,2013.0
+381,381.0,"Municipality of Cartago, Colombia",Colombia,0.0,Government operations inventory,2016.0
+382,382.0,"Municipality of Ibagué, Colombia",Colombia,923990.0,Community inventories,2014.0
+383,383.0,"Municipality of Medellín, Colombia",Colombia,0.0,Government operations inventory,2013.0
+384,384.0,"Municipality of Santiago de Cali, Colombia",Colombia,5087487.0,Community inventories,2011.0
+385,385.0,"Municipality of Santiago de Cali, Colombia",Colombia,3433662.0,Government operations inventory,2012.0
+386,386.0,"Municipality of Valledupar, Colombia",Colombia,1114495.0,Community inventories,2013.0
+387,387.0,"Municipality of San José, Costa Rica",Costa Rica,19734.0,Government operations inventory,2011.0
+388,388.0,"City of Copenhagen, Denmark",Denmark,2656796.0,Community inventories,2009.0
+389,389.0,"City of Copenhagen, Denmark",Denmark,2510035.0,Community inventories,2010.0
+390,390.0,"City of Copenhagen, Denmark",Denmark,4000.0,Government operations inventory,2011.0
+391,391.0,"Municipality of Santa Cruz, Ecuador",Ecuador,20.0,Government operations inventory,2016.0
+392,392.0,"Municipality of the Metropolitan District of Quito, Ecuador",Ecuador,32383390.0,Community inventories,2011.0
+393,393.0,"Municipality of the Metropolitan District of Quito, Ecuador",Ecuador,6173164.0,Community inventories,2015.0
+394,394.0,"Municipality of the Metropolitan District of Quito, Ecuador",Ecuador,0.0,Government operations inventory,2011.0
+395,395.0,"Municipality of the Metropolitan District of Quito, Ecuador",Ecuador,0.0,Government operations inventory,2015.0
+396,396.0,"City of Espoo, Finland",Finland,1384407.0,Community inventories,1990.0
+397,397.0,"City of Espoo, Finland",Finland,1801327.0,Community inventories,2009.0
+398,398.0,"City of Espoo, Finland",Finland,0.0,Government operations inventory,1990.0
+399,399.0,"City of Espoo, Finland",Finland,1829.0,Government operations inventory,2009.0
+400,400.0,"City of Espoo, Finland",Finland,0.0,Government operations inventory,2013.0
+401,401.0,"City of Helsinki, Finland",Finland,2026092.0,Community inventories,2014.0
+402,402.0,"City of Helsinki, Finland",Finland,0.0,Government operations inventory,2014.0
+403,403.0,"City of Lahti, Finland",Finland,764153.0,Community inventories,2012.0
+404,404.0,"City of Lahti, Finland",Finland,580.0,Government operations inventory,2012.0
+405,405.0,"City of Lappeenranta, Finland",Finland,7.0,Government operations inventory,2014.0
+406,406.0,"City of Tampere, Finland",Finland,1132400.0,Community inventories,2012.0
+407,407.0,"City of Tampere, Finland",Finland,1132700.0,Community inventories,2012.0
+408,408.0,"Bordeaux Metropolis, France",France,3662194.0,Community inventories,2007.0
+409,409.0,"City of Besançon, France",France,533678.0,Community inventories,2008.0
+410,410.0,"City of Besançon, France",France,1681.0,Government operations inventory,2011.0
+411,411.0,"City of Grenoble, France",France,0.0,Government operations inventory,2013.0
+412,412.0,"City of Paris, France",France,12726800.0,Community inventories,2004.0
+413,413.0,"City of Paris, France",France,7960493.0,Community inventories,2014.0
+414,414.0,"City of Paris, France",France,56200.0,Government operations inventory,2004.0
+415,415.0,"City of Paris, France",France,57100.0,Government operations inventory,2009.0
+416,416.0,"City of Paris, France",France,61458.0,Government operations inventory,2014.0
+417,417.0,"City of Paris, France",France,125500.0,Government operations inventory,2014.0
+418,418.0,"Lille European Metropolis, France",France,8295985.0,Community inventories,2007.0
+419,419.0,"Lille European Metropolis, France",France,0.0,Government operations inventory,
+420,420.0,"Lyon Metropolis, France",France,7191700.0,Community inventories,2010.0
+421,421.0,"Lyon Metropolis, France",France,240223.0,Government operations inventory,2009.0
+422,422.0,"Toulouse Metropolis, France",France,2534574.0,Community inventories,2006.0
+423,423.0,"Toulouse Metropolis, France",France,68200.0,Government operations inventory,2006.0
+424,424.0,"Urban Community of Nantes Métropole, France",France,2076210.0,Community inventories,2003.0
+425,425.0,"Urban Community of Nantes Métropole, France",France,141184.0,Government operations inventory,2012.0
+426,426.0,"City of Hannover, Germany",Germany,9585435.61612556,Community inventories,2011.0
+427,427.0,"City of Hannover, Germany",Germany,0.0,Government operations inventory,2011.0
+428,428.0,"Federal City of Bonn, Germany",Germany,2052382.0,Community inventories,2010.0
+429,429.0,"Federal City of Bonn, Germany",Germany,4066.0,Government operations inventory,2010.0
+430,430.0,"Municipality of Pachalum, Guatemala",Guatemala,5726.0,Community inventories,2016.0
+431,431.0,"Ahmadabad Municipal Corporation, India",India,13855311.0,Community inventories,2008.0
+432,432.0,"Ahmadabad Municipal Corporation, India",India,66990.0,Government operations inventory,2008.0
+433,433.0,"Bengaluru Municipal Corporation, India",India,5568706.7,Community inventories,2008.0
+434,434.0,"Bhubaneswar Municipal Corporation, India",India,25469.1,Community inventories,2005.0
+435,435.0,"Bhubaneswar Municipal Corporation, India",India,182682.99,Community inventories,2005.0
+436,436.0,"Bhubaneswar Municipal Corporation, India",India,206539.62,Community inventories,2005.0
+437,437.0,"Bhubaneswar Municipal Corporation, India",India,449533.32,Community inventories,2005.0
+438,438.0,"Bhubaneswar Municipal Corporation, India",India,528002.28,Community inventories,2005.0
+439,439.0,"Cochin Municipal Corporation, India",India,269372.0,Community inventories,2008.0
+440,440.0,"Cochin Municipal Corporation, India",India,2079.0,Government operations inventory,2008.0
+441,441.0,"Coimbatore City Municipal Corporation, India",India,4623905.0,Community inventories,2012.0
+442,442.0,"Coimbatore City Municipal Corporation, India",India,4619085.0,Community inventories,2013.0
+443,443.0,"Coimbatore City Municipal Corporation, India",India,4574155.0,Community inventories,2014.0
+444,444.0,"Coimbatore City Municipal Corporation, India",India,5316666.0,Community inventories,2015.0
+445,445.0,"Coimbatore City Municipal Corporation, India",India,3522.0,Government operations inventory,2008.0
+446,446.0,"Coimbatore City Municipal Corporation, India",India,6394.0,Government operations inventory,2010.0
+447,447.0,"Coimbatore City Municipal Corporation, India",India,19820063.0,Government operations inventory,2010.0
+448,448.0,"Coimbatore City Municipal Corporation, India",India,0.0,Government operations inventory,2012.0
+449,449.0,"Coimbatore City Municipal Corporation, India",India,0.0,Government operations inventory,2013.0
+450,450.0,"Coimbatore City Municipal Corporation, India",India,0.0,Government operations inventory,2014.0
+451,451.0,"Coimbatore City Municipal Corporation, India",India,433078.79,Government operations inventory,2015.0
+452,452.0,"Corporation of the City of Panaji, India",India,154914.0,Community inventories,2010.0
+453,453.0,"Corporation of the City of Panaji, India",India,140366.0,Community inventories,2011.0
+454,454.0,"Corporation of the City of Panaji, India",India,151227.0,Community inventories,2012.0
+455,455.0,"Corporation of the City of Panaji, India",India,147168.0,Community inventories,2013.0
+456,456.0,"Corporation of the City of Panaji, India",India,0.0,Government operations inventory,2013.0
+457,457.0,"Dehradun Municipal Corporation, India",India,1316744.0,Community inventories,2008.0
+458,458.0,"Dehradun Municipal Corporation, India",India,376.0,Government operations inventory,2008.0
+459,459.0,"Gandhinagar Municipal Corporation, India",India,5424749.0,Community inventories,2011.0
+460,460.0,"Greater Hyderabad Municipal Corporation, India",India,2333366.0,Community inventories,2002.0
+461,461.0,"Greater Hyderabad Municipal Corporation, India",India,238510.0,Community inventories,2009.0
+462,462.0,"Greater Hyderabad Municipal Corporation, India",India,2196031.0,Community inventories,2010.0
+463,463.0,"Greater Hyderabad Municipal Corporation, India",India,0.0,Government operations inventory,2002.0
+464,464.0,"Greater Hyderabad Municipal Corporation, India",India,153151.0,Government operations inventory,2010.0
+465,465.0,"Greater Hyderabad Municipal Corporation, India",India,181335.0,Government operations inventory,2011.0
+466,466.0,"Gwalior Municipal Corporation, India",India,591963.0,Community inventories,2008.0
+467,467.0,"Gwalior Municipal Corporation, India",India,13787087.0,Community inventories,2009.0
+468,468.0,"Gwalior Municipal Corporation, India",India,1115381.0,Community inventories,2011.0
+469,469.0,"Gwalior Municipal Corporation, India",India,1138632.0,Community inventories,2012.0
+470,470.0,"Gwalior Municipal Corporation, India",India,1195239.0,Community inventories,2013.0
+471,471.0,"Gwalior Municipal Corporation, India",India,5752.0,Government operations inventory,2008.0
+472,472.0,"Gwalior Municipal Corporation, India",India,9153.0,Government operations inventory,2009.0
+473,473.0,"Gwalior Municipal Corporation, India",India,4575.0,Government operations inventory,2011.0
+474,474.0,"Gwalior Municipal Corporation, India",India,7996.0,Government operations inventory,2012.0
+475,475.0,"Gwalior Municipal Corporation, India",India,4719.0,Government operations inventory,2013.0
+476,476.0,"Indore Municipal Corporation, India",India,1145839.0,Community inventories,2007.0
+477,477.0,"Jaipur Municipal Corporation, India",India,7610894.0,Community inventories,2010.0
+478,478.0,"Jaipur Municipal Corporation, India",India,3034.0,Government operations inventory,2010.0
+479,479.0,"Kochi Municipal Corporation, India",India,640380.75,Community inventories,2017.0
+480,480.0,"Kota Municipal Corporation, India",India,1099038.0,Community inventories,2010.0
+481,481.0,"Kota Municipal Corporation, India",India,0.0,Government operations inventory,2010.0
+482,482.0,"Nagpur Municipal Corporation, India",India,1534552.31,Community inventories,2007.0
+483,483.0,"Nagpur Municipal Corporation, India",India,28796.9,Government operations inventory,2007.0
+484,484.0,"Nashik City Corporation, India",India,366575.0,Government operations inventory,2013.0
+485,485.0,"New Delhi Municipal Council, India",India,16326600.0,Community inventories,
+486,486.0,"Pimpri Chinchwad Municipal Corporation, India",India,2260731.0,Community inventories,2009.0
+487,487.0,"Pimpri Chinchwad Municipal Corporation, India",India,2761774.0,Community inventories,2010.0
+488,488.0,"Pimpri Chinchwad Municipal Corporation, India",India,2947669.0,Community inventories,2011.0
+489,489.0,"Pimpri Chinchwad Municipal Corporation, India",India,3185501.0,Community inventories,2012.0
+490,490.0,"Pimpri Chinchwad Municipal Corporation, India",India,2015.0,Government operations inventory,2010.0
+491,491.0,"Pimpri Chinchwad Municipal Corporation, India",India,2402.0,Government operations inventory,2011.0
+492,492.0,"Pimpri Chinchwad Municipal Corporation, India",India,1510.0,Government operations inventory,2012.0
+493,493.0,"Pune Municipal Corporation, India",India,6350326.0,Community inventories,2008.0
+494,494.0,"Pune Municipal Corporation, India",India,4661066.0,Community inventories,2011.0
+495,495.0,"Pune Municipal Corporation, India",India,4276.0,Government operations inventory,2008.0
+496,496.0,"Rajkot Municipal Corporation, India",India,882103.0,Community inventories,2007.0
+497,497.0,"Rajkot Municipal Corporation, India",India,1344676.0,Community inventories,2009.0
+498,498.0,"Rajkot Municipal Corporation, India",India,1514267.0,Community inventories,2010.0
+499,499.0,"Rajkot Municipal Corporation, India",India,1634367.0,Community inventories,2011.0
+500,500.0,"Rajkot Municipal Corporation, India",India,1704380.0,Community inventories,2012.0
+501,501.0,"Rajkot Municipal Corporation, India",India,2019912.0,Community inventories,2015.0
+502,502.0,"Rajkot Municipal Corporation, India",India,0.0,Government operations inventory,2007.0
+503,503.0,"Rajkot Municipal Corporation, India",India,0.0,Government operations inventory,2009.0
+504,504.0,"Rajkot Municipal Corporation, India",India,0.0,Government operations inventory,2010.0
+505,505.0,"Rajkot Municipal Corporation, India",India,1703.0,Government operations inventory,2011.0
+506,506.0,"Rajkot Municipal Corporation, India",India,6677.57,Government operations inventory,2012.0
+507,507.0,"Rajkot Municipal Corporation, India",India,7459.0,Government operations inventory,2015.0
+508,508.0,"Shimla Municipal Corporation, India",India,111294.0,Community inventories,2008.0
+509,509.0,"Shimla Municipal Corporation, India",India,182667.0,Community inventories,2009.0
+510,510.0,"Shimla Municipal Corporation, India",India,186316.0,Community inventories,2010.0
+511,511.0,"Shimla Municipal Corporation, India",India,195201.0,Community inventories,2011.0
+512,512.0,"Shimla Municipal Corporation, India",India,204982.0,Community inventories,2012.0
+513,513.0,"Shimla Municipal Corporation, India",India,218896.0,Community inventories,2013.0
+514,514.0,"Shimla Municipal Corporation, India",India,106.0,Government operations inventory,2008.0
+515,515.0,"Shimla Municipal Corporation, India",India,0.0,Government operations inventory,2009.0
+516,516.0,"Shimla Municipal Corporation, India",India,0.0,Government operations inventory,2010.0
+517,517.0,"Shimla Municipal Corporation, India",India,0.0,Government operations inventory,2011.0
+518,518.0,"Shimla Municipal Corporation, India",India,0.0,Government operations inventory,2012.0
+519,519.0,"Shimla Municipal Corporation, India",India,0.0,Government operations inventory,2013.0
+520,520.0,"Surat Municipal Corporation, India",India,16255462.0,Community inventories,2011.0
+521,521.0,"Surat Municipal Corporation, India",India,0.0,Government operations inventory,2011.0
+522,522.0,"Thane Municipal Corporation, India",India,2327233.0,Community inventories,1990.0
+523,523.0,"Thane Municipal Corporation, India",India,1411454.0,Community inventories,2007.0
+524,524.0,"Thane Municipal Corporation, India",India,1676722.0,Community inventories,2009.0
+525,525.0,"Thane Municipal Corporation, India",India,2138165.0,Community inventories,2010.0
+526,526.0,"Thane Municipal Corporation, India",India,2027179.0,Community inventories,2011.0
+527,527.0,"Thane Municipal Corporation, India",India,4077107.0,Community inventories,2013.0
+528,528.0,"Thane Municipal Corporation, India",India,515.0,Government operations inventory,1990.0
+529,529.0,"Thane Municipal Corporation, India",India,0.0,Government operations inventory,2007.0
+530,530.0,"Thane Municipal Corporation, India",India,7184.0,Government operations inventory,2009.0
+531,531.0,"Thane Municipal Corporation, India",India,6386.0,Government operations inventory,2010.0
+532,532.0,"Thane Municipal Corporation, India",India,7702.0,Government operations inventory,2011.0
+533,533.0,"Thane Municipal Corporation, India",India,783015.0,Government operations inventory,2013.0
+534,534.0,"City of Balikpapan, Indonesia",Indonesia,-748326.5909999999,Community inventories,2013.0
+535,535.0,"City of Balikpapan, Indonesia",Indonesia,-748326.5909999999,Community inventories,2015.0
+536,536.0,"City of Balikpapan, Indonesia",Indonesia,481003.0,Community inventories,2015.0
+537,537.0,"City of Balikpapan, Indonesia",Indonesia,359357.9,Government operations inventory,2015.0
+538,538.0,"City of Bandung, Indonesia",Indonesia,2660.98238,Community inventories,2013.0
+539,539.0,"City of Bandung, Indonesia",Indonesia,0.0,Government operations inventory,
+540,540.0,"City of Bandung, Indonesia",Indonesia,1748.2172,Government operations inventory,2013.0
+541,541.0,"City of Bogor, Indonesia",Indonesia,1251283.0,Community inventories,2015.0
+542,542.0,"City of Bogor, Indonesia",Indonesia,0.0,Government operations inventory,
+543,543.0,"City of Bogor, Indonesia",Indonesia,0.0,Government operations inventory,1986.0
+544,544.0,"City of Cimahi, Indonesia",Indonesia,11370194.45,Community inventories,
+545,545.0,"City of Malang, Indonesia",Indonesia,775422.0,Community inventories,2017.0
+546,546.0,"City of Malang, Indonesia",Indonesia,0.0,Government operations inventory,2017.0
+547,547.0,"City of Probolinggo, Indonesia",Indonesia,235623.0,Community inventories,2010.0
+548,548.0,"City of Probolinggo, Indonesia",Indonesia,0.0,Government operations inventory,2010.0
+549,549.0,"City of Semarang, Indonesia",Indonesia,177027.0,Community inventories,2010.0
+550,550.0,"City of Semarang, Indonesia",Indonesia,1770297.41,Community inventories,2010.0
+551,551.0,"City of Semarang, Indonesia",Indonesia,1066.0,Government operations inventory,2010.0
+552,552.0,"City of Semarang, Indonesia",Indonesia,10661.39,Government operations inventory,2010.0
+553,553.0,"Special Capital Region of Jakarta, Indonesia",Indonesia,16633289.0,Community inventories,2010.0
+554,554.0,"Special Capital Region of Jakarta, Indonesia",Indonesia,16685429.0,Community inventories,2010.0
+555,555.0,"Special Capital Region of Jakarta, Indonesia",Indonesia,0.0,Government operations inventory,2006.0
+556,556.0,"Special Capital Region of Jakarta, Indonesia",Indonesia,95000.0,Government operations inventory,2010.0
+557,557.0,"Jerusalem Municipality, Israel",Israel,2353555.0,Community inventories,2007.0
+558,558.0,"Jerusalem Municipality, Israel",Israel,15449.0,Government operations inventory,2007.0
+559,559.0,"City of Bologna, Italy",Italy,15019.2687737828,Government operations inventory,2013.0
+560,560.0,"City of Forlì, Italy",Italy,812179.0,Community inventories,2000.0
+561,561.0,"City of Rome, Italy",Italy,10999517.0,Community inventories,2003.0
+562,562.0,"Metropolitan City of Florence, Italy",Italy,2487982.0,Community inventories,2005.0
+563,563.0,"Metropolitan City of Florence, Italy",Italy,38972.0,Government operations inventory,2005.0
+564,564.0,"Metropolitan City of Turin, Italy",Italy,12028000.0,Community inventories,2011.0
+565,565.0,"Metropolitan City of Venice, Italy",Italy,1494743.0,Community inventories,2005.0
+566,566.0,"Municipality of Ancona, Italy",Italy,606219.0,Community inventories,2010.0
+567,567.0,"Municipality of Ancona, Italy",Italy,473.0,Government operations inventory,2010.0
+568,568.0,"Municipality of Villa di Serio, Italy",Italy,2623616.0,Community inventories,2005.0
+569,569.0,"Province of Siena, Italy",Italy,1550316.0,Community inventories,2010.0
+570,570.0,"Province of Siena, Italy",Italy,0.0,Government operations inventory,2010.0
+571,571.0,"Adachi City, Japan",Japan,2452000.0,Community inventories,2008.0
+572,572.0,"Adachi City, Japan",Japan,2317000.0,Community inventories,2010.0
+573,573.0,"Adachi City, Japan",Japan,0.0,Government operations inventory,2009.0
+574,574.0,"Adachi City, Japan",Japan,34587.0,Government operations inventory,2011.0
+575,575.0,"Aichi Prefecture, Japan",Japan,80956065.0,Community inventories,2008.0
+576,576.0,"Aichi Prefecture, Japan",Japan,75007551.0,Community inventories,2009.0
+577,577.0,"Aichi Prefecture, Japan",Japan,75203767.0,Community inventories,2010.0
+578,578.0,"Aichi Prefecture, Japan",Japan,73971153.55,Community inventories,2012.0
+579,579.0,"Aichi Prefecture, Japan",Japan,20881.0,Government operations inventory,2011.0
+580,580.0,"Aichi Prefecture, Japan",Japan,3351.0,Government operations inventory,2012.0
+581,581.0,"Aichi Prefecture, Japan",Japan,21186.0,Government operations inventory,2012.0
+582,582.0,"Aichi Prefecture, Japan",Japan,21972.0,Government operations inventory,2013.0
+583,583.0,"Akashi City, Japan",Japan,1873447.0,Community inventories,2007.0
+584,584.0,"Akita City, Japan",Japan,3594000.0,Community inventories,2007.0
+585,585.0,"Akita City, Japan",Japan,3357000.0,Community inventories,2010.0
+586,586.0,"Akita City, Japan",Japan,119828.0,Government operations inventory,2012.0
+587,587.0,"Akita Prefecture, Japan",Japan,9376000.0,Community inventories,2008.0
+588,588.0,"Akita Prefecture, Japan",Japan,39060.0,Government operations inventory,2009.0
+589,589.0,"Amami City, Japan",Japan,467.0,Government operations inventory,2010.0
+590,590.0,"Aomori City, Japan",Japan,2800555.0,Community inventories,2008.0
+591,591.0,"Aomori City, Japan",Japan,2791056.0,Community inventories,2010.0
+592,592.0,"Aomori City, Japan",Japan,61056.0,Government operations inventory,2010.0
+593,593.0,"Aomori City, Japan",Japan,51003.0,Government operations inventory,2012.0
+594,594.0,"Aomori Prefecture, Japan",Japan,14745000.0,Community inventories,2008.0
+595,595.0,"Asahikawa City, Japan",Japan,2894631.0,Community inventories,2007.0
+596,596.0,"Asahikawa City, Japan",Japan,2585312.0,Community inventories,2009.0
+597,597.0,"Asahikawa City, Japan",Japan,30908.0,Government operations inventory,2010.0
+598,598.0,"Asahikawa City, Japan",Japan,32606.0,Government operations inventory,2012.0
+599,599.0,"Atsugi City, Japan",Japan,2006534.0,Community inventories,2008.0
+600,600.0,"Atsugi City, Japan",Japan,718.0,Government operations inventory,2010.0
+601,601.0,"Chiba Prefecture, Japan",Japan,79203.0,Community inventories,2008.0
+602,602.0,"Chiba Prefecture, Japan",Japan,75464000.0,Community inventories,2009.0
+603,603.0,"Chiba Prefecture, Japan",Japan,8960.0,Government operations inventory,2008.0
+604,604.0,"Chiba Prefecture, Japan",Japan,8008.0,Government operations inventory,2010.0
+605,605.0,"Chigasaki City, Japan",Japan,1289000.0,Community inventories,2009.0
+606,606.0,"Chiyoda City, Japan",Japan,3313000.0,Community inventories,2008.0
+607,607.0,"Chiyoda City, Japan",Japan,3002000.0,Community inventories,2010.0
+608,608.0,"Chiyoda City, Japan",Japan,35.0,Government operations inventory,2009.0
+609,609.0,"Chiyoda City, Japan",Japan,38.0,Government operations inventory,2011.0
+610,610.0,"Chuo City, Japan",Japan,2381000.0,Community inventories,2008.0
+611,611.0,"Edogawa City, Japan",Japan,2401000.0,Community inventories,2008.0
+612,612.0,"Edogawa City, Japan",Japan,716.0,Government operations inventory,2010.0
+613,613.0,"Ehime Prefecture, Japan",Japan,20136000.0,Community inventories,2008.0
+614,614.0,"Ehime Prefecture, Japan",Japan,19418000.0,Community inventories,2010.0
+615,615.0,"Ehime Prefecture, Japan",Japan,0.0,Government operations inventory,2010.0
+616,616.0,"Fuji City, Japan",Japan,7851000.0,Community inventories,2007.0
+617,617.0,"Fuji City, Japan",Japan,6710000.0,Community inventories,2010.0
+618,618.0,"Fuji City, Japan",Japan,29177.0,Government operations inventory,2010.0
+619,619.0,"Fuji City, Japan",Japan,31039.0,Government operations inventory,2012.0
+620,620.0,"Fujinomiya City, Japan",Japan,1444300.0,Community inventories,2008.0
+621,621.0,"Fujinomiya City, Japan",Japan,28995.0,Government operations inventory,2009.0
+622,622.0,"Fujisawa City, Japan",Japan,2896773.0,Community inventories,2008.0
+623,623.0,"Fujisawa City, Japan",Japan,2929878.0,Community inventories,2010.0
+624,624.0,"Fujisawa City, Japan",Japan,41845.0,Government operations inventory,2012.0
+625,625.0,"Fukui Prefecture, Japan",Japan,8310000.0,Community inventories,2009.0
+626,626.0,"Fukuoka City, Japan",Japan,7861050.0,Community inventories,2011.0
+627,627.0,"Fukuoka City, Japan",Japan,294136.0,Government operations inventory,2012.0
+628,628.0,"Fukushima Prefecture, Japan",Japan,17844000.0,Community inventories,2008.0
+629,629.0,"Fukushima Prefecture, Japan",Japan,16671000.0,Community inventories,2010.0
+630,630.0,"Fukushima Prefecture, Japan",Japan,71404.0,Government operations inventory,2012.0
+631,631.0,"Funabashi City, Japan",Japan,4794100.0,Community inventories,2002.0
+632,632.0,"Funabashi City, Japan",Japan,152233.0,Government operations inventory,2009.0
+633,633.0,"Gifu Prefecture, Japan",Japan,17473000.0,Community inventories,2007.0
+634,634.0,"Gifu Prefecture, Japan",Japan,16304000.0,Community inventories,2010.0
+635,635.0,"Gifu Prefecture, Japan",Japan,6339.0,Government operations inventory,2010.0
+636,636.0,"Gifu Prefecture, Japan",Japan,50071.0,Government operations inventory,2012.0
+637,637.0,"Gunma Prefecture, Japan",Japan,20103000.0,Community inventories,2007.0
+638,638.0,"Gunma Prefecture, Japan",Japan,9469.0,Government operations inventory,2010.0
+639,639.0,"Hakodate City, Japan",Japan,2349621.0,Community inventories,2008.0
+640,640.0,"Hamamatsu City, Japan",Japan,5811000.0,Community inventories,2009.0
+641,641.0,"Hamamatsu City, Japan",Japan,5868000.0,Community inventories,2010.0
+642,642.0,"Hamamatsu City, Japan",Japan,64522.0,Government operations inventory,2010.0
+643,643.0,"Hamamatsu City, Japan",Japan,81996.0,Government operations inventory,2012.0
+644,644.0,"Himeji City, Japan",Japan,9832000.0,Community inventories,2008.0
+645,645.0,"Hiroshima City, Japan",Japan,6899000.0,Community inventories,2008.0
+646,646.0,"Hiroshima City, Japan",Japan,8423304.0,Community inventories,2010.0
+647,647.0,"Hiroshima City, Japan",Japan,8916709.0,Community inventories,2011.0
+648,648.0,"Hiroshima City, Japan",Japan,9054490.0,Community inventories,2012.0
+649,649.0,"Hiroshima City, Japan",Japan,94456.0,Government operations inventory,2009.0
+650,650.0,"Hiroshima City, Japan",Japan,108607.0,Government operations inventory,2011.0
+651,651.0,"Hiroshima City, Japan",Japan,113073.0,Government operations inventory,2012.0
+652,652.0,"Hiroshima City, Japan",Japan,127074.2,Government operations inventory,2012.0
+653,653.0,"Hiroshima Prefecture, Japan",Japan,55460000.0,Community inventories,2008.0
+654,654.0,"Hiroshima Prefecture, Japan",Japan,9429.0,Government operations inventory,2009.0
+655,655.0,"Hokkaido Prefecture, Japan",Japan,71320000.0,Community inventories,2008.0
+656,656.0,"Hokkaido Prefecture, Japan",Japan,62980000.0,Community inventories,2010.0
+657,657.0,"Hokkaido Prefecture, Japan",Japan,265040.0,Government operations inventory,2011.0
+658,658.0,"Hokuto City, Japan",Japan,26.0,Government operations inventory,2010.0
+659,659.0,"Hyogo Prefecture, Japan",Japan,63484000.0,Community inventories,2009.0
+660,660.0,"Hyogo Prefecture, Japan",Japan,71485000.0,Community inventories,2011.0
+661,661.0,"Hyogo Prefecture, Japan",Japan,137174.0,Government operations inventory,2012.0
+662,662.0,"Iida City, Japan",Japan,744859.0,Community inventories,2009.0
+663,663.0,"Iida City, Japan",Japan,0.0,Government operations inventory,2010.0
+664,664.0,"Ishikawa Prefecture, Japan",Japan,7038000.0,Community inventories,2010.0
+665,665.0,"Ishikawa Prefecture, Japan",Japan,4367.0,Government operations inventory,2010.0
+666,666.0,"Ishikawa Prefecture, Japan",Japan,4205.0,Government operations inventory,2012.0
+667,667.0,"Itabashi City, Japan",Japan,1947457.0,Community inventories,2009.0
+668,668.0,"Itabashi City, Japan",Japan,2231302.0,Community inventories,2011.0
+669,669.0,"Itabashi City, Japan",Japan,2087405.0,Community inventories,2012.0
+670,670.0,"Itabashi City, Japan",Japan,2215000.0,Community inventories,2013.0
+671,671.0,"Itabashi City, Japan",Japan,0.0,Government operations inventory,2009.0
+672,672.0,"Itabashi City, Japan",Japan,27494.0,Government operations inventory,2011.0
+673,673.0,"Itabashi City, Japan",Japan,25990.0,Government operations inventory,2012.0
+674,674.0,"Itabashi City, Japan",Japan,0.0,Government operations inventory,2014.0
+675,675.0,"Iwaki City, Japan",Japan,3499654.0,Community inventories,2011.0
+676,676.0,"Iwaki City, Japan",Japan,111600.0,Government operations inventory,2012.0
+677,677.0,"Kagawa Prefecture, Japan",Japan,8110000.0,Community inventories,2008.0
+678,678.0,"Kagawa Prefecture, Japan",Japan,7881000.0,Community inventories,2010.0
+679,679.0,"Kagawa Prefecture, Japan",Japan,36981.0,Government operations inventory,2010.0
+680,680.0,"Kagawa Prefecture, Japan",Japan,34894.0,Government operations inventory,2012.0
+681,681.0,"Kakogawa City, Japan",Japan,1265258.0,Community inventories,2005.0
+682,682.0,"Kakogawa City, Japan",Japan,49705.0,Government operations inventory,2010.0
+683,683.0,"Kanagawa Prefecture, Japan",Japan,74046688.0,Community inventories,2010.0
+684,684.0,"Kanagawa Prefecture, Japan",Japan,17726.0,Government operations inventory,2011.0
+685,685.0,"Kanagawa Prefecture, Japan",Japan,341911.0,Government operations inventory,2012.0
+686,686.0,"Kasumigaura City, Japan",Japan,0.0,Government operations inventory,2011.0
+687,687.0,"Kawagoe City, Japan",Japan,1758000.0,Community inventories,2007.0
+688,688.0,"Kawaguchi City, Japan",Japan,2330600.0,Community inventories,2008.0
+689,689.0,"Kawaguchi City, Japan",Japan,2133000.0,Community inventories,2010.0
+690,690.0,"Kawaguchi City, Japan",Japan,66000.0,Government operations inventory,2010.0
+691,691.0,"Kawaguchi City, Japan",Japan,80165.0,Government operations inventory,2012.0
+692,692.0,"Kawasaki City, Japan",Japan,25172300.0,Community inventories,2008.0
+693,693.0,"Kawasaki City, Japan",Japan,24022300.0,Community inventories,2010.0
+694,694.0,"Kawasaki City, Japan",Japan,23882900.0,Community inventories,2011.0
+695,695.0,"Kawasaki City, Japan",Japan,25437200.0,Community inventories,2013.0
+696,696.0,"Kawasaki City, Japan",Japan,0.0,Government operations inventory,2010.0
+697,697.0,"Kawasaki City, Japan",Japan,427812.0,Government operations inventory,2012.0
+698,698.0,"Kawasaki City, Japan",Japan,161205.77,Government operations inventory,2015.0
+699,699.0,"Kita City, Japan",Japan,1164000.0,Community inventories,2008.0
+700,700.0,"Kitakyushu City, Japan",Japan,16315000.0,Community inventories,2008.0
+701,701.0,"Kitakyushu City, Japan",Japan,17483000.0,Community inventories,2010.0
+702,702.0,"Kitakyushu City, Japan",Japan,18346000.0,Community inventories,2011.0
+703,703.0,"Kitakyushu City, Japan",Japan,17036846.0,Community inventories,2013.0
+704,704.0,"Kitakyushu City, Japan",Japan,20091317.77,Community inventories,2014.0
+705,705.0,"Kitakyushu City, Japan",Japan,166360.0,Government operations inventory,2010.0
+706,706.0,"Kitakyushu City, Japan",Japan,167847.0,Government operations inventory,2012.0
+707,707.0,"Kitakyushu City, Japan",Japan,162261.0,Government operations inventory,2013.0
+708,708.0,"Kitakyushu City, Japan",Japan,176000.0,Government operations inventory,2013.0
+709,709.0,"Kitakyushu City, Japan",Japan,141438.0,Government operations inventory,2014.0
+710,710.0,"Kitamoto City, Japan",Japan,53.0,Government operations inventory,2010.0
+711,711.0,"Kobe City, Japan",Japan,9859000.0,Community inventories,2009.0
+712,712.0,"Kobe City, Japan",Japan,11387000.0,Community inventories,2011.0
+713,713.0,"Kobe City, Japan",Japan,331932.0,Government operations inventory,2010.0
+714,714.0,"Kobe City, Japan",Japan,238247.0,Government operations inventory,2012.0
+715,715.0,"Kochi Prefecture, Japan",Japan,8667000.0,Community inventories,1990.0
+716,716.0,"Kochi-konan City, Japan",Japan,632300.0,Community inventories,2006.0
+717,717.0,"Kochi-konan City, Japan",Japan,246.0,Government operations inventory,2009.0
+718,718.0,"Kofu City, Japan",Japan,965343.0,Community inventories,2010.0
+719,719.0,"Kofu City, Japan",Japan,43457.0,Government operations inventory,2010.0
+720,720.0,"Kofu City, Japan",Japan,42702.0,Government operations inventory,2012.0
+721,721.0,"Komoro City, Japan",Japan,305760.0,Community inventories,2006.0
+722,722.0,"Komoro City, Japan",Japan,254.0,Government operations inventory,2009.0
+723,723.0,"Koriyama City, Japan",Japan,2704000.0,Community inventories,2007.0
+724,724.0,"Koto City, Japan",Japan,3003074.0,Community inventories,2008.0
+725,725.0,"Koto City, Japan",Japan,158.3,Government operations inventory,2010.0
+726,726.0,"Kumamoto City, Japan",Japan,4253000.0,Community inventories,2010.0
+727,727.0,"Kumamoto City, Japan",Japan,5023000.0,Community inventories,2011.0
+728,728.0,"Kumamoto City, Japan",Japan,98839.0,Government operations inventory,2011.0
+729,729.0,"Kumamoto City, Japan",Japan,76270.0,Government operations inventory,2012.0
+730,730.0,"Kurashiki City, Japan",Japan,39572000.0,Community inventories,2007.0
+731,731.0,"Kurashiki City, Japan",Japan,34225000.0,Community inventories,2008.0
+732,732.0,"Kurashiki City, Japan",Japan,35637.0,Government operations inventory,2010.0
+733,733.0,"Kurashiki City, Japan",Japan,33311.0,Government operations inventory,2012.0
+734,734.0,"Kurume City, Japan",Japan,2038000.0,Community inventories,2010.0
+735,735.0,"Kurume City, Japan",Japan,40202.0,Government operations inventory,2012.0
+736,736.0,"Kushiro City, Japan",Japan,2167000.0,Community inventories,2008.0
+737,737.0,"Kyoto City, Japan",Japan,6185000.0,Community inventories,2008.0
+738,738.0,"Kyoto City, Japan",Japan,7684000.0,Community inventories,2011.0
+739,739.0,"Kyoto City, Japan",Japan,208000.0,Government operations inventory,2009.0
+740,740.0,"Kyoto City, Japan",Japan,262000.0,Government operations inventory,2011.0
+741,741.0,"Kyoto Prefecture, Japan",Japan,12344357.0,Community inventories,2009.0
+742,742.0,"Kyoto Prefecture, Japan",Japan,21524.0,Government operations inventory,2010.0
+743,743.0,"Maebashi City, Japan",Japan,51655.0,Government operations inventory,2010.0
+744,744.0,"Matsuyama City, Japan",Japan,3449621.0,Community inventories,2008.0
+745,745.0,"Matsuyama City, Japan",Japan,3318096.0,Community inventories,2010.0
+746,746.0,"Matsuyama City, Japan",Japan,65779.0,Government operations inventory,2009.0
+747,747.0,"Matsuyama City, Japan",Japan,111532.0,Government operations inventory,2011.0
+748,748.0,"Meguro City, Japan",Japan,1182000.0,Community inventories,2008.0
+749,749.0,"Mie Prefecture, Japan",Japan,27930.0,Community inventories,2008.0
+750,750.0,"Mie Prefecture, Japan",Japan,6159.0,Government operations inventory,2010.0
+751,751.0,"Minato City, Japan",Japan,4282000.0,Community inventories,2008.0
+752,752.0,"Minato City, Japan",Japan,206.0,Government operations inventory,2010.0
+753,753.0,"Mito City, Japan",Japan,1463000.0,Community inventories,2009.0
+754,754.0,"Mito City, Japan",Japan,32896.0,Government operations inventory,2009.0
+755,755.0,"Mito City, Japan",Japan,35956.0,Government operations inventory,2011.0
+756,756.0,"Miyagi Prefecture, Japan",Japan,20774.0,Community inventories,2007.0
+757,757.0,"Miyazaki City, Japan",Japan,1801000.0,Community inventories,2003.0
+758,758.0,"Miyazaki City, Japan",Japan,1230.0,Government operations inventory,2010.0
+759,759.0,"Miyoshi City, Japan",Japan,860630.0,Community inventories,2008.0
+760,760.0,"Musashino City, Japan",Japan,548000.0,Community inventories,2010.0
+761,761.0,"Musashino City, Japan",Japan,567000.0,Community inventories,2011.0
+762,762.0,"Musashino City, Japan",Japan,616000.0,Community inventories,2013.0
+763,763.0,"Musashino City, Japan",Japan,15471.0,Government operations inventory,2012.0
+764,764.0,"Musashino City, Japan",Japan,14125.0,Government operations inventory,2013.0
+765,765.0,"Nagahama City, Japan",Japan,940500.0,Community inventories,2008.0
+766,766.0,"Nagahama City, Japan",Japan,1222.0,Government operations inventory,2009.0
+767,767.0,"Nagareyama City, Japan",Japan,629496.0,Community inventories,2008.0
+768,768.0,"Nagareyama City, Japan",Japan,31665.0,Government operations inventory,2009.0
+769,769.0,"Nagasaki Prefecture, Japan",Japan,8221000.0,Community inventories,2008.0
+770,770.0,"Nagasaki Prefecture, Japan",Japan,8294000.0,Community inventories,2010.0
+771,771.0,"Nagasaki Prefecture, Japan",Japan,25233.0,Government operations inventory,2011.0
+772,772.0,"Nagoya City, Japan",Japan,15989000.0,Community inventories,2008.0
+773,773.0,"Nagoya City, Japan",Japan,15875000.0,Community inventories,2010.0
+774,774.0,"Nagoya City, Japan",Japan,15948000.0,Community inventories,2011.0
+775,775.0,"Nagoya City, Japan",Japan,262940.0,Government operations inventory,2009.0
+776,776.0,"Nagoya City, Japan",Japan,297946.0,Government operations inventory,2012.0
+777,777.0,"Nagoya City, Japan",Japan,313286.0,Government operations inventory,2013.0
+778,778.0,"Naha City, Japan",Japan,2258000.0,Community inventories,2010.0
+779,779.0,"Naha City, Japan",Japan,25198.0,Government operations inventory,2011.0
+780,780.0,"Nakano City, Japan",Japan,981000.0,Community inventories,2008.0
+781,781.0,"Nara City, Japan",Japan,1346043.0,Community inventories,2010.0
+782,782.0,"Nara City, Japan",Japan,35471.0,Government operations inventory,2012.0
+783,783.0,"Nerima City, Japan",Japan,2064000.0,Community inventories,2008.0
+784,784.0,"Nerima City, Japan",Japan,578.0,Government operations inventory,2011.0
+785,785.0,"Neyagawa City, Japan",Japan,959000.0,Community inventories,2008.0
+786,786.0,"Neyagawa City, Japan",Japan,24476.0,Government operations inventory,2012.0
+787,787.0,"Niigata City, Japan",Japan,6997924.0,Community inventories,2008.0
+788,788.0,"Niigata City, Japan",Japan,74806.0,Government operations inventory,2010.0
+789,789.0,"Niigata Prefecture, Japan",Japan,24850000.0,Community inventories,2009.0
+790,790.0,"Nishinomiya, Japan",Japan,1764572.0,Community inventories,2007.0
+791,791.0,"Odawara City, Japan",Japan,1049334.0,Community inventories,2009.0
+792,792.0,"Odawara City, Japan",Japan,15635.0,Government operations inventory,2010.0
+793,793.0,"Oita Prefecture, Japan",Japan,33182000.0,Community inventories,2008.0
+794,794.0,"Oita Prefecture, Japan",Japan,7734.0,Government operations inventory,2010.0
+795,795.0,"Okayama City, Japan",Japan,6726000.0,Community inventories,2006.0
+796,796.0,"Okayama City, Japan",Japan,73352.0,Government operations inventory,2009.0
+797,797.0,"Okayama City, Japan",Japan,73422.0,Government operations inventory,2011.0
+798,798.0,"Okazaki City, Japan",Japan,2893000.0,Community inventories,2007.0
+799,799.0,"Okazaki City, Japan",Japan,58596.0,Government operations inventory,2009.0
+800,800.0,"Okinawa Prefecture, Japan",Japan,13413000.0,Community inventories,2010.0
+801,801.0,"Okinawa Prefecture, Japan",Japan,169360.0,Government operations inventory,2011.0
+802,802.0,"Osaka Prefecture, Japan",Japan,50040000.0,Community inventories,2009.0
+803,803.0,"Osaka Prefecture, Japan",Japan,0.0,Government operations inventory,2010.0
+804,804.0,"Ota City, Japan",Japan,3081000.0,Community inventories,2008.0
+805,805.0,"Ota City, Japan",Japan,1206.0,Government operations inventory,2009.0
+806,806.0,"Otsu City, Japan",Japan,2146013.0,Community inventories,2007.0
+807,807.0,"Otsu City, Japan",Japan,1861295.0,Community inventories,2010.0
+808,808.0,"Otsu City, Japan",Japan,8034.0,Government operations inventory,2010.0
+809,809.0,"Otsu City, Japan",Japan,31345.0,Government operations inventory,2011.0
+810,810.0,"Sagamihara City, Japan",Japan,4430098.0,Community inventories,2006.0
+811,811.0,"Sagamihara City, Japan",Japan,58655.0,Government operations inventory,2010.0
+812,812.0,"Saitama City, Japan",Japan,5377000.0,Community inventories,2008.0
+813,813.0,"Saitama City, Japan",Japan,5102000.0,Community inventories,2010.0
+814,814.0,"Saitama City, Japan",Japan,5396000.0,Community inventories,2011.0
+815,815.0,"Saitama City, Japan",Japan,120055.0,Government operations inventory,2009.0
+816,816.0,"Saitama City, Japan",Japan,87391.0,Government operations inventory,2011.0
+817,817.0,"Saitama City, Japan",Japan,91259.0,Government operations inventory,2014.0
+818,818.0,"Saitama Prefecture, Japan",Japan,38127825.0,Community inventories,2009.0
+819,819.0,"Sakai City, Japan",Japan,8280324.0,Community inventories,2008.0
+820,820.0,"Sakai City, Japan",Japan,7334280.0,Community inventories,2009.0
+821,821.0,"Sakai City, Japan",Japan,82496.0,Government operations inventory,2009.0
+822,822.0,"Sakai City, Japan",Japan,131073.0,Government operations inventory,2011.0
+823,823.0,"Sapporo City, Japan",Japan,10102656.0,Community inventories,2010.0
+824,824.0,"Sapporo City, Japan",Japan,11399125.0,Community inventories,2011.0
+825,825.0,"Sapporo City, Japan",Japan,13397003.0,Community inventories,2012.0
+826,826.0,"Sapporo City, Japan",Japan,13024847.61,Community inventories,2014.0
+827,827.0,"Sapporo City, Japan",Japan,268280.0,Government operations inventory,2010.0
+828,828.0,"Sapporo City, Japan",Japan,279768.0,Government operations inventory,2011.0
+829,829.0,"Sapporo City, Japan",Japan,274639.0,Government operations inventory,2012.0
+830,830.0,"Sapporo City, Japan",Japan,222051.85,Government operations inventory,2014.0
+831,831.0,"Sasebo City, Japan",Japan,1725000.0,Community inventories,2011.0
+832,832.0,"Sasebo City, Japan",Japan,85187.0,Government operations inventory,2012.0
+833,833.0,"Sendai City, Japan",Japan,7787335.0,Community inventories,2008.0
+834,834.0,"Sendai City, Japan",Japan,7588515.0,Community inventories,2010.0
+835,835.0,"Sendai City, Japan",Japan,6573042.0,Community inventories,2011.0
+836,836.0,"Sendai City, Japan",Japan,145533.0,Government operations inventory,2009.0
+837,837.0,"Sendai City, Japan",Japan,157366.0,Government operations inventory,2012.0
+838,838.0,"Sendai City, Japan",Japan,172110.0,Government operations inventory,2013.0
+839,839.0,"Setagaya City, Japan",Japan,2996000.0,Community inventories,2008.0
+840,840.0,"Setagaya City, Japan",Japan,20.0,Government operations inventory,2009.0
+841,841.0,"Settsu City, Japan",Japan,13309.0,Government operations inventory,2010.0
+842,842.0,"Shibuya City, Japan",Japan,2326000.0,Community inventories,2008.0
+843,843.0,"Shibuya City, Japan",Japan,210.0,Government operations inventory,2010.0
+844,844.0,"Shiga Prefecture, Japan",Japan,12350000.0,Community inventories,2008.0
+845,845.0,"Shimane Prefecture, Japan",Japan,6214189.0,Community inventories,2011.0
+846,846.0,"Shimane Prefecture, Japan",Japan,92750.0,Government operations inventory,2011.0
+847,847.0,"Shimokawa Town, Japan",Japan,0.0,Government operations inventory,2010.0
+848,848.0,"Shimonoseki City, Japan",Japan,3385000.0,Community inventories,2008.0
+849,849.0,"Shimonoseki City, Japan",Japan,52599.0,Government operations inventory,2010.0
+850,850.0,"Shinjuku City, Japan",Japan,3202000.0,Community inventories,2007.0
+851,851.0,"Shinjuku City, Japan",Japan,0.0,Government operations inventory,2010.0
+852,852.0,"Shizuoka City, Japan",Japan,5642300.0,Community inventories,2008.0
+853,853.0,"Shizuoka City, Japan",Japan,5957900.0,Community inventories,2010.0
+854,854.0,"Shizuoka City, Japan",Japan,149725.0,Government operations inventory,2009.0
+855,855.0,"Shizuoka City, Japan",Japan,251728.0,Government operations inventory,2012.0
+856,856.0,"Shizuoka Prefecture, Japan",Japan,31558000.0,Community inventories,2008.0
+857,857.0,"Suita City, Japan",Japan,1572000.0,Community inventories,2008.0
+858,858.0,"Suita City, Japan",Japan,54819.0,Government operations inventory,2010.0
+859,859.0,"Sumida City, Japan",Japan,1534000.0,Community inventories,2009.0
+860,860.0,"Sumida City, Japan",Japan,1189000.0,Community inventories,2010.0
+861,861.0,"Sumida City, Japan",Japan,0.0,Government operations inventory,2009.0
+862,862.0,"Sumida City, Japan",Japan,20727.0,Government operations inventory,2011.0
+863,863.0,"Taito City, Japan",Japan,1217000.0,Community inventories,2008.0
+864,864.0,"Taito City, Japan",Japan,248.0,Government operations inventory,2010.0
+865,865.0,"Takarazuka City, Japan",Japan,672143.0,Community inventories,2008.0
+866,866.0,"Takarazuka City, Japan",Japan,34464.639,Government operations inventory,2010.0
+867,867.0,"Takatsuki City, Japan",Japan,1402000.0,Community inventories,2008.0
+868,868.0,"Takatsuki City, Japan",Japan,0.0,Government operations inventory,2010.0
+869,869.0,"Tokushima City, Japan",Japan,1570320.0,Community inventories,2008.0
+870,870.0,"Tokyo Metropolitan Government, Japan",Japan,62179000.0,Community inventories,2009.0
+871,871.0,"Tokyo Metropolitan Government, Japan",Japan,61905000.0,Community inventories,2010.0
+872,872.0,"Tokyo Metropolitan Government, Japan",Japan,1978900.0,Government operations inventory,2011.0
+873,873.0,"Tokyo Metropolitan Government, Japan",Japan,0.0,Government operations inventory,2014.0
+874,874.0,"Tottori City, Japan",Japan,1208939.0,Community inventories,2010.0
+875,875.0,"Tottori City, Japan",Japan,0.0,Government operations inventory,2010.0
+876,876.0,"Tottori Prefecture, Japan",Japan,9671.0,Government operations inventory,2009.0
+877,877.0,"Toyama City, Japan",Japan,4421702.0,Community inventories,2007.0
+878,878.0,"Toyama City, Japan",Japan,3944509.2,Community inventories,2012.0
+879,879.0,"Toyama City, Japan",Japan,3919918.5330000003,Community inventories,2013.0
+880,880.0,"Toyama City, Japan",Japan,866.0,Government operations inventory,2010.0
+881,881.0,"Toyama City, Japan",Japan,41713.2,Government operations inventory,2013.0
+882,882.0,"Toyama Prefecture, Japan",Japan,13178000.0,Community inventories,2008.0
+883,883.0,"Toyama Prefecture, Japan",Japan,10608000.0,Community inventories,2010.0
+884,884.0,"Toyama Prefecture, Japan",Japan,4498.0,Government operations inventory,2008.0
+885,885.0,"Toyama Prefecture, Japan",Japan,30028.0,Government operations inventory,2012.0
+886,886.0,"Toyonaka City, Japan",Japan,1320183.0,Community inventories,2009.0
+887,887.0,"Toyonaka City, Japan",Japan,5979.0,Government operations inventory,2010.0
+888,888.0,"Tsukuba City, Japan",Japan,2091623.0,Community inventories,2006.0
+889,889.0,"Tsukuba City, Japan",Japan,784.0,Government operations inventory,2010.0
+890,890.0,"Ube City, Japan",Japan,5835548.0,Community inventories,2009.0
+891,891.0,"Ube City, Japan",Japan,23141.0,Government operations inventory,2011.0
+892,892.0,"Utsunomiya City, Japan",Japan,4140959.0,Community inventories,2003.0
+893,893.0,"Utsunomiya City, Japan",Japan,60382.0,Government operations inventory,2009.0
+894,894.0,"Wakayama Prefecture, Japan",Japan,16845000.0,Community inventories,2008.0
+895,895.0,"Wakayama Prefecture, Japan",Japan,18405371.0,Community inventories,2010.0
+896,896.0,"Wakayama Prefecture, Japan",Japan,0.0,Government operations inventory,2009.0
+897,897.0,"Wakayama Prefecture, Japan",Japan,584.0,Government operations inventory,2012.0
+898,898.0,"Yamagata Prefecture, Japan",Japan,9727000.0,Community inventories,2008.0
+899,899.0,"Yamaguchi City, Japan",Japan,2070935.0,Community inventories,2008.0
+900,900.0,"Yamaguchi City, Japan",Japan,1119.0,Government operations inventory,2009.0
+901,901.0,"Yamaguchi Prefecture, Japan",Japan,42655000.0,Community inventories,2010.0
+902,902.0,"Yamaguchi Prefecture, Japan",Japan,9723.0,Government operations inventory,2010.0
+903,903.0,"Yamanashi Prefecture, Japan",Japan,6812000.0,Community inventories,2009.0
+904,904.0,"Yamanashi Prefecture, Japan",Japan,6561000.0,Community inventories,2010.0
+905,905.0,"Yamanashi Prefecture, Japan",Japan,0.0,Government operations inventory,2011.0
+906,906.0,"Yamanashi Prefecture, Japan",Japan,32487.0,Government operations inventory,2012.0
+907,907.0,"Yao City, Japan",Japan,1431046.0,Community inventories,2008.0
+908,908.0,"Yao City, Japan",Japan,966.0,Government operations inventory,2010.0
+909,909.0,"Yokohama City, Japan",Japan,19786000.0,Community inventories,2008.0
+910,910.0,"Yokohama City, Japan",Japan,20375712.0,Community inventories,2014.0
+911,911.0,"Yokohama City, Japan",Japan,338928.0,Government operations inventory,2014.0
+912,912.0,"Yokosuka City, Japan",Japan,22834.0,Government operations inventory,2009.0
+913,913.0,"Greater Amman Municipality, Jordan",Jordan,7445420.972999999,Community inventories,2014.0
+914,914.0,"Kuching North City Council, Malaysia",Malaysia,0.0,Government operations inventory,2014.0
+915,915.0,"Penang Island City Council, Malaysia",Malaysia,0.0,Government operations inventory,2014.0
+916,916.0,"Petaling Jaya City Council, Malaysia",Malaysia,127052.0475,Government operations inventory,2013.0
+917,917.0,"Petaling Jaya City Council, Malaysia",Malaysia,1731.7,Government operations inventory,2014.0
+918,918.0,"Seberang Perai Municipal Council, Malaysia",Malaysia,8131.48208,Community inventories,2016.0
+919,919.0,"Shah Alam City Council, Malaysia",Malaysia,0.0,Government operations inventory,
+920,920.0,"Shah Alam City Council, Malaysia",Malaysia,190443.17710035038,Government operations inventory,2013.0
+921,921.0,"Guadalajara Metropolitan Area, Mexico",Mexico,529694347.0,Community inventories,2016.0
+922,922.0,"Municipality of Aguascalientes, Mexico",Mexico,3839803.0,Community inventories,2010.0
+923,923.0,"Municipality of Amacuzac, Mexico",Mexico,43111.0,Community inventories,2010.0
+924,924.0,"Municipality of Atlatlahucan, Mexico",Mexico,44873.0,Community inventories,2010.0
+925,925.0,"Municipality of Atotonilco de Tula, Mexico",Mexico,888994.0,Community inventories,2010.0
+926,926.0,"Municipality of Axochiapan, Mexico",Mexico,63506.0,Community inventories,2010.0
+927,927.0,"Municipality of Cozumel, Mexico",Mexico,177326.0,Community inventories,2011.0
+928,928.0,"Municipality of Cuautla, Mexico",Mexico,484478.0,Community inventories,2010.0
+929,929.0,"Municipality of Guadalajara, Mexico",Mexico,5462380.0,Community inventories,2009.0
+930,930.0,"Municipality of Hermosillo, Mexico",Mexico,4952256.0,Community inventories,2010.0
+931,931.0,"Municipality of Hermosillo, Mexico",Mexico,66266.0,Government operations inventory,2014.0
+932,932.0,"Municipality of Jojutla, Mexico",Mexico,16682646.0,Community inventories,2010.0
+933,933.0,"Municipality of Jonacatepec, Mexico",Mexico,62077.0,Community inventories,2010.0
+934,934.0,"Municipality of León de los Aldamas, Mexico",Mexico,94311876.215,Community inventories,2012.0
+935,935.0,"Municipality of León de los Aldamas, Mexico",Mexico,1738240.6749999996,Government operations inventory,2012.0
+936,936.0,"Municipality of Mazatepec, Mexico",Mexico,11554.0,Community inventories,2010.0
+937,937.0,"Municipality of Puebla de Zaragoza, Mexico",Mexico,3302184.0,Community inventories,2010.0
+938,938.0,"Municipality of Puebla de Zaragoza, Mexico",Mexico,1781685.0,Government operations inventory,2012.0
+939,939.0,"Municipality of Salamanca, Mexico",Mexico,0.0,Government operations inventory,2012.0
+940,940.0,"Municipality of San Pedro Tlaquepaque, Mexico",Mexico,209946.56,Government operations inventory,2008.0
+941,941.0,"Municipality of Tlalnepantla de Baz, Mexico",Mexico,5899134.0,Community inventories,2011.0
+942,942.0,"Municipality of Toluca de Lerdo, Mexico",Mexico,4378317.0,Community inventories,2010.0
+943,943.0,"Municipality of Toluca de Lerdo, Mexico",Mexico,2643862.0,Government operations inventory,2010.0
+944,944.0,"Municipality of Tuxtla Gutiérrez, Mexico",Mexico,1708489.0,Community inventories,2010.0
+945,945.0,"Municipality of Tuxtla Gutiérrez, Mexico",Mexico,1604177.77,Government operations inventory,2010.0
+946,946.0,"Municipality of Xalapa-Enríquez, Mexico",Mexico,1646108.0,Community inventories,2011.0
+947,947.0,"Municipality of Yautepec de Zaragoza, Mexico",Mexico,167974.0,Community inventories,2010.0
+948,948.0,"Municipality of Zapopan, Mexico",Mexico,4351244.0,Community inventories,2010.0
+949,949.0,"México City Government, Mexico",Mexico,26257083.0,Community inventories,2010.0
+950,950.0,"México City Government, Mexico",Mexico,24551216.0,Community inventories,2012.0
+951,951.0,"México City Government, Mexico",Mexico,9053518.0,Government operations inventory,2010.0
+952,952.0,"México City Government, Mexico",Mexico,5436863.0,Government operations inventory,2012.0
+953,953.0,"City of Windhoek, Namibia",Namibia,2829997.0,Community inventories,2016.0
+954,954.0,"Dunedin City Council, New Zealand",New Zealand,1091279.509,Community inventories,2016.0
+955,955.0,"Dunedin City Council, New Zealand",New Zealand,21469.86,Government operations inventory,2016.0
+956,956.0,"Palmerston North City Council, New Zealand",New Zealand,475234.0,Community inventories,2001.0
+957,957.0,"Palmerston North City Council, New Zealand",New Zealand,2924.0,Government operations inventory,2006.0
+958,958.0,"Palmerston North City Council, New Zealand",New Zealand,3017.0,Government operations inventory,2007.0
+959,959.0,"Palmerston North City Council, New Zealand",New Zealand,2832.0,Government operations inventory,2008.0
+960,960.0,"Palmerston North City Council, New Zealand",New Zealand,2934.0,Government operations inventory,2009.0
+961,961.0,"Palmerston North City Council, New Zealand",New Zealand,2908.0,Government operations inventory,2010.0
+962,962.0,"Rotorua Lakes Council, New Zealand",New Zealand,1541672.771,Community inventories,2016.0
+963,963.0,"Arendal Municipality, Norway",Norway,169800.0,Community inventories,2005.0
+964,964.0,"Arendal Municipality, Norway",Norway,151900.0,Community inventories,2008.0
+965,965.0,"Arendal Municipality, Norway",Norway,150800.0,Community inventories,2009.0
+966,966.0,"Arendal Municipality, Norway",Norway,829.6,Government operations inventory,2008.0
+967,967.0,"Arendal Municipality, Norway",Norway,1215.6,Government operations inventory,2009.0
+968,968.0,"Arendal Municipality, Norway",Norway,854.1,Government operations inventory,2010.0
+969,969.0,"Arendal Municipality, Norway",Norway,939.0,Government operations inventory,2011.0
+970,970.0,"Arendal Municipality, Norway",Norway,1134.0,Government operations inventory,2014.0
+971,971.0,"Kristiansand Municipality, Norway",Norway,396500.0,Community inventories,2005.0
+972,972.0,"Kristiansand Municipality, Norway",Norway,278600.0,Community inventories,2008.0
+973,973.0,"Kristiansand Municipality, Norway",Norway,293100.0,Community inventories,2009.0
+974,974.0,"Lørenskog Municipality, Norway",Norway,89200.0,Community inventories,2005.0
+975,975.0,"Lørenskog Municipality, Norway",Norway,67100.0,Community inventories,2008.0
+976,976.0,"Lørenskog Municipality, Norway",Norway,63200.0,Community inventories,2009.0
+977,977.0,"Oslo Municipality, Norway",Norway,1168000.0,Community inventories,1991.0
+978,978.0,"Oslo Municipality, Norway",Norway,1166800.0,Community inventories,1995.0
+979,979.0,"Oslo Municipality, Norway",Norway,1260100.0,Community inventories,2000.0
+980,980.0,"Oslo Municipality, Norway",Norway,1337400.0,Community inventories,2005.0
+981,981.0,"Oslo Municipality, Norway",Norway,1295700.0,Community inventories,2008.0
+982,982.0,"Oslo Municipality, Norway",Norway,1321100.0,Community inventories,2009.0
+983,983.0,"Oslo Municipality, Norway",Norway,42186.0,Government operations inventory,2009.0
+984,984.0,"Oslo Municipality, Norway",Norway,43393.0,Government operations inventory,2010.0
+985,985.0,"Oslo Municipality, Norway",Norway,41093.0,Government operations inventory,2011.0
+986,986.0,"Ringerike Municipality, Norway",Norway,152200.0,Community inventories,2005.0
+987,987.0,"Ringerike Municipality, Norway",Norway,156000.0,Community inventories,2008.0
+988,988.0,"Ringerike Municipality, Norway",Norway,149300.0,Community inventories,2009.0
+989,989.0,"Ringerike Municipality, Norway",Norway,5190.0,Government operations inventory,2007.0
+990,990.0,"Sandnes Municipality, Norway",Norway,236900.0,Community inventories,2005.0
+991,991.0,"Sandnes Municipality, Norway",Norway,265000.0,Community inventories,2008.0
+992,992.0,"Sandnes Municipality, Norway",Norway,255400.0,Community inventories,2009.0
+993,993.0,"Stavanger Municipality, Norway",Norway,256400.0,Community inventories,2005.0
+994,994.0,"Stavanger Municipality, Norway",Norway,283300.0,Community inventories,2008.0
+995,995.0,"Stavanger Municipality, Norway",Norway,278600.0,Community inventories,2009.0
+996,996.0,"District Municipality of Miraflores, Peru",Peru,335439.34,Community inventories,2015.0
+997,997.0,"District Municipality of Miraflores, Peru",Peru,0.0,Government operations inventory,2015.0
+998,998.0,"District Municipality of Miraflores, Peru",Peru,107.56,Government operations inventory,2015.0
+999,999.0,"Municipalidad de Santiago de Surco, Peru",Peru,2679538.0,Community inventories,2016.0
+1000,1000.0,"Municipalidad de Santiago de Surco, Peru",Peru,18873.66,Government operations inventory,2016.0
+1001,1001.0,"Municipality of Magdelena Del Mar, Peru",Peru,29231994.0,Community inventories,2016.0
+1002,1002.0,"Municipality of Magdelena Del Mar, Peru",Peru,4.8,Government operations inventory,2016.0
+1003,1003.0,"Municipality of San Isidro, Lima, Peru",Peru,1842.0,Community inventories,2015.0
+1004,1004.0,"Municipality of San Isidro, Lima, Peru",Peru,0.0,Government operations inventory,2015.0
+1005,1005.0,"Municipality of San Isidro, Lima, Peru",Peru,81.74,Government operations inventory,2015.0
+1006,1006.0,"City Government of Marikina, Philippines",Philippines,719269.0,Community inventories,2013.0
+1007,1007.0,"City of Batangas, Philippines",Philippines,705827.0,Community inventories,2015.0
+1008,1008.0,"City of Batangas, Philippines",Philippines,49468.66,Government operations inventory,2015.0
+1009,1009.0,"City of Cagayan de Oro, Philippines",Philippines,54845.0,Government operations inventory,2014.0
+1010,1010.0,"City of Catbalogan, Philippines",Philippines,74364.0,Community inventories,2016.0
+1011,1011.0,"City of Catbalogan, Philippines",Philippines,47584.29,Government operations inventory,2016.0
+1012,1012.0,"City of Makati, Philippines",Philippines,14672557.0,Community inventories,2010.0
+1013,1013.0,"City of Makati, Philippines",Philippines,314699.0,Community inventories,2016.0
+1014,1014.0,"City of Makati, Philippines",Philippines,1748284.7899999996,Community inventories,2016.0
+1015,1015.0,"City of Makati, Philippines",Philippines,1659.0,Government operations inventory,2010.0
+1016,1016.0,"City of Makati, Philippines",Philippines,8580.0,Government operations inventory,2010.0
+1017,1017.0,"City of Makati, Philippines",Philippines,1154.5,Government operations inventory,2016.0
+1018,1018.0,"City of Naga, Camarines Sur, Philippines",Philippines,243527.0,Community inventories,2014.0
+1019,1019.0,"City of Quezon City, Philippines",Philippines,713312132.0,Community inventories,2010.0
+1020,1020.0,"City of Quezon City, Philippines",Philippines,2268.85,Government operations inventory,2010.0
+1021,1021.0,"Pasig City Government, Philippines",Philippines,659168.0,Community inventories,2010.0
+1022,1022.0,"Pasig City Government, Philippines",Philippines,0.0,Government operations inventory,2010.0
+1023,1023.0,"City of Warsaw, Poland",Poland,12333428.54029113,Community inventories,2012.0
+1024,1024.0,"City of Warsaw, Poland",Poland,0.0,Government operations inventory,2012.0
+1025,1025.0,"Municipality of Almada, Portugal",Portugal,246916.0,Community inventories,2006.0
+1026,1026.0,"Municipality of Almada, Portugal",Portugal,1811.0,Government operations inventory,2006.0
+1027,1027.0,"Municipality of Oeiras, Portugal",Portugal,737209.0,Community inventories,2006.0
+1028,1028.0,"Asan City, Republic of Korea",Republic of Korea,2761356.0,Community inventories,2008.0
+1029,1029.0,"City of Changwon, Republic of Korea",Republic of Korea,0.0,Government operations inventory,2005.0
+1030,1030.0,"Gangdong-gu Municipal Government, Republic of Korea",Republic of Korea,938.0,Community inventories,2013.0
+1031,1031.0,"Gangneung City, Republic of Korea",Republic of Korea,7124024.0,Community inventories,2005.0
+1032,1032.0,"Gangneung City, Republic of Korea",Republic of Korea,9546519.0,Community inventories,2010.0
+1033,1033.0,"Pyeongchang County Government, Republic of Korea",Republic of Korea,492082.0,Community inventories,2005.0
+1034,1034.0,"Pyeongchang County Government, Republic of Korea",Republic of Korea,452187.0,Community inventories,2010.0
+1035,1035.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,49581584.0,Community inventories,2010.0
+1036,1036.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,47588425.0,Community inventories,2011.0
+1037,1037.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,46400612.0,Community inventories,2012.0
+1038,1038.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,18180000.0,Government operations inventory,2005.0
+1039,1039.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,15850000.0,Government operations inventory,2010.0
+1040,1040.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,15439000.0,Government operations inventory,2011.0
+1041,1041.0,"Seoul Metropolitan Government, Republic of Korea",Republic of Korea,15473000.0,Government operations inventory,2012.0
+1042,1042.0,"Suwon City, Republic of Korea",Republic of Korea,5850754.4120000005,Community inventories,2005.0
+1043,1043.0,"Suwon City, Republic of Korea",Republic of Korea,5654867.518999999,Community inventories,2015.0
+1044,1044.0,"Wonju City, Republic of Korea",Republic of Korea,1272591.0,Community inventories,2005.0
+1045,1045.0,"Wonju City, Republic of Korea",Republic of Korea,1489458.0,Community inventories,2007.0
+1046,1046.0,"Wonju City, Republic of Korea",Republic of Korea,4254019.0,Community inventories,2010.0
+1047,1047.0,"Wonju City, Republic of Korea",Republic of Korea,1928493.0,Community inventories,2012.0
+1048,1048.0,"Yeosu City, Republic of Korea",Republic of Korea,29626846.0,Community inventories,2005.0
+1049,1049.0,"Yeosu City, Republic of Korea",Republic of Korea,33282024.0,Community inventories,2009.0
+1050,1050.0,"Yeosu City, Republic of Korea",Republic of Korea,34543258.0,Community inventories,2010.0
+1051,1051.0,"Yeosu City, Republic of Korea",Republic of Korea,49764214.0,Community inventories,2011.0
+1052,1052.0,"Yeosu City, Republic of Korea",Republic of Korea,54345536.0,Community inventories,2012.0
+1053,1053.0,"Yeosu City, Republic of Korea",Republic of Korea,54018083.0,Community inventories,2013.0
+1054,1054.0,"Yeosu City, Republic of Korea",Republic of Korea,53879759.0,Community inventories,2014.0
+1055,1055.0,"Yeosu City, Republic of Korea",Republic of Korea,53143361.0,Community inventories,2015.0
+1056,1056.0,"Government of Singapore, Singapore",Singapore,38202400.587570004,Community inventories,2000.0
+1057,1057.0,"Government of Singapore, Singapore",Singapore,46831680.0,Community inventories,2010.0
+1058,1058.0,"Government of Singapore, Singapore",Singapore,0.0,Government operations inventory,2010.0
+1059,1059.0,"Buffalo City Metropolitan Municipality, South Africa",South Africa,2592942.0,Community inventories,2007.0
+1060,1060.0,"Buffalo City Metropolitan Municipality, South Africa",South Africa,6187.0,Government operations inventory,2007.0
+1061,1061.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,19949344.0,Community inventories,2007.0
+1062,1062.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,19358001.0,Community inventories,2012.0
+1063,1063.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,23706147.0,Community inventories,2012.0
+1064,1064.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,14029281.0,Community inventories,2015.0
+1065,1065.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,41310.0,Government operations inventory,2007.0
+1066,1066.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,40673.0,Government operations inventory,2012.0
+1067,1067.0,"Cape Town Metropolitan Municipality, South Africa",South Africa,40673.282,Government operations inventory,2012.0
+1068,1068.0,"City of Johannesburg Metropolitan Municipality, South Africa",South Africa,22186188.0,Community inventories,2007.0
+1069,1069.0,"City of Johannesburg Metropolitan Municipality, South Africa",South Africa,24716711.0,Community inventories,2014.0
+1070,1070.0,"City of Johannesburg Metropolitan Municipality, South Africa",South Africa,25.0,Government operations inventory,2007.0
+1071,1071.0,"Ekurhuleni Metropolitan Municipality, South Africa",South Africa,26783460.0,Community inventories,2011.0
+1072,1072.0,"Ekurhuleni Metropolitan Municipality, South Africa",South Africa,19330397.0,Community inventories,2014.0
+1073,1073.0,"Ekurhuleni Metropolitan Municipality, South Africa",South Africa,291485.0,Government operations inventory,2011.0
+1074,1074.0,"KwaDukuza Local Municipality, South Africa",South Africa,992961.0,Community inventories,2012.0
+1075,1075.0,"KwaDukuza Local Municipality, South Africa",South Africa,1751999.0,Community inventories,2012.0
+1076,1076.0,"KwaDukuza Local Municipality, South Africa",South Africa,75387.0,Government operations inventory,2012.0
+1077,1077.0,"Msunduzi Local Municipality, South Africa",South Africa,1289214.0,Community inventories,2015.0
+1078,1078.0,"Nelson Mandela Bay Metropolitan Municipality, South Africa",South Africa,4208081.0,Community inventories,2007.0
+1079,1079.0,"Nelson Mandela Bay Metropolitan Municipality, South Africa",South Africa,4986052.0,Community inventories,2012.0
+1080,1080.0,"Nelson Mandela Bay Metropolitan Municipality, South Africa",South Africa,333608.0,Government operations inventory,2012.0
+1081,1081.0,"Steve Tshwete Local Municipality, South Africa",South Africa,3819692.0,Community inventories,2012.0
+1082,1082.0,"Steve Tshwete Local Municipality, South Africa",South Africa,73771.0,Government operations inventory,2012.0
+1083,1083.0,"Tshwane Metropolitan Municipality, South Africa",South Africa,16292831.0,Community inventories,2007.0
+1084,1084.0,"Tshwane Metropolitan Municipality, South Africa",South Africa,11984730.0,Community inventories,2013.0
+1085,1085.0,"Tshwane Metropolitan Municipality, South Africa",South Africa,29145.0,Government operations inventory,2007.0
+1086,1086.0,"Tshwane Metropolitan Municipality, South Africa",South Africa,990623.0,Government operations inventory,2013.0
+1087,1087.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,21160200.0,Community inventories,2010.0
+1088,1088.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,21563446.0,Community inventories,2011.0
+1089,1089.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,22778331.0,Community inventories,2012.0
+1090,1090.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,28163058.0,Community inventories,2013.0
+1091,1091.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,27991829.0,Community inventories,2014.0
+1092,1092.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,22118090.0,Community inventories,2015.0
+1093,1093.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,693003.0,Government operations inventory,2010.0
+1094,1094.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,1123557.0,Government operations inventory,2011.0
+1095,1095.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,859367.0,Government operations inventory,2012.0
+1096,1096.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,142848.0,Government operations inventory,2013.0
+1097,1097.0,"eThekwini Metropolitan Municipality, South Africa",South Africa,145556.0,Government operations inventory,2014.0
+1098,1098.0,"Municipality of A Coruña, Spain",Spain,2525261.0,Community inventories,2009.0
+1099,1099.0,"Municipality of A Coruña, Spain",Spain,2272.0,Government operations inventory,2009.0
+1100,1100.0,"Municipality of Amurrio, Spain",Spain,188073.0,Community inventories,2013.0
+1101,1101.0,"Municipality of Amurrio, Spain",Spain,26.9425217917065,Government operations inventory,2013.0
+1102,1102.0,"Municipality of Areatza, Spain",Spain,3807.0,Community inventories,2013.0
+1103,1103.0,"Municipality of Areatza, Spain",Spain,3.908,Government operations inventory,2013.0
+1104,1104.0,"Municipality of Balmaseda, Spain",Spain,41602.0,Community inventories,2013.0
+1105,1105.0,"Municipality of Balmaseda, Spain",Spain,301.75,Government operations inventory,2013.0
+1106,1106.0,"Municipality of Barcelona, Spain",Spain,3595726.0,Community inventories,2012.0
+1107,1107.0,"Municipality of Bilbao, Spain",Spain,1476036.0,Community inventories,2013.0
+1108,1108.0,"Municipality of Bilbao, Spain",Spain,13504.14,Government operations inventory,2013.0
+1109,1109.0,"Municipality of Córdoba, Spain",Spain,1278675.0,Community inventories,2007.0
+1110,1110.0,"Municipality of Córdoba, Spain",Spain,123032.0,Government operations inventory,2007.0
+1111,1111.0,"Municipality of Durango, Spain",Spain,88787.0,Community inventories,2013.0
+1112,1112.0,"Municipality of Durango, Spain",Spain,12.83,Government operations inventory,2013.0
+1113,1113.0,"Municipality of Errenteria, Spain",Spain,224082.0,Community inventories,2013.0
+1114,1114.0,"Municipality of Errenteria, Spain",Spain,57.72,Government operations inventory,2013.0
+1115,1115.0,"Municipality of Granada, Spain",Spain,997065.6923,Community inventories,2013.0
+1116,1116.0,"Municipality of Granada, Spain",Spain,2742.93,Government operations inventory,2013.0
+1117,1117.0,"Municipality of Legazpi, Spain",Spain,62826.0,Community inventories,2013.0
+1118,1118.0,"Municipality of Legazpi, Spain",Spain,178.52,Government operations inventory,2013.0
+1119,1119.0,"Municipality of Madrid, Spain",Spain,11527000.0,Community inventories,2011.0
+1120,1120.0,"Municipality of Madrid, Spain",Spain,10497750.0,Community inventories,2013.0
+1121,1121.0,"Municipality of Palma, Spain",Spain,3078320.0,Community inventories,2005.0
+1122,1122.0,"Municipality of Palma, Spain",Spain,269041.5,Government operations inventory,2005.0
+1123,1123.0,"Municipality of Tolosa, Spain",Spain,88162.0,Community inventories,2013.0
+1124,1124.0,"Municipality of Tolosa, Spain",Spain,247.38,Government operations inventory,2013.0
+1125,1125.0,"City of Gothenburg, Sweden",Sweden,7129647.0,Community inventories,2012.0
+1126,1126.0,"City of Gothenburg, Sweden",Sweden,4098261.5360000003,Community inventories,2014.0
+1127,1127.0,"City of Gothenburg, Sweden",Sweden,226527.0,Government operations inventory,2013.0
+1128,1128.0,"City of Malmö, Sweden",Sweden,1425000.0,Community inventories,1990.0
+1129,1129.0,"City of Malmö, Sweden",Sweden,1499000.0,Community inventories,2009.0
+1130,1130.0,"City of Malmö, Sweden",Sweden,2078800.0,Community inventories,2010.0
+1131,1131.0,"City of Malmö, Sweden",Sweden,1598937.0,Community inventories,2011.0
+1132,1132.0,"City of Malmö, Sweden",Sweden,1753446.0,Community inventories,2015.0
+1133,1133.0,"City of Malmö, Sweden",Sweden,31652.0,Government operations inventory,2010.0
+1134,1134.0,"City of Malmö, Sweden",Sweden,0.0,Government operations inventory,2015.0
+1135,1135.0,"City of Stockholm, Sweden",Sweden,3670000.0,Community inventories,1990.0
+1136,1136.0,"City of Stockholm, Sweden",Sweden,3510000.0,Community inventories,2000.0
+1137,1137.0,"City of Stockholm, Sweden",Sweden,3104000.0,Community inventories,2005.0
+1138,1138.0,"City of Stockholm, Sweden",Sweden,2852000.0,Community inventories,2009.0
+1139,1139.0,"City of Stockholm, Sweden",Sweden,1913994.0,Community inventories,2015.0
+1140,1140.0,"City of Stockholm, Sweden",Sweden,0.0,Government operations inventory,2006.0
+1141,1141.0,"City of Stockholm, Sweden",Sweden,0.0,Government operations inventory,2007.0
+1142,1142.0,"City of Stockholm, Sweden",Sweden,0.0,Government operations inventory,2008.0
+1143,1143.0,"City of Stockholm, Sweden",Sweden,0.0,Government operations inventory,2009.0
+1144,1144.0,"Eskilstuna Municipality, Sweden",Sweden,283141.0,Community inventories,2011.0
+1145,1145.0,"Eskilstuna Municipality, Sweden",Sweden,3548.0,Government operations inventory,2012.0
+1146,1146.0,"Gävle Municipality, Sweden",Sweden,363052.0,Community inventories,2011.0
+1147,1147.0,"Gävle Municipality, Sweden",Sweden,0.0,Government operations inventory,2013.0
+1148,1148.0,"Haninge Municipality, Sweden",Sweden,223671.84,Community inventories,2010.0
+1149,1149.0,"Huddinge Municipality, Sweden",Sweden,220310.0,Community inventories,2011.0
+1150,1150.0,"Huddinge Municipality, Sweden",Sweden,374.0,Government operations inventory,2013.0
+1151,1151.0,"Karlstad Municipality, Sweden",Sweden,7659.0,Government operations inventory,2014.0
+1152,1152.0,"Kristianstad Municipality, Sweden",Sweden,474621.0,Community inventories,2011.0
+1153,1153.0,"Kristianstad Municipality, Sweden",Sweden,228224.08,Community inventories,2014.0
+1154,1154.0,"Kristianstad Municipality, Sweden",Sweden,422547.0,Community inventories,2014.0
+1155,1155.0,"Kristianstad Municipality, Sweden",Sweden,2013.0,Government operations inventory,2011.0
+1156,1156.0,"Kristianstad Municipality, Sweden",Sweden,0.0,Government operations inventory,2016.0
+1157,1157.0,"Lund Municipality, Sweden",Sweden,436186.0,Community inventories,1990.0
+1158,1158.0,"Lund Municipality, Sweden",Sweden,334298.0,Community inventories,2012.0
+1159,1159.0,"Lund Municipality, Sweden",Sweden,0.0,Government operations inventory,2016.0
+1160,1160.0,"Sollentuna Municipality, Sweden",Sweden,203.0,Government operations inventory,2013.0
+1161,1161.0,"Säffle Municipality, Sweden",Sweden,638100.061,Community inventories,1990.0
+1162,1162.0,"Säffle Municipality, Sweden",Sweden,229606.89800000004,Community inventories,2000.0
+1163,1163.0,"Säffle Municipality, Sweden",Sweden,196059.69600000003,Community inventories,2005.0
+1164,1164.0,"Säffle Municipality, Sweden",Sweden,201858.821,Community inventories,2006.0
+1165,1165.0,"Säffle Municipality, Sweden",Sweden,192079.889,Community inventories,2007.0
+1166,1166.0,"Säffle Municipality, Sweden",Sweden,181974.367,Community inventories,2008.0
+1167,1167.0,"Säffle Municipality, Sweden",Sweden,178537.18200000003,Community inventories,2009.0
+1168,1168.0,"Säffle Municipality, Sweden",Sweden,187016.00699999998,Community inventories,2010.0
+1169,1169.0,"Säffle Municipality, Sweden",Sweden,97.0,Government operations inventory,2006.0
+1170,1170.0,"Säffle Municipality, Sweden",Sweden,82.0,Government operations inventory,2007.0
+1171,1171.0,"Säffle Municipality, Sweden",Sweden,77.0,Government operations inventory,2008.0
+1172,1172.0,"Säffle Municipality, Sweden",Sweden,73.0,Government operations inventory,2009.0
+1173,1173.0,"Säffle Municipality, Sweden",Sweden,90.0,Government operations inventory,2010.0
+1174,1174.0,"Säffle Municipality, Sweden",Sweden,113.0,Government operations inventory,2011.0
+1175,1175.0,"Täby Municipality, Sweden",Sweden,2160.0,Government operations inventory,2009.0
+1176,1176.0,"Umeå Municipality, Sweden",Sweden,545003.0,Community inventories,1990.0
+1177,1177.0,"Umeå Municipality, Sweden",Sweden,530623.0,Community inventories,1995.0
+1178,1178.0,"Umeå Municipality, Sweden",Sweden,519427.0,Community inventories,2000.0
+1179,1179.0,"Umeå Municipality, Sweden",Sweden,521009.0,Community inventories,2005.0
+1180,1180.0,"Umeå Municipality, Sweden",Sweden,529385.0,Community inventories,2008.0
+1181,1181.0,"Umeå Municipality, Sweden",Sweden,580138.0,Community inventories,2009.0
+1182,1182.0,"Umeå Municipality, Sweden",Sweden,539025.0,Community inventories,2010.0
+1183,1183.0,"Umeå Municipality, Sweden",Sweden,469200.0,Community inventories,2011.0
+1184,1184.0,"Umeå Municipality, Sweden",Sweden,516159.0,Community inventories,2012.0
+1185,1185.0,"Umeå Municipality, Sweden",Sweden,521267.0,Community inventories,2013.0
+1186,1186.0,"Umeå Municipality, Sweden",Sweden,1733.0,Government operations inventory,2014.0
+1187,1187.0,"Upplands Väsby Municipality, Sweden",Sweden,81190.0,Community inventories,2013.0
+1188,1188.0,"Upplands Väsby Municipality, Sweden",Sweden,90.0,Government operations inventory,2012.0
+1189,1189.0,"Uppsala Municipality, Sweden",Sweden,1289300.0,Community inventories,1990.0
+1190,1190.0,"Uppsala Municipality, Sweden",Sweden,1147300.0,Community inventories,2000.0
+1191,1191.0,"Uppsala Municipality, Sweden",Sweden,1099700.0,Community inventories,2005.0
+1192,1192.0,"Uppsala Municipality, Sweden",Sweden,1191800.0,Community inventories,2006.0
+1193,1193.0,"Uppsala Municipality, Sweden",Sweden,1025000.0,Community inventories,2007.0
+1194,1194.0,"Uppsala Municipality, Sweden",Sweden,1109580.0,Community inventories,2008.0
+1195,1195.0,"Uppsala Municipality, Sweden",Sweden,1124500.0,Community inventories,2009.0
+1196,1196.0,"Uppsala Municipality, Sweden",Sweden,1185300.0,Community inventories,2010.0
+1197,1197.0,"Uppsala Municipality, Sweden",Sweden,1099200.0,Community inventories,2011.0
+1198,1198.0,"Uppsala Municipality, Sweden",Sweden,1182401.0,Community inventories,2014.0
+1199,1199.0,"Uppsala Municipality, Sweden",Sweden,0.0,Government operations inventory,
+1200,1200.0,"Uppsala Municipality, Sweden",Sweden,3890.0,Government operations inventory,2009.0
+1201,1201.0,"Uppsala Municipality, Sweden",Sweden,4811.0,Government operations inventory,2010.0
+1202,1202.0,"Uppsala Municipality, Sweden",Sweden,4467.0,Government operations inventory,2011.0
+1203,1203.0,"Uppsala Municipality, Sweden",Sweden,172.0,Government operations inventory,2014.0
+1204,1204.0,"Västerås Municipality, Sweden",Sweden,918500.0,Community inventories,1990.0
+1205,1205.0,"Västerås Municipality, Sweden",Sweden,913900.0,Community inventories,2000.0
+1206,1206.0,"Västerås Municipality, Sweden",Sweden,822100.0,Community inventories,2008.0
+1207,1207.0,"Västerås Municipality, Sweden",Sweden,890300.0,Community inventories,2009.0
+1208,1208.0,"Västerås Municipality, Sweden",Sweden,948100.0,Community inventories,2010.0
+1209,1209.0,"Västerås Municipality, Sweden",Sweden,819800.0,Community inventories,2011.0
+1210,1210.0,"Västerås Municipality, Sweden",Sweden,760988.0,Community inventories,2012.0
+1211,1211.0,"Västerås Municipality, Sweden",Sweden,2430.0,Government operations inventory,2009.0
+1212,1212.0,"Västerås Municipality, Sweden",Sweden,1815.0,Government operations inventory,2011.0
+1213,1213.0,"Västerås Municipality, Sweden",Sweden,1795.0,Government operations inventory,2012.0
+1214,1214.0,"Västerås Municipality, Sweden",Sweden,1724.0,Government operations inventory,2013.0
+1215,1215.0,"Växjö Municipality, Sweden",Sweden,326763.0,Community inventories,1993.0
+1216,1216.0,"Växjö Municipality, Sweden",Sweden,441323.0,Community inventories,1993.0
+1217,1217.0,"Växjö Municipality, Sweden",Sweden,264643.0,Community inventories,2000.0
+1218,1218.0,"Växjö Municipality, Sweden",Sweden,368019.0,Community inventories,2003.0
+1219,1219.0,"Växjö Municipality, Sweden",Sweden,287550.0,Community inventories,2005.0
+1220,1220.0,"Växjö Municipality, Sweden",Sweden,246396.0,Community inventories,2009.0
+1221,1221.0,"Växjö Municipality, Sweden",Sweden,229342.0,Community inventories,2011.0
+1222,1222.0,"Växjö Municipality, Sweden",Sweden,231818.0,Community inventories,2012.0
+1223,1223.0,"Växjö Municipality, Sweden",Sweden,207042.0,Community inventories,2013.0
+1224,1224.0,"Växjö Municipality, Sweden",Sweden,285353.0,Community inventories,2013.0
+1225,1225.0,"Växjö Municipality, Sweden",Sweden,0.0,Government operations inventory,1993.0
+1226,1226.0,"Växjö Municipality, Sweden",Sweden,0.0,Government operations inventory,2003.0
+1227,1227.0,"Växjö Municipality, Sweden",Sweden,7670.0,Government operations inventory,2005.0
+1228,1228.0,"Växjö Municipality, Sweden",Sweden,7859.0,Government operations inventory,2011.0
+1229,1229.0,"Växjö Municipality, Sweden",Sweden,6956.0,Government operations inventory,2012.0
+1230,1230.0,"Växjö Municipality, Sweden",Sweden,0.0,Government operations inventory,2013.0
+1231,1231.0,"Växjö Municipality, Sweden",Sweden,5399.0,Government operations inventory,2013.0
+1232,1232.0,"Växjö Municipality, Sweden",Sweden,4564.0,Government operations inventory,2014.0
+1233,1233.0,"Vårgårda Municipality, Sweden",Sweden,101157.0,Community inventories,2010.0
+1234,1234.0,"Vårgårda Municipality, Sweden",Sweden,97915.0,Community inventories,2011.0
+1235,1235.0,"Vårgårda Municipality, Sweden",Sweden,93882.0,Community inventories,2012.0
+1236,1236.0,"Vårgårda Municipality, Sweden",Sweden,92364.0,Community inventories,2013.0
+1237,1237.0,"Vårgårda Municipality, Sweden",Sweden,60878.0,Community inventories,2015.0
+1238,1238.0,"Vårgårda Municipality, Sweden",Sweden,62.0,Government operations inventory,2011.0
+1239,1239.0,"Vårgårda Municipality, Sweden",Sweden,59.0,Government operations inventory,2012.0
+1240,1240.0,"Vårgårda Municipality, Sweden",Sweden,45.0,Government operations inventory,2013.0
+1241,1241.0,"Vårgårda Municipality, Sweden",Sweden,37.0,Government operations inventory,2014.0
+1242,1242.0,"Vårgårda Municipality, Sweden",Sweden,210.0,Government operations inventory,2015.0
+1243,1243.0,"Örebro Municipality, Sweden",Sweden,1308037.1,Community inventories,2008.0
+1244,1244.0,"Örebro Municipality, Sweden",Sweden,491983.0,Community inventories,2013.0
+1245,1245.0,"Örebro Municipality, Sweden",Sweden,485561.0,Community inventories,2014.0
+1246,1246.0,"Örebro Municipality, Sweden",Sweden,470149.0,Community inventories,2015.0
+1247,1247.0,"Örebro Municipality, Sweden",Sweden,14600.0,Government operations inventory,2014.0
+1248,1248.0,"Örebro Municipality, Sweden",Sweden,28685.0,Government operations inventory,2014.0
+1249,1249.0,"Östersund Municipality, Sweden",Sweden,428160.0,Community inventories,1990.0
+1250,1250.0,"Östersund Municipality, Sweden",Sweden,315301.0,Community inventories,2000.0
+1251,1251.0,"Östersund Municipality, Sweden",Sweden,324587.0,Community inventories,2005.0
+1252,1252.0,"Östersund Municipality, Sweden",Sweden,291316.0,Community inventories,2006.0
+1253,1253.0,"Östersund Municipality, Sweden",Sweden,305832.0,Community inventories,2007.0
+1254,1254.0,"Östersund Municipality, Sweden",Sweden,285561.0,Community inventories,2008.0
+1255,1255.0,"Östersund Municipality, Sweden",Sweden,279666.0,Community inventories,2009.0
+1256,1256.0,"Östersund Municipality, Sweden",Sweden,270143.0,Community inventories,2010.0
+1257,1257.0,"Östersund Municipality, Sweden",Sweden,6357.901999999999,Government operations inventory,2010.0
+1258,1258.0,"Moshi Municipal Council, Tanzania",Tanzania,3000.0,Government operations inventory,2006.0
+1259,1259.0,"Bangchak Sub District Municipality, Thailand",Thailand,26233.0,Community inventories,2015.0
+1260,1260.0,"Bangchak Sub District Municipality, Thailand",Thailand,2513.120000000001,Government operations inventory,2015.0
+1261,1261.0,"Chiang Mai City Municipality, Thailand",Thailand,9567.0,Government operations inventory,2013.0
+1262,1262.0,"Chiang Rai City Municipality, Thailand",Thailand,-8442072.0,Community inventories,2013.0
+1263,1263.0,"Chiang Rai City Municipality, Thailand",Thailand,70522.0,Government operations inventory,2011.0
+1264,1264.0,"Chiang Rai City Municipality, Thailand",Thailand,70875.0,Government operations inventory,2011.0
+1265,1265.0,"Hat Siao Sub-District Municipality, Thailand",Thailand,29572.0,Community inventories,2013.0
+1266,1266.0,"Hat Siao Sub-District Municipality, Thailand",Thailand,10391.96,Government operations inventory,2013.0
+1267,1267.0,"Hat Yai City Municipality, Thailand",Thailand,477723.0,Community inventories,2013.0
+1268,1268.0,"Hat Yai City Municipality, Thailand",Thailand,134977.0,Government operations inventory,2011.0
+1269,1269.0,"Hat Yai City Municipality, Thailand",Thailand,137349.24,Government operations inventory,2013.0
+1270,1270.0,"Huai Khao Kam Municipality, Thailand",Thailand,20897.0,Community inventories,2015.0
+1271,1271.0,"Huai Khao Kam Municipality, Thailand",Thailand,14306689.0,Government operations inventory,2014.0
+1272,1272.0,"Huai Khao Kam Municipality, Thailand",Thailand,3968.24,Government operations inventory,2015.0
+1273,1273.0,"Kalangnakorn Town Municipality, Thailand",Thailand,162378.0,Community inventories,2015.0
+1274,1274.0,"Kalangnakorn Town Municipality, Thailand",Thailand,7133.55,Government operations inventory,2015.0
+1275,1275.0,"Khok Kruat Municipality, Thailand",Thailand,28590.0,Community inventories,2013.0
+1276,1276.0,"Khok Kruat Municipality, Thailand",Thailand,4871.0,Government operations inventory,2012.0
+1277,1277.0,"Khon Kaen City Municipality, Thailand",Thailand,199428.0,Government operations inventory,2011.0
+1278,1278.0,"Khun Han Municipality, Thailand",Thailand,16552.0,Government operations inventory,2013.0
+1279,1279.0,"Lampang City Municipality, Thailand",Thailand,120400.0,Community inventories,2013.0
+1280,1280.0,"Lampang City Municipality, Thailand",Thailand,120403.31,Community inventories,2013.0
+1281,1281.0,"Lampang City Municipality, Thailand",Thailand,1310.0,Government operations inventory,2011.0
+1282,1282.0,"Lampang City Municipality, Thailand",Thailand,1311.94,Government operations inventory,2011.0
+1283,1283.0,"Mae Raeng Municipality, Thailand",Thailand,3806.0,Government operations inventory,2012.0
+1284,1284.0,"Map Ammarit Municipality, Thailand",Thailand,4311.0,Community inventories,2013.0
+1285,1285.0,"Map Ammarit Municipality, Thailand",Thailand,5227.0,Government operations inventory,2012.0
+1286,1286.0,"Map Ammarit Municipality, Thailand",Thailand,5221.93,Government operations inventory,2013.0
+1287,1287.0,"Na Kaeo Municipality, Thailand",Thailand,6432.0,Government operations inventory,2012.0
+1288,1288.0,"Nang Lae Municipality, Thailand",Thailand,21.0,Government operations inventory,2011.0
+1289,1289.0,"Nong Samrong Town Municipality, Thailand",Thailand,12074.0,Government operations inventory,2011.0
+1290,1290.0,"Nonthaburi City Municipality, Thailand",Thailand,220679.0,Government operations inventory,2012.0
+1291,1291.0,"Nonthaburi City Municipality, Thailand",Thailand,220681.116631206,Government operations inventory,2012.0
+1292,1292.0,"Patong Municipality, Thailand",Thailand,1156684.0,Community inventories,2013.0
+1293,1293.0,"Patong Municipality, Thailand",Thailand,27960.9,Government operations inventory,2013.0
+1294,1294.0,"Phanat Nikhom Town Municipality, Thailand",Thailand,30896.09,Community inventories,2012.0
+1295,1295.0,"Phanat Nikhom Town Municipality, Thailand",Thailand,30892.0,Community inventories,2013.0
+1296,1296.0,"Phanat Nikhom Town Municipality, Thailand",Thailand,12256.87,Government operations inventory,2012.0
+1297,1297.0,"Phanat Nikhom Town Municipality, Thailand",Thailand,12401.0,Government operations inventory,2012.0
+1298,1298.0,"Phanom Sarakham Municipality, Thailand",Thailand,14794.0,Community inventories,2013.0
+1299,1299.0,"Phanom Sarakham Municipality, Thailand",Thailand,6732.0,Government operations inventory,2011.0
+1300,1300.0,"Phuket City Municipality, Thailand",Thailand,2787.0,Government operations inventory,2010.0
+1301,1301.0,"Pong Municipality, Thailand",Thailand,2552.0,Government operations inventory,2012.0
+1302,1302.0,"Prix Municipality, Thailand",Thailand,16652.0,Community inventories,2015.0
+1303,1303.0,"Prix Municipality, Thailand",Thailand,2803.37,Government operations inventory,2015.0
+1304,1304.0,"Ranong Town Municipality, Thailand",Thailand,4823.68,Government operations inventory,2015.0
+1305,1305.0,"Rong Kwang Municipality, Thailand",Thailand,1826.0,Government operations inventory,2011.0
+1306,1306.0,"Sikhio Town Municipality, Thailand",Thailand,452.0,Government operations inventory,2010.0
+1307,1307.0,"Sisaket Town Municipality, Thailand",Thailand,58308.0,Government operations inventory,2011.0
+1308,1308.0,"Sisaket Town Municipality, Thailand",Thailand,33867.0,Government operations inventory,2012.0
+1309,1309.0,"Thung Song Town Municipality, Thailand",Thailand,27074.0,Community inventories,2013.0
+1310,1310.0,"Thung Song Town Municipality, Thailand",Thailand,40303.0,Government operations inventory,2011.0
+1311,1311.0,"Ubonratchathani Municipality, Thailand",Thailand,421443.0,Community inventories,2015.0
+1312,1312.0,"Ubonratchathani Municipality, Thailand",Thailand,26553.81,Government operations inventory,2015.0
+1313,1313.0,"Yasothon Town Municipality, Thailand",Thailand,72897.0,Community inventories,2013.0
+1314,1314.0,"Yasothon Town Municipality, Thailand",Thailand,80524.0,Community inventories,2013.0
+1315,1315.0,"Yasothon Town Municipality, Thailand",Thailand,35666.0,Government operations inventory,2012.0
+1316,1316.0,"Yasothon Town Municipality, Thailand",Thailand,34883.63,Government operations inventory,2013.0
+1317,1317.0,"Istanbul Metropolitan Municipality, Turkey",Turkey,38781589.0,Community inventories,2009.0
+1318,1318.0,"Istanbul Metropolitan Municipality, Turkey",Turkey,37199137.0,Community inventories,2010.0
+1319,1319.0,"Istanbul Metropolitan Municipality, Turkey",Turkey,0.0,Government operations inventory,2010.0
+1320,1320.0,"Izmir Metropolitan Municipality, Turkey",Turkey,20966748.0,Community inventories,2014.0
+1321,1321.0,"Izmir Metropolitan Municipality, Turkey",Turkey,50287659.0,Community inventories,2015.0
+1322,1322.0,"Izmir Metropolitan Municipality, Turkey",Turkey,478.94,Government operations inventory,2014.0
+1323,1323.0,"Izmir Metropolitan Municipality, Turkey",Turkey,1748.0,Government operations inventory,2016.0
+1324,1324.0,"Kadiköy Municipality, Turkey",Turkey,6207.0,Government operations inventory,2010.0
+1325,1325.0,"Kampala Capital City Authority, Uganda",Uganda,6311.63,Government operations inventory,2014.0
+1326,1326.0,"Bristol City Council, United Kingdom",United Kingdom,2405000.0,Community inventories,2005.0
+1327,1327.0,"Bristol City Council, United Kingdom",United Kingdom,2380000.0,Community inventories,2006.0
+1328,1328.0,"Bristol City Council, United Kingdom",United Kingdom,2302000.0,Community inventories,2007.0
+1329,1329.0,"Bristol City Council, United Kingdom",United Kingdom,2244000.0,Community inventories,2008.0
+1330,1330.0,"Bristol City Council, United Kingdom",United Kingdom,2063000.0,Community inventories,2009.0
+1331,1331.0,"Bristol City Council, United Kingdom",United Kingdom,2134000.0,Community inventories,2010.0
+1332,1332.0,"Bristol City Council, United Kingdom",United Kingdom,1963000.0,Community inventories,2011.0
+1333,1333.0,"Bristol City Council, United Kingdom",United Kingdom,2127000.0,Community inventories,2012.0
+1334,1334.0,"Bristol City Council, United Kingdom",United Kingdom,3835.0,Government operations inventory,2010.0
+1335,1335.0,"Bristol City Council, United Kingdom",United Kingdom,3312.0,Government operations inventory,2011.0
+1336,1336.0,"Bristol City Council, United Kingdom",United Kingdom,2798.0,Government operations inventory,2012.0
+1337,1337.0,"Bristol City Council, United Kingdom",United Kingdom,2681.0,Government operations inventory,2013.0
+1338,1338.0,"Broward County, FL, United States",United States,23608646.0,Community inventories,2007.0
+1339,1339.0,"Broward County, FL, United States",United States,22302241.0,Community inventories,2009.0
+1340,1340.0,"Broward County, FL, United States",United States,22177409.0,Community inventories,2010.0
+1341,1341.0,"Broward County, FL, United States",United States,45708.0,Government operations inventory,1997.0
+1342,1342.0,"Broward County, FL, United States",United States,371256.0,Government operations inventory,2007.0
+1343,1343.0,"Broward County, FL, United States",United States,50972.0,Government operations inventory,2008.0
+1344,1344.0,"Broward County, FL, United States",United States,51338.0,Government operations inventory,2009.0
+1345,1345.0,"Broward County, FL, United States",United States,53276.0,Government operations inventory,2010.0
+1346,1346.0,"Broward County, FL, United States",United States,52948.0,Government operations inventory,2011.0
+1347,1347.0,"City and County of San Francisco, CA, United States",United States,5123547.0,Community inventories,2010.0
+1348,1348.0,"City and County of San Francisco, CA, United States",United States,77362.0,Government operations inventory,2010.0
+1349,1349.0,"City of Albany, CA, United States",United States,0.0,Government operations inventory,2004.0
+1350,1350.0,"City of Albany, CA, United States",United States,0.0,Government operations inventory,2010.0
+1351,1351.0,"City of Alton, IL, United States",United States,401079.0,Community inventories,2013.0
+1352,1352.0,"City of Alton, IL, United States",United States,0.0,Government operations inventory,2013.0
+1353,1353.0,"City of Ann Arbor, MI, United States",United States,0.0,Government operations inventory,2010.0
+1354,1354.0,"City of Antioch, CA, United States",United States,357428.0,Community inventories,2005.0
+1355,1355.0,"City of Antioch, CA, United States",United States,2252.0,Government operations inventory,2005.0
+1356,1356.0,"City of Antioch, CA, United States",United States,0.0,Government operations inventory,2010.0
+1357,1357.0,"City of Atlanta, GA, United States",United States,8252914.0,Community inventories,2012.0
+1358,1358.0,"City of Atlanta, GA, United States",United States,8816865.0,Community inventories,2013.0
+1359,1359.0,"City of Atlanta, GA, United States",United States,65000.0,Government operations inventory,2007.0
+1360,1360.0,"City of Atlanta, GA, United States",United States,154698.0,Government operations inventory,2014.0
+1361,1361.0,"City of Austin, TX, United States",United States,13321113.0,Community inventories,2013.0
+1362,1362.0,"City of Austin, TX, United States",United States,56908.0,Government operations inventory,2014.0
+1363,1363.0,"City of Baltimore, MD, United States",United States,9226074.0,Community inventories,2007.0
+1364,1364.0,"City of Baltimore, MD, United States",United States,7527906.0,Community inventories,2010.0
+1365,1365.0,"City of Baltimore, MD, United States",United States,116694.0,Government operations inventory,2007.0
+1366,1366.0,"City of Beaverton, OR, United States",United States,1238496.0,Community inventories,2006.0
+1367,1367.0,"City of Beaverton, OR, United States",United States,1509.0,Government operations inventory,2008.0
+1368,1368.0,"City of Beaverton, OR, United States",United States,1769.0,Government operations inventory,2009.0
+1369,1369.0,"City of Beaverton, OR, United States",United States,1596.0,Government operations inventory,2010.0
+1370,1370.0,"City of Beaverton, OR, United States",United States,1607.0,Government operations inventory,2011.0
+1371,1371.0,"City of Beaverton, OR, United States",United States,1588.0,Government operations inventory,2012.0
+1372,1372.0,"City of Beaverton, OR, United States",United States,1480.0,Government operations inventory,2013.0
+1373,1373.0,"City of Benicia, CA, United States",United States,686785.0,Community inventories,2010.0
+1374,1374.0,"City of Benicia, CA, United States",United States,2532.0,Government operations inventory,2010.0
+1375,1375.0,"City of Berkeley, CA, United States",United States,675234.0,Community inventories,2011.0
+1376,1376.0,"City of Berkeley, CA, United States",United States,656857.0,Community inventories,2013.0
+1377,1377.0,"City of Berkeley, CA, United States",United States,3847.0,Government operations inventory,2012.0
+1378,1378.0,"City of Boston, MA, United States",United States,7535298.0,Community inventories,2005.0
+1379,1379.0,"City of Boston, MA, United States",United States,6983427.0,Community inventories,2006.0
+1380,1380.0,"City of Boston, MA, United States",United States,7481846.0,Community inventories,2007.0
+1381,1381.0,"City of Boston, MA, United States",United States,7441878.0,Community inventories,2008.0
+1382,1382.0,"City of Boston, MA, United States",United States,7063009.0,Community inventories,2009.0
+1383,1383.0,"City of Boston, MA, United States",United States,7104890.0,Community inventories,2010.0
+1384,1384.0,"City of Boston, MA, United States",United States,6766707.0,Community inventories,2011.0
+1385,1385.0,"City of Boston, MA, United States",United States,0.0,Government operations inventory,2012.0
+1386,1386.0,"City of Boulder, CO, United States",United States,1814978.0,Community inventories,2006.0
+1387,1387.0,"City of Boulder, CO, United States",United States,1835517.0,Community inventories,2007.0
+1388,1388.0,"City of Boulder, CO, United States",United States,1858034.0,Community inventories,2008.0
+1389,1389.0,"City of Boulder, CO, United States",United States,1785528.0,Community inventories,2009.0
+1390,1390.0,"City of Boulder, CO, United States",United States,1787820.0,Community inventories,2010.0
+1391,1391.0,"City of Boulder, CO, United States",United States,21314.0,Government operations inventory,2008.0
+1392,1392.0,"City of Boulder, CO, United States",United States,14177.0,Government operations inventory,2011.0
+1393,1393.0,"City of Burlington, VT, United States",United States,432423.0,Community inventories,2007.0
+1394,1394.0,"City of Burlington, VT, United States",United States,244122.0,Community inventories,2010.0
+1395,1395.0,"City of Burlington, VT, United States",United States,424668.167471173,Community inventories,2013.0
+1396,1396.0,"City of Burlington, VT, United States",United States,1862.8,Government operations inventory,2007.0
+1397,1397.0,"City of Charleston, SC, United States",United States,2029398.0,Community inventories,2002.0
+1398,1398.0,"City of Charleston, SC, United States",United States,2148563.0,Community inventories,2006.0
+1399,1399.0,"City of Charleston, SC, United States",United States,2129848.0,Community inventories,2010.0
+1400,1400.0,"City of Charleston, SC, United States",United States,9482.0,Government operations inventory,2002.0
+1401,1401.0,"City of Charleston, SC, United States",United States,9119.0,Government operations inventory,2006.0
+1402,1402.0,"City of Charleston, SC, United States",United States,9252.0,Government operations inventory,2010.0
+1403,1403.0,"City of Charlottesville, VA, United States",United States,701425.0,Community inventories,2011.0
+1404,1404.0,"City of Charlottesville, VA, United States",United States,5995.0,Government operations inventory,2011.0
+1405,1405.0,"City of Chicago, IL, United States",United States,33545576.0,Community inventories,2010.0
+1406,1406.0,"City of Chicago, IL, United States",United States,0.0,Government operations inventory,2010.0
+1407,1407.0,"City of Chula Vista, CA, United States",United States,969596.0,Community inventories,2010.0
+1408,1408.0,"City of Chula Vista, CA, United States",United States,955077.0,Community inventories,2012.0
+1409,1409.0,"City of Chula Vista, CA, United States",United States,6617.0,Government operations inventory,2009.0
+1410,1410.0,"City of Cincinnati, OH, United States",United States,8470477.0,Community inventories,2006.0
+1411,1411.0,"City of Cincinnati, OH, United States",United States,6146222.0,Community inventories,2009.0
+1412,1412.0,"City of Cincinnati, OH, United States",United States,20945.0,Government operations inventory,2006.0
+1413,1413.0,"City of Cincinnati, OH, United States",United States,28733.47,Government operations inventory,2009.0
+1414,1414.0,"City of Cleveland, OH, United States",United States,13517731.0,Community inventories,2010.0
+1415,1415.0,"City of Cleveland, OH, United States",United States,7682223.0,Community inventories,2015.0
+1416,1416.0,"City of Cleveland, OH, United States",United States,31572.0,Government operations inventory,2010.0
+1417,1417.0,"City of Cleveland, OH, United States",United States,30445.0,Government operations inventory,2011.0
+1418,1418.0,"City of Coconut Creek, FL, United States",United States,2165.0,Government operations inventory,2009.0
+1419,1419.0,"City of Coconut Creek, FL, United States",United States,1576.0,Government operations inventory,2012.0
+1420,1420.0,"City of Columbus, OH, United States",United States,34744.0,Government operations inventory,2005.0
+1421,1421.0,"City of Columbus, OH, United States",United States,3348520.0,Government operations inventory,2013.0
+1422,1422.0,"City of Des Moines, IA, United States",United States,2398445.0,Community inventories,2008.0
+1423,1423.0,"City of Des Moines, IA, United States",United States,2280469.0,Community inventories,2009.0
+1424,1424.0,"City of Des Moines, IA, United States",United States,2383621.0,Community inventories,2010.0
+1425,1425.0,"City of Des Moines, IA, United States",United States,2314404.0,Community inventories,2011.0
+1426,1426.0,"City of Des Moines, IA, United States",United States,2194871.0,Community inventories,2012.0
+1427,1427.0,"City of Des Moines, IA, United States",United States,0.0,Government operations inventory,2008.0
+1428,1428.0,"City of Des Moines, IA, United States",United States,0.0,Government operations inventory,2010.0
+1429,1429.0,"City of Des Moines, IA, United States",United States,0.0,Government operations inventory,2011.0
+1430,1430.0,"City of Des Moines, IA, United States",United States,0.0,Government operations inventory,2012.0
+1431,1431.0,"City of Duluth, MN, United States",United States,2702137.0,Community inventories,2008.0
+1432,1432.0,"City of Duluth, MN, United States",United States,3330.0,Government operations inventory,2008.0
+1433,1433.0,"City of El Cerrito, CA, United States",United States,133033.0,Community inventories,2005.0
+1434,1434.0,"City of El Cerrito, CA, United States",United States,951.0,Government operations inventory,2005.0
+1435,1435.0,"City of Emeryville, CA, United States",United States,169119.0,Community inventories,2014.0
+1436,1436.0,"City of Emeryville, CA, United States",United States,615.0,Government operations inventory,2004.0
+1437,1437.0,"City of Emeryville, CA, United States",United States,1014.0,Government operations inventory,2010.0
+1438,1438.0,"City of Emeryville, CA, United States",United States,1029.0,Government operations inventory,2014.0
+1439,1439.0,"City of Evanston, IL, United States",United States,1003807.0,Community inventories,2005.0
+1440,1440.0,"City of Evanston, IL, United States",United States,1000682.0,Community inventories,2006.0
+1441,1441.0,"City of Evanston, IL, United States",United States,1047717.0,Community inventories,2007.0
+1442,1442.0,"City of Evanston, IL, United States",United States,1045590.0,Community inventories,2008.0
+1443,1443.0,"City of Evanston, IL, United States",United States,1006381.0,Community inventories,2009.0
+1444,1444.0,"City of Evanston, IL, United States",United States,1031257.0,Community inventories,2010.0
+1445,1445.0,"City of Evanston, IL, United States",United States,967656.0,Community inventories,2011.0
+1446,1446.0,"City of Evanston, IL, United States",United States,922582.0,Community inventories,2012.0
+1447,1447.0,"City of Evanston, IL, United States",United States,863837.0,Community inventories,2013.0
+1448,1448.0,"City of Evanston, IL, United States",United States,812660.0,Community inventories,2014.0
+1449,1449.0,"City of Evanston, IL, United States",United States,2996.0,Government operations inventory,2005.0
+1450,1450.0,"City of Evanston, IL, United States",United States,3049.0,Government operations inventory,2006.0
+1451,1451.0,"City of Evanston, IL, United States",United States,3288.0,Government operations inventory,2007.0
+1452,1452.0,"City of Evanston, IL, United States",United States,2551.0,Government operations inventory,2008.0
+1453,1453.0,"City of Evanston, IL, United States",United States,3059.0,Government operations inventory,2009.0
+1454,1454.0,"City of Evanston, IL, United States",United States,2571.0,Government operations inventory,2010.0
+1455,1455.0,"City of Evanston, IL, United States",United States,2982.0,Government operations inventory,2011.0
+1456,1456.0,"City of Evanston, IL, United States",United States,2823.0,Government operations inventory,2012.0
+1457,1457.0,"City of Evanston, IL, United States",United States,2902.0,Government operations inventory,2013.0
+1458,1458.0,"City of Evanston, IL, United States",United States,2966.0,Government operations inventory,2014.0
+1459,1459.0,"City of Flagstaff, AZ, United States",United States,1667566.0,Community inventories,2005.0
+1460,1460.0,"City of Flagstaff, AZ, United States",United States,1268261.0,Community inventories,2009.0
+1461,1461.0,"City of Flagstaff, AZ, United States",United States,1119076.0,Community inventories,2010.0
+1462,1462.0,"City of Flagstaff, AZ, United States",United States,1190809.0,Community inventories,2012.0
+1463,1463.0,"City of Flagstaff, AZ, United States",United States,8571.0,Government operations inventory,2005.0
+1464,1464.0,"City of Flagstaff, AZ, United States",United States,12487.0,Government operations inventory,2009.0
+1465,1465.0,"City of Flagstaff, AZ, United States",United States,9651.0,Government operations inventory,2010.0
+1466,1466.0,"City of Flagstaff, AZ, United States",United States,7697.0,Government operations inventory,2011.0
+1467,1467.0,"City of Flagstaff, AZ, United States",United States,7977.0,Government operations inventory,
+1468,1468.0,"City of Flint, MI, United States",United States,0.0,Government operations inventory,2013.0
+1469,1469.0,"City of Fort Collins, CO, United States",United States,2103201.0,Community inventories,2015.0
+1470,1470.0,"City of Fort Collins, CO, United States",United States,2042410.0,Community inventories,2016.0
+1471,1471.0,"City of Fort Collins, CO, United States",United States,2055587.0,Community inventories,2016.0
+1472,1472.0,"City of Fremont, CA, United States",United States,1863221.0,Community inventories,2005.0
+1473,1473.0,"City of Fremont, CA, United States",United States,3280.0,Government operations inventory,2005.0
+1474,1474.0,"City of Grand Rapids, MI, United States",United States,2015648.0,Community inventories,2009.0
+1475,1475.0,"City of Grand Rapids, MI, United States",United States,7147.0,Government operations inventory,2009.0
+1476,1476.0,"City of Hawthorne, CA, United States",United States,412510.0,Community inventories,2007.0
+1477,1477.0,"City of Hawthorne, CA, United States",United States,1288.0,Government operations inventory,2007.0
+1478,1478.0,"City of Hillsboro, OR, United States",United States,2440.0,Government operations inventory,2007.0
+1479,1479.0,"City of Hillsboro, OR, United States",United States,1992.0,Government operations inventory,2008.0
+1480,1480.0,"City of Hillsboro, OR, United States",United States,2174.0,Government operations inventory,2009.0
+1481,1481.0,"City of Houston, TX, United States",United States,91639.0,Government operations inventory,2005.0
+1482,1482.0,"City of Houston, TX, United States",United States,89439.0,Government operations inventory,2010.0
+1483,1483.0,"City of Keene, NH, United States",United States,418566.0,Community inventories,2008.0
+1484,1484.0,"City of Keene, NH, United States",United States,1640.0,Government operations inventory,2008.0
+1485,1485.0,"City of Knoxville, TN, United States",United States,4214983.0,Community inventories,2005.0
+1486,1486.0,"City of Knoxville, TN, United States",United States,30829.0,Government operations inventory,2005.0
+1487,1487.0,"City of Las Cruces, NM, United States",United States,17039.0,Government operations inventory,2013.0
+1488,1488.0,"City of Las Vegas, NV, United States",United States,27803600.0,Community inventories,2011.0
+1489,1489.0,"City of Las Vegas, NV, United States",United States,94803102.0,Community inventories,2012.0
+1490,1490.0,"City of Las Vegas, NV, United States",United States,39892.0,Government operations inventory,2011.0
+1491,1491.0,"City of Las Vegas, NV, United States",United States,0.0,Government operations inventory,2012.0
+1492,1492.0,"City of Los Altos, CA, United States",United States,355.0,Government operations inventory,2005.0
+1493,1493.0,"City of Manhattan Beach, CA, United States",United States,338698.0,Community inventories,2005.0
+1494,1494.0,"City of Manhattan Beach, CA, United States",United States,332020.0,Community inventories,2007.0
+1495,1495.0,"City of Manhattan Beach, CA, United States",United States,295671.0,Community inventories,2012.0
+1496,1496.0,"City of Manhattan Beach, CA, United States",United States,2551.0,Government operations inventory,2005.0
+1497,1497.0,"City of Manhattan Beach, CA, United States",United States,1823.0,Government operations inventory,2007.0
+1498,1498.0,"City of Martinez, CA, United States",United States,521719.0,Community inventories,2005.0
+1499,1499.0,"City of Martinez, CA, United States",United States,2088.0,Government operations inventory,2005.0
+1500,1500.0,"City of Miami Beach, FL, United States",United States,1117845.0,Community inventories,2014.0
+1501,1501.0,"City of Miami Beach, FL, United States",United States,1223848.0,Community inventories,2014.0
+1502,1502.0,"City of Miami Beach, FL, United States",United States,0.0,Government operations inventory,2014.0
+1503,1503.0,"City of Miami, FL, United States",United States,4704593.0,Community inventories,2006.0
+1504,1504.0,"City of Miami, FL, United States",United States,22674.0,Government operations inventory,2007.0
+1505,1505.0,"City of Minneapolis, MN, United States",United States,5816425.0,Community inventories,2006.0
+1506,1506.0,"City of Minneapolis, MN, United States",United States,5879301.0,Community inventories,2007.0
+1507,1507.0,"City of Minneapolis, MN, United States",United States,5704355.0,Community inventories,2008.0
+1508,1508.0,"City of Minneapolis, MN, United States",United States,5275337.0,Community inventories,2009.0
+1509,1509.0,"City of Minneapolis, MN, United States",United States,5095765.0,Community inventories,2010.0
+1510,1510.0,"City of Minneapolis, MN, United States",United States,5353548.0,Community inventories,2011.0
+1511,1511.0,"City of Minneapolis, MN, United States",United States,4965659.0,Community inventories,2012.0
+1512,1512.0,"City of Minneapolis, MN, United States",United States,0.0,Government operations inventory,2014.0
+1513,1513.0,"City of North Little Rock, AR, United States",United States,1038747.0,Community inventories,2008.0
+1514,1514.0,"City of North Little Rock, AR, United States",United States,4402.13,Government operations inventory,2008.0
+1515,1515.0,"City of Oakland, CA, United States",United States,1235265.0,Community inventories,2005.0
+1516,1516.0,"City of Oakland, CA, United States",United States,2545920.0,Community inventories,2013.0
+1517,1517.0,"City of Olympia, WA, United States",United States,543888.0,Community inventories,2010.0
+1518,1518.0,"City of Olympia, WA, United States",United States,618898.0,Community inventories,2010.0
+1519,1519.0,"City of Olympia, WA, United States",United States,557309.0,Community inventories,2011.0
+1520,1520.0,"City of Olympia, WA, United States",United States,488993.0,Community inventories,2012.0
+1521,1521.0,"City of Olympia, WA, United States",United States,388565.0,Community inventories,2013.0
+1522,1522.0,"City of Olympia, WA, United States",United States,485041.0,Community inventories,2013.0
+1523,1523.0,"City of Philadelphia, PA, United States",United States,17584791.0,Community inventories,2010.0
+1524,1524.0,"City of Philadelphia, PA, United States",United States,208503.0,Government operations inventory,2010.0
+1525,1525.0,"City of Portland, OR, United States",United States,8549827.0,Community inventories,1990.0
+1526,1526.0,"City of Portland, OR, United States",United States,9135411.0,Community inventories,1995.0
+1527,1527.0,"City of Portland, OR, United States",United States,9520456.0,Community inventories,1999.0
+1528,1528.0,"City of Portland, OR, United States",United States,9872228.0,Community inventories,2000.0
+1529,1529.0,"City of Portland, OR, United States",United States,8318465.0,Community inventories,2005.0
+1530,1530.0,"City of Portland, OR, United States",United States,8558015.0,Community inventories,2006.0
+1531,1531.0,"City of Portland, OR, United States",United States,8386247.0,Community inventories,2007.0
+1532,1532.0,"City of Portland, OR, United States",United States,8121788.0,Community inventories,2008.0
+1533,1533.0,"City of Portland, OR, United States",United States,7890029.0,Community inventories,2009.0
+1534,1534.0,"City of Portland, OR, United States",United States,7767916.0,Community inventories,2010.0
+1535,1535.0,"City of Portland, OR, United States",United States,78991033.0,Community inventories,2011.0
+1536,1536.0,"City of Portland, OR, United States",United States,76134660.0,Community inventories,2012.0
+1537,1537.0,"City of Portland, OR, United States",United States,76363875.0,Community inventories,2013.0
+1538,1538.0,"City of Richmond, VA, United States",United States,3377616.0,Community inventories,2008.0
+1539,1539.0,"City of Richmond, VA, United States",United States,3188954.0,Community inventories,2013.0
+1540,1540.0,"City of Richmond, VA, United States",United States,91422.0,Government operations inventory,2008.0
+1541,1541.0,"City of Richmond, VA, United States",United States,43825.0,Government operations inventory,2013.0
+1542,1542.0,"City of Rock Hill, SC, United States",United States,5599.0,Government operations inventory,2005.0
+1543,1543.0,"City of San Rafael, CA, United States",United States,237120.0,Community inventories,2010.0
+1544,1544.0,"City of San Rafael, CA, United States",United States,864.0,Government operations inventory,2010.0
+1545,1545.0,"City of Santa Barbara, CA, United States",United States,538590.0454,Community inventories,2015.0
+1546,1546.0,"City of Santa Fe, NM, United States",United States,1088140.0,Community inventories,2015.0
+1547,1547.0,"City of Santa Fe, NM, United States",United States,1949505.0,Community inventories,2015.0
+1548,1548.0,"City of Santa Monica, CA, United States",United States,1110315.0,Community inventories,2015.0
+1549,1549.0,"City of Santa Monica, CA, United States",United States,16416.0,Government operations inventory,1990.0
+1550,1550.0,"City of Santa Monica, CA, United States",United States,0.0,Government operations inventory,2015.0
+1551,1551.0,"City of Seattle, WA, United States",United States,7041574.0,Community inventories,2008.0
+1552,1552.0,"City of Seattle, WA, United States",United States,6132000.0,Community inventories,2012.0
+1553,1553.0,"City of Seattle, WA, United States",United States,36300.0,Government operations inventory,2010.0
+1554,1554.0,"City of Southfield, MI, United States",United States,4531.0,Government operations inventory,2008.0
+1555,1555.0,"City of Sunnyvale, CA, United States",United States,1266570.0,Community inventories,2008.0
+1556,1556.0,"City of Tacoma, WA, United States",United States,1681564.0,Community inventories,2005.0
+1557,1557.0,"City of Tacoma, WA, United States",United States,1558715.0,Community inventories,2012.0
+1558,1558.0,"City of Tacoma, WA, United States",United States,36641.0,Government operations inventory,2005.0
+1559,1559.0,"City of Tacoma, WA, United States",United States,35071.0,Government operations inventory,2012.0
+1560,1560.0,"City of Tucson, AZ, United States",United States,7252776.0,Community inventories,2005.0
+1561,1561.0,"City of Tucson, AZ, United States",United States,7286349.0,Community inventories,2006.0
+1562,1562.0,"City of Tucson, AZ, United States",United States,7560728.0,Community inventories,2007.0
+1563,1563.0,"City of Tucson, AZ, United States",United States,7289722.0,Community inventories,2008.0
+1564,1564.0,"City of Tucson, AZ, United States",United States,16690.0,Government operations inventory,2005.0
+1565,1565.0,"City of Tucson, AZ, United States",United States,18501.0,Government operations inventory,2006.0
+1566,1566.0,"City of Tucson, AZ, United States",United States,17750.0,Government operations inventory,2007.0
+1567,1567.0,"City of Tucson, AZ, United States",United States,20247.0,Government operations inventory,2008.0
+1568,1568.0,"City of University City, MO, United States",United States,2156.0,Government operations inventory,2005.0
+1569,1569.0,"City of Urbana, IL, United States",United States,447535.0,Community inventories,2015.0
+1570,1570.0,"City of Urbana, IL, United States",United States,455485.0,Community inventories,2015.0
+1571,1571.0,"City of Urbana, IL, United States",United States,1088.0,Government operations inventory,2014.0
+1572,1572.0,"City of Urbana, IL, United States",United States,2032605.0,Government operations inventory,2017.0
+1573,1573.0,"City of Waukesha, WI, United States",United States,0.0,Government operations inventory,2010.0
+1574,1574.0,"City of West Palm Beach, FL, United States",United States,1484767.0,Community inventories,2013.0
+1575,1575.0,"City of West Palm Beach, FL, United States",United States,4206494.0,Community inventories,2013.0
+1576,1576.0,"County of Lexington-Fayette, KY, United States",United States,6574968.0,Community inventories,2011.0
+1577,1577.0,"Cuyahoga County, OH, United States",United States,24313210.79,Community inventories,2016.0
+1578,1578.0,"Metropolitan Government of Nashville and Davidson County, TN, United States",United States,22180577.0,Community inventories,2005.0
+1579,1579.0,"Metropolitan Government of Nashville and Davidson County, TN, United States",United States,197768.0,Government operations inventory,2005.0
+1580,1580.0,"Miami-Dade County, FL, United States",United States,34756803.0,Community inventories,2013.0
+1581,1581.0,"Miami-Dade County, FL, United States",United States,39883335.0,Community inventories,2015.0
+1582,1582.0,"Santa Cruz County, CA, United States",United States,791278.0,Community inventories,2009.0
+1583,1583.0,"Santa Cruz County, CA, United States",United States,22008.0,Government operations inventory,2009.0
+1584,1584.0,"Township of Hamilton, NJ, United States",United States,1582941.0,Community inventories,2008.0
+1585,1585.0,"Township of Hamilton, NJ, United States",United States,6340.0,Government operations inventory,1990.0
+1586,1586.0,"Township of Hamilton, NJ, United States",United States,6590.0,Government operations inventory,2007.0
+1587,1587.0,"Village of Pinecrest, FL, United States",United States,256415.0,Community inventories,2010.0
+1588,1588.0,"Village of Pinecrest, FL, United States",United States,273819.0,Community inventories,2012.0
+1589,1589.0,"Chacao Municipality, Venezuela",Venezuela,237403.0,Community inventories,2013.0
+1590,1590.0,"Chacao Municipality, Venezuela",Venezuela,690.0,Government operations inventory,2013.0
+1591,,"City of Santa Rosa, Laguna, Philippines",Philippines,1358351.0,Community inventories,2010.0
+1592,,"City of Santa Rosa, Laguna, Philippines",Philippines,570.1403937,Government operations inventory,2010.0
