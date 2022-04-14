@@ -9,7 +9,18 @@ require(formatR)
 require(corrr)
 require(rstudioapi)
 library(tidytext)
+library(wesanderson)
+library(hrbrthemes)
+library(tidyverse)
+library(ClimActor)
+library(stargazer)
+library(patchwork)
 
+# setwd
+setwd("/Users/angelhsu/Documents/GitHub/IAD_blockchain")
+
+# source
+source("src/reorder_within.R")
 
 # Read metadata
 metadata <- read.csv("new_metadata.csv")
@@ -48,7 +59,7 @@ f_files <- intersect(files, files_2) # these are just the NDCs
 
 
 
-words_rm <- read.csv("./IAD_paper2022/initial_stopwords-MCS.csv", stringsAsFactors = FALSE) # had to add stringAsFactors=FALSE
+words_rm <- read.csv("NDCs/IAD_paper2022/initial_stopwords-MCS.csv", stringsAsFactors = FALSE) # had to add stringAsFactors=FALSE
 words_rm <- words_rm[words_rm$keep_stopword=="yes",]
 stopwords <- c(words_rm$stopwords)
 
@@ -78,7 +89,7 @@ htmls <- gsub(" , ", "", htmls)
 
 
 
-tmdf<-read.csv("./IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE)
+tmdf<-read.csv("NDCs/IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE)
 toMatch <- c(tmdf$NSA_word)
 
 # append the toMatch vector the list of stopwords
@@ -182,9 +193,25 @@ vocab_end <- unlist(lapply(seq(1, 124), n_words))
 
 write.csv(results2, "./IAD_paper2022/revised_cleaned_ndc_data.csv", row.names = FALSE)
 
-mtd_subset <- as.vector(unlist(results2['meta']))
+##### read in combined LTS/NDC Corpus
+results <- read_csv("Merged Texts NDC and LTS/merged_NDC_LTS_texts.csv")
 
-htmls_processed_2 <- textProcessor(documents=results, metadata=metadata[mtd_subset,], 
+# stefan previous code to provide identifier
+# mtd_subset <- as.vector(unlist(results2['meta']))
+
+### need to add metadata 
+# metadata_all <- results %>% dplyr::mutate(iso = substr(doc_name, 1,3)) %>%
+#                dplyr::select(iso, doc_name) %>%
+#                mutate(iso = toupper(iso), length=nchar(iso),
+#                       iso = case_when(length < 3 ~ NA, TRUE ~ iso)) %>%
+#                dplyr::select(-length) %>%
+#                write_csv("../Merged Texts NDC and LTS/metadata_all.csv") # then hand filled
+metadata_all <- read_csv("Merged Texts NDC and LTS/metadata_all.csv")
+
+# mutate text column in metadata_all
+metadata_all <- metadata_all %>% left_join(results %>% dplyr::select(text, doc_name))
+
+htmls_processed_2 <- textProcessor(documents=results$text, metadata=metadata_all,
                                    lowercase = TRUE, removestopwords=TRUE, 
                                    removenumbers = TRUE, removepunctuation = TRUE, 
                                    stem=F, wordLengths=c(4,20),
@@ -201,15 +228,16 @@ prepped <- prepDocuments(htmls_processed_2$documents,
 
 
 # SAVE CORPUS
-save(prepped, file = "./IAD_paper2022/Corpora/NDC_corpus_STM.Rdata")
+save(prepped, file = "Merged Texts NDC and LTS/Corpora/NDC_LTS_corpus_STM.Rdata")
 
+### test k=6 and k=9 as well as Spectral/LDA 
 topic_search <- stm::searchK(prepped$documents, 
                              prepped$vocab,
                              K = c(4,5,6,7,8,9,10,11,12,13,14,15), 
-                             init.type="LDA",
+                             init.type="Spectral",
                              N=floor(0.5*length(prepped$documents)), 
                              proportion=0.5, 
-                             cores=4)
+                             cores=4, seed=1234)
 
 
 plot(topic_search)
@@ -217,28 +245,34 @@ plot(topic_search)
 
 stm_covariate_1 <- stm(documents=prepped$documents, 
                      vocab=prepped$vocab,
-                     K = 6, 
+                     K = 9, 
                      data=prepped$meta, 
                      init.type="Spectral", 
                      verbose=FALSE, 
                      seed=1234)
 
-labelTopics(stm_covariate_1, c(1:6))
+labelTopics(stm_covariate_1, c(1:9))
 
+pdf("plots/ndc_lts_top_topics_9_topic.pdf", width=8.5)
 par(mfrow=c(1,1))
 plot(stm_covariate_1, type = "summary")
+dev.off()
 
 # ap_documents <- tidy(stm_covariate_1, matrix = "gamma") %>%
 #   as.data.frame()
   
 # write.csv(ap_documents,"document_topic_prob_k=8.csv")
 
+# write out results
+actor_stm <- data.frame(prepped$meta, stm_covariate_1$theta)
 
-metadata_subset <- metadata[metadata$X %in% results2$meta,]
+# add a column that puts the top topic for each actor
+for(i in 1:nrow(actor_stm)){
+  actor_stm$top_topic[i] <- which.max(actor_stm[i,colnames(actor_stm[,grep("X[0-9]", colnames(actor_stm))])])
+}
 
-results_stm <- make.dt(stm_covariate_1, meta=metadata_subset)
-head(results_stm)
-write.csv(results_stm, "./IAD_paper2022/results_stm_iter4_k=6.csv")
+#write out file
+write_csv(actor_stm, "Merged Texts NDC and LTS/actor_stm.csv")
 
 corrs <- topicCorr(stm_covariate_1, 
           method = c("simple", "huge"), 
@@ -246,43 +280,34 @@ corrs <- topicCorr(stm_covariate_1,
           verbose = TRUE)
 
 
+pdf("plots/ndc_lts_topic_corrs.pdf")
 plot(corrs, main = "Topic Correlations")
+dev.off()
 
+shortdoc <- sapply(prepped$meta$text, substring, 1, 500)
+shortdoc <- paste(prepped$meta$doc_name,
+                  prepped$meta$iso,
+                  prepped$meta$doc_type,
+                  ' - ',
+                  shortdoc)
 
-shortdoc <- sapply(results, substring, 1, 350)
-shortdoc <- gsub(" na ", " ", shortdoc)
-shortdoc <- unname(shortdoc)
-shortdoc <- gsub("^ ", "", shortdoc)
-
-
-make_shortdoc <- function(id, number) {
-  temp <- unique(unlist(strsplit(results[id], "[.]")))
-  return(temp)
+### AH revision - looping through to export word clouds
+K <- 9
+for (i in 1:K) {
+  png(filename=paste("Merged Texts NDC and LTS/figures/", i, "word_cloud.png", sep=""))
+  stm::cloud(stm_covariate_1, topic=i, max.words=20)
+  dev.off()
+  
+  png(filename=paste("Merged Texts NDC and LTS/figures/", i, "word_samples.png", sep=""), height=700, width=700)
+  thoughts1 <- findThoughts(stm_covariate_1, texts=shortdoc, n=10, topics=c(i))
+  plotQuote(thoughts1$docs[[1]][c(1,2,3,5)], width=80, text.cex=0.9)
+  dev.off()
 }
 
-first.sentence <- unlist(lapply(c(1:length(results)), make_shortdoc))
-first.sentence <- first.sentence[nchar(first.sentence) < 500]
-
-align.meta <- data.frame(meta=first.sentence)
-first.sentence <- textProcessor(documents=first.sentence, metadata=align.meta, 
-                                lowercase = TRUE, removestopwords=TRUE, 
-                                removenumbers = TRUE, removepunctuation = TRUE, 
-                                stem=F, wordLengths=c(4,20),
-                                striphtml = TRUE, language = "en", verbose=F, 
-                                customstopwords=stopwords)
-
-first.sentence <- alignCorpus(first.sentence, prepped$vocab)
-
-l <- fitNewDocuments(model = stm_covariate_1, 
-                     documents = first.sentence$documents, 
-                     origData = htmls_processed_2$meta)
-
-first.sentence$meta <- gsub("\\s+{1,}", " ", first.sentence$meta)
-
 # TOPIC 1
-# pdf(file = "./figures/word-cloud/topic_1_cloud.pdf", width=6,height=6)
-# dev.off()
+pdf("Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_1_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, topic = 1, max.words = 18)
+dev.off()
 
 # theta = matrix, shows you the probability of a document belonging to a topic
 
@@ -294,9 +319,9 @@ plotQuote(top_n[1:8],
 
 
 # TOPIC 2
-stm::cloud(stm_covariate_1, 
-           topic = 2, 
-           max.words = 25)
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_2_cloud.pdf", width=6,height=6)
+stm::cloud(stm_covariate_1, topic = 2, max.words = 18)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,2] > 0.9)]
 plotQuote(top_n, 
@@ -306,9 +331,11 @@ plotQuote(top_n,
 
 
 # TOPIC 3
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_3_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 3, 
            max.words = 25)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,3] > 0.95)]
 plotQuote(top_n[1:8], 
@@ -318,9 +345,11 @@ plotQuote(top_n[1:8],
 
 
 # TOPIC 4
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_4_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 4, 
            max.words = 20)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,4] > 0.95)]
 plotQuote(top_n[c(1,2,7,8,9,15)], 
@@ -329,9 +358,11 @@ plotQuote(top_n[c(1,2,7,8,9,15)],
           main = "Topic #4 Quotes")
 
 # TOPIC 5
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_5_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 5, 
            max.words = 20)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,5] > 0.8)]
 plotQuote(top_n[1:8], 
@@ -341,9 +372,11 @@ plotQuote(top_n[1:8],
 
 
 # TOPIC 6
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_6_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 6, 
            max.words = 25)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,6] > 0.9)]
 plotQuote(top_n[1:8], 
@@ -352,9 +385,11 @@ plotQuote(top_n[1:8],
           main = "Topic #6 Quotes")
 
 # TOPIC 7
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_7_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 7, 
            max.words = 25)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,7] > 0.9)]
 plotQuote(top_n[1:8], 
@@ -363,9 +398,11 @@ plotQuote(top_n[1:8],
           main = "Topic #7 Quotes")
 
 # TOPIC 8
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_8_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 8, 
            max.words = 25)
+dev.off()
 
 top_n <- first.sentence$meta[which(l$theta[,8] > 0.9)]
 plotQuote(top_n[1:8], 
@@ -375,34 +412,371 @@ plotQuote(top_n[1:8],
 
 
 # TOPIC 9
+pdf(file = "Merged Texts NDC and LTS/figures/ndc_lts_word-cloud/topic_9_cloud.pdf", width=6,height=6)
 stm::cloud(stm_covariate_1, 
            topic = 9, 
            max.words = 25)
+dev.off()
 
 
-# TOPIC 10
-stm::cloud(stm_covariate_1, 
-           topic = 10, 
-           max.words = 25)
+#### PLOTS ####
+# mean topic prevalence by document type 
+# top terms plot
+topics <- tidy(stm_covariate_1)
 
-# TOPIC 11
-stm::cloud(stm_covariate_1, 
-           topic = 11, 
-           max.words = 25)
+top_terms <- topics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
 
-# TOPIC 12
-stm::cloud(stm_covariate_1, 
-           topic = 12, 
-           max.words = 25)
+pal <- wes_palette("Darjeeling1", 9, type = "continuous")
+
+cairo_pdf("plots/top_terms_per_topic_ndc_lts.pdf", width=9, height=9)
+top_terms %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  scale_fill_manual(values=pal)+
+  facet_wrap(~ topic, scales = "free") +
+  scale_y_reordered() +
+  theme_ipsum()
+dev.off()
+
+# add topic prevalences to actor stm
+actor_stm_new <- data.frame(prepped$meta, stm_covariate_1$theta)
+
+# match in developing/developed country and region
+dict <- read.csv("~/Documents/GitHub/text-analysis/input/country_dict.csv", header=T, stringsAsFactors = F)
+actor_stm_new$dev_develping <- dict$dev_develping[match(actor_stm_new$iso, dict$iso)]
+actor_stm_new$region <- dict$region[match(actor_stm_new$iso, dict$iso)]
+
+# some region are missing
+sel <- which(is.na(actor_stm_new$region))
+actor_stm_new$region[sel] <- "Europe"
+
+# some missing developed/developing
+sel <- which(is.na(actor_stm_new$dev_develping))
+actor_stm_new$dev_develping[sel] <- "developed"
+
+table(actor_stm_new$dev_develping) # 81 developed; 102 developing
+table(actor_stm_new$region)
+
+# plot 
+# pal <- wes_palette("Darjeeling1", 9, type = "continuous")
+
+cairo_pdf("plots/actor_region_distribution.pdf", width=4.5, height=6)
+actor_stm_new %>% group_by(region) %>%  mutate(count = n(), region=str_replace_all(region, "Latin America and Caribbean", "Latin America\nand Caribbean"),
+                                               region=str_replace_all(region, "East Asia and the Pacific", "East Asia\nand the Pacific"), region=str_replace_all(region, "Middle East and North Africa", 
+                                                                                                                                                                 "Middle East\nand North Africa"), region=str_replace_all(region, "Europe and Central Asia", "Europe\nand Central Asia"),) %>%
+  ggplot(aes(x=reorder(region, count), fill=region)) +
+  geom_bar(show.legend=FALSE, fill="#00A08A")+
+  geom_text(stat='count', aes(label=..count..), vjust=-1)+
+  #scale_fill_manual(values=pal) +
+  labs(y="Number of cities", x="") +
+  theme_ipsum() +
+  theme(axis.text.x = element_text(angle=90))
+dev.off()
+
+## Mean probability of topics plot
+labels <- c("Institutions",
+            "Public Institutions",
+            "Monitoring",
+            "Adaptation Planning",
+            "Women and Gender",
+            "Local Adaptation",
+            "Community adaptation",
+            "Public and Citizen Measures",
+            "Government and Business")
+
+df_labels <- data.frame(topic=seq(1,9,1), labels=labels)
+
+docs_gamma_stm <- tidy(stm_covariate_1, matrix = "gamma") # doesn't have the actors associated
 
 
-library(stringr)
-mean(str_length(results2$result))
-median(str_length(results2$result))
+# filter the actor_stm for relevant columns
+actor_stm_new$document <- seq(1:nrow(actor_stm_new))
 
-results2$result %>%
-  str_count(.,'\\w+') %>%
-  mean()
+# join the entity_types with the docs_gamma_stm
+docs_gamma_stm <- docs_gamma_stm %>%
+  left_join(actor_stm_new, by="document")
+
+# write out the means
+gamma_stats <- docs_gamma_stm %>%
+  group_by(dev_develping, topic) %>%
+  summarise(mean = mean(gamma), sd=sd(gamma))
+
+# stacked bar chart of topic prevalence
+
+gamma_stats$topic_label <- df_labels$labels[match(gamma_stats$topic, df_labels$topic)]
+
+# count of distinct developed/developing
+actor_stm_new %>% distinct(iso, dev_develping) %>% group_by(dev_develping) %>% summarise(count=n())
+
+cairo_pdf("plots/topic_gamma_by_actor.pdf", width=8.5, height=6)
+gamma_stats %>% mutate(dev_develping=str_replace_all(dev_develping, "developing", "developing (n=84)"),
+                       dev_develping=str_replace_all(dev_develping, "developed", "developed (n=41)")) %>%
+  ggplot(aes(x=topic, y=mean, fill=dev_develping))+
+  geom_bar(stat="identity")+
+  geom_text(aes(label=ifelse(dev_develping=="developed (n=41)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
+  scale_fill_manual(name="", values=c("#E63946","#6BB3DD"))+
+  scale_x_continuous(breaks=c(seq(1,30,1)))+
+  xlab("Topic Number")+
+  ylab("Mean Probability")+
+  theme_ipsum() +
+  theme(legend.position = c(0.15, 0.85), 
+        legend.title=element_blank(), legend.text=element_text(size=12),  legend.background = element_rect(linetype = 1, size = 0.25, colour = 1))
+dev.off()
+
+# by document type
+actor_stm_new %>% distinct(iso, doc_type) %>% group_by(doc_type) %>% summarise(count=n())
+
+gamma_stats <- docs_gamma_stm %>%
+  group_by(doc_type, topic) %>%
+  summarise(mean = mean(gamma), sd=sd(gamma))
+
+gamma_stats$topic_label <- df_labels$labels[match(gamma_stats$topic, df_labels$topic)]
+
+cairo_pdf("plots/topic_gamma_by_doc_type.pdf", width=8.5, height=6)
+gamma_stats %>% mutate(doc_type=str_replace_all(doc_type, "NDC", "NDC (n=118)"),
+                       doc_type=str_replace_all(doc_type, "LTS", "LTS (n=49)")) %>%
+  ggplot(aes(x=topic, y=mean, fill=doc_type))+
+  geom_bar(stat="identity")+
+  geom_text(aes(label=ifelse(doc_type=="LTS (n=49)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
+  scale_fill_manual(name="", values=c("#00A08A", "#F2AD00"))+
+  scale_x_continuous(breaks=c(seq(1,30,1)))+
+  xlab("Topic Number")+
+  ylab("Mean Probability")+
+  theme_ipsum() +
+  theme(legend.position = c(0.15, 0.85), 
+        legend.title=element_blank(), legend.text=element_text(size=12),  legend.background = element_rect(linetype = 1, size = 0.25, colour = 1))
+dev.off()
+
+### map plot
+require(rgeos)
+require(rgdal)
+map <- readOGR("~/Documents/GitHub/text-analysis/NDC STM/data/countries.geo.json")
+library(tidyr)
+library(broom)
+map <- gBuffer(map, byid=TRUE, width=0)
+worldRobinson <- spTransform(map, CRS("+proj=robin +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"))
+map <- gBuffer(worldRobinson, byid=TRUE, width=0)
+map.df <- invisible(tidy(map))
+map.df <- invisible(tidy(map, region = "name"))
+
+# clean names
+map.df$id[map.df$id == "United Republic of Tanzania"] <- "Tanzania"
+map.df$id[map.df$id == "Democratic Republic of the Congo"] <- "Dem. Rep. Congo"
+map.df$id[map.df$id == "Republic of Serbia"] <- "Serbia"
+
+# nsa references
+tmdf<-read.csv("NDCs/IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE) %>%
+      filter(!NSA_word %in% c("institution", "science", "tourist", "organization", "territory", "district","gender","citizen","youth", "districts"))
+
+nsa_reference <- results %>% mutate(NSA_general=case_when(str_detect(text, paste(tmdf$NSA_word, collapse="|")) ~ "Yes", TRUE ~ "No"),
+  Company=case_when(str_detect(text, "company|privatesect|corporation")~"Yes", TRUE ~ "No"),
+                                    Local_govt=case_when(str_detect(text, "city|cities|local government|town|municipality|county|province") ~ "Yes", TRUE ~ "No"),
+                                    NGOs=case_when(str_detect(text, "NGO|ngo|civil society|non-profit|non profit") ~ "Yes", TRUE ~ "No")) %>%
+  left_join(metadata_all %>% dplyr::select(iso, doc_name))
+
+facet_labels <-  c(
+  'Revised NDC'="Revised NDC (n=124)",
+  'LTS'="Long-term Strategy (n=59)")
+
+# bar chart showing mentions 
+cairo_pdf("plots/nsa_mentions_by_type.pdf", width=8.5, height=6)
+nsa_reference %>% pivot_longer(NSA_general:NGOs, names_to="NSA_type", values_to="Mention") %>%
+  filter(doc_type=="Revised NDC") %>%
+  count(NSA_type, doc_type, Mention) %>%    # Group by region and species, then count number in each group
+  mutate(n) %>%
+  ungroup() %>%
+  group_by(NSA_type, doc_type) %>%
+  mutate(n_group=n, pct=n/sum(n_group)*100) %>%
+  bind_rows(nsa_reference %>% pivot_longer(NSA_general:NGOs, names_to="NSA_type", values_to="Mention") %>%
+              filter(doc_type=="LTS") %>%
+              count(NSA_type, doc_type, Mention) %>%    # Group by region and species, then count number in each group
+              mutate(n) %>%
+              ungroup() %>%
+              group_by(NSA_type, doc_type) %>%
+              mutate(n_group=n, pct=n/sum(n_group)*100)) %>%
+  ggplot(aes(x=NSA_type, y=pct, fill=Mention))+
+  geom_col(stat="count") +
+   geom_text(aes(label=ifelse(doc_type=="LTS (n=49)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
+   scale_fill_manual(name="", values=c("#D73027", "#4575B4"))+
+#  scale_x_continuous(breaks=c(seq(1,30,1)))+
+  xlab("")+
+  ylab("Percentage")+
+  theme_ipsum() +
+  facet_wrap(~doc_type, labeller = as_labeller(facet_labels)) +
+  theme(legend.position = "bottom", 
+        legend.title=element_blank(), legend.text=element_text(size=12),  legend.background = element_rect(linetype = 1, size = 0.25, colour = 1))
+dev.off()
+
+# add country/iso to nsa reference
+nsa_reference_count <- nsa_reference %>% left_join(metadata_all %>% dplyr::select(iso, doc_name)) %>%
+                 gather("key", "value", c(Company, Local_govt, NGOs)) %>% 
+                 group_by(iso, key, value) %>%
+                 filter(value !="No") %>%
+                 summarise(n=n()) %>%
+                 group_by(iso) %>%
+                 mutate(total=sum(n), total=case_when(total > 3 ~ 3, TRUE ~ as.numeric(total)))
+
+nsa_reference_count$id <- country_dict$right[match(nsa_reference_count$iso, country_dict$iso)]
+
+nsa_reference_count <- nsa_reference_count %>% dplyr::rename("ref"="total")
+map.df <- map.df %>% left_join(nsa_reference_count) %>%
+          left_join(nsa_reference %>% dplyr::select(NSA_general, iso)) 
+
+map.df$ref[is.na(map.df$ref) & map.df$NSA_general == "Yes"] <- 4 
 
 
+map.df$ref[map.df$id == "Greenland"] <- NA
+map.df$ref[map.df$id == "Antarctica"] <- NA
+map.df$ref[map.df$id == "Western Sahara"] <- NA
 
+
+cairo_pdf("plots/map_nsa_references.pdf", width=11)
+map.df %>% mutate(ref = as.character(ref), ref = str_replace_all(ref, "1", "1xCompany/Local_govt/NGO"), ref=str_replace_all(ref, "2", "2xCompany/Local/govt/NGO"),
+                  ref = str_replace_all(ref, "3", "All: Company/Local_govt/NGO"),
+                  ref = str_replace_all(ref, "4", "Any NSA mention")) %>%
+ggplot(aes(x=long, y=lat)) +
+  geom_polygon(aes(group=group, fill = as.factor(ref)), color = "grey60", size=0.35)+
+  theme_void()+
+  scale_fill_brewer(palette="Pastel1", name = "Reference to NSA", na.value="grey95")+
+  theme(legend.box="horizontal", legend.position=c(0.5,0.175), legend.direction = "horizontal")+
+  guides(fill=guide_legend(title.position="top"))
+dev.off()
+
+# map that also has number of NGO actors labeled
+ngo_actors <- read_csv("Data Scraping COP2019/2019_NGO_country_stats.csv") %>%
+              rename("iso"= "ISO3", "country"="Country")
+
+# clean names
+ngo_actors <- clean_country_iso(ngo_actors, country_dict, iso = 3, clean_enc = F)
+ngo_actors <- fuzzify_country(ngo_actors, country_dict)
+
+map.df <- map.df %>% left_join(ngo_actors %>% dplyr::select(iso, "ngo_count"="Count"))
+
+# need centroids
+centroids <- read_csv("data/country_centroids.csv")
+centroids <- clean_country_iso(centroids, country_dict, iso = 3, clean_enc = F)
+centroids <- fuzzify_country(centroids, country_dict)
+centroids <- clean_country_iso(centroids, country_dict, iso = 3, clean_enc = F)
+
+# convert to robinson projection
+centroids <- st_as_sf(centroids, coords = c("longitude", "latitude"), crs=4326)
+centroids <- st_transform(centroids, crs = 54030) 
+
+centroids <- centroids %>% mutate(cent_lon = sf::st_coordinates(.)[,1],
+                                         cent_lat = sf::st_coordinates(.)[,2])
+
+# join 
+map.df <- map.df %>% left_join(centroids %>% dplyr::select(cent_lon, cent_lat, iso), by=c("iso")) 
+
+cairo_pdf("plots/map_nsa_references_ngos.pdf", width=11)
+map.df %>% mutate(ref = as.character(ref), ref = str_replace_all(ref, "1", "1xCompany/Local_govt/NGO"), ref=str_replace_all(ref, "2", "2xCompany/Local/govt/NGO"),
+                  ref = str_replace_all(ref, "3", "All: Company/Local_govt/NGO"),
+                  ref = str_replace_all(ref, "4", "Any NSA mention")) %>%
+  ggplot(aes(x=long, y=lat)) +
+  geom_polygon(aes(group=group, fill = as.factor(ref)), color = "grey60", size=0.35)+
+  geom_text(aes(label = ngo_count, x = cent_lon, y = cent_lat)) +
+  theme_void()+
+  scale_fill_brewer(palette="Pastel1", name = "Reference to NSA", na.value="grey95")+
+  theme(legend.box="horizontal", legend.position=c(0.5,0.175), legend.direction = "horizontal")+
+  guides(fill=guide_legend(title.position="top"))
+dev.off()
+
+### Descriptive stats
+corpus <- actor_stm_new %>% dplyr::select(iso:doc_type, dev_develping, region) %>% left_join(results %>% dplyr::select(text, doc_name)) %>%
+          mutate(doc_length=nchar(text))
+
+
+# summary stats ### doesn't work as expected
+corpus %>%
+  dplyr::select(doc_type, dev_develping, doc_length) %>%
+  split(. $doc_type) %>%
+  walk(~ stargazer(., type = "text" ,
+            title = "Summary Statistics by Document type", 
+            summary = TRUE, 
+            out = "output/ds_doctype.txt"))
+
+# by doc_type 
+corpus %>%
+  dplyr::select(doc_type, dev_develping, doc_length) %>%
+  group_by(doc_type) %>%
+  summarise(n=n(), min=min(doc_length), max=max(doc_length), mean=round(mean(doc_length),2), sd=round(sd(doc_length),2)) %>%
+  stargazer(.,                 # Export txt
+            summary = FALSE,
+            type = "text",
+            out = "output/ds_doctype.txt")
+
+# by dev/devlping
+corpus %>%
+  dplyr::select(doc_type, dev_develping, doc_length) %>%
+  group_by(dev_develping) %>%
+  summarise(n=n(), min=min(doc_length), max=max(doc_length), mean=round(mean(doc_length),2), sd=round(sd(doc_length),2)) %>%
+  stargazer(.,                 # Export txt
+            summary = FALSE,
+            type = "text",
+            out = "output/ds_dev_devlping.txt")
+
+# word collocation
+ndc_trigrams <- results %>%
+  filter(doc_type == "Revised NDC") %>%
+  unnest_tokens(trigram, text, token = "ngrams", n = 3) %>%
+  mutate(trigram = str_replace_all(trigram, "[:digit:]", "")) %>%
+  mutate_all(na_if,"") %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ") %>%
+  filter(nchar(word1) > 3, nchar(word2) > 3, nchar(word3) > 3) %>%
+  filter(!word1 %in% c(stopwords, stop_words$word, "^[:digit:]+$"),
+         !word2 %in% c(stopwords, stop_words$word, "^[:digit:]+$"),
+         !word3 %in% c(stopwords, stop_words$word, "^[:digit:]+$")) %>%
+  count(word1, word2, word3, sort = TRUE) %>%
+  filter(word1 != "", word2 !="", word3 !="") %>%
+  arrange(desc(n))
+
+lts_trigrams <- results %>%
+  filter(doc_type == "LTS") %>%
+  unnest_tokens(trigram, text, token = "ngrams", n = 3) %>%
+  mutate(trigram = str_replace_all(trigram, "[:digit:]", "")) %>%
+  mutate_all(na_if,"") %>%
+  separate(trigram, c("word1", "word2", "word3"), sep = " ") %>%
+  filter(nchar(word1) > 3, nchar(word2) > 3, nchar(word3) > 3) %>%
+  filter(!word1 %in% c(stopwords, stop_words$word, "^[:digit:]+$"),
+         !word2 %in% c(stopwords, stop_words$word, "^[:digit:]+$"),
+         !word3 %in% c(stopwords, stop_words$word, "^[:digit:]+$")) %>%
+  count(word1, word2, word3, sort = TRUE) %>%
+  filter(word1 != "", word2 !="", word3 !="") %>%
+  arrange(desc(n))
+
+# plots
+cairo_pdf("plots/word_collocations_ndc.pdf")
+ndc_trigrams_plot <- ndc_trigrams %>% mutate(trigrams = paste(word1, word2, word3, sep="-")) %>%
+  slice_max(order_by = n, n=25) %>%
+ggplot(aes(x=reorder(trigrams, n), y=n, fill="#E63946")) +
+  geom_col() + 
+  scale_fill_manual(values="#E63946", guide=FALSE)+
+  coord_flip() +
+  labs(x=NULL, y="Count",
+       title="NDCs")+
+  theme_ipsum()
+ndc_trigrams_plot
+dev.off()
+
+cairo_pdf("plots/word_collocations_lts.pdf")
+lts_trigrams_plot <- lts_trigrams %>% mutate(trigrams = paste(word1, word2, word3, sep="-")) %>%
+  filter(!str_detect(trigrams, "cidcidcid")) %>%
+  slice_max(order_by = n, n=25) %>%
+  ggplot(aes(x=reorder(trigrams, n), y=n, fill="#046C9A")) +
+  geom_col() + 
+  scale_fill_manual(values="#046C9A", guide=FALSE)+
+  coord_flip() +
+  labs(x=NULL, y="Count",
+       title="LTSs")+
+  theme_ipsum()
+lts_trigrams_plot
+dev.off()
+
+cairo_pdf("plots/word_collocations_both.pdf", width=11)
+ndc_trigrams_plot + lts_trigrams_plot
+dev.off()
