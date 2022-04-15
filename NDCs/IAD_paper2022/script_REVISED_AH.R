@@ -16,6 +16,7 @@ library(ClimActor)
 library(stargazer)
 library(patchwork)
 
+### This is a script adapted from Stefan's script_REVISED.R only focused on the combined NDC/LTS texts.
 # setwd
 setwd("/Users/angelhsu/Documents/GitHub/IAD_blockchain")
 
@@ -23,42 +24,16 @@ setwd("/Users/angelhsu/Documents/GitHub/IAD_blockchain")
 source("src/reorder_within.R")
 
 # Read metadata
-metadata <- read.csv("new_metadata.csv")
+# metadata <- read.csv("new_metadata.csv")
 
-emission <- read.csv("emission.csv")
-emission <- emission[emission$Year == 2014,]
+# emission <- read.csv("emission.csv")
+# emission <- emission[emission$Year == 2014,]
 
-countrypop <- read.csv("countrypop.csv", sep="\t") %>%
-  select("Country.Name", "X2016")
-
-
-
+# countrypop <- read.csv("countrypop.csv", sep="\t") %>%
+#  select("Country.Name", "X2016")
 set.seed(1234)
 
-folder= rstudioapi::getActiveDocumentContext()$path 
-setwd(dirname(dirname(folder)))
-print( getwd() )
-folder = getwd()
-pttrn <- 'revised'
-
-
-p <- 'EN'
-files_2 <- list.files(path = folder, pattern = p)
-
-files <- list.files(path=folder, pattern = pttrn)
-f_files <- intersect(files, files_2) # these are just the NDCs
-
-
-
-#filestocopy <- f_files
-#origindir <- c(getwd())
-#targetdir <- c("./IAD_paper2022/TARGET")
-#flist <- list.files(filestocopy, full.names = TRUE)
-#file.copy(filestocopy, targetdir)
-
-
-
-
+# stop words 
 words_rm <- read.csv("NDCs/IAD_paper2022/initial_stopwords-MCS.csv", stringsAsFactors = FALSE) # had to add stringAsFactors=FALSE
 words_rm <- words_rm[words_rm$keep_stopword=="yes",]
 stopwords <- c(words_rm$stopwords)
@@ -67,36 +42,21 @@ stopwords <- c(words_rm$stopwords)
 # stp <- data.frame(stopwords)
 # write.csv(stp, "initial_stopwords.csv", row.names = F)
 
+# tmdf<-read.csv("NDCs/IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE)
 
+# use NSA word list from Hsu, Brandt 2019 paper
+tmdf <- c("company", "non-governmental", "nongovernmental", "subnational", "NGO","non-government", "investor", "organization",
+          "investor", "city", "university", "corporation", "NGOs", "institution", "town", "municipality", "metropolis", "metropolitan",
+          "district", "province", "territory", "county", "college", "private sector", "local government", "civil society", "non-profit", "business",
+          "businesses")
 
-get_text <- function(entity){
-  con <- file(description=entity)
-  html <- readLines(con)
-  close(con)
-  return (html)
-  }
-
-htmls <- lapply(X=f_files,
-                FUN=get_text)
-
-htmls <- gsub("<(.|\n)*?>","",htmls)
-htmls <- gsub("\\\\","",htmls)
-htmls <- tolower(htmls)
-htmls <- gsub("`na` = ", "", htmls)
-htmls <- gsub('\\', "", htmls, fixed = T)
-htmls <- gsub('\\\"', "", htmls)
-htmls <- gsub(" , ", "", htmls)
-
-
-
-tmdf<-read.csv("NDCs/IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE)
-toMatch <- c(tmdf$NSA_word)
+toMatch <- tmdf
 
 # append the toMatch vector the list of stopwords
 
 stopwords <- append(stopwords, toMatch) 
 
-
+# Next, we convert multi-word keywords into one word for the "bag of words" approach to STM (as shown in `toreplace` and `replacewith`), remove special characters, and remove sentences that are less than 10 characters. For example, the phrase "capacity building" was transformed to "capacitbuilding" to be recognized as a unique phrase. Sentences were identified by punctuation and all sentences referencing NSAs formed the corpus. 
 
 toreplace <- c("\\\"", "\\\\n", "capacity building", "climate change adaptation",
                "industrial sector", "environmental sector", "transporation sector",
@@ -108,7 +68,7 @@ toreplace <- c("\\\"", "\\\\n", "capacity building", "climate change adaptation"
                "water resources", "waste water", "water quality", "water shortage", 
                "water conservation", "water efficiency", "water supply", "water scarcity", 
                "water security", "water management", "electricity",
-               "accompany", "accompanies", "[^[:alnum:][:blank:]+?&/\\-]")
+               "accompany", "accompanies", "[^[:alnum:][:blank:]+?&/\\-]", "public participation", "climate change")
 
 replacewith <- c("", "", "capacitbuilding", "climchangeadapt", "industrialsect", 
                  "envsect", "transpesect", "transpsect", "fuelsect", "fuelsect", 
@@ -118,84 +78,77 @@ replacewith <- c("", "", "capacitbuilding", "climchangeadapt", "industrialsect",
                  "waterresource", "waterresource", "waterresource", "wastewater", 
                  "waterquality", "watershortage", "waterconserv", "watereffic",
                  "watersupply", "watershortage", "watersecurity", "watermanage", 
-                 "electric", "coexist", "coexist", "")
+                 "electric", "coexist", "coexist", "", "publicparticipation", "climatechange")
 
 
 
 parse_sentences <- function(html, index) {
-  sentences <- unlist(strsplit(html[index],split="\\."))
+  sentences <-  unlist(strsplit(html[index],split="\\.")) 
+  # BoW replacement
   gsub.mult <- function(n) {
     sentences <<- gsub(toreplace[n], replacewith[n], sentences)
   }
   sentences <- lapply(c(1:length(toreplace)), gsub.mult)[[length(toreplace)]]
   sentences <- paste(sentences, ".")
-  
+  # removes sentences that have less than 10 characters
   for (sentence in sentences) {
     sentence <- sentence[nchar(sentence) > 10]
   }
+  # subsets sentences for NSA mentions
   subset_sentences<-function(Match){
     sentences[grep(Match,sentences)]}
   subsetted <- lapply(toMatch, subset_sentences)
   subsetted <- unlist(subsetted[lapply(subsetted, length)>0])
-  subsetted <- paste(subsetted, collapse ="")
+  subsetted <- paste(subsetted, collapse ="") # combines all sentences together
   return(subsetted)
 }
 
 
-
-results = data.frame(matrix(NA, nrow = length(f_files), ncol = 1))
-results_meta = data.frame(matrix(NA, nrow = length(f_files), ncol = 1))
+results = data.frame(matrix(NA, nrow = nrow(htmls), ncol = 1)) # previously length(f_files)
+results_meta = data.frame(matrix(NA, nrow = nrow(htmls), ncol = 1))
 colnames(results) <-c("result")
 colnames(results_meta) <- c("meta")
 
-for (i in c(1:length(f_files))) {
+for (i in 1:nrow(htmls)) {
   results$result[i] <- parse_sentences(htmls, i)
   results_meta$meta[i] <- i
 }
 
-
 results <- results$result[results$result != ""]
 
-results.df = data.frame(matrix(NA, nrow=length(f_files), ncol=2))
-colnames(results.df) <-c("result", "meta")
+# combine with metadata 
+results.df <- data.frame(text=results, doc_name=htmls_df$doc_name, doc_type=htmls_df$doc_type)
 
-for (i in c(1:length(f_files))) {
-  results.df$result[i] <- parse_sentences(htmls, i)
-  results.df$meta[i] <- i
-}
+write.csv(results.df, "Parsed_ndc_lts_combined_data.csv", row.names = FALSE)
 
-write.csv(results.df, "./IAD_paper2022/REVISED_ndc_data.csv", row.names = FALSE)
-
-results2 <- read.csv("./IAD_paper2022/REVISED_ndc_data.csv", stringsAsFactors = FALSE)
+results2 <- read_csv("Parsed_ndc_lts_combined_data.csv")
 results2 <- results2[!results2$result == "",]
-
 
 results <- gsub("\\s+na\\s+|na\\s+", " ", results2$result)
 
+## AH removed this part for now - summary stats calculated later
+#n_words <- function(i) {
+#  l <- data.frame(words = unlist(strsplit(as.character(results2$result[i]), " ")))
+#  return(nrow(l)) }
 
-n_words <- function(i) {
-  l <- data.frame(words = unlist(strsplit(as.character(results2$result[i]), " ")))
-  return(nrow(l)) }
+#lengths <- unlist(lapply(seq(1, 124), n_words))
 
-lengths <- unlist(lapply(seq(1, 124), n_words))
+# additional cleaning - not sure why this is done here
+results2$result <- as.character(results2$text)
+results2$result <- gsub(" na ", " ", results2$text)
+results2$result <- gsub("\\s+", " ", results2$text)
+results2$result <- gsub("[.]", "", results2$text)
 
-results2$result <- as.character(results2$result)
-results2$result <- gsub(" na ", " ", results2$result)
-results2$result <- gsub("\\s+", " ", results2$result)
-results2$result <- gsub("[.]", "", results2$result)
+# vocab_size <- unlist(lapply(seq(1, 124), n_words))
 
-vocab_size <- unlist(lapply(seq(1, 124), n_words))
+# lengths_begin <- unlist(lapply(seq(1, 124), n_words))
 
-lengths_begin <- unlist(lapply(seq(1, 124), n_words))
-
-vocab_end <- unlist(lapply(seq(1, 124), n_words))
+# vocab_end <- unlist(lapply(seq(1, 124), n_words))
 
 
-write.csv(results2, "./IAD_paper2022/revised_cleaned_ndc_data.csv", row.names = FALSE)
+write.csv(results2, "revised_cleaned_ndc_data.csv", row.names = FALSE)
 
-##### read in combined LTS/NDC Corpus
-results <- read_csv("Merged Texts NDC and LTS/merged_NDC_LTS_texts.csv")
-
+results2 <- read_csv("revised_cleaned_ndc_data.csv")
 # stefan previous code to provide identifier
 # mtd_subset <- as.vector(unlist(results2['meta']))
 
@@ -206,12 +159,21 @@ results <- read_csv("Merged Texts NDC and LTS/merged_NDC_LTS_texts.csv")
 #                       iso = case_when(length < 3 ~ NA, TRUE ~ iso)) %>%
 #                dplyr::select(-length) %>%
 #                write_csv("../Merged Texts NDC and LTS/metadata_all.csv") # then hand filled
-metadata_all <- read_csv("Merged Texts NDC and LTS/metadata_all.csv")
+
+### AH STARTED HERE
+##### read in combined LTS/NDC Corpus
+results2 <- read_csv("Merged Texts NDC and LTS/merged_NDC_LTS_texts.csv") 
 
 # mutate text column in metadata_all
-metadata_all <- metadata_all %>% left_join(results %>% dplyr::select(text, doc_name))
+metadata_all <- read_csv("Merged Texts NDC and LTS/metadata_all.csv")
 
-htmls_processed_2 <- textProcessor(documents=results$text, metadata=metadata_all,
+metadata_all <- metadata_all %>% left_join(results2 %>% dplyr::select(result, doc_name))
+
+### additional cleaning - BoW replacements
+results2 <- results2 %>% mutate(text = str_replace_all(text, "public participation", "publicparticipation"),
+                                text = str_replace_all(text, "climate change", "climatechange"))
+
+htmls_processed_2 <- textProcessor(documents=results2$text, metadata=metadata_all,
                                    lowercase = TRUE, removestopwords=TRUE, 
                                    removenumbers = TRUE, removepunctuation = TRUE, 
                                    stem=F, wordLengths=c(4,20),
@@ -228,7 +190,7 @@ prepped <- prepDocuments(htmls_processed_2$documents,
 
 
 # SAVE CORPUS
-save(prepped, file = "Merged Texts NDC and LTS/Corpora/NDC_LTS_corpus_STM.Rdata")
+save(prepped, file = "Merged Texts NDC and LTS/Corpora/NDC_LTS_corpus_STM_041522.Rdata")
 
 ### test k=6 and k=9 as well as Spectral/LDA 
 topic_search <- stm::searchK(prepped$documents, 
@@ -240,7 +202,7 @@ topic_search <- stm::searchK(prepped$documents,
                              cores=4, seed=1234)
 
 
-plot(topic_search)
+plot(topic_search) # 041522 - looks like 8 topics for semantic coherence
 
 
 stm_covariate_1 <- stm(documents=prepped$documents, 
@@ -251,11 +213,20 @@ stm_covariate_1 <- stm(documents=prepped$documents,
                      verbose=FALSE, 
                      seed=1234)
 
-labelTopics(stm_covariate_1, c(1:9))
+stm_covariate_2 <- stm(documents=prepped$documents, 
+                       vocab=prepped$vocab,
+                       K = 8, 
+                       data=prepped$meta, 
+                       init.type="Spectral", 
+                       verbose=FALSE, 
+                       seed=1234)
 
-pdf("plots/ndc_lts_top_topics_9_topic.pdf", width=8.5)
+labelTopics(stm_covariate_1, c(1:9))
+labelTopics(stm_covariate_2, c(1:8))
+
+pdf("plots/ndc_lts_top_topics_8_topic_041522.pdf", width=8.5)
 par(mfrow=c(1,1))
-plot(stm_covariate_1, type = "summary")
+plot(stm_covariate_2, type = "summary")
 dev.off()
 
 # ap_documents <- tidy(stm_covariate_1, matrix = "gamma") %>%
@@ -272,7 +243,7 @@ for(i in 1:nrow(actor_stm)){
 }
 
 #write out file
-write_csv(actor_stm, "Merged Texts NDC and LTS/actor_stm.csv")
+write_csv(actor_stm, "Merged Texts NDC and LTS/actor_stm_041522.csv")
 
 corrs <- topicCorr(stm_covariate_1, 
           method = c("simple", "huge"), 
@@ -432,13 +403,23 @@ top_terms <- topics %>%
 
 pal <- wes_palette("Darjeeling1", 9, type = "continuous")
 
-cairo_pdf("plots/top_terms_per_topic_ndc_lts.pdf", width=9, height=9)
+labels <- c("1"="1. Monitoring and Planning",
+            "2"= "2. International Organizations",
+            "3"="3. Public Institutions",
+            "4"="4. Adaptation",
+            "5"="5. NSA Institutions",
+            "6"="6. Public and Citizen Measures",
+            "7"="7. Adaptation and Development",
+            "8"="8. Government and Business",
+            "9"="9. Women and Gender")
+
+cairo_pdf("plots/top_terms_per_topic_ndc_lts_041522.pdf", width=10, height=9)
 top_terms %>%
   mutate(term = reorder_within(term, beta, topic)) %>%
   ggplot(aes(beta, term, fill = factor(topic))) +
   geom_col(show.legend = FALSE) +
   scale_fill_manual(values=pal)+
-  facet_wrap(~ topic, scales = "free") +
+  facet_wrap(~ topic, scales = "free", labeller=as_labeller(labels)) +
   scale_y_reordered() +
   theme_ipsum()
 dev.off()
@@ -465,7 +446,7 @@ table(actor_stm_new$region)
 # plot 
 # pal <- wes_palette("Darjeeling1", 9, type = "continuous")
 
-cairo_pdf("plots/actor_region_distribution.pdf", width=4.5, height=6)
+cairo_pdf("plots/actor_region_distribution_041522.pdf", width=4.5, height=6)
 actor_stm_new %>% group_by(region) %>%  mutate(count = n(), region=str_replace_all(region, "Latin America and Caribbean", "Latin America\nand Caribbean"),
                                                region=str_replace_all(region, "East Asia and the Pacific", "East Asia\nand the Pacific"), region=str_replace_all(region, "Middle East and North Africa", 
                                                                                                                                                                  "Middle East\nand North Africa"), region=str_replace_all(region, "Europe and Central Asia", "Europe\nand Central Asia"),) %>%
@@ -479,20 +460,7 @@ actor_stm_new %>% group_by(region) %>%  mutate(count = n(), region=str_replace_a
 dev.off()
 
 ## Mean probability of topics plot
-labels <- c("Institutions",
-            "Public Institutions",
-            "Monitoring",
-            "Adaptation Planning",
-            "Women and Gender",
-            "Local Adaptation",
-            "Community adaptation",
-            "Public and Citizen Measures",
-            "Government and Business")
-
-df_labels <- data.frame(topic=seq(1,9,1), labels=labels)
-
 docs_gamma_stm <- tidy(stm_covariate_1, matrix = "gamma") # doesn't have the actors associated
-
 
 # filter the actor_stm for relevant columns
 actor_stm_new$document <- seq(1:nrow(actor_stm_new))
@@ -507,25 +475,26 @@ gamma_stats <- docs_gamma_stm %>%
   summarise(mean = mean(gamma), sd=sd(gamma))
 
 # stacked bar chart of topic prevalence
-
+df_labels <- data.frame(topic=seq(1,9,1), labels=labels)
 gamma_stats$topic_label <- df_labels$labels[match(gamma_stats$topic, df_labels$topic)]
 
 # count of distinct developed/developing
 actor_stm_new %>% distinct(iso, dev_develping) %>% group_by(dev_develping) %>% summarise(count=n())
 
-cairo_pdf("plots/topic_gamma_by_actor.pdf", width=8.5, height=6)
-gamma_stats %>% mutate(dev_develping=str_replace_all(dev_develping, "developing", "developing (n=84)"),
+cairo_pdf("plots/topic_gamma_by_actor_041522.pdf", width=8.5, height=6)
+gamma_actor <- gamma_stats %>% mutate(dev_develping=str_replace_all(dev_develping, "developing", "developing (n=84)"),
                        dev_develping=str_replace_all(dev_develping, "developed", "developed (n=41)")) %>%
   ggplot(aes(x=topic, y=mean, fill=dev_develping))+
-  geom_bar(stat="identity")+
+  geom_bar(stat="identity") +
   geom_text(aes(label=ifelse(dev_develping=="developed (n=41)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
   scale_fill_manual(name="", values=c("#E63946","#6BB3DD"))+
-  scale_x_continuous(breaks=c(seq(1,30,1)))+
-  xlab("Topic Number")+
+  #scale_x_continuous(breaks=c(seq(1,9,1)))+
+  xlab("")+
   ylab("Mean Probability")+
   theme_ipsum() +
-  theme(legend.position = c(0.15, 0.85), 
+  theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), legend.position = c(0.15, 0.85), 
         legend.title=element_blank(), legend.text=element_text(size=12),  legend.background = element_rect(linetype = 1, size = 0.25, colour = 1))
+gamma_actor
 dev.off()
 
 # by document type
@@ -537,19 +506,25 @@ gamma_stats <- docs_gamma_stm %>%
 
 gamma_stats$topic_label <- df_labels$labels[match(gamma_stats$topic, df_labels$topic)]
 
-cairo_pdf("plots/topic_gamma_by_doc_type.pdf", width=8.5, height=6)
-gamma_stats %>% mutate(doc_type=str_replace_all(doc_type, "NDC", "NDC (n=118)"),
+cairo_pdf("plots/topic_gamma_by_doc_type_041522.pdf", width=8.5, height=6)
+gamma_doc <- gamma_stats %>% mutate(doc_type=str_replace_all(doc_type, "NDC", "NDC (n=118)"),
                        doc_type=str_replace_all(doc_type, "LTS", "LTS (n=49)")) %>%
   ggplot(aes(x=topic, y=mean, fill=doc_type))+
   geom_bar(stat="identity")+
   geom_text(aes(label=ifelse(doc_type=="LTS (n=49)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
   scale_fill_manual(name="", values=c("#00A08A", "#F2AD00"))+
-  scale_x_continuous(breaks=c(seq(1,30,1)))+
-  xlab("Topic Number")+
+  #scale_x_continuous(breaks=c(seq(1,9,1)))+
+  xlab("")+
   ylab("Mean Probability")+
   theme_ipsum() +
-  theme(legend.position = c(0.15, 0.85), 
+  theme(axis.text.x=element_blank(), axis.ticks.x=element_blank(), legend.position = c(0.15, 0.85), 
         legend.title=element_blank(), legend.text=element_text(size=12),  legend.background = element_rect(linetype = 1, size = 0.25, colour = 1))
+gamma_doc
+dev.off()
+
+# together side by side
+cairo_pdf("plots/topic_gamma_side_by_side_041522.pdf", width=12.75, height=6)
+gamma_actor + gamma_doc
 dev.off()
 
 ### map plot
@@ -570,11 +545,8 @@ map.df$id[map.df$id == "Democratic Republic of the Congo"] <- "Dem. Rep. Congo"
 map.df$id[map.df$id == "Republic of Serbia"] <- "Serbia"
 
 # nsa references
-tmdf<-read.csv("NDCs/IAD_paper2022/toMatch_NSA_words_updated.csv", stringsAsFactors = FALSE) %>%
-      filter(!NSA_word %in% c("institution", "science", "tourist", "organization", "territory", "district","gender","citizen","youth", "districts"))
-
-nsa_reference <- results %>% mutate(NSA_general=case_when(str_detect(text, paste(tmdf$NSA_word, collapse="|")) ~ "Yes", TRUE ~ "No"),
-  Company=case_when(str_detect(text, "company|privatesect|corporation")~"Yes", TRUE ~ "No"),
+nsa_reference <- results2 %>% mutate(NSA_general=case_when(str_detect(text, paste(tmdf, collapse="|")) ~ "Yes", TRUE ~ "No"),
+  Company=case_when(str_detect(text, "company|privatesect|corporation|business")~"Yes", TRUE ~ "No"),
                                     Local_govt=case_when(str_detect(text, "city|cities|local government|town|municipality|county|province") ~ "Yes", TRUE ~ "No"),
                                     NGOs=case_when(str_detect(text, "NGO|ngo|civil society|non-profit|non profit") ~ "Yes", TRUE ~ "No")) %>%
   left_join(metadata_all %>% dplyr::select(iso, doc_name))
@@ -584,7 +556,7 @@ facet_labels <-  c(
   'LTS'="Long-term Strategy (n=59)")
 
 # bar chart showing mentions 
-cairo_pdf("plots/nsa_mentions_by_type.pdf", width=8.5, height=6)
+cairo_pdf("plots/nsa_mentions_by_type_noNSAgeneral_041522.pdf", width=8.5, height=6)
 nsa_reference %>% pivot_longer(NSA_general:NGOs, names_to="NSA_type", values_to="Mention") %>%
   filter(doc_type=="Revised NDC") %>%
   count(NSA_type, doc_type, Mention) %>%    # Group by region and species, then count number in each group
@@ -599,6 +571,7 @@ nsa_reference %>% pivot_longer(NSA_general:NGOs, names_to="NSA_type", values_to=
               ungroup() %>%
               group_by(NSA_type, doc_type) %>%
               mutate(n_group=n, pct=n/sum(n_group)*100)) %>%
+  filter(NSA_type != "NSA_general") %>%
   ggplot(aes(x=NSA_type, y=pct, fill=Mention))+
   geom_col(stat="count") +
    geom_text(aes(label=ifelse(doc_type=="LTS (n=49)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
@@ -635,7 +608,7 @@ map.df$ref[map.df$id == "Antarctica"] <- NA
 map.df$ref[map.df$id == "Western Sahara"] <- NA
 
 
-cairo_pdf("plots/map_nsa_references.pdf", width=11)
+cairo_pdf("plots/map_nsa_references_041522.pdf", width=11)
 map.df %>% mutate(ref = as.character(ref), ref = str_replace_all(ref, "1", "1xCompany/Local_govt/NGO"), ref=str_replace_all(ref, "2", "2xCompany/Local/govt/NGO"),
                   ref = str_replace_all(ref, "3", "All: Company/Local_govt/NGO"),
                   ref = str_replace_all(ref, "4", "Any NSA mention")) %>%
@@ -664,16 +637,17 @@ centroids <- fuzzify_country(centroids, country_dict)
 centroids <- clean_country_iso(centroids, country_dict, iso = 3, clean_enc = F)
 
 # convert to robinson projection
+library(sf)
 centroids <- st_as_sf(centroids, coords = c("longitude", "latitude"), crs=4326)
 centroids <- st_transform(centroids, crs = 54030) 
 
-centroids <- centroids %>% mutate(cent_lon = sf::st_coordinates(.)[,1],
+centroids <- centroids %>% dplyr::mutate(cent_lon = sf::st_coordinates(.)[,1],
                                          cent_lat = sf::st_coordinates(.)[,2])
 
 # join 
 map.df <- map.df %>% left_join(centroids %>% dplyr::select(cent_lon, cent_lat, iso), by=c("iso")) 
 
-cairo_pdf("plots/map_nsa_references_ngos.pdf", width=11)
+cairo_pdf("plots/map_nsa_references_ngos_041522.pdf", width=11)
 map.df %>% mutate(ref = as.character(ref), ref = str_replace_all(ref, "1", "1xCompany/Local_govt/NGO"), ref=str_replace_all(ref, "2", "2xCompany/Local/govt/NGO"),
                   ref = str_replace_all(ref, "3", "All: Company/Local_govt/NGO"),
                   ref = str_replace_all(ref, "4", "Any NSA mention")) %>%
@@ -721,7 +695,7 @@ corpus %>%
             out = "output/ds_dev_devlping.txt")
 
 # word collocation
-ndc_trigrams <- results %>%
+ndc_trigrams <- results2 %>%
   filter(doc_type == "Revised NDC") %>%
   unnest_tokens(trigram, text, token = "ngrams", n = 3) %>%
   mutate(trigram = str_replace_all(trigram, "[:digit:]", "")) %>%
@@ -735,7 +709,7 @@ ndc_trigrams <- results %>%
   filter(word1 != "", word2 !="", word3 !="") %>%
   arrange(desc(n))
 
-lts_trigrams <- results %>%
+lts_trigrams <- results2 %>%
   filter(doc_type == "LTS") %>%
   unnest_tokens(trigram, text, token = "ngrams", n = 3) %>%
   mutate(trigram = str_replace_all(trigram, "[:digit:]", "")) %>%
@@ -750,7 +724,7 @@ lts_trigrams <- results %>%
   arrange(desc(n))
 
 # plots
-cairo_pdf("plots/word_collocations_ndc.pdf")
+cairo_pdf("plots/word_collocations_ndc_041522.pdf")
 ndc_trigrams_plot <- ndc_trigrams %>% mutate(trigrams = paste(word1, word2, word3, sep="-")) %>%
   slice_max(order_by = n, n=25) %>%
 ggplot(aes(x=reorder(trigrams, n), y=n, fill="#E63946")) +
@@ -763,7 +737,7 @@ ggplot(aes(x=reorder(trigrams, n), y=n, fill="#E63946")) +
 ndc_trigrams_plot
 dev.off()
 
-cairo_pdf("plots/word_collocations_lts.pdf")
+cairo_pdf("plots/word_collocations_lts_041522.pdf")
 lts_trigrams_plot <- lts_trigrams %>% mutate(trigrams = paste(word1, word2, word3, sep="-")) %>%
   filter(!str_detect(trigrams, "cidcidcid")) %>%
   slice_max(order_by = n, n=25) %>%
@@ -777,6 +751,6 @@ lts_trigrams_plot <- lts_trigrams %>% mutate(trigrams = paste(word1, word2, word
 lts_trigrams_plot
 dev.off()
 
-cairo_pdf("plots/word_collocations_both.pdf", width=11)
+cairo_pdf("plots/word_collocations_both_041522.pdf", width=11)
 ndc_trigrams_plot + lts_trigrams_plot
 dev.off()
