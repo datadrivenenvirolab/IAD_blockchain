@@ -202,7 +202,7 @@ topic_search <- stm::searchK(prepped$documents,
                              cores=4, seed=1234)
 
 
-plot(topic_search) # 041522 - looks like 8 topics for semantic coherence
+plot(topic_search) 
 
 
 stm_covariate_1 <- stm(documents=prepped$documents, 
@@ -213,16 +213,7 @@ stm_covariate_1 <- stm(documents=prepped$documents,
                      verbose=FALSE, 
                      seed=1234)
 
-stm_covariate_2 <- stm(documents=prepped$documents, 
-                       vocab=prepped$vocab,
-                       K = 8, 
-                       data=prepped$meta, 
-                       init.type="Spectral", 
-                       verbose=FALSE, 
-                       seed=1234)
-
 labelTopics(stm_covariate_1, c(1:9))
-labelTopics(stm_covariate_2, c(1:8))
 
 pdf("plots/ndc_lts_top_topics_8_topic_041522.pdf", width=8.5)
 par(mfrow=c(1,1))
