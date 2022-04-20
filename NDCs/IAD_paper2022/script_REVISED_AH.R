@@ -219,9 +219,6 @@ pdf("plots/ndc_lts_top_topics_8_topic_041522.pdf", width=8.5)
 par(mfrow=c(1,1))
 plot(stm_covariate_2, type = "summary")
 dev.off()
-
-# ap_documents <- tidy(stm_covariate_1, matrix = "gamma") %>%
-#   as.data.frame()
   
 # write.csv(ap_documents,"document_topic_prob_k=8.csv")
 
@@ -518,6 +515,14 @@ cairo_pdf("plots/topic_gamma_side_by_side_041522.pdf", width=12.75, height=6)
 gamma_actor + gamma_doc
 dev.off()
 
+## mean expected topic probabilities
+gamma_terms <- docs_gamma_stm %>%
+  group_by(topic) %>%
+  summarise(gamma = round(mean(gamma),2)) %>%
+  arrange(topic) %>%
+  write_csv("output/topic_probabilities.csv")
+
+
 ### map plot
 require(rgeos)
 require(rgdal)
@@ -586,6 +591,9 @@ nsa_reference_count <- nsa_reference %>% left_join(metadata_all %>% dplyr::selec
                  mutate(total=sum(n), total=case_when(total > 3 ~ 3, TRUE ~ as.numeric(total)))
 
 nsa_reference_count$id <- country_dict$right[match(nsa_reference_count$iso, country_dict$iso)]
+nsa_reference_count$dev_develping <- actor_stm_new$dev_develping[match(nsa_reference_count$iso, actor_stm_new$iso)]
+
+## distribution of nsa counts by dev_devlping
 
 nsa_reference_count <- nsa_reference_count %>% dplyr::rename("ref"="total")
 map.df <- map.df %>% left_join(nsa_reference_count) %>%
