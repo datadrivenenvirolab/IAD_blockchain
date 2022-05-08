@@ -167,7 +167,7 @@ results2 <- read_csv("Merged Texts NDC and LTS/merged_NDC_LTS_texts.csv")
 # mutate text column in metadata_all
 metadata_all <- read_csv("Merged Texts NDC and LTS/metadata_all.csv")
 
-metadata_all <- metadata_all %>% left_join(results2 %>% dplyr::select(result, doc_name))
+metadata_all <- metadata_all %>% left_join(results2 %>% dplyr::select(text, doc_name))
 
 ### additional cleaning - BoW replacements
 results2 <- results2 %>% mutate(text = str_replace_all(text, "public participation", "publicparticipation"),
@@ -396,12 +396,12 @@ labels <- c("1"="1. Monitoring and Planning",
             "3"="3. Public Institutions",
             "4"="4. Adaptation",
             "5"="5. NSA Institutions",
-            "6"="6. Public and Citizen Measures",
+            "6"="6. Low-carbon Transition",
             "7"="7. Adaptation and Development",
             "8"="8. Government and Business",
             "9"="9. Women and Gender")
 
-cairo_pdf("plots/top_terms_per_topic_ndc_lts_041522.pdf", width=10, height=9)
+cairo_pdf("plots/top_terms_per_topic_ndc_lts_050822.pdf", width=10, height=9)
 top_terms %>%
   mutate(term = reorder_within(term, beta, topic)) %>%
   ggplot(aes(beta, term, fill = factor(topic))) +
@@ -409,8 +409,11 @@ top_terms %>%
   scale_fill_manual(values=pal)+
   facet_wrap(~ topic, scales = "free", labeller=as_labeller(labels)) +
   scale_y_reordered() +
-  theme_ipsum()
+  labs(x="")+
+  theme_ipsum() +
+  theme(strip.text.x = element_text(size = 10))
 dev.off()
+
 
 # add topic prevalences to actor stm
 actor_stm_new <- data.frame(prepped$meta, stm_covariate_1$theta)
@@ -476,7 +479,7 @@ gamma_actor <- gamma_stats %>% mutate(dev_develping=str_replace_all(dev_develpin
   geom_bar(stat="identity") +
   geom_text(aes(label=ifelse(dev_develping=="developed (n=41)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
   scale_fill_manual(name="", values=c("#E63946","#6BB3DD"))+
-  #scale_x_continuous(breaks=c(seq(1,9,1)))+
+  scale_y_continuous(limits=c(0,0.65))+
   xlab("")+
   ylab("Mean Probability")+
   theme_ipsum() +
@@ -501,7 +504,7 @@ gamma_doc <- gamma_stats %>% mutate(doc_type=str_replace_all(doc_type, "NDC", "N
   geom_bar(stat="identity")+
   geom_text(aes(label=ifelse(doc_type=="LTS (n=49)", as.character(topic_label), "")),stat="identity", position = "identity", angle=90, vjust=0.5, hjust=-.05, check_overlap=TRUE, family = "Myriad Pro Light", size=3)+
   scale_fill_manual(name="", values=c("#00A08A", "#F2AD00"))+
-  #scale_x_continuous(breaks=c(seq(1,9,1)))+
+  scale_y_continuous(limits=c(0,0.65))+
   xlab("")+
   ylab("Mean Probability")+
   theme_ipsum() +
@@ -512,7 +515,8 @@ dev.off()
 
 # together side by side
 cairo_pdf("plots/topic_gamma_side_by_side_041522.pdf", width=12.75, height=6)
-gamma_actor + gamma_doc
+gamma_actor + gamma_doc + plot_annotation(tag_levels = list('a', 'b'),
+                                          tag_suffix = ')')
 dev.off()
 
 ## mean expected topic probabilities
@@ -593,9 +597,25 @@ nsa_reference_count <- nsa_reference %>% left_join(metadata_all %>% dplyr::selec
 nsa_reference_count$id <- country_dict$right[match(nsa_reference_count$iso, country_dict$iso)]
 nsa_reference_count$dev_develping <- actor_stm_new$dev_develping[match(nsa_reference_count$iso, actor_stm_new$iso)]
 
-## distribution of nsa counts by dev_devlping
-
 nsa_reference_count <- nsa_reference_count %>% dplyr::rename("ref"="total")
+
+## distribution of nsa counts by dev_devlping
+cairo_pdf("plots/nsa_references_dev_devlping.pdf")
+nsa_reference_count %>%
+  group_by(dev_develping, key) %>%
+  summarise(n()) %>%
+  mutate(`n()` = case_when(dev_develping == "developed" ~ (`n()`/41)*100,
+                       dev_develping == "developing" ~ (`n()`/84)*100)) %>%
+  ggplot(aes(x=key, y=`n()`, group=dev_develping, fill=dev_develping)) +
+    geom_bar(stat="identity", position=position_dodge()) +
+    scale_fill_manual(name="", values=c("#E63946","#6BB3DD"))+
+    labs(x="", y="percentage of countries") +
+    theme_ipsum()
+dev.off()
+
+## overall nsa counts
+nsa_reference_count %>% distinct(iso, id, ref) %>% group_by(ref) %>% summarise(n())
+
 map.df <- map.df %>% left_join(nsa_reference_count) %>%
           left_join(nsa_reference %>% dplyr::select(NSA_general, iso)) 
 
@@ -692,6 +712,11 @@ corpus %>%
             summary = FALSE,
             type = "text",
             out = "output/ds_dev_devlping.txt")
+
+# general count of texts by country status type
+actor_stm %>% left_join(dict %>% distinct(iso, dev_develping)) %>%
+  group_by(doc_type, dev_develping) %>%
+  dplyr::summarise(n())
 
 # word collocation
 ndc_trigrams <- results2 %>%
